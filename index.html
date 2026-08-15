@@ -1,291 +1,45 @@
 <!doctype html>
-<html lang="en" data-theme="auto">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<!-- ============================================================
-     EDIT ME: site metadata
-     ============================================================ -->
-<title>Kiran Prasad — Building things on the web</title>
-<meta name="description" content="Personal site of Kiran Prasad — writing, projects, and ways to get in touch.">
-<meta name="author" content="Kiran Prasad">
+    <title>CA Kiran Prasad — Global Finance Careers, in Malayalam</title>
+    <meta
+      name="description"
+      content="CA Kiran Prasad guides Malayali students through EA, US CPA, US CMA, ACCA and DipIFR — international finance qualifications explained in Malayalam, with honest guidance on cost, effort and timelines."
+    />
+    <meta name="author" content="CA Kiran Prasad" />
+    <meta name="theme-color" content="#0f5c4a" />
 
-<!-- Social preview. Replace the URL with your live domain once deployed. -->
-<meta property="og:type" content="website">
-<meta property="og:title" content="Kiran Prasad">
-<meta property="og:description" content="Writing, projects, and ways to get in touch.">
-<meta property="og:image" content="assets/og-image.png">
-<meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href="https://cakiranprasad.com/" />
 
-<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="styles.css">
+    <!-- Open Graph (Facebook, LinkedIn, WhatsApp) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="CA Kiran Prasad" />
+    <meta property="og:title" content="CA Kiran Prasad — Global Finance Careers, in Malayalam" />
+    <meta
+      property="og:description"
+      content="A Chartered Accountant guiding students through EA, US CPA, US CMA, ACCA and DipIFR — taught in Malayalam."
+    />
+    <meta property="og:url" content="https://cakiranprasad.com/" />
+    <meta property="og:image" content="https://cakiranprasad.com/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="en_IN" />
 
-<!-- Set the theme before first paint so there is no light/dark flash. -->
-<script>
-  (function () {
-    var saved = localStorage.getItem('theme');
-    if (saved === 'light' || saved === 'dark') {
-      document.documentElement.setAttribute('data-theme', saved);
-    }
-  })();
-</script>
-</head>
-
-<body>
-<a class="skip-link" href="#main">Skip to content</a>
-
-<header class="site-header">
-  <nav class="nav" aria-label="Primary">
-    <a class="nav__brand" href="#top">Kiran&nbsp;Prasad</a>
-
-    <ul class="nav__links">
-      <li><a href="#about">About</a></li>
-      <li><a href="#work">Work</a></li>
-      <li><a href="#writing">Writing</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-
-    <button class="theme-toggle" type="button" aria-label="Switch color theme" title="Switch color theme">
-      <svg class="icon icon--sun" viewBox="0 0 24 24" aria-hidden="true">
-        <circle cx="12" cy="12" r="4.2"/>
-        <g class="rays"><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9L17 7M7 17l-2.1 2.1"/></g>
-      </svg>
-      <svg class="icon icon--moon" viewBox="0 0 24 24" aria-hidden="true">
-        <path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/>
-      </svg>
-    </button>
-  </nav>
-</header>
-
-<main id="main">
-
-  <!-- ============================================================
-       HERO
-       ============================================================ -->
-  <section class="hero" id="top">
-    <div class="wrap">
-      <p class="hero__eyebrow reveal">Hello — I'm</p>
-      <h1 class="hero__title reveal">Kiran Prasad</h1>
-      <p class="hero__lede reveal">
-        I build <em>software that people actually use</em> — thoughtful interfaces,
-        systems that hold up under load, and products that earn their keep.
-        Currently focused on <span class="hl">web engineering and design</span>.
-      </p>
-      <div class="hero__actions reveal">
-        <a class="btn btn--primary" href="#work">See my work</a>
-        <a class="btn" href="#contact">Get in touch</a>
-      </div>
-
-      <ul class="hero__meta reveal">
-        <li><span>Based in</span> Bengaluru, India</li>
-        <li><span>Open to</span> freelance &amp; full-time</li>
-      </ul>
-    </div>
-  </section>
-
-  <!-- ============================================================
-       ABOUT
-       ============================================================ -->
-  <section class="section" id="about">
-    <div class="wrap">
-      <h2 class="section__title reveal"><span class="section__num">01</span> About</h2>
-
-      <div class="about">
-        <div class="about__body reveal">
-          <p class="lead">
-            I'm a developer and designer who likes the unglamorous middle of the
-            problem — the part where an idea has to survive contact with real users,
-            real data, and real deadlines.
-          </p>
-          <p>
-            Over the last few years I've worked across the stack: shipping front-ends
-            that feel fast, designing APIs that are pleasant to consume, and
-            untangling the kind of legacy code that everyone else steps around.
-            I care about clarity over cleverness, and about writing things down so
-            the next person doesn't have to reverse-engineer my reasoning.
-          </p>
-          <p>
-            Outside of work you'll find me reading long-form non-fiction, taking
-            photographs I never get around to editing, and slowly learning to cook
-            something other than pasta.
-          </p>
-
-          <h3 class="about__subhead">What I work with</h3>
-          <ul class="tags">
-            <li>TypeScript</li>
-            <li>React</li>
-            <li>Node.js</li>
-            <li>Python</li>
-            <li>PostgreSQL</li>
-            <li>AWS</li>
-            <li>Figma</li>
-            <li>Docker</li>
-          </ul>
-        </div>
-
-        <aside class="about__side reveal">
-          <!-- EDIT ME: drop a square photo at assets/portrait.jpg -->
-          <div class="portrait">
-            <img src="assets/portrait.jpg" alt="Portrait of Kiran Prasad"
-                 width="480" height="480" loading="lazy"
-                 onerror="this.closest('.portrait').classList.add('portrait--empty'); this.remove();">
-            <span class="portrait__fallback" aria-hidden="true">KP</span>
-          </div>
-
-          <dl class="facts">
-            <div><dt>Now</dt><dd>Senior Engineer, Acme Co.</dd></div>
-            <div><dt>Before</dt><dd>Founding engineer at a seed-stage startup</dd></div>
-            <div><dt>Studied</dt><dd>B.E. Computer Science</dd></div>
-          </dl>
-
-          <a class="btn btn--small" href="assets/resume.pdf">Download résumé →</a>
-        </aside>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============================================================
-       WORK — duplicate an <article class="card"> to add a project
-       ============================================================ -->
-  <section class="section section--alt" id="work">
-    <div class="wrap">
-      <h2 class="section__title reveal"><span class="section__num">02</span> Selected work</h2>
-      <p class="section__intro reveal">
-        A few projects that show how I think. Each one started as a rough problem
-        and ended as something people use.
-      </p>
-
-      <div class="cards">
-
-        <article class="card reveal">
-          <p class="card__kicker">Product · 2025</p>
-          <h3 class="card__title"><a href="#">Ledgerly</a></h3>
-          <p class="card__desc">
-            A double-entry bookkeeping tool for freelancers. I designed the data model,
-            built the React front-end, and cut month-end close from hours to minutes.
-          </p>
-          <ul class="card__tags"><li>TypeScript</li><li>React</li><li>Postgres</li></ul>
-          <p class="card__links">
-            <a href="#">Live site ↗</a>
-            <a href="#">Source ↗</a>
-          </p>
-        </article>
-
-        <article class="card reveal">
-          <p class="card__kicker">Open source · 2024</p>
-          <h3 class="card__title"><a href="#">Driftwood</a></h3>
-          <p class="card__desc">
-            A tiny schema-migration runner with no dependencies and no magic.
-            Roughly 400 lines, used in production by a handful of teams.
-          </p>
-          <ul class="card__tags"><li>Node.js</li><li>CLI</li><li>SQL</li></ul>
-          <p class="card__links">
-            <a href="#">Source ↗</a>
-            <a href="#">Docs ↗</a>
-          </p>
-        </article>
-
-        <article class="card reveal">
-          <p class="card__kicker">Consulting · 2024</p>
-          <h3 class="card__title"><a href="#">Northwind Rebuild</a></h3>
-          <p class="card__desc">
-            Migrated a ten-year-old monolith to a modular service architecture
-            without a single day of downtime. Page loads dropped 62%.
-          </p>
-          <ul class="card__tags"><li>Python</li><li>AWS</li><li>Docker</li></ul>
-          <p class="card__links">
-            <a href="#">Case study ↗</a>
-          </p>
-        </article>
-
-        <article class="card reveal">
-          <p class="card__kicker">Side project · 2023</p>
-          <h3 class="card__title"><a href="#">Everyday Atlas</a></h3>
-          <p class="card__desc">
-            A map of every place I've walked, generated from a decade of GPS logs.
-            Mostly an excuse to learn vector tiles.
-          </p>
-          <ul class="card__tags"><li>MapLibre</li><li>Go</li></ul>
-          <p class="card__links">
-            <a href="#">Live site ↗</a>
-          </p>
-        </article>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ============================================================
-       WRITING
-       ============================================================ -->
-  <section class="section" id="writing">
-    <div class="wrap">
-      <h2 class="section__title reveal"><span class="section__num">03</span> Writing</h2>
-      <p class="section__intro reveal">
-        I write to figure out what I think. Mostly about engineering practice,
-        occasionally about everything else.
-      </p>
-
-      <ul class="posts">
-        <li class="post reveal">
-          <a class="post__link" href="#">
-            <time class="post__date" datetime="2026-05-12">May 2026</time>
-            <span class="post__title">The code review I wish someone had given me</span>
-            <span class="post__blurb">On separating taste from correctness, and why the distinction matters more than the comment.</span>
-          </a>
-        </li>
-        <li class="post reveal">
-          <a class="post__link" href="#">
-            <time class="post__date" datetime="2026-02-03">Feb 2026</time>
-            <span class="post__title">Small tools, sharp edges</span>
-            <span class="post__blurb">A case for writing the 400-line version before you reach for the framework.</span>
-          </a>
-        </li>
-        <li class="post reveal">
-          <a class="post__link" href="#">
-            <time class="post__date" datetime="2025-10-19">Oct 2025</time>
-            <span class="post__title">What I learned rewriting a system I didn't build</span>
-            <span class="post__blurb">Legacy code is a record of decisions. Read it before you delete it.</span>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </section>
-
-  <!-- ============================================================
-       CONTACT
-       ============================================================ -->
-  <section class="section section--alt" id="contact">
-    <div class="wrap wrap--narrow">
-      <h2 class="section__title reveal"><span class="section__num">04</span> Get in touch</h2>
-      <p class="contact__lede reveal">
-        Have a project, a role, or just a good question? I read everything and
-        reply to most of it.
-      </p>
-
-      <p class="contact__email reveal">
-        <a href="mailto:kiranprasad255@gmail.com">kiranprasad255@gmail.com</a>
-      </p>
-
-      <ul class="socials reveal">
-        <li><a href="https://github.com/cakiran369" rel="me noopener">GitHub</a></li>
-        <li><a href="#" rel="me noopener">LinkedIn</a></li>
-        <li><a href="#" rel="me noopener">X / Twitter</a></li>
-        <li><a href="#" rel="me noopener">Bluesky</a></li>
-      </ul>
-    </div>
-  </section>
-
-</main>
-
-<footer class="site-footer">
-  <div class="wrap">
-    <p>© <span id="year">2026</span> Kiran Prasad</p>
-    <p><a href="#top">Back to top ↑</a></p>
-  </div>
-</footer>
-
-<script src="main.js"></script>
-</body>
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="CA Kiran Prasad — Global Finance Careers, in Malayalam" />
+    <meta
+      name="twitter:description"
+      content="A Chartered Accountant guiding students through EA, US CPA, US CMA, ACCA and DipIFR — taught in Malayalam."
+    />
+    <meta name="twitter:image" content="https://cakiranprasad.com/og-image.png" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>

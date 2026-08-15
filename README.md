@@ -1,92 +1,108 @@
-# Personal site — Kiran Prasad
+# CA Kiran Prasad — personal brand website
 
-A single-page personal brand site. Plain HTML, CSS, and JavaScript — no build
-step, no dependencies, no framework to upgrade. Open `index.html` in a browser
-and it works.
+A single-page React site for **CA Kiran Prasad**, who guides Malayali students
+through the international finance qualifications: **EA, US CPA, US CMA, ACCA
+and DipIFR**.
 
-## Files
+Built with **Vite + React (JavaScript)**. The only external dependency is
+[`lucide-react`](https://lucide.dev) for icons. There is no CSS framework —
+all styling is plain CSS injected from a `<style>` tag inside
+`src/App.jsx`.
 
-```
-index.html    all the content — this is the file you'll edit most
-styles.css    all the styling; design tokens live at the top in :root
-main.js       theme toggle, scroll reveal, nav highlighting
-assets/       your photo, résumé, favicon, social preview image
-```
+## Requirements
 
-## Running it locally
+- Node.js 20 or newer
+- npm 10 or newer
 
-Just double-click `index.html`. Or, for a proper local server:
+## Local development
 
 ```bash
-python3 -m http.server 8000
-# then open http://localhost:8000
+npm install      # once, to install dependencies
+npm run dev      # http://localhost:5173
 ```
 
-## Making it yours
+Other scripts:
 
-Everything you need to change is in `index.html`, marked with `EDIT ME`
-comments. The important bits:
-
-1. **Name, title, and description** — the `<head>` block at the top.
-2. **Hero** — your name and the one-sentence version of what you do.
-3. **About** — your bio, your skills in the `.tags` list, the `.facts` list.
-4. **Work** — each project is one `<article class="card">`. Copy one to add a
-   project, delete one to remove it. The grid re-flows on its own.
-5. **Writing** — each post is one `<li class="post">`. Point the `href` at your
-   posts wherever they live, or delete the whole section if you don't write.
-6. **Contact** — your email and social links.
-
-Drop `portrait.jpg` and `resume.pdf` into `assets/` (see `assets/README.md`).
-If the photo isn't there yet the site shows your initials instead, so nothing
-looks broken while you're still setting up.
-
-### Changing the colors
-
-One line in `styles.css` drives the entire accent color:
-
-```css
---accent: #b4531f;
+```bash
+npm run build    # production build into dist/
+npm run preview  # serve the built dist/ locally, to check before deploying
+npm run lint     # oxlint
 ```
 
-Change it and the buttons, links, highlights, and section numbers all follow.
-The dark palette has its own `--accent` a bit further down — brighten it so it
-stays readable on a dark background.
+## Project layout
 
-Light and dark both work out of the box: the site follows the visitor's system
-setting, and the toggle in the header overrides it (remembered via
-`localStorage`).
+```
+index.html        page shell, title, favicon, Open Graph / Twitter meta
+src/main.jsx      React entry point — mounts <App /> into #root
+src/App.jsx       the entire site: content, components, and its own CSS
+public/favicon.svg  "CA" monogram
+netlify.toml      Netlify build + SPA fallback
+vercel.json       Vercel build + SPA fallback
+```
 
-## Publishing it with GitHub Pages
+## Before going live — edit these
 
-Free, and it serves straight from this repository.
+All outbound links live in one object at the top of `src/App.jsx`:
 
-1. Merge this branch into `main`.
-2. Go to **Settings → Pages** in the repo.
-3. Under **Source**, choose **Deploy from a branch**.
-4. Pick branch `main`, folder `/ (root)`, and press **Save**.
-5. Wait a minute or two — your site appears at
-   `https://cakiran369.github.io/Kiranwebsite/`.
+```js
+const LINKS = {
+  youtube:   "https://youtube.com/@cakiranprasad",
+  instagram: "https://instagram.com/cakiranprasad",
+  linkedin:  "https://linkedin.com/in/cakiranprasad",
+  whatsapp:  "https://wa.me/919000000000",   // ← your real number, digits only, with country code
+  email:     "kiranprasad255@gmail.com",
+  phone:     "+91 90000 00000",
+};
+```
 
-### Using your own domain
+Also update in `index.html`:
 
-Once you own a domain (Namecheap, Cloudflare, Porkbun — around $10/year):
+- `og:url` and `<link rel="canonical">` — currently `https://cakiranprasad.com/`
+- `og:image` / `twitter:image` — add a 1200×630 image at `public/og-image.png`
+  and point both tags at it, otherwise shared links show no preview image.
 
-1. Add a file named `CNAME` at the repo root containing just your domain,
-   e.g. `kiranprasad.com`.
-2. At your registrar, add a `CNAME` record pointing `www` to
-   `cakiran369.github.io`, and four `A` records for the bare domain pointing to
-   `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.
-3. Back in **Settings → Pages**, enter the domain and tick **Enforce HTTPS**.
+## Deploying
 
-DNS takes anywhere from a few minutes to a few hours to propagate.
+Both hosts are pre-configured for build command `npm run build`, output
+directory `dist`, and an SPA fallback so deep links never 404.
 
-## Notes on what's built in
+### Netlify — drag and drop
 
-- **Responsive** from ~320px up; the layout collapses to a single column on
-  phones and the nav links hide below 34rem.
-- **Accessible**: skip link, visible focus rings, semantic landmarks, real
-  headings, `prefers-reduced-motion` respected.
-- **Fast**: no external requests at all — no CDN fonts, no analytics, no
-  tracking. The whole page is a handful of KB.
-- **Degrades gracefully**: with JavaScript disabled, every section is still
-  visible and readable; only the animations and theme toggle go away.
+```bash
+npm run build
+```
+
+Then open <https://app.netlify.com/drop> and drag the **`dist` folder** onto
+the page. The site is live in seconds on a temporary URL; use **Site
+configuration → Change site name** or **Domain management** to set your own.
+
+### Netlify — CLI
+
+```bash
+npm install -g netlify-cli
+netlify login
+netlify init      # first time: link or create a site
+npm run build
+netlify deploy --prod --dir=dist
+```
+
+### Vercel — CLI
+
+```bash
+npm install -g vercel
+vercel login
+vercel            # preview deployment
+vercel --prod     # production
+```
+
+### Either host, from Git
+
+Push this repo to GitHub and import it. `netlify.toml` / `vercel.json` are
+detected automatically, so no manual build settings are needed. Every push to
+the default branch then redeploys.
+
+## Custom domain
+
+Buy the domain, add it under the host's domain settings, and point DNS as the
+host instructs (usually a `CNAME` for `www` plus an apex `A`/`ALIAS` record).
+Both Netlify and Vercel issue HTTPS certificates automatically.
