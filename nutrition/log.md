@@ -117,6 +117,14 @@ gap for half the calories.
 Liquid calories also don't register as food. Expect to be hungry later tonight,
 which is where a day like this usually gets undone.
 
+**Day 2 closed.** Hunger did arrive around midnight, as expected. Nothing was
+eaten — grilled chicken and a whey scoop were both considered and declined. No
+row added, per the rule. The pre-workout stays unconfirmed and rolls off as
+pending.
+
+Final: 2,177.5 kcal midpoint, **390 under maintenance** — a genuine deficit day.
+The cost was protein, which finished at 107.25 g against the 130 g floor.
+
 ---
 
 ## Trends
