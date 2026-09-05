@@ -39,10 +39,27 @@ BOX = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
 KCAL_FMT = "#,##0"
 GRAM_FMT = "0.0"
 DATE_FMT = "yyyy-mm-dd"
+SIGNED_FMT = "+#,##0;-#,##0;0"
 
-# Protein target band (g/day), from the user's stated goal.
-PROTEIN_TARGET_LOW = 90
-PROTEIN_TARGET_HIGH = 130
+# Personal inputs behind every target. These are written into cells on the
+# Targets sheet, and BMR / maintenance / calorie target are formulas over those
+# cells - so as the weight comes down, update the cell and the whole workbook
+# re-derives itself. Change it here only when regenerating from scratch.
+PROFILE = {
+    "weight_kg": 91.5,
+    "height_cm": 162.5,
+    "age_years": 33,
+    "sex_constant": 5,          # Mifflin-St Jeor: +5 male, -161 female
+    "activity_multiplier": 1.45,
+    "deficit_kcal": 550,
+    "kcal_per_kg_fat": 7700,
+    "protein_low_g": 130,
+    "protein_high_g": 145,
+    "fat_floor_g": 55,
+}
+
+CAL_TARGET = "Targets!$B$16"
+PROTEIN_LOW = "Targets!$B$20"
 
 
 def read_csv(name):
@@ -126,18 +143,18 @@ def build_daily(ws, dates, first, last):
                 "is the number to use for trends.")
     ws["A2"].font = NOTE
     ws["A2"].alignment = Alignment(wrap_text=True, vertical="top")
-    ws.merge_cells("A2:L2")
+    ws.merge_cells("A2:M2")
     ws.row_dimensions[2].height = 28
 
     headers = ["Date", "Cal low", "Cal high", "Cal mid",
                "Protein low (g)", "Protein high (g)", "Protein mid (g)",
                "Fat low (g)", "Fat high (g)", "Fat mid (g)",
-               "Meals logged", "Pending items"]
+               "Meals logged", "Pending items", "vs target (mid)"]
     hr = 4
     for c, h in enumerate(headers, start=1):
         ws.cell(row=hr, column=c, value=h)
     style_header(ws, hr, len(headers),
-                 widths=[12, 9, 9, 9, 11, 11, 11, 9, 9, 9, 12, 12])
+                 widths=[12, 9, 9, 9, 11, 11, 11, 9, 9, 9, 12, 12, 14])
 
     src = f"Meals!$A${first}:$A${last}"
     stat = f"Meals!$M${first}:$M${last}"
@@ -159,8 +176,9 @@ def build_daily(ws, dates, first, last):
         ws.cell(row=r, column=10, value=f"=AVERAGE(H{r}:I{r})")
         ws.cell(row=r, column=11, value=f'=COUNTIFS({src},$A{r},{stat},"logged")')
         ws.cell(row=r, column=12, value=f'=COUNTIFS({src},$A{r},{stat},"pending")')
+        ws.cell(row=r, column=13, value=f"=D{r}-{CAL_TARGET}")
 
-        for c in range(1, 13):
+        for c in range(1, 14):
             cell = ws.cell(row=r, column=c)
             cell.border = BOX
             cell.font = FORMULA_BLACK
@@ -168,6 +186,8 @@ def build_daily(ws, dates, first, last):
                 cell.number_format = KCAL_FMT
             elif c in (5, 6, 7, 8, 9, 10):
                 cell.number_format = GRAM_FMT
+            elif c == 13:
+                cell.number_format = SIGNED_FMT
             else:
                 cell.number_format = "0"
             if i % 2:
@@ -182,43 +202,34 @@ def build_trends(ws, dates, dfirst, dlast):
 
     ws["A1"] = "Trends - averages of the daily midpoints"
     ws["A1"].font = TITLE
+    ws["A2"] = ("Targets come from the Targets sheet - change them there, not here.")
+    ws["A2"].font = NOTE
 
-    ws["A3"] = "Assumptions"
-    ws["A3"].font = Font(name=FONT, size=10, bold=True)
-    ws["A4"] = "Protein target low (g/day)"
-    ws["B4"] = PROTEIN_TARGET_LOW
-    ws["A5"] = "Protein target high (g/day)"
-    ws["B5"] = PROTEIN_TARGET_HIGH
-    for r in (4, 5):
-        ws.cell(row=r, column=1).font = TEXT
-        b = ws.cell(row=r, column=2)
-        b.font = INPUT_BLUE
-        b.fill = PENDING_FILL
-        b.border = BOX
-        b.number_format = "0"
-    ws["C4"] = "Source: stated by user (adjust to bodyweight). Yellow = edit me."
-    ws["C4"].font = NOTE
-
-    # ---- Overall ----
-    ws["A7"] = "Overall"
-    ws["A7"].font = Font(name=FONT, size=10, bold=True)
+    ws["A4"] = "Overall"
+    ws["A4"].font = Font(name=FONT, size=10, bold=True)
     overall = [
         ("Days logged", f"=COUNT({dsrc})", "0"),
         ("Avg calories/day (mid)", f"=IFERROR(AVERAGE(Daily!$D${dfirst}:$D${dlast}),0)", KCAL_FMT),
         ("Avg protein/day (mid, g)", f"=IFERROR(AVERAGE(Daily!$G${dfirst}:$G${dlast}),0)", GRAM_FMT),
         ("Avg fat/day (mid, g)", f"=IFERROR(AVERAGE(Daily!$J${dfirst}:$J${dlast}),0)", GRAM_FMT),
+        ("Avg vs calorie target", f"=IFERROR(B6-{CAL_TARGET},0)", SIGNED_FMT),
+        ("Avg deficit vs maintenance", f"=IFERROR(Targets!$B$15-B6,0)", SIGNED_FMT),
+        ("Implied loss (kg/week)",
+         f"=IFERROR((Targets!$B$15-B6)*7/Targets!$B$11,0)", "0.00"),
         ("Days hitting protein target",
-         f"=COUNTIFS(Daily!$G${dfirst}:$G${dlast},\">=\"&$B$4)", "0"),
+         f'=COUNTIFS(Daily!$G${dfirst}:$G${dlast},">="&{PROTEIN_LOW})', "0"),
         ("Total pending (unconfirmed) items",
          f"=SUM(Daily!$L${dfirst}:$L${dlast})", "0"),
     ]
     for i, (label, formula, fmt) in enumerate(overall):
-        r = 8 + i
+        r = 5 + i
         ws.cell(row=r, column=1, value=label).font = TEXT
         c = ws.cell(row=r, column=2, value=formula)
         c.font = FORMULA_BLACK
         c.number_format = fmt
         c.border = BOX
+    ws.column_dimensions["A"].width = 30
+    ws.column_dimensions["B"].width = 14
 
     # ---- Weekly ----
     weeks = sorted({d - dt.timedelta(days=d.weekday()) for d in dates})
@@ -281,6 +292,82 @@ def _range_block(ws, r, dsrc, dfirst, dlast):
         cell.border = BOX
 
 
+def build_targets(ws):
+    """Inputs and the derived calorie/macro targets. Everything downstream
+    references these cells, so updating the weight updates the whole workbook."""
+    ws["A1"] = "Targets"
+    ws["A1"].font = TITLE
+    ws["A2"] = ("Edit the yellow input cells only. BMR uses Mifflin-St Jeor, the equation "
+                "recommended for this purpose. Everything below the inputs is a formula, so "
+                "dropping the weight here re-derives maintenance, the calorie target and the "
+                "carb allowance automatically.")
+    ws["A2"].font = NOTE
+    ws["A2"].alignment = Alignment(wrap_text=True, vertical="top")
+    ws.merge_cells("A2:D2")
+    ws.row_dimensions[2].height = 42
+
+    ws.column_dimensions["A"].width = 34
+    ws.column_dimensions["B"].width = 12
+    ws.column_dimensions["C"].width = 66
+
+    def put(r, label, value, fmt, note="", is_input=False, formula=False):
+        ws.cell(row=r, column=1, value=label).font = TEXT
+        c = ws.cell(row=r, column=2, value=value)
+        c.number_format = fmt
+        c.border = BOX
+        if is_input:
+            c.font = INPUT_BLUE
+            c.fill = PENDING_FILL
+        else:
+            c.font = FORMULA_BLACK
+        if note:
+            n = ws.cell(row=r, column=3, value=note)
+            n.font = NOTE
+            n.alignment = Alignment(wrap_text=True, vertical="center")
+
+    ws["A4"] = "Inputs"
+    ws["A4"].font = Font(name=FONT, size=10, bold=True)
+    put(5, "Weight (kg)", PROFILE["weight_kg"], "0.0",
+        "Source: stated by user, 2026-09-05. Update as it changes.", is_input=True)
+    put(6, "Height (cm)", PROFILE["height_cm"], "0.0",
+        "Source: stated by user.", is_input=True)
+    put(7, "Age (years)", PROFILE["age_years"], "0",
+        "Source: stated by user (turns 33 on 2026-09-15).", is_input=True)
+    put(8, "Sex constant", PROFILE["sex_constant"], "0",
+        "Mifflin-St Jeor term: +5 male, -161 female.", is_input=True)
+    put(9, "Activity multiplier", PROFILE["activity_multiplier"], "0.00",
+        "1.45 = desk job plus 6 lifting sessions/week. Lifting burns less than "
+        "cardio-based charts assume; raise it only if the scale says so.", is_input=True)
+    put(10, "Daily deficit (kcal)", PROFILE["deficit_kcal"], "#,##0",
+        "550/day = 0.5 kg/week. Assumption, not a measurement.", is_input=True)
+    put(11, "kcal per kg of body fat", PROFILE["kcal_per_kg_fat"], "#,##0",
+        "Standard 7,700 kcal/kg conversion.", is_input=True)
+
+    ws["A13"] = "Derived"
+    ws["A13"].font = Font(name=FONT, size=10, bold=True)
+    put(14, "BMR (Mifflin-St Jeor)", "=10*B5+6.25*B6-5*B7+B8", "#,##0",
+        "Resting burn: what the body uses doing nothing.")
+    put(15, "Maintenance (TDEE)", "=B14*B9", "#,##0",
+        "Estimate. The scale over 2-3 weeks is the real measurement.")
+    put(16, "CALORIE TARGET", "=B15-B10", "#,##0", "The number to eat.")
+    ws["A16"].font = Font(name=FONT, size=10, bold=True)
+    ws["B16"].font = Font(name=FONT, size=10, bold=True)
+    put(17, "Projected loss (kg/week)", "=B10*7/B11", "0.00")
+    put(18, "BMI", "=B5/(B6/100)^2", "0.0",
+        "Worth a GP or dietitian check alongside this plan.")
+
+    ws["A20"] = "Macros at the calorie target"
+    ws["A20"].font = Font(name=FONT, size=10, bold=True)
+    put(21, "Protein target low (g)", PROFILE["protein_low_g"], "0",
+        "~2.1 g/kg of estimated lean mass - the level that protects muscle in a "
+        "deficit while training 6 days.", is_input=True)
+    put(22, "Protein target high (g)", PROFILE["protein_high_g"], "0", is_input=True)
+    put(23, "Fat floor (g)", PROFILE["fat_floor_g"], "0",
+        "~0.6 g/kg. A floor for hormone health, not a goal to hit.", is_input=True)
+    put(24, "Carb allowance (g)", "=(B16-B21*4-B23*9)/4", "0",
+        "Whatever is left once protein and the fat floor are paid for. Fuels the PPL work.")
+
+
 def build_reference(ws, rows):
     ws["A1"] = "Per-item working estimates"
     ws["A1"].font = TITLE
@@ -329,11 +416,13 @@ def main():
     ws_meals.title = "Meals"
     ws_daily = wb.create_sheet("Daily")
     ws_trends = wb.create_sheet("Trends")
+    ws_targets = wb.create_sheet("Targets")
     ws_ref = wb.create_sheet("Reference")
 
     mfirst, mlast = build_meals(ws_meals, meals)
     dfirst, dlast = build_daily(ws_daily, dates, mfirst, mlast)
     build_trends(ws_trends, dates, dfirst, dlast)
+    build_targets(ws_targets)
     build_reference(ws_ref, reference)
 
     for ws in wb.worksheets:

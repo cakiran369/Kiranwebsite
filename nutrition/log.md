@@ -18,9 +18,37 @@ sync by editing `meals.csv` and re-running `build_tracker.py`.
 
 - Calorie deficit before December.
 - 6-day Push/Pull/Legs split.
-- Protein target ~90–130 g/day (adjust to bodyweight).
 - Whey protein (black coffee or water) as the low-cal protein lever.
 - UAE-based; meals mostly South Indian / Kerala style.
+
+## Targets
+
+Set 2026-09-05 from 91.5 kg / 162.5 cm / 33 y / male. Live in the workbook's
+Targets sheet, which re-derives them from those inputs — update the weight there
+as it comes down rather than editing numbers by hand.
+
+| | Value |
+|---|---|
+| BMR (Mifflin-St Jeor) | 1,771 kcal |
+| Maintenance (TDEE), ×1.45 | ~2,567 kcal |
+| **Calorie target** | **~2,020 kcal/day** |
+| Protein | 130–145 g/day |
+| Fat floor | 55 g/day |
+| Carbs (remainder) | ~250 g/day |
+| Projected loss | 0.5 kg/week |
+
+The ×1.45 multiplier is deliberate. The usual "6–7 days/week = ×1.725" row
+assumes cardio-style work; an hour of PPL with rest periods is more like
+250–350 kcal, so ×1.725 would put maintenance at ~3,050 and invent ~500 kcal
+that doesn't exist. Everything above is an estimate — the scale over 2–3 weeks
+is the real measurement, and the multiplier is the cell to correct.
+
+Protein at 130–145 g is roughly 2.1 g/kg of estimated lean mass. It is
+deliberately higher than the earlier 90–130 g band: in a deficit, on six
+sessions a week, protein is what keeps the loss coming off fat rather than
+muscle.
+
+BMI is 34.7, which is worth raising with a GP or dietitian alongside this plan.
 
 ---
 
@@ -92,10 +120,20 @@ midpoints:
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 1,970 | 105.75 g | 78 g | unclear — see Day 2 |
 
-Protein is no longer the problem: Day 1 finished below the 90 g floor, but Day 2
-cleared it well (105.75 g) on two whey scoops plus the urad dal in the vada.
+**Calories are not the problem.** Against the ~2,020 target, Day 1 came in 209
+under and Day 2 just 47 under. Both days sit in a real deficit — average 1,889
+midpoint against ~2,567 maintenance, an implied ~0.62 kg/week. Eating less is
+not the fix.
 
-Fat is the emerging one. Both days landed in the 67–78 g range, and both times
-the same cause — a deep-fried or oil-layered evening item (porotta on Day 1,
-vada plus coconut chutney on Day 2). That is the lever for the December deficit,
-not protein.
+**Protein is short of the new band.** Day 1 at 78.5 g and Day 2 at 105.75 g are
+both under the 130 g floor. Two whey scoops and the urad dal in the vada were
+not enough; the gap is roughly one more scoop plus a protein-forward main.
+
+**Fat is the pressure point.** Both days landed at 67–78 g against a 55 g floor,
+and both times from the same cause — a deep-fried or oil-layered evening item
+(porotta on Day 1, vada plus coconut chutney on Day 2). Trading that slot for
+protein is the single change that fixes both rows at once.
+
+Caveat: photo-based estimates under-count restaurant oil and ghee, typically by
+10–20%. True intake is plausibly 2,100–2,350 on these days, which would put the
+deficit closer to 300/day than 650. The scale settles it.

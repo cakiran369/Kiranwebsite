@@ -9,7 +9,7 @@ Photo-based food logging with daily/weekly/monthly rollups.
 | `meals.csv` | **Source of truth.** One row per meal. |
 | `reference.csv` | Per-item calorie/protein estimates, so the same dish is costed the same way each time. |
 | `log.md` | Human-readable mirror of the log, with day-by-day notes. |
-| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Trends / Reference). |
+| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Trends / Targets / Reference). |
 | `build_tracker.py` | Regenerates the workbook from the two CSVs. |
 | `verify_tracker.py` | Checks `log.md`'s totals against `meals.csv`. |
 
@@ -35,6 +35,18 @@ python3 nutrition/verify_tracker.py  # confirm log.md still agrees with the CSV
 
 This encodes the one hard rule of the log: nothing counts until it's confirmed
 eaten. "Planning to" is not logged. Flip a row to `logged` only on confirmation.
+
+## Targets
+
+The Targets sheet holds the personal inputs — weight, height, age, activity
+multiplier, deficit — and derives BMR (Mifflin-St Jeor), maintenance, the
+calorie target and the carb allowance as formulas over them. The Daily sheet's
+"vs target" column and the Trends sheet's deficit rows all reference those
+cells, so **updating the weight there re-derives the whole workbook**. Edit the
+yellow cells; leave the rest alone.
+
+The activity multiplier is the cell most worth correcting: it is an estimate,
+and the scale over 2–3 weeks is the real measurement.
 
 ## How the numbers work
 
