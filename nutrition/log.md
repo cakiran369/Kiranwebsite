@@ -57,23 +57,25 @@ under the 90 g floor.
 
 | Item | Calories | Protein | Fat | Why it's pending |
 |---|---|---|---|---|
-| Chocolate bar, 70 g (2 × 35 g king-size) | ~335 | ~6 g | ~16 g | Asked about it, showed the label, then said whey with water instead. Never confirmed eaten. Also ~36 g sugar. |
-| Pre-workout scoop | 5–15 | 0 g | 0 g | Planned only; no label seen. Negligible either way. |
+| Pre-workout scoop | 5–15 | 0 g | 0 g | Planned but not taken as of last check. Negligible either way. |
+
+**Resolved 2026-09-05:** the 70 g chocolate bar was **not eaten** — confirmed by
+the user, who had whey with water instead. Row removed from the log entirely.
 
 **Dinner: not yet eaten** — no row exists for it.
 
-Where the day lands, depending on the pending items:
+Where the day lands once the pending item resolves:
 
 | Scenario | Calories | Protein | Fat |
 |---|---|---|---|
 | Logged only (current) | 1,200–1,610 (mid 1,405) | 79–104 g | 32–55 g |
 | + pre-workout | 1,205–1,625 (mid 1,415) | 79–104 g | 32–55 g |
-| + chocolate bar | 1,535–1,945 (mid 1,740) | 85–110 g | 48–71 g |
-| + both | 1,540–1,960 (mid 1,750) | 85–110 g | 48–71 g |
 
-Read: without the bar there is room for a real dinner inside a deficit. With the
-bar, dinner has to come in around 300–400 kcal to hold the day near Day 1's
-level, and the day's fat is already near Day 1's total before dinner.
+Read: with the bar off the table, there is real room for dinner inside a
+deficit. Matching Day 1's midpoint (1,808) leaves roughly **400 kcal** for
+dinner; coming in under Day 1 leaves 250–350. Fat is the loose macro at 43.5 g
+midpoint against Day 1's 67.5 g, so a porotta-style dinner would eat that
+headroom fast — rice or chapati with a curry costs less.
 
 ---
 
