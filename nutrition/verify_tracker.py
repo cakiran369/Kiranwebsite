@@ -47,6 +47,9 @@ def parse_log_totals():
         if m:
             date = m.group(1)
             continue
+        if line.startswith("#"):
+            date = None          # a non-Day heading ends the current day's tables
+            continue
         if date is None or not line.startswith("|"):
             continue
         cells = [c.strip() for c in line.strip("|").split("|")]
