@@ -127,6 +127,39 @@ The cost was protein, which finished at 107.25 g against the 130 g floor.
 
 ---
 
+## Day 3 — 2026-09-06 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 3 maida porotta + kadala curry | 680–1,050 | 20–28 g | 31–52 g |
+| **TOTAL (logged so far)** | | **680–1,050** | **20–28 g** | **31–52 g** |
+| **Midpoint** | | **865** | **24 g** | **41.5 g** |
+
+Heaviest single meal in the log. It is **43% of the day's calorie target** and
+**75% of a day's fat floor**, in one sitting, for 24 g of protein — 2.8 g of
+protein per 100 kcal, against 18.2 g for grilled chicken breast.
+
+Note the direction of travel: Day 1's dinner was 2 porotta, cut from 3
+deliberately. This is 3, at breakfast, the meal flagged as the one to
+protein-load.
+
+### Budget for the rest of Day 3
+
+**1,152 kcal left, and 106 g of protein to find in it.** That is doable but no
+longer casual — it needs the remaining meals to be deliberately protein-first:
+
+| | Calories | Protein |
+|---|---|---|
+| 2 whey scoops | 220 | 45 g |
+| 200 g grilled chicken breast | 340 | 62 g |
+| **Running total incl. breakfast** | **1,425** | **131 g** ✓ |
+| **Still free** | **~590** | for rice, vegetables, salad |
+
+That path clears the 130 g floor and stays ~590 kcal under target. What it does
+not leave room for is a second bread-and-curry meal.
+
+---
+
 ## Trends
 
 Two days is not yet a trend — this fills in as days accumulate. Current daily
@@ -136,6 +169,7 @@ midpoints:
 |---|---|---|---|---|
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
+| 2026-09-06 | 865 (so far) | 24 g | 41.5 g | no — breakfast only |
 
 **Calories are roughly on track.** Against the ~2,020 target, Day 1 came in 209
 under and Day 2 finished 158 over. The two-day average is 1,993 — within 25 kcal
