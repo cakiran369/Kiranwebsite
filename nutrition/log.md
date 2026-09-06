@@ -127,35 +127,25 @@ The cost was protein, which finished at 107.25 g against the 130 g floor.
 
 ---
 
-## Day 3 — 2026-09-06 (in progress)
+## Day 3 — 2026-09-06
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 maida porotta + kadala curry | 520–800 | 15–21 g | 23–38 g |
-| **TOTAL (logged so far)** | | **520–800** | **15–21 g** | **23–38 g** |
-| **Midpoint** | | **660** | **18 g** | **30.5 g** |
+| Lunch | Honest Bowl — Grilled Chicken and Rice Bowl | 550–710 | 42–48 g | 9–18 g |
+| Dinner | Honest Bowl — Tofu Delight Bowl | 420–560 | 18–22 g | 15–25 g |
+| Dinner | Chicken curry, 1 takeaway container | 280–420 | 20–28 g | 16–26 g |
+| **TOTAL** | | **1,770–2,490** | **95–119 g** | **63–107 g** |
+| **Midpoint** | | **2,130** | **107 g** | **85 g** |
 
-Three porotta were served; two were eaten, one deliberately left for calories.
-Costed identically to Day 1's dinner, which was the same dish at the same
-portion. Leaving it saved ~205 kcal and ~11 g of fat against the served plate.
+Three porotta were served at breakfast; two eaten, one left deliberately.
 
-Protein density is still the weak point — 2.7 g per 100 kcal, against 18.2 for
-grilled chicken breast — but the portion decision was the right one.
+Went with plan A of the four costed at dinner — the one that missed the protein
+floor. The chicken bowl at lunch did its job (42–48 g in one meal, the best
+single item in the log). The tofu bowl did not: 490 kcal at the midpoint for
+20 g, at the same price as the 42 g chicken bowl.
 
-### Budget for the rest of Day 3
-
-**1,357 kcal left, 112 g of protein to find.**
-
-| | Calories | Protein |
-|---|---|---|
-| 2 whey scoops | 220 | 45 g |
-| 200 g grilled chicken breast | 340 | 62 g |
-| **Running total incl. breakfast** | **1,220** | **125 g** |
-| **Still free** | **~800** | rice, vegetables, dal, curd |
-
-That leaves ~800 kcal of room and only 5 g of protein outstanding, which any
-normal dal, curd or egg in those 800 kcal covers. Comfortably the most workable
-position of any day in the log so far.
+Fat reached 85 g, the highest in the log and a third consecutive rise.
 
 ---
 
@@ -168,26 +158,30 @@ midpoints:
 |---|---|---|---|---|
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
-| 2026-09-06 | 660 (so far) | 18 g | 30.5 g | no — breakfast only |
+| 2026-09-06 | 2,130 | 107 g | 85 g | yes |
 
-**Calories are roughly on track.** Against the ~2,020 target, Day 1 came in 209
-under and Day 2 finished 158 over. The two-day average is 1,993 — within 25 kcal
-of target, an implied ~0.52 kg/week against maintenance. The target itself is
-not the problem.
+Three complete days. Averages of the midpoints: **2,038 kcal, 97.6 g protein,
+76.9 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
+floor.
 
-**Protein misses on both days.** Day 1 at 78.5 g and Day 2 at 107.25 g are both
-under the 130 g floor. The pattern is the same each time: breakfast and dinner
-contribute almost nothing, so two whey scoops and one meat/dal item have to
-carry the whole day, and they can't. Protein has to come from the meals, not
-only the shaker.
+**Calories are solved.** The three-day average is 21 kcal above target — closer
+than the estimate's own error bars. That is a 529 kcal/day deficit against
+maintenance, an implied **0.48 kg/week**, or ~6 kg by December 1. Nothing about
+the calorie target needs changing.
 
-**The evening slot is where both days are decided.** Day 1: porotta, 520–800
-kcal. Day 2: vada with coconut chutney then juice, 655–890 kcal combined. Both
-evenings were fat- or sugar-heavy and protein-light, and both are the reason
-fat landed at 67–78 g against a 55 g floor while protein fell short. One
-change — make the evening meal the protein-forward one — fixes the fat row and
-the protein row together.
+**Protein has a ceiling at ~107 g.** Days 2 and 3 landed at 107.25 and 107.00 —
+twice, from completely different food. Day 1 was 78.5. The floor has never been
+reached. Twice now the day has ended with the shaker doing work the meals
+should have done.
 
-Caveat: photo-based estimates under-count restaurant oil and ghee, typically by
-10–20%. True intake is plausibly 2,100–2,350 on these days, which would put the
-deficit closer to 300/day than 650. The scale settles it.
+**Fat rises every single day: 67.5 → 78.25 → 85 g.** It is now 34% of intake
+and 30 g above the floor. This is the one genuinely worsening line in the log.
+
+The two are the same problem. At 2,038 kcal there is plenty of room for 130 g of
+protein — the room is being spent on fat instead. **Cutting fat from 77 g to
+60 g frees 152 kcal, which buys 38 g of lean protein.** That single swap closes
+the entire gap without touching the calorie target, which is already right.
+
+Where the fat comes from is not mysterious: coconut chutney, deep-fried vada,
+layered porotta, oil-heavy curry, cajun-fried tofu. The fix is not eating less.
+It is choosing grilled over fried in the same meal slot, at the same calories.
