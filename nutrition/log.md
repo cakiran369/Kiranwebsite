@@ -135,8 +135,9 @@ The cost was protein, which finished at 107.25 g against the 130 g floor.
 | Lunch | Honest Bowl — Grilled Chicken and Rice Bowl | 550–710 | 42–48 g | 9–18 g |
 | Dinner | Honest Bowl — Tofu Delight Bowl | 420–560 | 18–22 g | 15–25 g |
 | Dinner | Chicken curry, 1 takeaway container | 280–420 | 20–28 g | 16–26 g |
-| **TOTAL** | | **1,770–2,490** | **95–119 g** | **63–107 g** |
-| **Midpoint** | | **2,130** | **107 g** | **85 g** |
+| Snack | Fresh orange juice, ~350–450 ml, no added sugar | 155–205 | 2–3 g | 0–0.5 g |
+| **TOTAL** | | **1,925–2,695** | **97–122 g** | **63–107.5 g** |
+| **Midpoint** | | **2,310** | **109.5 g** | **85.25 g** |
 
 Three porotta were served at breakfast; two eaten, one left deliberately.
 
@@ -145,7 +146,12 @@ floor. The chicken bowl at lunch did its job (42–48 g in one meal, the best
 single item in the log). The tofu bowl did not: 490 kcal at the midpoint for
 20 g, at the same price as the 42 g chicken bowl.
 
-Fat reached 85 g, the highest in the log and a third consecutive rise.
+Fat reached 85.25 g, the highest in the log and a third consecutive rise.
+
+Second juice in three days, both described as "without sugar". Combined the two
+drinks cost ~390 kcal and ~75 g of sugar for ~4 g of protein. Today's 180 kcal
+spent on grilled chicken breast instead would have been ~33 g of protein and a
+140 g day — the floor cleared for the first time.
 
 ---
 
@@ -158,23 +164,22 @@ midpoints:
 |---|---|---|---|---|
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
-| 2026-09-06 | 2,130 | 107 g | 85 g | yes |
+| 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 
-Three complete days. Averages of the midpoints: **2,038 kcal, 97.6 g protein,
-76.9 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
+Three complete days. Averages of the midpoints: **2,098 kcal, 98.4 g protein,
+77.0 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
 floor.
 
-**Calories are solved.** The three-day average is 21 kcal above target — closer
-than the estimate's own error bars. That is a 529 kcal/day deficit against
-maintenance, an implied **0.48 kg/week**, or ~6 kg by December 1. Nothing about
-the calorie target needs changing.
+**Calories are close.** The three-day average is 81 kcal above target — a
+469 kcal/day deficit against maintenance, an implied **0.43 kg/week**, or ~5.3 kg
+by December 1. The target itself needs no change; the drift is entirely juice.
 
-**Protein has a ceiling at ~107 g.** Days 2 and 3 landed at 107.25 and 107.00 —
-twice, from completely different food. Day 1 was 78.5. The floor has never been
+**Protein has a ceiling near 107–110 g.** Days 2 and 3 landed at 107.25 and
+109.5, from completely different food. Day 1 was 78.5. The floor has never been
 reached. Twice now the day has ended with the shaker doing work the meals
 should have done.
 
-**Fat rises every single day: 67.5 → 78.25 → 85 g.** It is now 34% of intake
+**Fat rises every single day: 67.5 → 78.25 → 85.25 g.** It is now 34% of intake
 and 30 g above the floor. This is the one genuinely worsening line in the log.
 
 The two are the same problem. At 2,038 kcal there is plenty of room for 130 g of
