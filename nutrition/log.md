@@ -131,32 +131,31 @@ The cost was protein, which finished at 107.25 g against the 130 g floor.
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
-| Breakfast | 3 maida porotta + kadala curry | 680–1,050 | 20–28 g | 31–52 g |
-| **TOTAL (logged so far)** | | **680–1,050** | **20–28 g** | **31–52 g** |
-| **Midpoint** | | **865** | **24 g** | **41.5 g** |
+| Breakfast | 2 maida porotta + kadala curry | 520–800 | 15–21 g | 23–38 g |
+| **TOTAL (logged so far)** | | **520–800** | **15–21 g** | **23–38 g** |
+| **Midpoint** | | **660** | **18 g** | **30.5 g** |
 
-Heaviest single meal in the log. It is **43% of the day's calorie target** and
-**75% of a day's fat floor**, in one sitting, for 24 g of protein — 2.8 g of
-protein per 100 kcal, against 18.2 g for grilled chicken breast.
+Three porotta were served; two were eaten, one deliberately left for calories.
+Costed identically to Day 1's dinner, which was the same dish at the same
+portion. Leaving it saved ~205 kcal and ~11 g of fat against the served plate.
 
-Note the direction of travel: Day 1's dinner was 2 porotta, cut from 3
-deliberately. This is 3, at breakfast, the meal flagged as the one to
-protein-load.
+Protein density is still the weak point — 2.7 g per 100 kcal, against 18.2 for
+grilled chicken breast — but the portion decision was the right one.
 
 ### Budget for the rest of Day 3
 
-**1,152 kcal left, and 106 g of protein to find in it.** That is doable but no
-longer casual — it needs the remaining meals to be deliberately protein-first:
+**1,357 kcal left, 112 g of protein to find.**
 
 | | Calories | Protein |
 |---|---|---|
 | 2 whey scoops | 220 | 45 g |
 | 200 g grilled chicken breast | 340 | 62 g |
-| **Running total incl. breakfast** | **1,425** | **131 g** ✓ |
-| **Still free** | **~590** | for rice, vegetables, salad |
+| **Running total incl. breakfast** | **1,220** | **125 g** |
+| **Still free** | **~800** | rice, vegetables, dal, curd |
 
-That path clears the 130 g floor and stays ~590 kcal under target. What it does
-not leave room for is a second bread-and-curry meal.
+That leaves ~800 kcal of room and only 5 g of protein outstanding, which any
+normal dal, curd or egg in those 800 kcal covers. Comfortably the most workable
+position of any day in the log so far.
 
 ---
 
@@ -169,7 +168,7 @@ midpoints:
 |---|---|---|---|---|
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
-| 2026-09-06 | 865 (so far) | 24 g | 41.5 g | no — breakfast only |
+| 2026-09-06 | 660 (so far) | 18 g | 30.5 g | no — breakfast only |
 
 **Calories are roughly on track.** Against the ~2,020 target, Day 1 came in 209
 under and Day 2 finished 158 over. The two-day average is 1,993 — within 25 kcal
