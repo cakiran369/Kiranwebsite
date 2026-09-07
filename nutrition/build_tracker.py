@@ -546,7 +546,7 @@ def build_targets(ws):
                  "is the commonest way a deficit quietly disappears; let the scale confirm it "
                  "first, then decide whether to eat it back.")
     ws["C32"].font = NOTE
-    put(33, "Daily walk (km)", 3, "0.0", "~30-35 min at a normal pace.", is_input=True)
+    put(33, "Daily walk (km)", 5, "0.0", "Reported 5 km on 2026-09-07. ~50-60 min at a normal pace.", is_input=True)
     put(34, "Net kcal per kg per km", 0.5, "0.00",
         "Net of what would have been burned sitting. Gross is ~0.65.", is_input=True)
     put(35, "Calisthenics (kcal/day)", 67, "#,##0",

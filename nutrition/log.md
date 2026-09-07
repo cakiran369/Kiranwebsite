@@ -54,16 +54,17 @@ inspectable rather than buried in one number.
 
 ### Added activity — modelled, not credited
 
-3 km walk daily plus 60 push-ups and 36 pull-ups:
+5 km walked on 2026-09-07 (3 km was the original figure), plus 60 push-ups and
+36 pull-ups:
 
 | | Kcal/day |
 |---|---|
-| 3 km walk (net of resting) | 136 |
+| 5 km walk (net of resting) | 227 |
 | 60 push-ups | 24 |
 | 36 pull-ups | 43 |
-| **Total** | **~203** |
+| **Total** | **~294** |
 
-That moves maintenance from 2,557 to **~2,760**, an implied multiplier of 1.57.
+That moves maintenance from 2,557 to **~2,851**, an implied multiplier of 1.62. On a walk-only day it is ~2,784.
 
 **The calorie target has deliberately not been raised for it.** Credited in
 advance, extra activity is the commonest way a deficit quietly disappears — the
