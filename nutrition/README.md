@@ -10,6 +10,7 @@ Photo-based food logging with daily/weekly/monthly rollups.
 | `reference.csv` | Per-item calorie/protein estimates, so the same dish is costed the same way each time. |
 | `weights.csv` | Weigh-in log. The Targets sheet reads the latest entry from it. |
 | `mess_menu.csv` | The fixed weekly mess menu, costed per meal. |
+| `activity.csv` | Apple Watch data: active/resting energy, steps, workouts. Empty until filled. |
 | `log.md` | Human-readable mirror of the log, with day-by-day notes. |
 | `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Weights / Mess Plan / Trends / Targets / Reference). |
 | `build_tracker.py` | Regenerates the workbook from the two CSVs. |
@@ -50,6 +51,15 @@ yellow cells; leave the rest alone.
 The weight cell is a formula reading the last row of the Weights sheet, so
 adding a weigh-in re-derives BMR, maintenance, the calorie target and the carb
 allowance. Do not type over it — add a row to `weights.csv` instead.
+
+### Apple Watch data
+
+`activity.csv` holds watch data for cross-checking the activity multiplier.
+Trust it unevenly: **steps and walking distance are accurate**, resting energy is
+a formula much like the one on the Targets sheet, and **active energy from
+resistance training is over-estimated** — the watch infers from heart rate, and
+lifting raises heart rate without a matching energy cost. Use the step count to
+fix NEAT; do not adopt the watch's total as maintenance.
 
 The activity multiplier is the cell most worth correcting: it is an estimate,
 and the scale over 2–3 weeks is the real measurement. Do not adjust it off a few
