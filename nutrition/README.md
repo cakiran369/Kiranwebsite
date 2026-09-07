@@ -9,8 +9,9 @@ Photo-based food logging with daily/weekly/monthly rollups.
 | `meals.csv` | **Source of truth.** One row per meal. |
 | `reference.csv` | Per-item calorie/protein estimates, so the same dish is costed the same way each time. |
 | `weights.csv` | Weigh-in log. The Targets sheet reads the latest entry from it. |
+| `mess_menu.csv` | The fixed weekly mess menu, costed per meal. |
 | `log.md` | Human-readable mirror of the log, with day-by-day notes. |
-| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Weights / Trends / Targets / Reference). |
+| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Weights / Mess Plan / Trends / Targets / Reference). |
 | `build_tracker.py` | Regenerates the workbook from the two CSVs. |
 | `verify_tracker.py` | Checks `log.md`'s totals against `meals.csv`. |
 

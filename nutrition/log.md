@@ -205,6 +205,60 @@ room; it only works if lunch and dinner are both protein-anchored.
 
 ---
 
+## The mess constraint
+
+Food comes from a Grill Spot mess subscription on a fixed weekly menu. The
+menu is not a choice, so meal suggestions are beside the point. The only two
+levers are **portion control** and **added protein** (eggs, whey).
+
+Costed across the week, as served:
+
+| Day | Kcal | Protein | Dinner |
+|---|---|---|---|
+| Monday | 1,865 | 59.5 g | Chicken curry + bread |
+| Tuesday | 1,745 | 54.5 g | Green peas + bread |
+| Wednesday | 2,140 | 75.5 g | Chicken traditional curry |
+| Thursday | 1,810 | 38.0 g | Gobbi chilly + bread |
+| Friday | 1,635 | 61.0 g | Kadala curry + bread |
+| Saturday | 2,080 | 62.0 g | Chicken varutharachathu |
+| Sunday | 2,055 | 69.0 g | Egg roast + bread |
+| **Average** | **1,904** | **59.9 g** | |
+
+**This is the whole problem in one number: 3.1 g of protein per 100 kcal.** As
+served, the mess fills 95% of the calorie target while delivering under half the
+protein floor, leaving ~100 kcal of room — less than one whey scoop. Portion
+control is therefore not a refinement here, it is the precondition for hitting
+protein at all.
+
+For comparison: whey is 19.6 g per 100 kcal, a boiled egg 8.5 g, the mess 3.1 g.
+
+### Standing rules
+
+1. **Bread items: take one, not two or three.** ~205 kcal for ~5 g of protein —
+   the worst trade on the menu, and it appears at dinner six days a week.
+2. **Halve the rice** at any "Meals" or ghee-rice plate. ~200 kcal for ~2 g.
+3. **Whey scoops fill the freed calories**, 3–4 on most days.
+4. **On chicken days, ask for more curry and less bread.** Same subscription.
+
+### Days that need watching
+
+- **Thursday is the protein desert** — 38 g as served, the lowest of the week
+  (ghee roast, meals, gobbi chilly: no meat all day). It also has the most room
+  once cut, so it is fixable, but only with supplements.
+- **Wednesday and Saturday are the tightest** — heavy dinners leave room for
+  only ~2 scoops, landing near 100–115 g.
+- **Friday is the best day** — idly set is the one genuinely low-fat breakfast
+  on the menu (3–8 g fat) and biriyani carries real protein.
+
+### On the 130 g floor
+
+Under this constraint 130 g needs 3–5 scoops a day, every day. That is a lot of
+powder. A realistic operating band is **115–125 g, with 130 as a good day**,
+which is still ~1.9 g/kg of estimated lean mass. The floor stays where it is as
+the aim; a 118 g day is not a failure.
+
+---
+
 ## Weigh-ins
 
 | Date | Weight | Change | Since start |

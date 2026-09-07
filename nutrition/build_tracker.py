@@ -341,6 +341,116 @@ def build_weights(ws, rows):
     ws.freeze_panes = "A5"
 
 
+
+
+def mess_days():
+    """Roll mess_menu.csv up into one row per day, with default portion cuts."""
+    import collections
+    rows = read_csv("mess_menu.csv")
+    order, acc = [], {}
+    for r in rows:
+        d = r["day"]
+        if d not in acc:
+            acc[d] = {"day": d, "kcal": 0.0, "protein": 0.0, "halve_rice": 0}
+            order.append(d)
+        acc[d][r["meal"].lower()] = r["items"]
+        for f in ("kcal", "protein"):
+            acc[d][f] += (float(r[f + "_low"]) + float(r[f + "_high"])) / 2
+        if r["meal"] == "Lunch" and "rice" in r["items"].lower():
+            acc[d]["halve_rice"] = 1
+    for d in acc.values():
+        d["skip_bread"] = 1          # drop one bread item at dinner by default
+    return [acc[d] for d in order]
+
+
+def build_mess(ws, rows):
+    """Weekly mess menu with the portion-control and supplement maths.
+
+    The mess is fixed - the only levers are how much of it is eaten and what
+    gets added. This sheet costs each day as served, applies the portion cuts,
+    and works out how many whey scoops fit in the calories that frees."""
+    ws["A1"] = "Grill Spot mess - weekly plan"
+    ws["A1"].font = TITLE
+    ws["A2"] = ("The menu is fixed, so the levers are portion control and added protein. "
+                "Set how many bread items to skip and whether to halve the rice, per day, "
+                "in the yellow columns; the sheet works out the calories that frees and how "
+                "many whey scoops fit inside the target.")
+    ws["A2"].font = NOTE
+    ws["A2"].alignment = Alignment(wrap_text=True, vertical="top")
+    ws.merge_cells("A2:M2")
+    ws.row_dimensions[2].height = 42
+
+    ws["A4"] = "Assumptions"
+    ws["A4"].font = Font(name=FONT, size=10, bold=True)
+    for i, (label, val, fmt, note) in enumerate([
+        ("Bread item - kcal", 205, "#,##0", "1 porotta/poori. The worst protein-per-calorie item on the menu."),
+        ("Bread item - protein (g)", 5, "0.0", ""),
+        ("Halving rice - kcal saved", 200, "#,##0", "Applies to a full 'Meals' or ghee-rice plate."),
+        ("Halving rice - protein (g)", 2, "0.0", ""),
+        ("Whey scoop - kcal", 115, "#,##0", "19.6 g protein per 100 kcal, vs 3.1 for the mess."),
+        ("Whey scoop - protein (g)", 22.5, "0.0", ""),
+    ]):
+        r = 5 + i
+        ws.cell(row=r, column=1, value=label).font = TEXT
+        c = ws.cell(row=r, column=2, value=val)
+        c.font = INPUT_BLUE; c.fill = PENDING_FILL; c.border = BOX; c.number_format = fmt
+        if note:
+            n = ws.cell(row=r, column=3, value=note); n.font = NOTE
+    ws.column_dimensions["A"].width = 26
+    ws.column_dimensions["B"].width = 22
+
+    headers = ["Day", "Morning", "Lunch", "Dinner", "Kcal as served",
+               "Protein as served", "Bread items to skip", "Halve rice? (1/0)",
+               "Kcal after cuts", "Protein after cuts", "Room to target",
+               "Scoops that fit", "Protein with scoops"]
+    hr = 13
+    for c, h in enumerate(headers, start=1):
+        ws.cell(row=hr, column=c, value=h)
+    style_header(ws, hr, len(headers),
+                 widths=[11, 22, 22, 26, 10, 11, 11, 10, 10, 11, 10, 10, 12])
+
+    for i, row in enumerate(rows):
+        r = hr + 1 + i
+        ws.cell(row=r, column=1, value=row["day"])
+        ws.cell(row=r, column=2, value=row["morning"])
+        ws.cell(row=r, column=3, value=row["lunch"])
+        ws.cell(row=r, column=4, value=row["dinner"])
+        ws.cell(row=r, column=5, value=float(row["kcal"])).number_format = KCAL_FMT
+        ws.cell(row=r, column=6, value=float(row["protein"])).number_format = GRAM_FMT
+        ws.cell(row=r, column=7, value=int(row["skip_bread"])).number_format = "0"
+        ws.cell(row=r, column=8, value=int(row["halve_rice"])).number_format = "0"
+        ws.cell(row=r, column=9, value=f"=E{r}-G{r}*$B$5-H{r}*$B$7").number_format = KCAL_FMT
+        ws.cell(row=r, column=10, value=f"=F{r}-G{r}*$B$6-H{r}*$B$8").number_format = GRAM_FMT
+        ws.cell(row=r, column=11, value=f"=Targets!$B$16-I{r}").number_format = KCAL_FMT
+        ws.cell(row=r, column=12,
+                value=f"=MAX(0,ROUNDDOWN(K{r}/$B$9,0))").number_format = "0"
+        ws.cell(row=r, column=13, value=f"=J{r}+L{r}*$B$10").number_format = GRAM_FMT
+        for c in range(1, 14):
+            cell = ws.cell(row=r, column=c)
+            cell.border = BOX
+            if c in (7, 8):
+                cell.font = INPUT_BLUE; cell.fill = PENDING_FILL
+            elif c in (5, 6):
+                cell.font = INPUT_BLUE
+            elif c <= 4:
+                cell.font = TEXT
+                cell.alignment = Alignment(wrap_text=True, vertical="top")
+            else:
+                cell.font = FORMULA_BLACK
+
+    last = hr + len(rows) + 2
+    for j, line in enumerate([
+        "As served the mess averages ~1,904 kcal and ~60 g of protein - 3.1 g per 100 kcal. "
+        "It fills 95% of the calorie target while delivering under half the protein floor.",
+        "That is why portion control is not optional here: without cutting, there is only "
+        "~100 kcal of room left for protein, which is less than one scoop.",
+        "Bread items are the cheapest cut - ~205 kcal for ~5 g of protein each.",
+    ]):
+        c = ws.cell(row=last + j, column=1, value=line)
+        c.font = NOTE
+    ws.freeze_panes = "A14"
+
+
 def build_targets(ws):
     """Inputs and the derived calorie/macro targets. Everything downstream
     references these cells, so updating the weight updates the whole workbook."""
@@ -467,6 +577,7 @@ def main():
     ws_meals.title = "Meals"
     ws_daily = wb.create_sheet("Daily")
     ws_weights = wb.create_sheet("Weights")
+    ws_mess = wb.create_sheet("Mess Plan")
     ws_trends = wb.create_sheet("Trends")
     ws_targets = wb.create_sheet("Targets")
     ws_ref = wb.create_sheet("Reference")
@@ -474,6 +585,7 @@ def main():
     mfirst, mlast = build_meals(ws_meals, meals)
     dfirst, dlast = build_daily(ws_daily, dates, mfirst, mlast)
     build_weights(ws_weights, read_csv("weights.csv"))
+    build_mess(ws_mess, mess_days())
     build_trends(ws_trends, dates, dfirst, dlast)
     build_targets(ws_targets)
     build_reference(ws_ref, reference)
