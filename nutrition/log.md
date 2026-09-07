@@ -163,8 +163,9 @@ spent on grilled chicken breast instead would have been ~33 g of protein and a
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Snack | Sweet melon, 2 wedges | 70–110 | 1–2 g | 0–1 g |
 | Lunch | Mess meals plate, rice halved, + 2 boiled eggs (fried fish, sambar, green peas, buttermilk, veg curry, fish curry) | 790–1,100 | 37–51 g | 28–48 g |
-| **TOTAL (logged so far)** | | **1,350–1,860** | **66–89 g** | **39–70 g** |
-| **Midpoint** | | **1,605** | **77.5 g** | **54.5 g** |
+| Snack | 2 boiled eggs (5pm) | 140–156 | 12–13 g | 10–11 g |
+| **TOTAL (logged so far)** | | **1,490–2,016** | **78–102 g** | **49–81 g** |
+| **Midpoint** | | **1,753** | **90 g** | **65 g** |
 
 **Both levers pulled.** Two boiled eggs added, rice taken at half portion. At
 44 g that lunch is the highest-protein single meal in the log, above the 42–48 g
@@ -306,7 +307,7 @@ midpoints:
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
-| 2026-09-07 | 1,605 (so far) | 77.5 g | 54.5 g | no — dinner to come |
+| 2026-09-07 | 1,753 (so far) | 90 g | 65 g | no — dinner to come |
 
 Three complete days. Averages of the midpoints: **2,098 kcal, 98.4 g protein,
 77.0 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
