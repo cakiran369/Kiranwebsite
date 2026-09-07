@@ -52,6 +52,33 @@ and generous for a 45–60 minute one. The gym is counted, and if anything count
 a little kindly. Shown live on the Targets sheet so the assumption is
 inspectable rather than buried in one number.
 
+### Added activity — modelled, not credited
+
+3 km walk daily plus 60 push-ups and 36 pull-ups:
+
+| | Kcal/day |
+|---|---|
+| 3 km walk (net of resting) | 136 |
+| 60 push-ups | 24 |
+| 36 pull-ups | 43 |
+| **Total** | **~203** |
+
+That moves maintenance from 2,557 to **~2,760**, an implied multiplier of 1.57.
+
+**The calorie target has deliberately not been raised for it.** Credited in
+advance, extra activity is the commonest way a deficit quietly disappears — the
+burn is an estimate, the eating is real. It sits on the Targets sheet as a
+separate block so it is visible without feeding the target.
+
+At the unchanged 2,007 target it means a **753 kcal/day deficit, ~0.68 kg/week**,
+and ~82.4 kg by December 1 rather than 84.7 kg. The alternative is to eat it
+back: the target could rise to ~2,210 and still hold 0.5 kg/week.
+
+Note the split in what these do. The walk is nearly all of the calories
+(136 of 203). The push-ups and pull-ups are only ~67 kcal but carry real
+training stimulus — and 36 pull-ups at 91 kg is meaningful volume on top of a
+6-day split, which raises recovery and protein demand rather than lowering it.
+
 The ×1.45 multiplier is deliberate. The usual "6–7 days/week = ×1.725" row
 assumes cardio-style work; an hour of PPL with rest periods is more like
 250–350 kcal, so ×1.725 would put maintenance at ~3,050 and invent ~500 kcal

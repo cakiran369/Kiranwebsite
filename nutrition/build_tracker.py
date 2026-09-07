@@ -540,6 +540,24 @@ def build_targets(ws):
         "bodyweight is ~225-630 kcal. If sessions are short, this allowance is generous "
         "and the multiplier should come down - but let the scale decide, not this cell.")
 
+    ws["A32"] = "Optional extra activity - modelled but NOT in the target above"
+    ws["A32"].font = Font(name=FONT, size=10, bold=True)
+    ws["C32"] = ("Deliberately excluded from the calorie target. Activity credited in advance "
+                 "is the commonest way a deficit quietly disappears; let the scale confirm it "
+                 "first, then decide whether to eat it back.")
+    ws["C32"].font = NOTE
+    put(33, "Daily walk (km)", 3, "0.0", "~30-35 min at a normal pace.", is_input=True)
+    put(34, "Net kcal per kg per km", 0.5, "0.00",
+        "Net of what would have been burned sitting. Gross is ~0.65.", is_input=True)
+    put(35, "Calisthenics (kcal/day)", 67, "#,##0",
+        "60 push-ups ~24 kcal, 36 pull-ups ~43. Real training stimulus, small calorie cost.",
+        is_input=True)
+    put(36, "Extra burn", "=B33*B34*B5+B35", "#,##0")
+    put(37, "Adjusted maintenance", "=B15+B36", "#,##0")
+    put(38, "Implied multiplier", "=B37/B14", "0.00", "Against the 1.45 used above.")
+    put(39, "Deficit at the current target", "=B37-B16", "#,##0")
+    put(40, "Implied loss (kg/week)", "=B39*7/B11", "0.00")
+
 
 def build_reference(ws, rows):
     ws["A1"] = "Per-item working estimates"
