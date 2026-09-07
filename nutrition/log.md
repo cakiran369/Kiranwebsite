@@ -162,8 +162,18 @@ spent on grilled chicken breast instead would have been ~33 g of protein and a
 | Breakfast | 2 appam + potato curry (bhaji) | 390–520 | 8–11 g | 10–18 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Snack | Sweet melon, 2 wedges | 70–110 | 1–2 g | 0–1 g |
-| **TOTAL (logged so far)** | | **560–760** | **29–38 g** | **11–22 g** |
-| **Midpoint** | | **660** | **33.5 g** | **16.5 g** |
+| Lunch | Mess meals plate + 2 boiled eggs (rice, fried fish, sambar, green peas, buttermilk, veg curry, fish curry) | 880–1,250 | 39–54 g | 31–51 g |
+| **TOTAL (logged so far)** | | **1,440–2,010** | **68–92 g** | **42–73 g** |
+| **Midpoint** | | **1,725** | **80 g** | **57.5 g** |
+
+**The eggs worked.** At 46.5 g, that lunch is the highest-protein single meal in
+the log — above the 42–48 g Honest Bowl. Two boiled eggs on the mess plate is
+exactly the lever available, and it was used unprompted.
+
+**The rice was not halved.** ~385 kcal of the plate is rice, and the day now has
+only 282 kcal of room left before dinner. The protein lever was pulled; the
+portion lever was not. Halving the rice would have freed ~190 kcal and cost ~2 g
+of protein — the cheapest trade on the plate.
 
 **Lightest breakfast in the log** — 205 kcal below yesterday's and 16 g of fat
 lower. On calories this is the best start of any day so far.
@@ -293,7 +303,7 @@ midpoints:
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
-| 2026-09-07 | 660 (so far) | 33.5 g | 16.5 g | no — in progress |
+| 2026-09-07 | 1,725 (so far) | 80 g | 57.5 g | no — dinner to come |
 
 Three complete days. Averages of the midpoints: **2,098 kcal, 98.4 g protein,
 77.0 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
