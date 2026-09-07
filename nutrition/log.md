@@ -160,8 +160,9 @@ spent on grilled chicken breast instead would have been ~33 g of protein and a
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 appam + potato curry (bhaji) | 390–520 | 8–11 g | 10–18 g |
-| **TOTAL (logged so far)** | | **390–520** | **8–11 g** | **10–18 g** |
-| **Midpoint** | | **455** | **9.5 g** | **14 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| **TOTAL (logged so far)** | | **490–650** | **28–36 g** | **11–21 g** |
+| **Midpoint** | | **570** | **32 g** | **16 g** |
 
 **Lightest breakfast in the log** — 205 kcal below yesterday's and 16 g of fat
 lower. On calories this is the best start of any day so far.
@@ -189,19 +190,18 @@ protein. That is the whole fix.
 
 ### Budget for the rest of Day 4
 
-**1,552 kcal left, 120.5 g of protein to find** — which needs 7.8 g per 100 kcal
-for the remainder, roughly the chicken bowl's density.
+**1,436 kcal left, 98 g of protein to find** — 6.8 g per 100 kcal for the
+remainder, down from 7.8 before the shaker.
 
 | | Calories | Protein |
 |---|---|---|
 | Chicken and rice bowl | 630 | 45 g |
 | 200 g grilled chicken + vegetables | 400 | 62 g |
-| 1 whey scoop | 110 | 22.5 g |
-| **Total incl. breakfast** | **1,595** | **139 g** ✓ |
+| **Total incl. breakfast and shaker** | **1,600** | **139 g** ✓ |
 
-That clears the floor for the first time **and** lands 411 kcal under target.
-The light breakfast bought the room; it only works if lunch and dinner are both
-protein-anchored.
+That clears the floor for the first time and lands 406 kcal under target, with
+~400 kcal still spare for rice or vegetables. The light breakfast bought the
+room; it only works if lunch and dinner are both protein-anchored.
 
 ---
 
@@ -238,7 +238,7 @@ midpoints:
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
-| 2026-09-07 | 455 (so far) | 9.5 g | 14 g | no — breakfast only |
+| 2026-09-07 | 570 (so far) | 32 g | 16 g | no — in progress |
 
 Three complete days. Averages of the midpoints: **2,098 kcal, 98.4 g protein,
 77.0 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
