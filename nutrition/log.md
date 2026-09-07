@@ -37,6 +37,21 @@ everything below it, so a new weigh-in updates the target automatically.
 | Carbs (remainder) | ~248 g/day |
 | Projected loss | 0.5 kg/week |
 
+### Where the training sits
+
+| | Kcal/day |
+|---|---|
+| BMR — doing nothing | 1,763 |
+| × 1.2, sedentary living + digestion | 2,116 |
+| **× 1.45 = maintenance** | **2,557** |
+| **Of which, training** | **441/day** |
+
+441 kcal/day over six sessions is **~514 kcal per session**. Resistance training
+runs about 5–7 kcal/min, so at 91 kg that is right for a 75–90 minute session
+and generous for a 45–60 minute one. The gym is counted, and if anything counted
+a little kindly. Shown live on the Targets sheet so the assumption is
+inspectable rather than buried in one number.
+
 The ×1.45 multiplier is deliberate. The usual "6–7 days/week = ×1.725" row
 assumes cardio-style work; an hour of PPL with rest periods is more like
 250–350 kcal, so ×1.725 would put maintenance at ~3,050 and invent ~500 kcal

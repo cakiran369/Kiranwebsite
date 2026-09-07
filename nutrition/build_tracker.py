@@ -528,6 +528,18 @@ def build_targets(ws):
     put(24, "Carb allowance (g)", "=(B16-B21*4-B23*9)/4", "0",
         "Whatever is left once protein and the fat floor are paid for. Fuels the PPL work.")
 
+    ws["A26"] = "Where maintenance comes from"
+    ws["A26"].font = Font(name=FONT, size=10, bold=True)
+    put(27, "Sedentary baseline (BMR x 1.2)", "=B14*1.2", "#,##0",
+        "Living, digestion, fidgeting, walking about - no training.")
+    put(28, "Training allowance", "=B15-B27", "#,##0",
+        "The part of the multiplier that is the gym.")
+    put(29, "Sessions per week", 6, "0", "6-day PPL split.", is_input=True)
+    put(30, "Implied kcal per session", "=B28*7/B29", "#,##0",
+        "Sanity check: resistance training runs ~5-7 kcal/min, so 45-90 min at this "
+        "bodyweight is ~225-630 kcal. If sessions are short, this allowance is generous "
+        "and the multiplier should come down - but let the scale decide, not this cell.")
+
 
 def build_reference(ws, rows):
     ws["A1"] = "Per-item working estimates"
