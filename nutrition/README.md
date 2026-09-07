@@ -8,8 +8,9 @@ Photo-based food logging with daily/weekly/monthly rollups.
 |---|---|
 | `meals.csv` | **Source of truth.** One row per meal. |
 | `reference.csv` | Per-item calorie/protein estimates, so the same dish is costed the same way each time. |
+| `weights.csv` | Weigh-in log. The Targets sheet reads the latest entry from it. |
 | `log.md` | Human-readable mirror of the log, with day-by-day notes. |
-| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Trends / Targets / Reference). |
+| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Weights / Trends / Targets / Reference). |
 | `build_tracker.py` | Regenerates the workbook from the two CSVs. |
 | `verify_tracker.py` | Checks `log.md`'s totals against `meals.csv`. |
 
@@ -45,8 +46,13 @@ calorie target and the carb allowance as formulas over them. The Daily sheet's
 cells, so **updating the weight there re-derives the whole workbook**. Edit the
 yellow cells; leave the rest alone.
 
+The weight cell is a formula reading the last row of the Weights sheet, so
+adding a weigh-in re-derives BMR, maintenance, the calorie target and the carb
+allowance. Do not type over it — add a row to `weights.csv` instead.
+
 The activity multiplier is the cell most worth correcting: it is an estimate,
-and the scale over 2–3 weeks is the real measurement.
+and the scale over 2–3 weeks is the real measurement. Do not adjust it off a few
+days of data — early weight movement is mostly water.
 
 ## How the numbers work
 

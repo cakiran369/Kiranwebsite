@@ -292,6 +292,55 @@ def _range_block(ws, r, dsrc, dfirst, dlast):
         cell.border = BOX
 
 
+
+def build_weights(ws, rows):
+    """Weigh-in log with a trailing average, which is the number to read.
+
+    A single morning weight moves several hundred grams on water alone; the
+    trailing average is what actually tracks fat."""
+    ws["A1"] = "Weigh-ins"
+    ws["A1"].font = TITLE
+    ws["A2"] = ("Weigh same time, same conditions - first thing, after the toilet, before "
+                "food or drink. Add a row per weigh-in; the Targets sheet reads the latest "
+                "entry automatically. Read the trailing average, not the raw number.")
+    ws["A2"].font = NOTE
+    ws["A2"].alignment = Alignment(wrap_text=True, vertical="top")
+    ws.merge_cells("A2:F2")
+    ws.row_dimensions[2].height = 42
+
+    headers = ["Date", "Weight (kg)", "Change", "Since start",
+               "Trailing avg (7)", "Note"]
+    hr = 4
+    for c, h in enumerate(headers, start=1):
+        ws.cell(row=hr, column=c, value=h)
+    style_header(ws, hr, len(headers), widths=[12, 12, 10, 12, 16, 44])
+
+    first = hr + 1
+    for i, row in enumerate(rows):
+        r = first + i
+        ws.cell(row=r, column=1, value=dt.date.fromisoformat(row["date"])).number_format = DATE_FMT
+        ws.cell(row=r, column=2, value=float(row["weight_kg"])).number_format = "0.00"
+        ws.cell(row=r, column=3,
+                value="" if i == 0 else f"=B{r}-B{r-1}").number_format = "+0.00;-0.00;0.00"
+        ws.cell(row=r, column=4, value=f"=B{r}-$B${first}").number_format = "+0.00;-0.00;0.00"
+        win = max(first, r - 6)
+        ws.cell(row=r, column=5, value=f"=AVERAGE(B{win}:B{r})").number_format = "0.00"
+        ws.cell(row=r, column=6, value=row["note"])
+        for c in range(1, 7):
+            cell = ws.cell(row=r, column=c)
+            cell.border = BOX
+            cell.font = INPUT_BLUE if c in (1, 2, 6) else FORMULA_BLACK
+            if c == 6:
+                cell.alignment = Alignment(wrap_text=True, vertical="top")
+
+    last = first + len(rows) + 1
+    ws.cell(row=last, column=1, value=(
+        "A drop in the first week is mostly water and glycogen, not fat. Judge the "
+        "trend over 2-3 weeks, and change the activity multiplier on Targets only then."))
+    ws.cell(row=last, column=1).font = NOTE
+    ws.freeze_panes = "A5"
+
+
 def build_targets(ws):
     """Inputs and the derived calorie/macro targets. Everything downstream
     references these cells, so updating the weight updates the whole workbook."""
@@ -327,8 +376,10 @@ def build_targets(ws):
 
     ws["A4"] = "Inputs"
     ws["A4"].font = Font(name=FONT, size=10, bold=True)
-    put(5, "Weight (kg)", PROFILE["weight_kg"], "0.0",
-        "Source: stated by user, 2026-09-05. Update as it changes.", is_input=True)
+    put(5, "Weight (kg)", "=INDEX(Weights!$B$5:$B$500,COUNT(Weights!$B$5:$B$500))", "0.00",
+        "Latest entry on the Weights sheet - add a weigh-in there and everything below "
+        "re-derives. Do not type over it.")
+    ws["B5"].font = Font(name=FONT, size=10, color="008000")
     put(6, "Height (cm)", PROFILE["height_cm"], "0.0",
         "Source: stated by user.", is_input=True)
     put(7, "Age (years)", PROFILE["age_years"], "0",
@@ -415,12 +466,14 @@ def main():
     ws_meals = wb.active
     ws_meals.title = "Meals"
     ws_daily = wb.create_sheet("Daily")
+    ws_weights = wb.create_sheet("Weights")
     ws_trends = wb.create_sheet("Trends")
     ws_targets = wb.create_sheet("Targets")
     ws_ref = wb.create_sheet("Reference")
 
     mfirst, mlast = build_meals(ws_meals, meals)
     dfirst, dlast = build_daily(ws_daily, dates, mfirst, mlast)
+    build_weights(ws_weights, read_csv("weights.csv"))
     build_trends(ws_trends, dates, dfirst, dlast)
     build_targets(ws_targets)
     build_reference(ws_ref, reference)

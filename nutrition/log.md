@@ -23,18 +23,18 @@ sync by editing `meals.csv` and re-running `build_tracker.py`.
 
 ## Targets
 
-Set 2026-09-05 from 91.5 kg / 162.5 cm / 33 y / male. Live in the workbook's
-Targets sheet, which re-derives them from those inputs — update the weight there
-as it comes down rather than editing numbers by hand.
+From 162.5 cm / 33 y / male and the latest weigh-in. The workbook's Targets
+sheet reads the most recent weight off the Weights sheet and re-derives
+everything below it, so a new weigh-in updates the target automatically.
 
-| | Value |
+| | Value (at 90.75 kg) |
 |---|---|
-| BMR (Mifflin-St Jeor) | 1,771 kcal |
-| Maintenance (TDEE), ×1.45 | ~2,567 kcal |
-| **Calorie target** | **~2,020 kcal/day** |
+| BMR (Mifflin-St Jeor) | 1,763 kcal |
+| Maintenance (TDEE), ×1.45 | ~2,557 kcal |
+| **Calorie target** | **~2,007 kcal/day** |
 | Protein | 130–145 g/day |
 | Fat floor | 55 g/day |
-| Carbs (remainder) | ~250 g/day |
+| Carbs (remainder) | ~248 g/day |
 | Projected loss | 0.5 kg/week |
 
 The ×1.45 multiplier is deliberate. The usual "6–7 days/week = ×1.725" row
@@ -48,7 +48,7 @@ deliberately higher than the earlier 90–130 g band: in a deficit, on six
 sessions a week, protein is what keeps the loss coming off fat rather than
 muscle.
 
-BMI is 34.7, which is worth raising with a GP or dietitian alongside this plan.
+BMI is 34.4, which is worth raising with a GP or dietitian alongside this plan.
 
 ---
 
@@ -152,6 +152,29 @@ Second juice in three days, both described as "without sugar". Combined the two
 drinks cost ~390 kcal and ~75 g of sugar for ~4 g of protein. Today's 180 kcal
 spent on grilled chicken breast instead would have been ~33 g of protein and a
 140 g day — the floor cleared for the first time.
+
+---
+
+## Weigh-ins
+
+| Date | Weight | Change | Since start |
+|---|---|---|---|
+| 2026-09-05 | 91.50 kg | — | — |
+| 2026-09-07 | 90.75 kg | −0.75 kg | −0.75 kg |
+
+**Do not read this as 0.75 kg of fat.** The logged deficit across the two days
+the scale covers was ~647 kcal, which is **0.084 kg of fat**. The other 0.67 kg
+— 89% of the drop — is water, glycogen and gut contents, exactly what a first
+week looks like when carbohydrate portions come down (three porotta to two, and
+so on). Every gram of glycogen holds about three grams of water with it.
+
+That is not bad news. It is the normal shape of a start, and it means the number
+will slow down sharply once glycogen settles. Expect that, so it doesn't read as
+failure when it happens.
+
+**The activity multiplier stays at 1.45.** Two days is noise, not a measurement.
+Revisit it after 2–3 weeks of trailing average, which is what the Weights sheet
+is for.
 
 ---
 
