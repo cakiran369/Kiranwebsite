@@ -198,7 +198,7 @@ spent on grilled chicken breast instead would have been ~33 g of protein and a
 
 ---
 
-## Day 4 — 2026-09-07 (in progress)
+## Day 4 — 2026-09-07
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -209,8 +209,18 @@ spent on grilled chicken breast instead would have been ~33 g of protein and a
 | Snack | 2 boiled eggs (5pm) | 140–156 | 12–13 g | 10–11 g |
 | Snack | Red grapes, ~100 g | 60–75 | 0.5–0.7 g | 0–0.5 g |
 | Snack | Chatti pathiri chicken, 1 slice | 230–320 | 10–14 g | 12–18 g |
-| **TOTAL (logged so far)** | | **1,780–2,411** | **88.5–116.7 g** | **61–99.5 g** |
-| **Midpoint** | | **2,095.5** | **102.6 g** | **80.25 g** |
+| Dinner | Chicken curry + 1 chapati | 380–550 | 23–32 g | 18–30 g |
+| **TOTAL** | | **2,160–2,961** | **111.5–148.7 g** | **79–129.5 g** |
+| **Midpoint** | | **2,560.5** | **130.1 g** | **104.25 g** |
+
+**130.1 g — the protein floor cleared for the first time.** Four eggs, a fish
+and dal lunch, a whey scoop and a chicken dinner did it, and the dinner took one
+chapati rather than two exactly as the day's arithmetic required.
+
+**The calorie deficit was almost erased doing it.** 2,560 kcal is 4 kcal *above*
+base maintenance; only the 5 km walk creates a deficit at all, and it is 223 kcal
+rather than the planned 550. Fat finished at 104 g, the highest in the log by
+19 g.
 
 The pathiri is the item that changes the day. At ~275 kcal and ~15 g of fat it
 costs more than the two chapati it displaces, and it pushed fat past 80 g before
@@ -358,28 +368,39 @@ midpoints:
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
-| 2026-09-07 | 2,095.5 (so far) | 102.6 g | 80.25 g | no — dinner to come |
+| 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 
-Three complete days. Averages of the midpoints: **2,098 kcal, 98.4 g protein,
-77.0 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
-floor.
+Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
+83.8 g fat**.
 
-**Calories are close.** The three-day average is 81 kcal above target — a
-469 kcal/day deficit against maintenance, an implied **0.43 kg/week**, or ~5.3 kg
-by December 1. The target itself needs no change; the drift is entirely juice.
+| Date | Calories | vs maintenance | Protein | Fat |
+|---|---|---|---|---|
+| 2026-09-04 | 1,808 | −748 | 78.5 g | 67.5 g |
+| 2026-09-05 | 2,178 | −379 | 107.3 g | 78.3 g |
+| 2026-09-06 | 2,310 | −246 | 109.5 g | 85.3 g |
+| 2026-09-07 | 2,560 | **+4** | **130.1 g** | 104.3 g |
 
-**Protein has a ceiling near 107–110 g.** Days 2 and 3 landed at 107.25 and
-109.5, from completely different food. Day 1 was 78.5. The floor has never been
-reached. Twice now the day has ended with the shaker doing work the meals
-should have done.
+**Every line moves the same way, day after day, and two of the three are moving
+the wrong way.**
 
-**Fat rises every single day: 67.5 → 78.25 → 85.25 g.** It is now 34% of intake
-and 30 g above the floor. This is the one genuinely worsening line in the log.
+**Protein: fixed.** 78.5 → 107 → 110 → 130. Four days of steady improvement and
+the floor cleared. Whatever was wrong at the start is no longer wrong.
 
-The two are the same problem. At 2,038 kcal there is plenty of room for 130 g of
-protein — the room is being spent on fat instead. **Cutting fat from 77 g to
-60 g frees 152 kcal, which buys 38 g of lean protein.** That single swap closes
-the entire gap without touching the calorie target, which is already right.
+**Calories: up 42% in four days.** 1,808 → 2,560. Day 4 sat exactly at base
+maintenance; without the walk there was no deficit at all. The four-day average
+gives a 342 kcal/day deficit — **0.31 kg/week, not 0.5**. Walking 5 km every day
+would lift that to 0.52, but that is one day of walk data, not four.
+
+**Fat: up 55% in four days.** 67.5 → 104.3, against a 55 g floor. It is now 37%
+of intake.
+
+The three are one story: **protein was bought by adding food rather than by
+replacing it.** Eggs, pathiri and a full dinner went on top of days that were
+already complete. That fixes protein and spends the deficit at the same time.
+
+Next week's job is the swap, not the addition — protein-dense food in place of
+fat-dense food at the same calories. The mess plate proved it can be done: eggs
+added, rice halved, 44 g of protein, and the day still had room afterwards.
 
 Where the fat comes from is not mysterious: coconut chutney, deep-fried vada,
 layered porotta, oil-heavy curry, cajun-fried tofu. The fix is not eating less.
