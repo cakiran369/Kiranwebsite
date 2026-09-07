@@ -359,7 +359,7 @@ def mess_days():
         if r["meal"] == "Lunch" and "rice" in r["items"].lower():
             acc[d]["halve_rice"] = 1
     for d in acc.values():
-        d["skip_bread"] = 1          # drop one bread item at dinner by default
+        d["skip_bread"] = 0          # chapati is cheap enough to keep both
     return [acc[d] for d in order]
 
 
@@ -383,8 +383,8 @@ def build_mess(ws, rows):
     ws["A4"] = "Assumptions"
     ws["A4"].font = Font(name=FONT, size=10, bold=True)
     for i, (label, val, fmt, note) in enumerate([
-        ("Bread item - kcal", 205, "#,##0", "1 porotta/poori. The worst protein-per-calorie item on the menu."),
-        ("Bread item - protein (g)", 5, "0.0", ""),
+        ("Bread item - kcal", 115, "#,##0", "Dinner bread is chapati, not porotta - roughly half the calories and a third of the fat."),
+        ("Bread item - protein (g)", 3.5, "0.0", ""),
         ("Halving rice - kcal saved", 200, "#,##0", "Applies to a full 'Meals' or ghee-rice plate."),
         ("Halving rice - protein (g)", 2, "0.0", ""),
         ("Whey scoop - kcal", 115, "#,##0", "19.6 g protein per 100 kcal, vs 3.1 for the mess."),
