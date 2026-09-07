@@ -155,6 +155,56 @@ spent on grilled chicken breast instead would have been ~33 g of protein and a
 
 ---
 
+## Day 4 — 2026-09-07 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 appam + potato curry (bhaji) | 390–520 | 8–11 g | 10–18 g |
+| **TOTAL (logged so far)** | | **390–520** | **8–11 g** | **10–18 g** |
+| **Midpoint** | | **455** | **9.5 g** | **14 g** |
+
+**Lightest breakfast in the log** — 205 kcal below yesterday's and 16 g of fat
+lower. On calories this is the best start of any day so far.
+
+On protein it is the second-lowest: 9.5 g. Appam is rice, bhaji is potato, so
+the plate is two carbohydrates and a little coconut oil.
+
+### The breakfast pattern, four days in
+
+| Date | Breakfast | Protein | g per 100 kcal |
+|---|---|---|---|
+| 2026-09-04 | dosa + sambar | 7.5 g | 1.9 |
+| 2026-09-05 | 2 dosa + sambar | 13 g | 2.8 |
+| 2026-09-06 | 2 porotta + kadala | 18 g | 2.7 |
+| 2026-09-07 | 2 appam + bhaji | 9.5 g | 2.1 |
+| **Average** | | **12 g** | **2.4** |
+
+Four breakfasts, none above 18 g, all under 3 g of protein per 100 kcal. This
+single slot is why the day has never reached 130 g: it hands lunch and dinner a
+120 g debt to clear before anything else.
+
+**Two boiled eggs added to this exact plate** would have made it 603 kcal and
+22 g — still lighter than yesterday's breakfast, and more than double the
+protein. That is the whole fix.
+
+### Budget for the rest of Day 4
+
+**1,552 kcal left, 120.5 g of protein to find** — which needs 7.8 g per 100 kcal
+for the remainder, roughly the chicken bowl's density.
+
+| | Calories | Protein |
+|---|---|---|
+| Chicken and rice bowl | 630 | 45 g |
+| 200 g grilled chicken + vegetables | 400 | 62 g |
+| 1 whey scoop | 110 | 22.5 g |
+| **Total incl. breakfast** | **1,595** | **139 g** ✓ |
+
+That clears the floor for the first time **and** lands 411 kcal under target.
+The light breakfast bought the room; it only works if lunch and dinner are both
+protein-anchored.
+
+---
+
 ## Weigh-ins
 
 | Date | Weight | Change | Since start |
@@ -188,6 +238,7 @@ midpoints:
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
+| 2026-09-07 | 455 (so far) | 9.5 g | 14 g | no — breakfast only |
 
 Three complete days. Averages of the midpoints: **2,098 kcal, 98.4 g protein,
 77.0 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
