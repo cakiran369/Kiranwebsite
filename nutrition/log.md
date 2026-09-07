@@ -161,8 +161,9 @@ spent on grilled chicken breast instead would have been ~33 g of protein and a
 |---|---|---|---|---|
 | Breakfast | 2 appam + potato curry (bhaji) | 390–520 | 8–11 g | 10–18 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
-| **TOTAL (logged so far)** | | **490–650** | **28–36 g** | **11–21 g** |
-| **Midpoint** | | **570** | **32 g** | **16 g** |
+| Snack | Sweet melon, 1 wedge | 35–55 | 0.5–1 g | 0–0.5 g |
+| **TOTAL (logged so far)** | | **525–705** | **28.5–37 g** | **11–21.5 g** |
+| **Midpoint** | | **615** | **32.75 g** | **16.25 g** |
 
 **Lightest breakfast in the log** — 205 kcal below yesterday's and 16 g of fat
 lower. On calories this is the best start of any day so far.
@@ -292,7 +293,7 @@ midpoints:
 | 2026-09-04 | 1,808 | 78.5 g | 67.5 g | yes |
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
-| 2026-09-07 | 570 (so far) | 32 g | 16 g | no — in progress |
+| 2026-09-07 | 615 (so far) | 32.75 g | 16.25 g | no — in progress |
 
 Three complete days. Averages of the midpoints: **2,098 kcal, 98.4 g protein,
 77.0 g fat** — against a 2,017 target, a 130 g protein floor and a 55 g fat
