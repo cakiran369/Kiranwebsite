@@ -1,21 +1,21 @@
 day,meal,items,kcal_low,kcal_high,protein_low,protein_high,fat_low,fat_high,portion_note
 Monday,Morning,"Poori, baji",290,420,7,10,14,24,2 poori
-Monday,Lunch,Meals (barik/mota rice),600,900,14,22,15,30,full rice portion
+Monday,Lunch,Meals (barik/mota rice),800,1100,26,40,28,48,full rice portion
 Monday,Dinner,Chicken curry + bread items,600,920,28,38,30,48,2 bread
 Tuesday,Morning,Masala dosa,300,400,6,9,12,20,1 dosa
 Tuesday,Lunch,Ghee rice + chicken curry,630,900,25,35,25,40,full rice portion
 Tuesday,Dinner,Green peas + bread items,500,760,14,20,22,36,2 bread
 Wednesday,Morning,Poratta + egg roast,500,760,21,28,28,46,2 poratta
-Wednesday,Lunch,Meals (barik/mota rice),600,900,14,22,15,30,full rice portion
+Wednesday,Lunch,Meals (barik/mota rice),800,1100,26,40,28,48,full rice portion
 Wednesday,Dinner,Chicken traditional curry + bread,600,920,28,38,30,48,2 bread
 Thursday,Morning,Ghee roast,350,450,6,9,18,26,1 ghee roast
-Thursday,Lunch,Meals (barik/mota rice),600,900,14,22,15,30,full rice portion
+Thursday,Lunch,Meals (barik/mota rice),800,1100,26,40,28,48,full rice portion
 Thursday,Dinner,Gobbi chilly + bread items,520,800,10,15,25,40,2 bread
 Friday,Morning,Idly set,280,370,8,12,3,8,3 idli + sambar
 Friday,Lunch,Chicken biriyani,550,750,28,38,20,35,standard plate
 Friday,Dinner,Kadala curry + bread items,520,800,15,21,23,38,2 bread
 Saturday,Morning,Dosa set,490,600,9,13,12,20,2 dosa
-Saturday,Lunch,Meals (barik/mota rice),600,900,14,22,15,30,full rice portion
+Saturday,Lunch,Meals (barik/mota rice),800,1100,26,40,28,48,full rice portion
 Saturday,Dinner,Chicken varutharachathu + bread,620,950,28,38,32,50,2 bread
 Sunday,Morning,Kadala curry + poratta,520,800,15,21,23,38,2 poratta
 Sunday,Lunch,Ghee rice + chicken curry,630,900,25,35,25,40,full rice portion
