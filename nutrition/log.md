@@ -283,7 +283,7 @@ room; it only works if lunch and dinner are both protein-anchored.
 | Lunch | 2 eggs dry-fried (no oil) + half container ghee rice + small chicken curry + curd salad | 565–786 | 35–45 g | 29–44 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Dinner | 2 chapati + green peas curry + 2 boiled eggs | 520–676 | 26–33 g | 22–33 g |
-| **TOTAL (logged so far)** | | **1,605–2,192** | **93–119 g** | **63–100 g** |
+| **TOTAL (logged so far)** | | **1,605–2,192** | **93–119 g** | **64–99 g** |
 | **Midpoint** | | **1,898.5** | **106 g** | **81.5 g** |
 
 Eggs went onto the mess dinner as the protein anchor — 29.5 g from a meal that
