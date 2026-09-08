@@ -281,8 +281,9 @@ room; it only works if lunch and dinner are both protein-anchored.
 |---|---|---|---|---|
 | Breakfast | Puttu + kadala curry | 420–600 | 12–16 g | 12–19 g |
 | Lunch | 2 eggs dry-fried (no oil) + half container ghee rice + small chicken curry + curd salad | 565–786 | 35–45 g | 29–44 g |
-| **TOTAL (logged so far)** | | **985–1,386** | **47–61 g** | **41–63 g** |
-| **Midpoint** | | **1,185.5** | **54 g** | **52 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| **TOTAL (logged so far)** | | **1,085–1,516** | **67–86 g** | **42–66 g** |
+| **Midpoint** | | **1,300.5** | **76.5 g** | **54 g** |
 
 **This lunch is the swap, done properly.** Eggs cooked dry with pepper and salt
 instead of in oil (~20–25 kcal saved per egg), the ghee rice halved without being
@@ -307,7 +308,7 @@ With breakfast and lunch logged, **821 kcal left and 76 g of protein to find.**
 | | Calories | Protein | Fat |
 |---|---|---|---|
 | Green peas + 2 chapati (mess dinner) | 450 | 17 g | 17 g |
-| 3 whey scoops | 345 | 67.5 g | 4.5 g |
+| 2 more whey scoops (one already taken) | 230 | 45 g | 3 g |
 | **Day total** | **1,980** | **138.5 g** | **73.5 g** |
 
 That would be **576 kcal under maintenance with the floor cleared** — and 31 g
@@ -410,7 +411,7 @@ midpoints:
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
-| 2026-09-08 | 1,185.5 (so far) | 54 g | 52 g | no — dinner to come |
+| 2026-09-08 | 1,300.5 (so far) | 76.5 g | 54 g | no — dinner to come |
 
 Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
 83.8 g fat**.
