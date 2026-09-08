@@ -280,8 +280,14 @@ room; it only works if lunch and dinner are both protein-anchored.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Puttu + kadala curry | 420–600 | 12–16 g | 12–19 g |
-| **TOTAL (logged so far)** | | **420–600** | **12–16 g** | **12–19 g** |
-| **Midpoint** | | **510** | **14 g** | **15.5 g** |
+| Lunch | 2 eggs dry-fried (no oil) + half container ghee rice + small chicken curry + curd salad | 565–786 | 35–45 g | 29–44 g |
+| **TOTAL (logged so far)** | | **985–1,386** | **47–61 g** | **41–63 g** |
+| **Midpoint** | | **1,186** | **54 g** | **52 g** |
+
+**This lunch is the swap, done properly.** Eggs cooked dry with pepper and salt
+instead of in oil (~20–25 kcal saved per egg), the ghee rice halved without being
+asked, chicken for the protein anchor, curd on the side. **5.9 g of protein per
+100 kcal** — against 4.7 for yesterday's plate and 3.7 for the mess baseline.
 
 The mess served puttu rather than the Tuesday masala dosa on the menu.
 
@@ -290,24 +296,23 @@ A better breakfast than it looks. Puttu is steamed rice flour and coconut with
 9.5 g yesterday and 7.5 g on Day 1. Still 2.7 g of protein per 100 kcal, but the
 fat is coconut and curry oil rather than a fry-up.
 
-### Today reverses the trend, or it doesn't
+### Today reverses the trend
 
 Four days of rising calories and rising fat ended with Day 4 at maintenance.
 Tuesday is a good day to break that: the mess dinner is green peas and chapati,
 one of the lightest of the week.
 
-**1,496 kcal left, 116 g of protein to find.**
+With breakfast and lunch logged, **821 kcal left and 76 g of protein to find.**
 
-| | Calories | Protein |
-|---|---|---|
-| Ghee rice + chicken curry, rice halved | 565 | 28 g |
-| Green peas + 2 chapati | 450 | 17 g |
-| 3 whey scoops across the day | 345 | 67.5 g |
-| **Total incl. breakfast** | **1,870** | **126.5 g** |
+| | Calories | Protein | Fat |
+|---|---|---|---|
+| Green peas + 2 chapati (mess dinner) | 450 | 17 g | 17 g |
+| 3 whey scoops | 345 | 67.5 g | 4.5 g |
+| **Day total** | **1,980** | **138.5 g** | **73.5 g** |
 
-That is **686 kcal under maintenance** — the biggest deficit since Day 1 — with
-protein just under the floor. Scoops rather than eggs today: same protein, and
-yesterday's 104 g of fat came largely from four eggs stacked on a fatty day.
+That would be **576 kcal under maintenance with the floor cleared** — and 31 g
+less fat than yesterday on 580 fewer calories, for 8 g more protein. The whole
+week's argument in one day.
 
 ---
 
@@ -405,7 +410,7 @@ midpoints:
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
-| 2026-09-08 | 510 (so far) | 14 g | 15.5 g | no — breakfast only |
+| 2026-09-08 | 1,186 (so far) | 54 g | 52 g | no — dinner to come |
 
 Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
 83.8 g fat**.
