@@ -282,7 +282,7 @@ room; it only works if lunch and dinner are both protein-anchored.
 | Breakfast | Puttu + kadala curry | 420–600 | 12–16 g | 12–19 g |
 | Lunch | 2 eggs dry-fried (no oil) + half container ghee rice + small chicken curry + curd salad | 565–786 | 35–45 g | 29–44 g |
 | **TOTAL (logged so far)** | | **985–1,386** | **47–61 g** | **41–63 g** |
-| **Midpoint** | | **1,186** | **54 g** | **52 g** |
+| **Midpoint** | | **1,185.5** | **54 g** | **52 g** |
 
 **This lunch is the swap, done properly.** Eggs cooked dry with pepper and salt
 instead of in oil (~20–25 kcal saved per egg), the ghee rice halved without being
@@ -410,7 +410,7 @@ midpoints:
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
-| 2026-09-08 | 1,186 (so far) | 54 g | 52 g | no — dinner to come |
+| 2026-09-08 | 1,185.5 (so far) | 54 g | 52 g | no — dinner to come |
 
 Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
 83.8 g fat**.
