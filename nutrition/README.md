@@ -11,8 +11,9 @@ Photo-based food logging with daily/weekly/monthly rollups.
 | `weights.csv` | Weigh-in log. The Targets sheet reads the latest entry from it. |
 | `mess_menu.csv` | The fixed weekly mess menu, costed per meal. |
 | `activity.csv` | Apple Watch data: active/resting energy, steps, workouts. Empty until filled. |
+| `measurements.csv` | Tape measurements. Waist against arm separates fat loss from muscle loss. |
 | `log.md` | Human-readable mirror of the log, with day-by-day notes. |
-| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Weights / Mess Plan / Trends / Targets / Reference). |
+| `calorie_tracker.xlsx` | Generated master workbook (Meals / Daily / Weights / Measurements / Mess Plan / Trends / Targets / Reference). |
 | `build_tracker.py` | Regenerates the workbook from the two CSVs. |
 | `verify_tracker.py` | Checks `log.md`'s totals against `meals.csv`. |
 

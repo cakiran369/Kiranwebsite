@@ -363,6 +363,51 @@ def mess_days():
     return [acc[d] for d in order]
 
 
+
+def build_measurements(ws, rows):
+    """Tape measurements. The scale cannot tell fat from muscle; waist against
+    arm can. Waist down while arms hold means the loss is coming off fat."""
+    ws["A1"] = "Measurements"
+    ws["A1"].font = TITLE
+    ws["A2"] = ("Measure cold, same time of day, same spot, relaxed - arm at mid-bicep, "
+                "waist at the navel. Fortnightly is enough. What matters is not any single "
+                "number but waist falling while arm circumference holds: that is fat leaving "
+                "and muscle staying, which the scale alone cannot show.")
+    ws["A2"].font = NOTE
+    ws["A2"].alignment = Alignment(wrap_text=True, vertical="top")
+    ws.merge_cells("A2:I2")
+    ws.row_dimensions[2].height = 42
+
+    headers = ["Date", "Waist (cm)", "Arm relaxed", "Arm flexed", "Chest", "Hips",
+               "Thigh", "Waist change", "Arm change", "Note"]
+    hr = 4
+    for c, h in enumerate(headers, start=1):
+        ws.cell(row=hr, column=c, value=h)
+    style_header(ws, hr, len(headers),
+                 widths=[12, 11, 12, 11, 9, 9, 9, 12, 11, 40])
+
+    first = hr + 1
+    for i, row in enumerate(rows):
+        r = first + i
+        ws.cell(row=r, column=1, value=dt.date.fromisoformat(row["date"])).number_format = DATE_FMT
+        for c, key in enumerate(["waist_cm", "arm_relaxed_cm", "arm_flexed_cm",
+                                 "chest_cm", "hips_cm", "thigh_cm"], start=2):
+            v = row.get(key, "").strip()
+            ws.cell(row=r, column=c, value=float(v) if v else None).number_format = "0.0"
+        ws.cell(row=r, column=8, value=f"=IFERROR(B{r}-$B${first},\"\")").number_format = "+0.0;-0.0;0.0"
+        ws.cell(row=r, column=9, value=f"=IFERROR(C{r}-$C${first},\"\")").number_format = "+0.0;-0.0;0.0"
+        ws.cell(row=r, column=10, value=row.get("note", ""))
+        for c in range(1, 11):
+            cell = ws.cell(row=r, column=c)
+            cell.border = BOX
+            cell.font = FORMULA_BLACK if c in (8, 9) else INPUT_BLUE
+
+    if not rows:
+        c = ws.cell(row=first, column=1, value="No measurements yet - add a row to measurements.csv.")
+        c.font = NOTE
+    ws.freeze_panes = "A5"
+
+
 def build_mess(ws, rows):
     """Weekly mess menu with the portion-control and supplement maths.
 
@@ -607,6 +652,7 @@ def main():
     ws_meals.title = "Meals"
     ws_daily = wb.create_sheet("Daily")
     ws_weights = wb.create_sheet("Weights")
+    ws_meas = wb.create_sheet("Measurements")
     ws_mess = wb.create_sheet("Mess Plan")
     ws_trends = wb.create_sheet("Trends")
     ws_targets = wb.create_sheet("Targets")
@@ -615,6 +661,7 @@ def main():
     mfirst, mlast = build_meals(ws_meals, meals)
     dfirst, dlast = build_daily(ws_daily, dates, mfirst, mlast)
     build_weights(ws_weights, read_csv("weights.csv"))
+    build_measurements(ws_meas, read_csv("measurements.csv"))
     build_mess(ws_mess, mess_days())
     build_trends(ws_trends, dates, dfirst, dlast)
     build_targets(ws_targets)
