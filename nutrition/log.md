@@ -283,8 +283,13 @@ room; it only works if lunch and dinner are both protein-anchored.
 | Lunch | 2 eggs dry-fried (no oil) + half container ghee rice + small chicken curry + curd salad | 565–786 | 35–45 g | 29–44 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Dinner | 2 chapati + green peas curry + 2 boiled eggs | 520–676 | 26–33 g | 22–33 g |
-| **TOTAL (logged so far)** | | **1,605–2,192** | **93–119 g** | **64–99 g** |
-| **Midpoint** | | **1,898.5** | **106 g** | **81.5 g** |
+| Drink | Coca-Cola Zero Sugar, 245 ml | 0–2 | 0 g | 0 g |
+| **TOTAL (logged so far)** | | **1,605–2,194** | **93–119 g** | **64–99 g** |
+| **Midpoint** | | **1,899.5** | **106 g** | **81.5 g** |
+
+Worth noting against the juices earlier in the log: this drink really is zero.
+The pineapple and orange juices, both described as without sugar, cost 180 and
+275 kcal and carried ~35 g of sugar each.
 
 Eggs went onto the mess dinner as the protein anchor — 29.5 g from a meal that
 would otherwise have given 17 g. The evening slot that decided the first four
@@ -312,11 +317,11 @@ With breakfast and lunch logged, **821 kcal left and 76 g of protein to find.**
 
 | | Calories | Protein | Fat |
 |---|---|---|---|
-| Logged so far | 1,898.5 | 106 g | 81.5 g |
+| Logged so far | 1,899.5 | 106 g | 81.5 g |
 | 1 more whey scoop | 115 | 22.5 g | 1.5 g |
-| **Day total** | **2,013.5** | **128.5 g** | **83 g** |
+| **Day total** | **2,014.5** | **128.5 g** | **83 g** |
 
-That is **7 kcal over target and 543 under maintenance** — against yesterday's
+That is **8 kcal over target and 542 under maintenance** — against yesterday's
 2,560 kcal, 104 g of fat and no deficit at all. Same protein, 547 fewer
 calories, 21 g less fat.
 
@@ -419,7 +424,7 @@ midpoints:
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
-| 2026-09-08 | 1,898.5 (so far) | 106 g | 81.5 g | no — one scoop pending |
+| 2026-09-08 | 1,899.5 (so far) | 106 g | 81.5 g | no — one scoop pending |
 
 Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
 83.8 g fat**.
