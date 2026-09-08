@@ -38,6 +38,7 @@ src/App.jsx       the entire site: content, components, and its own CSS
 public/favicon.svg  "CA" monogram
 netlify.toml      Netlify build + SPA fallback
 vercel.json       Vercel build + SPA fallback
+docs/youtube/     channel context and metrics log for the YouTube channel
 ```
 
 ## Before going live — edit these
