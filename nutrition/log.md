@@ -275,6 +275,42 @@ room; it only works if lunch and dinner are both protein-anchored.
 
 ---
 
+## Day 5 — 2026-09-08 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Puttu + kadala curry | 420–600 | 12–16 g | 12–19 g |
+| **TOTAL (logged so far)** | | **420–600** | **12–16 g** | **12–19 g** |
+| **Midpoint** | | **510** | **14 g** | **15.5 g** |
+
+The mess served puttu rather than the Tuesday masala dosa on the menu.
+
+A better breakfast than it looks. Puttu is steamed rice flour and coconut with
+**no frying oil at all**, and the kadala carries the protein — 14 g, against
+9.5 g yesterday and 7.5 g on Day 1. Still 2.7 g of protein per 100 kcal, but the
+fat is coconut and curry oil rather than a fry-up.
+
+### Today reverses the trend, or it doesn't
+
+Four days of rising calories and rising fat ended with Day 4 at maintenance.
+Tuesday is a good day to break that: the mess dinner is green peas and chapati,
+one of the lightest of the week.
+
+**1,496 kcal left, 116 g of protein to find.**
+
+| | Calories | Protein |
+|---|---|---|
+| Ghee rice + chicken curry, rice halved | 565 | 28 g |
+| Green peas + 2 chapati | 450 | 17 g |
+| 3 whey scoops across the day | 345 | 67.5 g |
+| **Total incl. breakfast** | **1,870** | **126.5 g** |
+
+That is **686 kcal under maintenance** — the biggest deficit since Day 1 — with
+protein just under the floor. Scoops rather than eggs today: same protein, and
+yesterday's 104 g of fat came largely from four eggs stacked on a fatty day.
+
+---
+
 ## The mess constraint
 
 Food comes from a Grill Spot mess subscription on a fixed weekly menu. The
@@ -369,6 +405,7 @@ midpoints:
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
+| 2026-09-08 | 510 (so far) | 14 g | 15.5 g | no — breakfast only |
 
 Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
 83.8 g fat**.
