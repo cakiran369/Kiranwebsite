@@ -275,7 +275,7 @@ room; it only works if lunch and dinner are both protein-anchored.
 
 ---
 
-## Day 5 — 2026-09-08 (in progress)
+## Day 5 — 2026-09-08
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -284,8 +284,9 @@ room; it only works if lunch and dinner are both protein-anchored.
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Dinner | 2 chapati + green peas curry + 2 boiled eggs | 520–676 | 26–33 g | 22–33 g |
 | Drink | Coca-Cola Zero Sugar, 245 ml | 0–2 | 0 g | 0 g |
-| **TOTAL (logged so far)** | | **1,605–2,194** | **93–119 g** | **64–99 g** |
-| **Midpoint** | | **1,899.5** | **106 g** | **81.5 g** |
+| Snack | 1 whey scoop + water | 100–120 | 20–25 g | 1–2 g |
+| **TOTAL** | | **1,705–2,314** | **113–144 g** | **65–101 g** |
+| **Midpoint** | | **2,009.5** | **128.5 g** | **83 g** |
 
 Worth noting against the juices earlier in the log: this drink really is zero.
 The pineapple and orange juices, both described as without sugar, cost 180 and
@@ -307,26 +308,26 @@ A better breakfast than it looks. Puttu is steamed rice flour and coconut with
 9.5 g yesterday and 7.5 g on Day 1. Still 2.7 g of protein per 100 kcal, but the
 fat is coconut and curry oil rather than a fry-up.
 
-### Today reverses the trend
+### Day 5 closed — the trend broke
 
-Four days of rising calories and rising fat ended with Day 4 at maintenance.
-Tuesday is a good day to break that: the mess dinner is green peas and chapati,
-one of the lightest of the week.
+**2,009.5 kcal, 3 above target and 547 under maintenance.** Protein 128.5 g,
+fat 83 g.
 
-With breakfast and lunch logged, **821 kcal left and 76 g of protein to find.**
+| | Day 4 | Day 5 |
+|---|---|---|
+| Calories | 2,560.5 | **2,009.5** |
+| Protein | 130.1 g | 128.5 g |
+| Fat | 104.25 g | **83 g** |
+| vs maintenance | −4 | **+547** |
 
-| | Calories | Protein | Fat |
-|---|---|---|---|
-| Logged so far | 1,899.5 | 106 g | 81.5 g |
-| 1 more whey scoop | 115 | 22.5 g | 1.5 g |
-| **Day total** | **2,014.5** | **128.5 g** | **83 g** |
+**551 fewer calories and 21 g less fat for the same protein.** Four days of
+rising calories and rising fat stopped here, and it stopped by swapping rather
+than restricting: dry-fried eggs instead of oil-fried, rice halved, eggs on the
+dinner as the protein anchor, whey rather than more eggs late.
 
-That is **8 kcal over target and 542 under maintenance** — against yesterday's
-2,560 kcal, 104 g of fat and no deficit at all. Same protein, 547 fewer
-calories, 21 g less fat.
-
-One scoop, not two: two would take protein to 151 g but put the day 122 kcal
-over target for protein that is no longer needed.
+Hunger arrived at night, and was met with the scoop the plan already owed —
+which is the correct answer to it. Hunger on a 547 kcal deficit is the receipt,
+not a warning.
 
 ---
 
@@ -424,39 +425,36 @@ midpoints:
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
-| 2026-09-08 | 1,899.5 (so far) | 106 g | 81.5 g | no — one scoop pending |
+| 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
 
-Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
-83.8 g fat**.
+Five complete days. Averages of the midpoints: **2,173 kcal, 110.8 g protein,
+83.7 g fat** — a 383 kcal/day deficit, **0.35 kg/week**.
 
 | Date | Calories | vs maintenance | Protein | Fat |
 |---|---|---|---|---|
 | 2026-09-04 | 1,808 | −748 | 78.5 g | 67.5 g |
 | 2026-09-05 | 2,178 | −379 | 107.3 g | 78.3 g |
 | 2026-09-06 | 2,310 | −246 | 109.5 g | 85.3 g |
-| 2026-09-07 | 2,560 | **+4** | **130.1 g** | 104.3 g |
+| 2026-09-07 | 2,560 | +4 | 130.1 g | 104.3 g |
+| **2026-09-08** | **2,010** | **−547** | **128.5 g** | **83 g** |
 
-**Every line moves the same way, day after day, and two of the three are moving
-the wrong way.**
+**The four-day rise ended on Day 5.** Calories and fat had climbed every single
+day through Day 4; Day 5 cut 551 kcal and 21 g of fat while holding protein.
 
-**Protein: fixed.** 78.5 → 107 → 110 → 130. Four days of steady improvement and
-the floor cleared. Whatever was wrong at the start is no longer wrong.
+**Protein: solved.** 78.5 → 107 → 110 → 130 → 128.5. Two consecutive days at or
+about the floor, from a starting point 50 g below it.
 
-**Calories: up 42% in four days.** 1,808 → 2,560. Day 4 sat exactly at base
-maintenance; without the walk there was no deficit at all. The four-day average
-gives a 342 kcal/day deficit — **0.31 kg/week, not 0.5**. Walking 5 km every day
-would lift that to 0.52, but that is one day of walk data, not four.
+**Calories: the rise is broken, but the average still lags.** 383 kcal/day is
+0.35 kg/week against a 0.5 target. Days 2–4 are what cost it; Day 5 is the shape
+that fixes it, and two more like it would pull the average to target.
 
-**Fat: up 55% in four days.** 67.5 → 104.3, against a 55 g floor. It is now 37%
-of intake.
+**Fat: turned, not solved.** 83 g is 21 g better than Day 4 but still 28 g above
+the floor and 34% of intake. It remains the loose macro.
 
-The three are one story: **protein was bought by adding food rather than by
-replacing it.** Eggs, pathiri and a full dinner went on top of days that were
-already complete. That fixes protein and spends the deficit at the same time.
-
-Next week's job is the swap, not the addition — protein-dense food in place of
-fat-dense food at the same calories. The mess plate proved it can be done: eggs
-added, rice halved, 44 g of protein, and the day still had room afterwards.
+The lesson of the five days is one sentence: **protein bought by adding food
+spends the deficit; protein bought by swapping food does not.** Days 2–4 added.
+Day 5 swapped — dry-fried eggs, halved rice, whey instead of a fourth and fifth
+egg — and produced better protein, less fat and 551 fewer calories at once.
 
 Where the fat comes from is not mysterious: coconut chutney, deep-fried vada,
 layered porotta, oil-heavy curry, cajun-fried tofu. The fix is not eating less.
