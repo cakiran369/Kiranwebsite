@@ -282,8 +282,13 @@ room; it only works if lunch and dinner are both protein-anchored.
 | Breakfast | Puttu + kadala curry | 420–600 | 12–16 g | 12–19 g |
 | Lunch | 2 eggs dry-fried (no oil) + half container ghee rice + small chicken curry + curd salad | 565–786 | 35–45 g | 29–44 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
-| **TOTAL (logged so far)** | | **1,085–1,516** | **67–86 g** | **42–66 g** |
-| **Midpoint** | | **1,300.5** | **76.5 g** | **54 g** |
+| Dinner | 2 chapati + green peas curry + 2 boiled eggs | 520–676 | 26–33 g | 22–33 g |
+| **TOTAL (logged so far)** | | **1,605–2,192** | **93–119 g** | **63–100 g** |
+| **Midpoint** | | **1,898.5** | **106 g** | **81.5 g** |
+
+Eggs went onto the mess dinner as the protein anchor — 29.5 g from a meal that
+would otherwise have given 17 g. The evening slot that decided the first four
+days is now the one carrying protein.
 
 **This lunch is the swap, done properly.** Eggs cooked dry with pepper and salt
 instead of in oil (~20–25 kcal saved per egg), the ghee rice halved without being
@@ -307,13 +312,16 @@ With breakfast and lunch logged, **821 kcal left and 76 g of protein to find.**
 
 | | Calories | Protein | Fat |
 |---|---|---|---|
-| Green peas + 2 chapati (mess dinner) | 450 | 17 g | 17 g |
-| 2 more whey scoops (one already taken) | 230 | 45 g | 3 g |
-| **Day total** | **1,980** | **138.5 g** | **73.5 g** |
+| Logged so far | 1,898.5 | 106 g | 81.5 g |
+| 1 more whey scoop | 115 | 22.5 g | 1.5 g |
+| **Day total** | **2,013.5** | **128.5 g** | **83 g** |
 
-That would be **576 kcal under maintenance with the floor cleared** — and 31 g
-less fat than yesterday on 580 fewer calories, for 8 g more protein. The whole
-week's argument in one day.
+That is **7 kcal over target and 543 under maintenance** — against yesterday's
+2,560 kcal, 104 g of fat and no deficit at all. Same protein, 547 fewer
+calories, 21 g less fat.
+
+One scoop, not two: two would take protein to 151 g but put the day 122 kcal
+over target for protein that is no longer needed.
 
 ---
 
@@ -411,7 +419,7 @@ midpoints:
 | 2026-09-05 | 2,177.5 | 107.25 g | 78.25 g | yes |
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
-| 2026-09-08 | 1,300.5 (so far) | 76.5 g | 54 g | no — dinner to come |
+| 2026-09-08 | 1,898.5 (so far) | 106 g | 81.5 g | no — one scoop pending |
 
 Four complete days. Averages of the midpoints: **2,214 kcal, 106.3 g protein,
 83.8 g fat**.
