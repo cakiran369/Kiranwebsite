@@ -338,8 +338,10 @@ not a warning.
 | Breakfast | 1 dosa + egg roast (1 whole egg) | 360–490 | 10–14 g | 17–28 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Lunch | Mess meals plate, rice halved, + 2 boiled eggs + 1-egg omelette, veg curry, coconut thoran, kadala-veg thoran, chutney | 760–1,060 | 33–44 g | 31–48 g |
-| **TOTAL (logged so far)** | | **1,220–1,680** | **63–83 g** | **49–79 g** |
-| **Midpoint** | | **1,450** | **73 g** | **64 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| Snack | 2 boiled eggs | 140–156 | 12–13 g | 10–11 g |
+| **TOTAL (logged so far)** | | **1,460–1,966** | **95–121 g** | **60–93 g** |
+| **Midpoint** | | **1,713** | **108 g** | **76.5 g** |
 
 Both levers again, third day running: rice halved, three eggs' worth of protein
 added. The plate came in at 4.2 g of protein per 100 kcal against the mess
@@ -354,22 +356,24 @@ would have cost 74 kcal for 6.3 g — cheap on a breakfast this light.
 
 ### Wednesday is one of the two tight days
 
-**550 kcal left to target, 57 g of protein still to find.** Lunch landed
-~160 kcal above the plan, because three eggs cost more than the model's fish.
+**108 g of protein before dinner** — the best pre-dinner position in the log,
+and the third scoop is no longer needed. 287 kcal to target, 22 g of protein
+still wanted.
 
-| | Calories | Protein | vs maintenance |
-|---|---|---|---|
-| Curry + 1 chapati + 1 scoop | 2,030 | 123 g | −520 |
-| Curry only + 2 scoops | **2,030** | **142 g** | −520 |
-| Curry + 1 chapati + 2 scoops | 2,145 | 145.5 g | −405 |
+| Dinner | Calories | Protein | Fat | vs maintenance |
+|---|---|---|---|---|
+| Curry only | 2,063 | 132 g | 95.5 g | −487 |
+| **Curry + 1 chapati** | **2,178** | **135.5 g** | 98.5 g | **−372** |
+| Curry + 2 chapati | 2,293 | 139 g | 101.5 g | −257 |
 
-The first two cost exactly the same and differ by 19 g of protein — the chapati
-and the scoop are both 115 kcal. Any of the three is a good day; the third keeps
-the bread and still leaves a 405 kcal deficit.
+All three clear the floor. Take the bread.
 
-Fat is at 64 g by lunch, and eggs are why: nine eggs across three days. They are
-good food, but on a plate that already carries curry oil the scoop buys the same
-protein for a tenth of the fat.
+**Six eggs today** — one at breakfast, three at lunch, two now — is ~444 kcal,
+~38 g of protein and **~31 g of fat**. The same 38 g of protein from whey would
+be ~195 kcal and ~2.5 g of fat. Protein is no longer the problem on this plan;
+fat is, and eggs are now most of the reason. Nothing to change tonight — the day
+is good either way — but on days when both are available, the shaker is the
+cheaper source.
 
 ---
 
@@ -472,7 +476,7 @@ midpoints:
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
-| 2026-09-09 | 1,450 (so far) | 73 g | 64 g | no — dinner to come |
+| 2026-09-09 | 1,713 (so far) | 108 g | 76.5 g | no — dinner to come |
 
 Five complete days. Averages of the midpoints: **2,173 kcal, 110.8 g protein,
 83.7 g fat** — a 383 kcal/day deficit, **0.35 kg/week**.
