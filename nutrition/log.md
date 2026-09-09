@@ -331,6 +331,40 @@ not a warning.
 
 ---
 
+## Day 6 — 2026-09-09 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 1 dosa + egg roast (1 whole egg) | 360–490 | 10–14 g | 17–28 g |
+| **TOTAL (logged so far)** | | **360–490** | **10–14 g** | **17–28 g** |
+| **Midpoint** | | **425** | **12 g** | **22.5 g** |
+
+**The Wednesday cut was made at breakfast, as planned.** The menu's poratta and
+egg roast models at ~630 kcal; a dosa in place of the poratta brought it to 425.
+~205 kcal saved on the heaviest breakfast of the week.
+
+Protein is 12 g, because the egg roast had one egg rather than two. A second egg
+would have cost 74 kcal for 6.3 g — cheap on a breakfast this light.
+
+### Wednesday is one of the two tight days
+
+**1,575 kcal left, 118 g of protein to find.** Two ways to spend it, both landing
+on the same calories:
+
+| | Calories | Protein |
+|---|---|---|
+| Halved rice, **2 chapati** at dinner, 2 scoops | 1,985 | 119 g |
+| Halved rice, **1 chapati** at dinner, 3 scoops | **1,985** | **138 g** ✓ |
+
+Identical calories, 19 g apart. A chapati and a whey scoop cost the same 115 kcal;
+the chapati carries 3.5 g of protein and the scoop 22.5 g.
+
+This does not overturn the standing rule — on a loose day like Friday, keep both
+chapati, because fullness is worth more than the last few grams. On a tight day
+like Wednesday, the swap is what makes the floor reachable at all.
+
+---
+
 ## The mess constraint
 
 Food comes from a Grill Spot mess subscription on a fixed weekly menu. The
@@ -430,6 +464,7 @@ midpoints:
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
+| 2026-09-09 | 425 (so far) | 12 g | 22.5 g | no — breakfast only |
 
 Five complete days. Averages of the midpoints: **2,173 kcal, 110.8 g protein,
 83.7 g fat** — a 383 kcal/day deficit, **0.35 kg/week**.
