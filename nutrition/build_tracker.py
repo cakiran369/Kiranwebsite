@@ -375,32 +375,32 @@ def build_measurements(ws, rows):
                 "and muscle staying, which the scale alone cannot show.")
     ws["A2"].font = NOTE
     ws["A2"].alignment = Alignment(wrap_text=True, vertical="top")
-    ws.merge_cells("A2:I2")
+    ws.merge_cells("A2:K2")
     ws.row_dimensions[2].height = 42
 
     headers = ["Date", "Waist (cm)", "Arm relaxed", "Arm flexed", "Chest", "Hips",
-               "Thigh", "Waist change", "Arm change", "Note"]
+               "Thigh", "Calf", "Waist change", "Arm change", "Note"]
     hr = 4
     for c, h in enumerate(headers, start=1):
         ws.cell(row=hr, column=c, value=h)
     style_header(ws, hr, len(headers),
-                 widths=[12, 11, 12, 11, 9, 9, 9, 12, 11, 40])
+                 widths=[12, 11, 12, 11, 9, 9, 9, 9, 12, 11, 40])
 
     first = hr + 1
     for i, row in enumerate(rows):
         r = first + i
         ws.cell(row=r, column=1, value=dt.date.fromisoformat(row["date"])).number_format = DATE_FMT
         for c, key in enumerate(["waist_cm", "arm_relaxed_cm", "arm_flexed_cm",
-                                 "chest_cm", "hips_cm", "thigh_cm"], start=2):
+                                 "chest_cm", "hips_cm", "thigh_cm", "calf_cm"], start=2):
             v = row.get(key, "").strip()
             ws.cell(row=r, column=c, value=float(v) if v else None).number_format = "0.0"
-        ws.cell(row=r, column=8, value=f"=IFERROR(B{r}-$B${first},\"\")").number_format = "+0.0;-0.0;0.0"
-        ws.cell(row=r, column=9, value=f"=IFERROR(C{r}-$C${first},\"\")").number_format = "+0.0;-0.0;0.0"
-        ws.cell(row=r, column=10, value=row.get("note", ""))
-        for c in range(1, 11):
+        ws.cell(row=r, column=9, value=f"=IFERROR(B{r}-$B${first},\"\")").number_format = "+0.0;-0.0;0.0"
+        ws.cell(row=r, column=10, value=f"=IFERROR(C{r}-$C${first},\"\")").number_format = "+0.0;-0.0;0.0"
+        ws.cell(row=r, column=11, value=row.get("note", ""))
+        for c in range(1, 12):
             cell = ws.cell(row=r, column=c)
             cell.border = BOX
-            cell.font = FORMULA_BLACK if c in (8, 9) else INPUT_BLUE
+            cell.font = FORMULA_BLACK if c in (9, 10) else INPUT_BLUE
 
     if not rows:
         c = ws.cell(row=first, column=1, value="No measurements yet - add a row to measurements.csv.")

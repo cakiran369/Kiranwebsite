@@ -27,11 +27,11 @@ From 162.5 cm / 33 y / male and the latest weigh-in. The workbook's Targets
 sheet reads the most recent weight off the Weights sheet and re-derives
 everything below it, so a new weigh-in updates the target automatically.
 
-| | Value (at 90.75 kg) |
+| | Value (at 90.30 kg) |
 |---|---|
-| BMR (Mifflin-St Jeor) | 1,763 kcal |
-| Maintenance (TDEE), ×1.45 | ~2,557 kcal |
-| **Calorie target** | **~2,007 kcal/day** |
+| BMR (Mifflin-St Jeor) | 1,759 kcal |
+| Maintenance (TDEE), ×1.45 | ~2,550 kcal |
+| **Calorie target** | **~2,000 kcal/day** |
 | Protein | 130–145 g/day |
 | Fat floor | 55 g/day |
 | Carbs (remainder) | ~248 g/day |
@@ -91,7 +91,7 @@ deliberately higher than the earlier 90–130 g band: in a deficit, on six
 sessions a week, protein is what keeps the loss coming off fat rather than
 muscle.
 
-BMI is 34.4, which is worth raising with a GP or dietitian alongside this plan.
+BMI is 34.2, which is worth raising with a GP or dietitian alongside this plan.
 
 ---
 
@@ -393,16 +393,20 @@ aim; a 118 g day is not a failure.
 
 ## Weigh-ins
 
-| Date | Weight | Change | Since start |
-|---|---|---|---|
-| 2026-09-05 | 91.50 kg | — | — |
-| 2026-09-07 | 90.75 kg | −0.75 kg | −0.75 kg |
+| Date | Weight | Change | Since start | Trailing avg |
+|---|---|---|---|---|
+| 2026-09-05 | 91.50 kg | — | — | 91.50 |
+| 2026-09-07 | 90.75 kg | −0.75 kg | −0.75 kg | 91.13 |
+| 2026-09-09 | 90.30 kg | −0.45 kg | **−1.20 kg** | 90.85 |
 
-**Do not read this as 0.75 kg of fat.** The logged deficit across the two days
-the scale covers was ~647 kcal, which is **0.084 kg of fat**. The other 0.67 kg
-— 89% of the drop — is water, glycogen and gut contents, exactly what a first
-week looks like when carbohydrate portions come down (three porotta to two, and
-so on). Every gram of glycogen holds about three grams of water with it.
+**Do not read 1.2 kg as 1.2 kg of fat.** The logged deficit across the four days
+the scale covers is ~1,168 kcal, which is **0.15 kg of fat**. The other 1.05 kg
+— 87% of the drop — is water, glycogen and gut contents, exactly what a first
+week looks like when carbohydrate portions come down. Every gram of glycogen
+holds about three grams of water with it.
+
+The direction is right and the rate will slow sharply once glycogen settles.
+Expect that, so it does not read as failure when it happens.
 
 That is not bad news. It is the normal shape of a start, and it means the number
 will slow down sharply once glycogen settles. Expect that, so it doesn't read as
