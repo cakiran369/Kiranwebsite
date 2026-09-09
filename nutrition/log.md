@@ -336,8 +336,9 @@ not a warning.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 1 dosa + egg roast (1 whole egg) | 360–490 | 10–14 g | 17–28 g |
-| **TOTAL (logged so far)** | | **360–490** | **10–14 g** | **17–28 g** |
-| **Midpoint** | | **425** | **12 g** | **22.5 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| **TOTAL (logged so far)** | | **460–620** | **30–39 g** | **18–31 g** |
+| **Midpoint** | | **540** | **34.5 g** | **24.5 g** |
 
 **The Wednesday cut was made at breakfast, as planned.** The menu's poratta and
 egg roast models at ~630 kcal; a dosa in place of the poratta brought it to 425.
@@ -348,13 +349,13 @@ would have cost 74 kcal for 6.3 g — cheap on a breakfast this light.
 
 ### Wednesday is one of the two tight days
 
-**1,575 kcal left, 118 g of protein to find.** Two ways to spend it, both landing
-on the same calories:
+**1,460 kcal left, 95.5 g of protein to find** after the first scoop. Two ways to
+spend it, both landing on the same calories:
 
 | | Calories | Protein |
 |---|---|---|
-| Halved rice, **2 chapati** at dinner, 2 scoops | 1,985 | 119 g |
-| Halved rice, **1 chapati** at dinner, 3 scoops | **1,985** | **138 g** ✓ |
+| Halved rice, **2 chapati** at dinner, 1 more scoop | 1,985 | 119 g |
+| Halved rice, **1 chapati** at dinner, 2 more scoops | **1,985** | **138 g** ✓ |
 
 Identical calories, 19 g apart. A chapati and a whey scoop cost the same 115 kcal;
 the chapati carries 3.5 g of protein and the scoop 22.5 g.
@@ -464,7 +465,7 @@ midpoints:
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
-| 2026-09-09 | 425 (so far) | 12 g | 22.5 g | no — breakfast only |
+| 2026-09-09 | 540 (so far) | 34.5 g | 24.5 g | no — in progress |
 
 Five complete days. Averages of the midpoints: **2,173 kcal, 110.8 g protein,
 83.7 g fat** — a 383 kcal/day deficit, **0.35 kg/week**.
