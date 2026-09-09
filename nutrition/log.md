@@ -331,7 +331,7 @@ not a warning.
 
 ---
 
-## Day 6 — 2026-09-09 (in progress)
+## Day 6 — 2026-09-09
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -340,8 +340,10 @@ not a warning.
 | Lunch | Mess meals plate, rice halved, + 2 boiled eggs + 1-egg omelette, veg curry, coconut thoran, kadala-veg thoran, chutney | 760–1,060 | 33–44 g | 31–48 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Snack | 2 boiled eggs | 140–156 | 12–13 g | 10–11 g |
-| **TOTAL (logged so far)** | | **1,460–1,966** | **95–121 g** | **60–93 g** |
-| **Midpoint** | | **1,713** | **108 g** | **76.5 g** |
+| Dinner | 2 chapati + chicken curry | 480–680 | 26–36 g | 20–34 g |
+| Drink | Coca-Cola Zero Sugar, 245 ml | 0–2 | 0 g | 0 g |
+| **TOTAL** | | **1,940–2,648** | **121–157 g** | **80–127 g** |
+| **Midpoint** | | **2,294** | **139 g** | **103.5 g** |
 
 Both levers again, third day running: rice halved, three eggs' worth of protein
 added. The plate came in at 4.2 g of protein per 100 kcal against the mess
@@ -356,24 +358,27 @@ would have cost 74 kcal for 6.3 g — cheap on a breakfast this light.
 
 ### Wednesday is one of the two tight days
 
-**108 g of protein before dinner** — the best pre-dinner position in the log,
-and the third scoop is no longer needed. 287 kcal to target, 22 g of protein
-still wanted.
+### Day 6 closed
 
-| Dinner | Calories | Protein | Fat | vs maintenance |
-|---|---|---|---|---|
-| Curry only | 2,063 | 132 g | 95.5 g | −487 |
-| **Curry + 1 chapati** | **2,178** | **135.5 g** | 98.5 g | **−372** |
-| Curry + 2 chapati | 2,293 | 139 g | 101.5 g | −257 |
+**2,294 kcal, 139 g protein, 103.5 g fat** — 294 over target, 256 under
+maintenance. Best protein day in the log; second-highest fat.
 
-All three clear the floor. Take the bread.
+The split is the interesting part:
 
-**Six eggs today** — one at breakfast, three at lunch, two now — is ~444 kcal,
-~38 g of protein and **~31 g of fat**. The same 38 g of protein from whey would
-be ~195 kcal and ~2.5 g of fat. Protein is no longer the problem on this plan;
-fat is, and eggs are now most of the reason. Nothing to change tonight — the day
-is good either way — but on days when both are available, the shaker is the
-cheaper source.
+| | Calories |
+|---|---|
+| Meals (breakfast 425 + lunch 910 + dinner 581) | **1,916** — under target |
+| Snacks (2 scoops 230 + 2 eggs 148) | 378 |
+| **Total** | **2,294** |
+
+**The meals were well managed and came in under target on their own.** What took
+the day 294 over was the snack layer. Protein was already at 108 g before dinner,
+and dinner's own 31 g would have reached 139 g without the 5pm eggs. Dropping
+just those two eggs gives **2,146 kcal, 126.5 g protein, 93 g fat** — inside the
+band, 404 under maintenance.
+
+That is the refinement for next week: the mess plates are now handled. The
+question is no longer "how do I add protein" but "when do I stop adding it".
 
 ---
 
@@ -476,36 +481,40 @@ midpoints:
 | 2026-09-06 | 2,310 | 109.5 g | 85.25 g | yes |
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
-| 2026-09-09 | 1,713 (so far) | 108 g | 76.5 g | no — dinner to come |
+| 2026-09-09 | 2,294 | 139 g | 103.5 g | yes |
 
-Five complete days. Averages of the midpoints: **2,173 kcal, 110.8 g protein,
-83.7 g fat** — a 383 kcal/day deficit, **0.35 kg/week**.
+Six complete days. Averages of the midpoints: **2,193 kcal, 115.5 g protein,
+87.0 g fat** — a 357 kcal/day deficit, **0.32 kg/week**.
 
 | Date | Calories | vs maintenance | Protein | Fat |
 |---|---|---|---|---|
-| 2026-09-04 | 1,808 | −748 | 78.5 g | 67.5 g |
-| 2026-09-05 | 2,178 | −379 | 107.3 g | 78.3 g |
-| 2026-09-06 | 2,310 | −246 | 109.5 g | 85.3 g |
-| 2026-09-07 | 2,560 | +4 | 130.1 g | 104.3 g |
-| **2026-09-08** | **2,010** | **−547** | **128.5 g** | **83 g** |
+| 2026-09-04 | 1,808 | −742 | 78.5 g | 67.5 g |
+| 2026-09-05 | 2,178 | −372 | 107.3 g | 78.3 g |
+| 2026-09-06 | 2,310 | −240 | 109.5 g | 85.3 g |
+| 2026-09-07 | 2,560 | −10 | 130.1 g | 104.3 g |
+| 2026-09-08 | 2,010 | −540 | 128.5 g | 83 g |
+| 2026-09-09 | 2,294 | −256 | **139 g** | 103.5 g |
 
-**The four-day rise ended on Day 5.** Calories and fat had climbed every single
-day through Day 4; Day 5 cut 551 kcal and 21 g of fat while holding protein.
+**Protein: solved, three days running.** 128.5, 139 and 130 on the last three
+complete days, from a start of 78.5. This no longer needs managing.
 
-**Protein: solved.** 78.5 → 107 → 110 → 130 → 128.5. Two consecutive days at or
-about the floor, from a starting point 50 g below it.
+**Calories: no trend, and the average lags.** 1,808 · 2,178 · 2,310 · 2,560 ·
+2,010 · 2,294. The 357 kcal/day average is **0.32 kg/week against a 0.5 target**.
+The variance is the story, not the level: the two best days were 1,808 and 2,010,
+the two worst 2,560 and 2,294.
 
-**Calories: the rise is broken, but the average still lags.** 383 kcal/day is
-0.35 kg/week against a 0.5 target. Days 2–4 are what cost it; Day 5 is the shape
-that fixes it, and two more like it would pull the average to target.
+**Fat: the one line still wrong.** 87 g average against a 55 g floor, with two
+days over 100 g. It is 36% of intake.
 
-**Fat: turned, not solved.** 83 g is 21 g better than Day 4 but still 28 g above
-the floor and 34% of intake. It remains the loose macro.
+Both problems trace to the same habit. **The mess plates are now handled
+properly — halved rice, eggs added, one chapati on tight days.** What varies is
+the snack layer stacked on top: on Day 5 it was one scoop and the day landed at
+2,010; on Days 4 and 6 it was four to six eggs and the days landed at 2,560 and
+2,294.
 
-The lesson of the five days is one sentence: **protein bought by adding food
-spends the deficit; protein bought by swapping food does not.** Days 2–4 added.
-Day 5 swapped — dry-fried eggs, halved rice, whey instead of a fourth and fifth
-egg — and produced better protein, less fat and 551 fewer calories at once.
+Next week's single adjustment: **decide the day's protein at the meals, then stop.**
+When the pre-dinner figure is already above 100 g, an extra snack buys nothing and
+costs 150–300 kcal.
 
 Where the fat comes from is not mysterious: coconut chutney, deep-fried vada,
 layered porotta, oil-heavy curry, cajun-fried tofu. The fix is not eating less.
