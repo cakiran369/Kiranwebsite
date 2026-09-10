@@ -59,6 +59,55 @@ they took ~0.9 of the ~1.1-hour net gain. The 90-day window was shedding June
 days over the same period, so treat the split as directional rather than exact —
 but the direction is not in doubt.
 
+## FRM retention curve — read 10 Sept 2026 (lifetime)
+
+Lifetime figures: 2:16 average view duration, 41.9% retention, 5:26 runtime.
+The 43.3% / 2:21 in the context file was a 90-day figure — different window,
+not a decline.
+
+Shape of the curve, read off the Studio graph:
+
+| Segment | Retention | What it means |
+|---------|-----------|---------------|
+| 0:00 | starts ~82% | ~18% gone in the first seconds, before any content lands |
+| 0:00 → ~2:00 | 82% → 33% | continuous slide; ~60% of the audience lost here |
+| ~2:00 → ~4:30 | flat 33–40%, small rise around 3:00–3:30 | content holds; one moment actively re-engages |
+| ~4:30 → 5:26 | 33% → 22% | normal outro fade |
+
+**The loss is a slide, not a cliff.** A cliff means one bad moment to cut. A
+smooth two-minute decline means nothing in the opening is holding attention —
+there is no single edit point to fix, the whole first two minutes has to earn
+its place. This refines the "0:30–1:30 drop-off" note in the context file: the
+bleed starts at 0:00 and runs to 2:00.
+
+**The plateau is the good news.** Anyone who survives two minutes stays to the
+end. The content is not the problem; the opening is.
+
+Modelling the curve as three segments reproduces the actual 2:16 / 41.9%, so
+the same model can price a fix:
+
+| Scenario | Avg view duration | Retention | Watch time per view |
+|---|---|---|---|
+| Today | 2:16 | 41.9% | — |
+| Opening stops bleeding (conservative) | 2:39 | 49% | +19% |
+| Opening holds ~60% at 2:00 (optimistic) | 3:14 | 60% | +45% |
+
+### Retention is length-independent on this channel
+
+| Video | Runtime | Retention | Avg view duration |
+|-------|---------|-----------|-------------------|
+| FRM | 5:26 | 41.9% | 2:16 |
+| US CPA | 7:28 | 41.1% | 3:04 |
+| CFA | 11:04 | 40.4% | 4:28 |
+
+Retention percentage barely moves across a 2x runtime range. Longer videos are
+not being punished, so **runtime is close to a linear multiplier on watch time
+per view**. A 15-minute video at the same 41% would average 6:09 — nearly 3x
+FRM. Fix the opening as well and 15 minutes at 55% averages 8:15.
+
+This is the highest-leverage finding in the data so far, and it costs nothing
+but a longer script.
+
 ## Monetisation working (as at Day 94, 10 Sept 2026)
 
 ### The thresholds actually facing this channel
