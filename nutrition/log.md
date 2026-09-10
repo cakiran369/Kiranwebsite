@@ -388,8 +388,9 @@ question is no longer "how do I add protein" but "when do I stop adding it".
 |---|---|---|---|---|
 | Breakfast | 1 dosa + sambar + red chutney (coconut chutney skipped) | 350–480 | 8–12 g | 12–25 g |
 | Lunch | Mess meals plate, rice halved, + matthi taken without the gravy + 2 small fried chicken pieces + sides | 760–1,150 | 39–57 g | 28–53 g |
-| **TOTAL (logged so far)** | | **1,110–1,630** | **47–69 g** | **40–78 g** |
-| **Midpoint** | | **1,370** | **58 g** | **59 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| **TOTAL (logged so far)** | | **1,210–1,760** | **67–94 g** | **41–81 g** |
+| **Midpoint** | | **1,485** | **80.5 g** | **61 g** |
 
 **Lifting the fish out and leaving the gravy behind is the sharpest single move
 in the log so far.** Matthi curry gravy is where the oil sits; taking the fish
@@ -405,17 +406,18 @@ No meat anywhere on the menu today: ghee roast, meals, gobbi chilly. 54 g of
 protein as served, the lowest of the week — and lunch has already beaten that
 on its own.
 
-**630 kcal to target, 72 g of protein still to find.**
+**515 kcal to target, 49.5 g of protein still to find** after the first scoop.
 
 | | Calories | Protein | vs maintenance |
 |---|---|---|---|
-| Gobbi + 2 chapati + 3 scoops | 2,195 | 139 g | −355 |
-| **Grilled bream in place of the gobbi + 2 scoops** | **1,925** | **145 g** | **−625** |
-| Bream + 1 chapati + 1 scoop | 1,925 | 126 g | −625 |
+| Gobbi + 2 chapati + 2 more scoops | 2,195 | 139 g | −355 |
+| **Bream in place of the gobbi + 1 more scoop** | **1,925** | **145 g** | **−625** |
+| Bream alone, no further scoop | 1,810 | 122.5 g | **−740** |
 
 The bream still turns this into the week's best day: **145 g of protein at
 1,925 kcal, 625 under maintenance.** The mess dinner works too, but costs
-270 more calories for 6 g less protein.
+270 more calories for 6 g less protein. Bream on its own would be the biggest
+deficit of the week at 740, with protein still inside the band.
 
 ---
 
@@ -519,7 +521,7 @@ midpoints:
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
 | 2026-09-09 | 2,294 | 139 g | 103.5 g | yes |
-| 2026-09-10 | 1,370 (so far) | 58 g | 59 g | no — dinner to come |
+| 2026-09-10 | 1,485 (so far) | 80.5 g | 61 g | no — dinner to come |
 
 Six complete days. Averages of the midpoints: **2,193 kcal, 115.5 g protein,
 87.0 g fat** — a 357 kcal/day deficit, **0.32 kg/week**.
