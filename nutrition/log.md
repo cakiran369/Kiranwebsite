@@ -389,8 +389,15 @@ question is no longer "how do I add protein" but "when do I stop adding it".
 | Breakfast | 1 dosa + sambar + red chutney (coconut chutney skipped) | 350–480 | 8–12 g | 12–25 g |
 | Lunch | Mess meals plate, rice halved, + matthi taken without the gravy + 2 small fried chicken pieces + sides | 760–1,150 | 39–57 g | 28–53 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
-| **TOTAL (logged so far)** | | **1,210–1,760** | **67–94 g** | **41–81 g** |
-| **Midpoint** | | **1,485** | **80.5 g** | **61 g** |
+| Snack | Chicken roll, breadcrumbed and deep-fried | 290–400 | 10–15 g | 15–23 g |
+| **TOTAL (logged so far)** | | **1,500–2,160** | **77–109 g** | **56–104 g** |
+| **Midpoint** | | **1,830** | **93 g** | **80 g** |
+
+The roll was first costed as a paratha wrap at ~17 g of protein. On seeing it —
+breadcrumbed, deep-fried, mostly white bread with a thin filling — it is
+**12.5 g at 3.6 g per 100 kcal**, barely above the mess baseline and a third of
+the bream's density. The calories are the same; they are just bread and frying
+oil rather than chicken.
 
 **Lifting the fish out and leaving the gravy behind is the sharpest single move
 in the log so far.** Matthi curry gravy is where the oil sits; taking the fish
