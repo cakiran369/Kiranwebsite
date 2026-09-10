@@ -382,6 +382,35 @@ question is no longer "how do I add protein" but "when do I stop adding it".
 
 ---
 
+## Day 7 — 2026-09-10 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 1 dosa + sambar + red chutney (coconut chutney skipped) | 350–480 | 8–12 g | 12–25 g |
+| **TOTAL (logged so far)** | | **350–480** | **8–12 g** | **12–25 g** |
+| **Midpoint** | | **415** | **10 g** | **18.5 g** |
+
+Coconut chutney skipped again — the same cut made on Day 1, and still worth
+~100 kcal and ~9 g of fat every time.
+
+### Thursday is the protein desert
+
+No meat anywhere on the menu today: ghee roast, meals, gobbi chilly. 54 g of
+protein as served, the lowest of the week. **1,585 kcal and 120 g of protein
+left to find.**
+
+| | Calories | Protein | vs maintenance |
+|---|---|---|---|
+| A — mess only (gobbi + 2 chapati), 3 scoops | 1,990 | 122 g | −560 |
+| B — grilled bream in place of the gobbi, 2 scoops | **1,720** | 128 g | **−830** |
+| C — bream + 1 chapati in place of the gobbi, 2 scoops | 1,835 | **131.5 g** | −715 |
+
+**C.** The bream turns the week's weakest day into its strongest: 131.5 g of
+protein, 715 under maintenance, and the protein comes from food rather than
+three shakers. Yesterday it would have erased a deficit; today it creates one.
+
+---
+
 ## The mess constraint
 
 Food comes from a Grill Spot mess subscription on a fixed weekly menu. The
@@ -482,6 +511,7 @@ midpoints:
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
 | 2026-09-09 | 2,294 | 139 g | 103.5 g | yes |
+| 2026-09-10 | 415 (so far) | 10 g | 18.5 g | no — breakfast only |
 
 Six complete days. Averages of the midpoints: **2,193 kcal, 115.5 g protein,
 87.0 g fat** — a 357 kcal/day deficit, **0.32 kg/week**.
