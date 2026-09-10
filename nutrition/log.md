@@ -390,8 +390,9 @@ question is no longer "how do I add protein" but "when do I stop adding it".
 | Lunch | Mess meals plate, rice halved, + matthi taken without the gravy + 2 small fried chicken pieces + sides | 760–1,150 | 39–57 g | 28–53 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Snack | Chicken roll, breadcrumbed and deep-fried | 290–400 | 10–15 g | 15–23 g |
-| **TOTAL (logged so far)** | | **1,500–2,160** | **77–109 g** | **56–104 g** |
-| **Midpoint** | | **1,830** | **93 g** | **80 g** |
+| Dinner | 2 chapati + gobi chilli | 380–540 | 10–15 g | 14–26 g |
+| **TOTAL (logged so far)** | | **1,880–2,700** | **87–124 g** | **70–130 g** |
+| **Midpoint** | | **2,290** | **105.5 g** | **100 g** |
 
 The roll was first costed as a paratha wrap at ~17 g of protein. On seeing it —
 breadcrumbed, deep-fried, mostly white bread with a thin filling — it is
@@ -528,7 +529,7 @@ midpoints:
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
 | 2026-09-09 | 2,294 | 139 g | 103.5 g | yes |
-| 2026-09-10 | 1,485 (so far) | 80.5 g | 61 g | no — dinner to come |
+| 2026-09-10 | 2,290 (so far) | 105.5 g | 100 g | no — one scoop pending |
 
 Six complete days. Averages of the midpoints: **2,193 kcal, 115.5 g protein,
 87.0 g fat** — a 357 kcal/day deficit, **0.32 kg/week**.
