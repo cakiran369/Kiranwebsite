@@ -387,8 +387,14 @@ question is no longer "how do I add protein" but "when do I stop adding it".
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 1 dosa + sambar + red chutney (coconut chutney skipped) | 350–480 | 8–12 g | 12–25 g |
-| **TOTAL (logged so far)** | | **350–480** | **8–12 g** | **12–25 g** |
-| **Midpoint** | | **415** | **10 g** | **18.5 g** |
+| Lunch | Mess meals plate, rice halved, + matthi taken without the gravy + chicken piece + sides | 740–1,130 | 39–57 g | 27–52 g |
+| **TOTAL (logged so far)** | | **1,090–1,610** | **47–69 g** | **39–77 g** |
+| **Midpoint** | | **1,350** | **58 g** | **58 g** |
+
+**Lifting the fish out and leaving the gravy behind is the sharpest single move
+in the log so far.** Matthi curry gravy is where the oil sits; taking the fish
+alone keeps ~22 g of protein and drops roughly 100 kcal and 10 g of fat. At
+5.1 g of protein per 100 kcal this is the best mess lunch yet.
 
 Coconut chutney skipped again — the same cut made on Day 1, and still worth
 ~100 kcal and ~9 g of fat every time.
@@ -396,18 +402,20 @@ Coconut chutney skipped again — the same cut made on Day 1, and still worth
 ### Thursday is the protein desert
 
 No meat anywhere on the menu today: ghee roast, meals, gobbi chilly. 54 g of
-protein as served, the lowest of the week. **1,585 kcal and 120 g of protein
-left to find.**
+protein as served, the lowest of the week — and lunch has already beaten that
+on its own.
+
+**650 kcal to target, 72 g of protein still to find.**
 
 | | Calories | Protein | vs maintenance |
 |---|---|---|---|
-| A — mess only (gobbi + 2 chapati), 3 scoops | 1,990 | 122 g | −560 |
-| B — grilled bream in place of the gobbi, 2 scoops | **1,720** | 128 g | **−830** |
-| C — bream + 1 chapati in place of the gobbi, 2 scoops | 1,835 | **131.5 g** | −715 |
+| Gobbi + 2 chapati + 3 scoops | 2,175 | 139 g | −375 |
+| **Grilled bream in place of the gobbi + 2 scoops** | **1,905** | **145 g** | **−645** |
+| Bream + 1 chapati + 1 scoop | 1,905 | 126 g | −645 |
 
-**C.** The bream turns the week's weakest day into its strongest: 131.5 g of
-protein, 715 under maintenance, and the protein comes from food rather than
-three shakers. Yesterday it would have erased a deficit; today it creates one.
+The bream still turns this into the week's best day: **145 g of protein at
+1,905 kcal, 645 under maintenance.** The mess dinner works too, but costs
+270 more calories for 6 g less protein.
 
 ---
 
@@ -511,7 +519,7 @@ midpoints:
 | 2026-09-07 | 2,560.5 | 130.1 g | 104.25 g | yes |
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
 | 2026-09-09 | 2,294 | 139 g | 103.5 g | yes |
-| 2026-09-10 | 415 (so far) | 10 g | 18.5 g | no — breakfast only |
+| 2026-09-10 | 1,350 (so far) | 58 g | 58 g | no — dinner to come |
 
 Six complete days. Averages of the midpoints: **2,193 kcal, 115.5 g protein,
 87.0 g fat** — a 357 kcal/day deficit, **0.32 kg/week**.
