@@ -8,8 +8,18 @@ counted from launch day = Day 1 (9 June 2026), so 8 September 2026 is Day 92.
 | Date | Day | Subs | Views (90d) | Impressions (90d) | Watch hrs (90d) | CTR |
 |------|-----|------|-------------|-------------------|-----------------|-----|
 | 2026-09-08 | 92 | 50 | ~1,300 | 11,542 | 41.4 | ~11% |
+| 2026-09-10 | 94 | 50 | ~1,270 | 11,542 | 42.5 | ~11% |
 
-Baselines at the 8 Sept snapshot: ~1,000 impressions/day, ~45 views/day.
+Run rate at the 10 Sept snapshot: ~0.7 watch hours/day (41.4 → 42.5 over two
+days, net of the 90-day window shedding two June days).
+
+**Do not reuse the old "~1,000 impressions/day, ~45 views/day" baselines** —
+they are not consistent with any other figure on this page. 11,542 impressions
+over 90 days is 128/day, and at ~11% CTR that is ~1,270 views over 90 days, or
+~14 views/day. That set reconciles with watch time at ~2:00 average view
+duration; 45 views/day would imply 0:38, which is impossible for 5–11 minute
+explainers retaining 30–43%. Treat ~128 impressions/day and ~14 views/day as
+the real baselines.
 
 ## Monthly trend
 
@@ -40,25 +50,74 @@ impressions since June.
 |-------|-------|
 | EA Course | 14.3 |
 | US CPA | 10.6 |
-| All others combined | ~16.5 |
+| EA Course (10 Sep) | 14.8 |
+| US CPA (10 Sep) | 11.0 |
+| All others combined (10 Sep) | ~16.7 |
 
-## Monetisation working (as at Day 92)
+Two videos out of ten hold 61% of all watch time, and between 8 and 10 Sept
+they took ~0.9 of the ~1.1-hour net gain. The 90-day window was shedding June
+days over the same period, so treat the split as directional rather than exact —
+but the direction is not in doubt.
 
-Estimates, not forecasts — they assume weekly uploads never break.
+## Monetisation working (as at Day 94, 10 Sept 2026)
 
-**Watch hours.** 4,000 needed; ~40/month currently. Month-over-month doubling
-will not hold; at a decayed 25%/month it takes roughly 15 months of cumulative
-hours to clear 4,000 (`40 × (1.25ⁿ − 1) / 0.25 = 4,000` → n ≈ 14.6).
+### The thresholds actually facing this channel
 
-**Subscribers.** 1,000 needed; 50 held. Conversion is running at roughly
-1.7 subs per 100 views (22 subs gained over ~1,300 views in 90 days), which is
-ordinary, not broken. The remaining 950 subs therefore need ~56,000 cumulative
-views. From ~1,350 views/month at the same 25%/month growth, that is ~11 months
-(`1,350 × (1.25ⁿ − 1) / 0.25 = 56,000` → n ≈ 10.9).
+| Tier | Subs | Watch hours | Window | Unlocks |
+|------|------|-------------|--------|---------|
+| Early access | 500 | 3,000 | trailing 12 months | Fan funding + some Shopping. No ads. |
+| Full YPP | 1,000 | **8,000** | trailing 12 months | Ads + Premium revenue share |
 
-**Conclusion.** Watch hours, not subscribers, is the binding constraint, and
-both gates land in the 12–18 month band — consistent with the standing late-2027
-estimate. The flat subscriber line is a symptom of a small view base, not a
-conversion problem; it fixes itself if views keep compounding. The only input
-that actually breaks the model is a broken upload cadence, because every
-estimate above rests on compounding that missed weeks flatten.
+Two corrections to the earlier framing:
+
+1. **The window is rolling, not cumulative.** YPP counts watch hours in the
+   trailing 12 months. Hours earned more than a year ago fall out of the count,
+   so the channel has to reach a *sustained* rate, not accumulate a total.
+2. **The full-YPP bar doubles to 8,000 hours on 1 February 2027.** Existing
+   partners are grandfathered; this channel will not be in the programme by
+   then, so 8,000 is the number to plan against. The 500-sub / 3,000-hour fan
+   funding tier is unchanged.
+
+### Current position
+
+- Run rate ~0.7 watch hours/day = ~255 hours/year if it never grows.
+- 8,000 hours/year needs ~22 hours/day — about **31x** the current rate.
+- Subscriber conversion is 1.73 per 100 views (22 subs / ~1,270 views, 90d),
+  which is ordinary. 950 more subs therefore needs ~55,000 cumulative views
+  against ~425/month today.
+
+### Time to threshold, by growth assumption
+
+Months from September 2026. "Linear" assumes each weekly upload adds a fixed
+daily rate and nothing else grows — the floor case for posting weekly without
+changing the format.
+
+| Growth in daily watch-hour rate | 3,000 hrs (fan funding) | 8,000 hrs (full YPP) | 1,000 subs |
+|---|---|---|---|
+| Linear (library growth only) | ~31 mo | ~76 mo | — |
+| 15% / month | ~23 mo | ~30 mo | ~21 mo |
+| 20% / month | ~18 mo | ~24 mo | ~18 mo |
+| 30% / month | ~14 mo | ~18 mo | ~14 mo |
+
+**Working estimate: 2 to 3 years to full YPP; 18–24 months to the fan funding
+tier.** The earlier "15–18 months / late 2027" figure assumed a cumulative
+4,000-hour target and month-over-month doubling. Both assumptions were wrong:
+the target is a rolling 8,000, and the apparent doubling (6.9 → 13.8 → 30 →
+41.4) was a 90-day rolling window still filling up on a channel younger than
+90 days, not four months of real doubling.
+
+Watch hours, not subscribers, is the binding constraint under every assumption,
+and the gap widens under the 8,000-hour rule.
+
+### What actually moves the estimate
+
+Growth rate is what separates 18 months from 6 years, and weekly posting alone
+only buys the linear row. Two dials matter more than cadence:
+
+- **Watch time per view.** Blended average view duration is ~2:00. CFA (11:04
+  runtime, 4:28 average) proves longer formats roughly double watch time per
+  view at the same view count. Moving the blended average from 2:00 to 4:00
+  halves every timeline above without needing a single extra viewer.
+- **Library concentration.** EA and US CPA carry 61% of watch time. Growth is
+  coming from search demand on a few topics, not from breadth, so topic
+  selection matters more than volume.
