@@ -27,11 +27,11 @@ From 162.5 cm / 33 y / male and the latest weigh-in. The workbook's Targets
 sheet reads the most recent weight off the Weights sheet and re-derives
 everything below it, so a new weigh-in updates the target automatically.
 
-| | Value (at 90.30 kg) |
+| | Value (at 90.05 kg) |
 |---|---|
-| BMR (Mifflin-St Jeor) | 1,759 kcal |
-| Maintenance (TDEE), ×1.52 | ~2,673 kcal |
-| **Calorie target** | **~2,125 kcal/day** |
+| BMR (Mifflin-St Jeor) | 1,756 kcal |
+| Maintenance (TDEE), ×1.52 | ~2,669 kcal |
+| **Calorie target** | **~2,120 kcal/day** |
 | Protein | 130–145 g/day |
 | Fat floor | 55 g/day |
 | Carbs (remainder) | ~248 g/day |
@@ -100,7 +100,7 @@ deliberately higher than the earlier 90–130 g band: in a deficit, on six
 sessions a week, protein is what keeps the loss coming off fat rather than
 muscle.
 
-BMI is 34.2, which is worth raising with a GP or dietitian alongside this plan.
+BMI is 34.1, which is worth raising with a GP or dietitian alongside this plan.
 
 ---
 
@@ -504,16 +504,25 @@ aim; a 118 g day is not a failure.
 |---|---|---|---|---|
 | 2026-09-05 | 91.50 kg | — | — | 91.50 |
 | 2026-09-07 | 90.75 kg | −0.75 kg | −0.75 kg | 91.13 |
-| 2026-09-09 | 90.30 kg | −0.45 kg | **−1.20 kg** | 90.85 |
+| 2026-09-09 | 90.30 kg | −0.45 kg | −1.20 kg | 90.85 |
+| 2026-09-11 | 90.05 kg | −0.25 kg | **−1.45 kg** | **90.65** |
 
-**Do not read 1.2 kg as 1.2 kg of fat.** The logged deficit across the four days
-the scale covers is ~1,168 kcal, which is **0.15 kg of fat**. The other 1.05 kg
-— 87% of the drop — is water, glycogen and gut contents, exactly what a first
-week looks like when carbohydrate portions come down. Every gram of glycogen
-holds about three grams of water with it.
+**The rate is decelerating exactly as forecast: −0.75, −0.45, −0.25.** That is
+glycogen and its water settling out, on schedule. It is the expected shape of a
+first week, not a stall.
 
-The direction is right and the rate will slow sharply once glycogen settles.
-Expect that, so it does not read as failure when it happens.
+**1.45 kg is not 1.45 kg of fat.** Across the six days the scale covers
+(2026-09-05 to 09-10), intake was 13,642 kcal against ~16,038 of maintenance — a
+2,396 kcal deficit, or **0.31 kg of fat**. The other 1.14 kg (79%) is water and
+glycogen.
+
+The water share is falling, though: 87% at the first weigh-in, 79% now. As
+glycogen finishes settling the scale and the arithmetic will converge.
+
+**Implied fat-loss rate: 0.36 kg/week.** Against the 0.5 target that is behind,
+but it is calculated from six days in which three carried a fried snack the
+meals did not need. It is also still too early to trust — two more weeks of
+trailing average before the multiplier or the target move again.
 
 That is not bad news. It is the normal shape of a start, and it means the number
 will slow down sharply once glycogen settles. Expect that, so it doesn't read as
