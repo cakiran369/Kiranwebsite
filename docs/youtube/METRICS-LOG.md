@@ -111,6 +111,53 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## 11 Sept 2026 — 7-day subscriber attribution
+
+| Video | Subs (7d) |
+|-------|-----------|
+| US CPA Explained | 1 |
+| EA Course explained | 1 |
+| Diploma in IFRS | 1 |
+| FRM, CFA, US CPA FAQ, EA Course Jobs, US CMA | 0 |
+
+Three attributed against a dashboard delta of +7. YouTube only attributes a
+subscribe that happens on a video watch page, so the other four came from the
+channel page, search results or an external link (Instagram, WhatsApp), or sit
+in the 1–2 day reporting lag. Worth knowing: **roughly half of new subscribers
+are not coming from a video watch page at all.**
+
+### The CFA subscriber test was underpowered — it proves nothing
+
+The test set on 11 Sept ("if the subs came from CFA, the length case is
+settled; if from the back catalogue, it is search noise") cannot be answered by
+this data, because 43 views is far too small a sample to measure conversion.
+
+- At the 1.7 per 100 baseline, 43 views should produce **0.73** subscribers.
+- The chance of observing zero, given perfectly normal conversion, is **48%**.
+
+A coin flip. CFA needs roughly **300–600 views** before its subscriber count
+carries any signal at all. Do not read its 0 as a negative result.
+
+### What the attribution does say
+
+The three conversions came from US CPA, EA Course and DipIFR — the
+search-anchored overview videos. DipIFR is the channel's *worst* retention
+video (~30%) and still converted, which points at the real mechanism:
+**subscribers come from search intent, not from retention or runtime.** Someone
+who searched "US CPA Malayalam", got an answer, and subscribed for more.
+
+This separates the two constraints cleanly, and they need different content:
+
+| Goal | Driver | Content implication |
+|------|--------|---------------------|
+| Subscribers | search intent on the topic | overview videos on high-demand certifications |
+| Watch hours | runtime x retention | long videos |
+
+The length thesis was never a claim about subscribers — it rests on watch time
+per view (CFA at 2.47x the channel blend), measured on a different metric and
+untouched by this screenshot. The two findings converge on the same next
+action: **a long video on a high-search-intent topic.**
+
 ## FRM retention curve — read 10 Sept 2026 (lifetime)
 
 Lifetime figures: 2:16 average view duration, 41.9% retention, 5:26 runtime.
