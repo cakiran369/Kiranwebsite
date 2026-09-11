@@ -444,8 +444,9 @@ deficit of the week at 740, with protein still inside the band.
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney (coconut chutney skipped) | 410–550 | 10–15 g | 11–24 g |
 | Breakfast | 1 egg fried dry, no oil, with pepper | 70–78 | 6–6.5 g | 5–5.5 g |
-| **TOTAL (logged so far)** | | **480–628** | **16–21.5 g** | **16–29.5 g** |
-| **Midpoint** | | **554** | **18.75 g** | **22.75 g** |
+| Lunch | Chicken biriyani, rice halved, + 2 chicken pieces + 3 boiled eggs + curd salad | 700–954 | 45–57 g | 35–53 g |
+| **TOTAL (logged so far)** | | **1,180–1,582** | **61–78.5 g** | **51–82.5 g** |
+| **Midpoint** | | **1,381** | **69.75 g** | **66.75 g** |
 
 Coconut chutney skipped for the fourth time in eight days — ~100 kcal and ~9 g
 of fat each occasion, roughly 400 kcal and 36 g of fat across the week from one
