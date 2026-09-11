@@ -1,3 +1,4 @@
 date,active_kcal,resting_kcal,steps,walk_km,exercise_min,workout_type,workout_min,workout_kcal,note
 2026-09-07,,,,5.0,,,,,User-reported total walking distance; Apple Watch data not yet supplied
 2026-09-10,46,,,0.908,18,Outdoor walk,17.6,46,Apple Watch: 908 m in 17:38 at 19'25"/km (3.1 km/h); HR 74. Return leg planned
+2026-09-11,,,8237,5.6,,,,,Apple Watch monthly average 12 Aug-11 Sep: 8237 steps/day (recent 8820). Used to revise the activity multiplier 1.45 -> 1.52

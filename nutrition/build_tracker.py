@@ -50,7 +50,7 @@ PROFILE = {
     "height_cm": 162.5,
     "age_years": 33,
     "sex_constant": 5,          # Mifflin-St Jeor: +5 male, -161 female
-    "activity_multiplier": 1.45,
+    "activity_multiplier": 1.52,
     "deficit_kcal": 550,
     "kcal_per_kg_fat": 7700,
     "protein_low_g": 130,
@@ -542,8 +542,9 @@ def build_targets(ws):
     put(8, "Sex constant", PROFILE["sex_constant"], "0",
         "Mifflin-St Jeor term: +5 male, -161 female.", is_input=True)
     put(9, "Activity multiplier", PROFILE["activity_multiplier"], "0.00",
-        "1.45 = desk job plus 6 lifting sessions/week. Lifting burns less than "
-        "cardio-based charts assume; raise it only if the scale says so.", is_input=True)
+        "1.52, revised 2026-09-11 from Apple Watch: 8,237 steps/day averaged over a month "
+        "is ~5.6 km, well above the sedentary baseline the old 1.45 assumed. Still an "
+        "estimate - the trailing weight average is the arbiter.", is_input=True)
     put(10, "Daily deficit (kcal)", PROFILE["deficit_kcal"], "#,##0",
         "550/day = 0.5 kg/week. Assumption, not a measurement.", is_input=True)
     put(11, "kcal per kg of body fat", PROFILE["kcal_per_kg_fat"], "#,##0",
@@ -576,11 +577,14 @@ def build_targets(ws):
     ws["A26"] = "Where maintenance comes from"
     ws["A26"].font = Font(name=FONT, size=10, bold=True)
     put(27, "Sedentary baseline (BMR x 1.2)", "=B14*1.2", "#,##0",
-        "Living, digestion, fidgeting, walking about - no training.")
-    put(28, "Training allowance", "=B15-B27", "#,##0",
-        "The part of the multiplier that is the gym.")
-    put(29, "Sessions per week", 6, "0", "6-day PPL split.", is_input=True)
-    put(30, "Implied kcal per session", "=B28*7/B29", "#,##0",
+        "Living, digestion, and the ~3,500-5,000 steps a desk-bound day produces.")
+    put(28, "Walking NEAT above sedentary", 150, "#,##0",
+        "Apple Watch: 8,237 steps/day averaged over a month, ~5.6 km. The part above a "
+        "sedentary baseline, at 0.5 kcal per kg per km.", is_input=True)
+    put(29, "Training allowance", "=B15-B27-B28", "#,##0",
+        "What is left for the gym once living and walking are paid for.")
+    put(30, "Sessions per week", 6, "0", "6-day PPL split.", is_input=True)
+    put(31, "Implied kcal per session", "=B29*7/B30", "#,##0",
         "Sanity check: resistance training runs ~5-7 kcal/min, so 45-90 min at this "
         "bodyweight is ~225-630 kcal. If sessions are short, this allowance is generous "
         "and the multiplier should come down - but let the scale decide, not this cell.")
@@ -591,7 +595,7 @@ def build_targets(ws):
                  "is the commonest way a deficit quietly disappears; let the scale confirm it "
                  "first, then decide whether to eat it back.")
     ws["C32"].font = NOTE
-    put(33, "Daily walk (km)", 5, "0.0", "Reported 5 km on 2026-09-07. ~50-60 min at a normal pace.", is_input=True)
+    put(33, "Daily walk (km)", 0, "0.0", "Now zero: the daily walk is inside the 1.52 multiplier, set from measured step count. Use this block only for walking ON TOP of the usual 8,200 steps.", is_input=True)
     put(34, "Net kcal per kg per km", 0.5, "0.00",
         "Net of what would have been burned sitting. Gross is ~0.65.", is_input=True)
     put(35, "Calisthenics (kcal/day)", 67, "#,##0",

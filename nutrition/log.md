@@ -30,41 +30,50 @@ everything below it, so a new weigh-in updates the target automatically.
 | | Value (at 90.30 kg) |
 |---|---|
 | BMR (Mifflin-St Jeor) | 1,759 kcal |
-| Maintenance (TDEE), ×1.45 | ~2,550 kcal |
-| **Calorie target** | **~2,000 kcal/day** |
+| Maintenance (TDEE), ×1.52 | ~2,673 kcal |
+| **Calorie target** | **~2,125 kcal/day** |
 | Protein | 130–145 g/day |
 | Fat floor | 55 g/day |
 | Carbs (remainder) | ~248 g/day |
 | Projected loss | 0.5 kg/week |
 
-### Where the training sits
+### Where maintenance comes from
+
+Revised 2026-09-11 from a month of Apple Watch step data: **8,237 steps/day
+averaged 12 Aug–11 Sep**, about 5.6 km. The original ×1.45 assumed a sedentary
+NEAT baseline, which that step count clearly is not.
 
 | | Kcal/day |
 |---|---|
-| BMR — doing nothing | 1,763 |
-| × 1.2, sedentary living + digestion | 2,116 |
-| **× 1.45 = maintenance** | **2,557** |
-| **Of which, training** | **441/day** |
+| BMR — doing nothing | 1,759 |
+| × 1.2, living plus a desk-bound day's steps | 2,110 |
+| Walking above that baseline (~3.2 km) | +150 |
+| Training, 6 sessions | +413 |
+| **Maintenance, ×1.52** | **2,673** |
 
-441 kcal/day over six sessions is **~514 kcal per session**. Resistance training
-runs about 5–7 kcal/min, so at 91 kg that is right for a 75–90 minute session
-and generous for a 45–60 minute one. The gym is counted, and if anything counted
-a little kindly. Shown live on the Targets sheet so the assumption is
-inspectable rather than buried in one number.
+413 kcal/day over six sessions is **~482 per session** — still in the right range
+for 60–90 minutes of lifting at this bodyweight, and no longer inflated by
+walking that was being miscounted as gym work.
+
+**This does not change what to eat.** The six-day average intake has been
+2,193 kcal against a new target of 2,125 — within 70 kcal. What changes is the
+reading of it: the deficit was **480 kcal/day, not 357**, and the rate
+**0.44 kg/week, not 0.32**. The plan was working better than the model said.
+
+The multiplier is still an estimate. The trailing weight average around
+2026-09-20 remains the arbiter.
 
 ### Added activity — modelled, not credited
 
-5 km walked on 2026-09-07 (3 km was the original figure), plus 60 push-ups and
-36 pull-ups:
+The daily walk is now inside the ×1.52 multiplier, so the extra-activity block on
+the Targets sheet is reset to zero and reserved for walking **on top of** the
+usual 8,200 steps. The calisthenics remain outside it:
 
 | | Kcal/day |
 |---|---|
-| 5 km walk (net of resting) | 227 |
 | 60 push-ups | 24 |
 | 36 pull-ups | 43 |
-| **Total** | **~294** |
-
-That moves maintenance from 2,557 to **~2,851**, an implied multiplier of 1.62. On a walk-only day it is ~2,784.
+| **Total** | **~67** |
 
 **The calorie target has deliberately not been raised for it.** Credited in
 advance, extra activity is the commonest way a deficit quietly disappears — the
@@ -80,7 +89,7 @@ Note the split in what these do. The walk is nearly all of the calories
 training stimulus — and 36 pull-ups at 91 kg is meaningful volume on top of a
 6-day split, which raises recovery and protein demand rather than lowering it.
 
-The ×1.45 multiplier is deliberate. The usual "6–7 days/week = ×1.725" row
+The multiplier is deliberate. The usual "6–7 days/week = ×1.725" row
 assumes cardio-style work; an hour of PPL with rest periods is more like
 250–350 kcal, so ×1.725 would put maintenance at ~3,050 and invent ~500 kcal
 that doesn't exist. Everything above is an estimate — the scale over 2–3 weeks
