@@ -443,8 +443,9 @@ deficit of the week at 740, with protein still inside the band.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney (coconut chutney skipped) | 410–550 | 10–15 g | 11–24 g |
-| **TOTAL (logged so far)** | | **410–550** | **10–15 g** | **11–24 g** |
-| **Midpoint** | | **480** | **12.5 g** | **17.5 g** |
+| Breakfast | 1 egg fried dry, no oil, with pepper | 70–78 | 6–6.5 g | 5–5.5 g |
+| **TOTAL (logged so far)** | | **480–628** | **16–21.5 g** | **16–29.5 g** |
+| **Midpoint** | | **554** | **18.75 g** | **22.75 g** |
 
 Coconut chutney skipped for the fourth time in eight days — ~100 kcal and ~9 g
 of fat each occasion, roughly 400 kcal and 36 g of fat across the week from one
@@ -453,17 +454,20 @@ repeated decision.
 ### Friday is the roomiest day of the week
 
 Biriyani at lunch carries real protein and the kadala dinner is light.
-**1,640 kcal left, 117.5 g of protein to find.**
+**1,566 kcal left, 111 g of protein to find.**
+
+With the biriyani rice halved (−190 kcal for only −3.5 g of protein, since the
+rice carries the calories and the chicken the protein):
 
 | | Calories | Protein | vs maintenance |
 |---|---|---|---|
-| Mess as served + 2 scoops | 1,840 | 106.5 g | −829 |
-| **Mess as served + 3 scoops** | **1,955** | **129 g** | **−714** |
-| Mess as served + 4 scoops | 2,070 | 151.5 g | −599 |
+| Halved biriyani + kadala dinner + 3 scoops | 1,839 | 131.75 g | −830 |
+| **Halved biriyani + kadala dinner + 4 scoops** | **1,954** | **154.25 g** | **−715** |
 
-**Three scoops.** 129 g at 1,955 kcal is a 714 kcal deficit — 0.65 kg/week for
-the day, and the biggest since Day 1. Friday is where the weekly average gets
-pulled back up.
+**Four scoops.** Three gives the bigger deficit, but protein matters more on a
+large-deficit day, not less — 830 under maintenance on a 6-day split is exactly
+when the body starts looking at muscle. The extra 115 kcal buys 22.5 g of
+insurance.
 
 ---
 
@@ -577,7 +581,7 @@ midpoints:
 | 2026-09-08 | 2,009.5 | 128.5 g | 83 g | yes |
 | 2026-09-09 | 2,294 | 139 g | 103.5 g | yes |
 | 2026-09-10 | 2,290 | 105.5 g | 100 g | closing scoop unconfirmed |
-| 2026-09-11 | 480 (so far) | 12.5 g | 17.5 g | no — breakfast only |
+| 2026-09-11 | 554 (so far) | 18.75 g | 22.75 g | no — in progress |
 
 Six complete days. Averages of the midpoints: **2,193 kcal, 115.5 g protein,
 87.0 g fat** — a 357 kcal/day deficit, **0.32 kg/week**.
