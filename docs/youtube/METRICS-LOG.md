@@ -8,7 +8,12 @@ counted from launch day = Day 1 (9 June 2026), so 8 September 2026 is Day 92.
 | Date | Day | Subs | Views (90d) | Impressions (90d) | Watch hrs (90d) | CTR |
 |------|-----|------|-------------|-------------------|-----------------|-----|
 | 2026-09-08 | 92 | 50 | ~1,300 | 11,542 | 41.4 | ~11% |
-| 2026-09-10 | 94 | 50 | ~1,270 | 11,542 | 42.5 | ~11% |
+| 2026-09-10 | 94 | 50* | ~1,270 | 11,542 | 42.5 | ~11% |
+| 2026-09-11 | 95 | **57** | 656 (28d) | — | 18.5 (28d) | — |
+
+\* The 10 Sept subscriber count was carried forward from 8 Sept, not measured —
+that screenshot showed watch time only. The +7 delta is therefore 8 → 11 Sept,
+three days, not one.
 
 Run rate at the 10 Sept snapshot: ~0.7 watch hours/day (41.4 → 42.5 over two
 days, net of the 90-day window shedding two June days).
@@ -58,6 +63,53 @@ Two videos out of ten hold 61% of all watch time, and between 8 and 10 Sept
 they took ~0.9 of the ~1.1-hour net gain. The 90-day window was shedding June
 days over the same period, so treat the split as directional rather than exact —
 but the direction is not in doubt.
+
+## 11 Sept 2026 — first 28-day read, and a subscriber move
+
+| Measure | 28-day value | Per day |
+|---|---|---|
+| Views | 656 | 23.4 |
+| Watch hours | 18.5 | 0.66 |
+| Blended average view duration | — | **1:42** |
+
+### Corrections this snapshot forces
+
+- **Current view rate is ~23/day, not ~14.** The 14/day figure was a 90-day
+  average, and the 90 days are not evenly loaded: 656 views in the last 28 days
+  leaves ~614 for the 62 days before, i.e. ~10/day. The view rate has **more
+  than doubled** over the quarter. Use 28-day windows for run rate from now on;
+  the 90-day number understates the present by ~40%.
+- **Blended average view duration is 1:42, not ~2:00.** Worse than the earlier
+  estimate, and well below every video in the retention table (2:16 to 4:28).
+  The videos not in that table — CMA, ACCA, EA FAQ, CPA FAQ — are dragging the
+  blend down hard.
+
+### CFA first 5 days — the length thesis, confirmed live
+
+43 views, 3.0 watch hours, 5 likes, 1 comment.
+
+- **4:11 watch time per view** against a channel blend of 1:42 — **2.47x**.
+- Only 37% of channel views (8.6/day of 23.4/day); the back catalogue's search
+  traffic still carries the rest.
+
+A fresh video, on its own first-week traffic, produced two and a half times the
+watch time per view of the channel average. This is now the second independent
+confirmation that runtime is the lever, and the first from live data rather
+than lifetime aggregates.
+
+### The subscriber move
+
+50 (8 Sept) → 57 (11 Sept): +7 in three days, against a baseline of +7 per
+**month**. Roughly 10x the usual rate, implying ~10 subs per 100 views over
+those days versus a historical 1.7.
+
+Treat as unconfirmed. Three days is inside noise, subscriber counts update in
+batches, and sub gains lag the views that cause them. It is the first genuinely
+good signal the channel has produced — but one signal.
+
+**It does not move the binding constraint.** Watch time is 0.66 hours/day,
+which annualises to 241 hours against a target of 8,000. That figure has not
+changed since 10 Sept. Subscribers were never the gate.
 
 ## FRM retention curve — read 10 Sept 2026 (lifetime)
 
