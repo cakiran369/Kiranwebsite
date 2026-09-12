@@ -476,35 +476,42 @@ insurance.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney (coconut chutney skipped) | 410–550 | 10–15 g | 11–24 g |
-| **TOTAL (logged so far)** | | **410–550** | **10–15 g** | **11–24 g** |
-| **Midpoint** | | **480** | **12.5 g** | **17.5 g** |
+| Lunch | Mess meals plate, rice halved, + 2 boiled eggs + 1 fried fish piece + sambar, curd, veg sides | 665–965 | 31.5–42.5 g | 29–50 g |
+| **TOTAL (logged so far)** | | **1,075–1,515** | **41.5–57.5 g** | **40–74 g** |
+| **Midpoint** | | **1,295** | **49.5 g** | **57 g** |
 
 Fifth skip of the coconut chutney in nine days. It is now a habit rather than a
 decision, which is the point at which a small saving starts to matter: ~500 kcal
 and ~45 g of fat avoided over the nine days.
 
+Lunch ran both levers — rice halved, two boiled eggs added — and the fried fish
+piece is the plate's densest protein per calorie after the eggs. The lunch came
+in ~55 kcal above the morning's plan, which is noise inside a ±150 range.
+
 ### Saturday is one of the two tight days
 
 As served the Saturday menu is **2,100 kcal for 77 g of protein** — the dosa set
 loads the morning and the chicken varutharachathu is a roasted-coconut gravy,
-so the fat comes in heavy. Breakfast landed at 480 rather than the menu's 545,
-which buys back a little room.
+so the fat comes in heavy.
 
-**1,640 kcal left, 117.5 g of protein to find.**
+**825 kcal left, 80.5 g of protein to find.**
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| Rice halved + varutharachathu as served + 3 scoops | 2,190 | 143 g | ~91 g | −479 |
-| **Rice halved + chicken lifted out of the gravy + 3 scoops** | **2,090** | **141 g** | **~80 g** | **−579** |
+| Varutharachathu as served + 3 scoops | 2,245 | 150 g | ~95 g | −424 |
+| **Chicken lifted out of the gravy + 3 scoops** | **2,145** | **148 g** | **~84 g** | **−524** |
+| Chicken lifted out + 2 scoops | 2,030 | 125.5 g | ~82 g | −639 |
 
-**Take the second row.** The move is the same one that worked on the matthi on
+**Take the middle row.** The move is the same one that worked on the matthi on
 Day 7: lift the chicken pieces out and leave most of the roasted-coconut gravy
-behind. It costs about 2 g of protein and saves ~100 kcal and ~11 g of fat.
+behind. It costs ~2 g of protein and saves ~100 kcal and ~11 g of fat.
+
+Two scoops gives the bigger deficit but drops protein under the 130 g floor on a
+training day, which is the wrong trade. 25 kcal over target is inside the
+estimate's own error bars; 4.5 g under the protein floor is a real miss.
 
 That is the "second cut" Saturday needs. It does not require dropping a chapati
 — the standing rule holds, the chapati stay.
-
-**Three scoops**, spread across the day as usual.
 
 Fat is still the line that is wrong. Nine days in it averages ~87 g against a
 55 g floor, and the gravies are where it comes from — not the rice, not the
