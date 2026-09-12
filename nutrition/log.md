@@ -478,8 +478,9 @@ insurance.
 | Breakfast | 2 set dosa + sambar + red chutney (coconut chutney skipped) | 410–550 | 10–15 g | 11–24 g |
 | Lunch | Mess meals plate, rice halved, + 2 boiled eggs + 1 fried fish piece + sambar, curd, veg sides | 665–965 | 31.5–42.5 g | 29–50 g |
 | Snack | 2 boiled eggs | 140–156 | 12–13 g | 10–11 g |
-| **TOTAL (logged so far)** | | **1,215–1,671** | **53.5–70.5 g** | **50–85 g** |
-| **Midpoint** | | **1,443** | **62 g** | **67.5 g** |
+| Dinner | 2 chapati + chicken varutharachathu, gravy poured over | 460–650 | 23–32 g | 23–39 g |
+| **TOTAL (logged so far)** | | **1,675–2,321** | **76.5–102.5 g** | **73–124 g** |
+| **Midpoint** | | **1,998** | **89.5 g** | **98.5 g** |
 
 Fifth skip of the coconut chutney in nine days. It is now a habit rather than a
 decision, which is the point at which a small saving starts to matter: ~500 kcal
@@ -488,45 +489,38 @@ and ~45 g of fat avoided over the nine days.
 Lunch ran both levers — rice halved, two boiled eggs added — and the fried fish
 piece is the plate's densest protein per calorie after the eggs.
 
-### Saturday is one of the two tight days
+The chicken portion at dinner was smaller than the menu assumes (~4 chunks), so
+the meal came in under the 500–710 estimate even with the whole container poured
+over the chapati. The gravy is where its calories sit: ~160–260 kcal and
+~13–23 g of fat for 3–5 g of protein.
 
-As served the Saturday menu is **2,100 kcal for 77 g of protein** — the dosa set
-loads the morning and the chicken varutharachathu is a roasted-coconut gravy,
-so the fat comes in heavy.
+### Closing the day
 
-**677 kcal left, 68 g of protein to find.**
+**122 kcal to target, 40.5 g of protein to the floor.**
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| Varutharachathu as served + 2 scoops | 2,278 | 140 g | ~103 g | −391 |
-| **Chicken lifted out of the gravy + 2 scoops** | **2,178** | **138 g** | **~92 g** | **−491** |
-| Chicken lifted out + 1 scoop | 2,063 | 115.5 g | ~90 g | −606 |
+| **2 scoops** | **2,228** | **134.5 g** | **~102 g** | **−441** |
+| 1 scoop | 2,113 | 112 g | ~100 g | −556 |
 
-**Take the middle row.** Lift the chicken out of the varutharachathu and leave
-most of the roasted-coconut gravy — the same move that worked on the matthi on
-Day 7. It costs ~2 g of protein and saves ~100 kcal and ~11 g of fat.
+**Two scoops.** One lands exactly on the calorie target but leaves protein at
+112 g — 1.24 g/kg on a six-day split in a deficit, which is where the loss
+starts coming off muscle. The second scoop costs 115 kcal and buys 22.5 g. The
+day still runs a 441 kcal deficit, ~0.40 kg/week.
 
-**Two scoops now, not three.** The four o'clock eggs took the third scoop's
-place. One scoop would land the day at 2,063 but drop protein to 115 g, under
-the floor on a training day — the wrong trade.
+### Fat, nine days in
 
-That is the "second cut" Saturday needs. It does not require dropping a chapati
-— the standing rule holds, the chapati stay.
+Today lands at ~102 g against a 55 g floor — the highest since Day 7. The
+pattern is now unambiguous and it is not the rice, the chapati or the eggs:
 
-### Eggs and whey are not the same lever
+| Source today | Fat |
+|---|---|
+| Coconut/oil gravies (sambar, veg sides, varutharachathu) | ~45 g |
+| 4 eggs | ~21 g |
+| Fried fish, chapati, dosa, curd | ~36 g |
 
-Four eggs today carry ~21 g of fat. Whey carries ~2 g per scoop for more
-protein:
-
-| | Protein per 100 kcal | Fat per 100 kcal |
-|---|---|---|
-| Whey | 19.6 g | ~1.7 g |
-| Boiled egg | 8.5 g | ~7 g |
-
-Eggs are real food and they keep you full, which whey does not — that is what
-they are for. But on a day already running hot on fat, whey is the cheaper way
-to reach the protein floor. Nine days in, fat averages ~87 g against a 55 g
-floor, and today is heading for ~92 g.
+Gravies are close to half of it and carry almost no protein. Leaving them in the
+container is the only lever that moves this line.
 
 ---
 
