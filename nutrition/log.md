@@ -504,8 +504,9 @@ the chapati rather than left in the container.
 |---|---|---|---|---|
 | Breakfast | 2 wheat porotta + kadala curry | 520–750 | 16–22 g | 20–36 g |
 | Lunch | Ghee rice (halved) + chicken curry + curd | 440–630 | 21.5–29.5 g | 18.5–31 g |
-| **TOTAL (logged so far)** | | **960–1,380** | **37.5–51.5 g** | **38.5–67 g** |
-| **Midpoint** | | **1,170** | **44.5 g** | **52.75 g** |
+| Snack | 2 boiled eggs | 140–156 | 12–13 g | 10–11 g |
+| **TOTAL (logged so far)** | | **1,100–1,536** | **49.5–64.5 g** | **48.5–78 g** |
+| **Midpoint** | | **1,318** | **57 g** | **63.25 g** |
 
 The porotta look like the wheat kind rather than white maida — browner, speckled,
 with flecks through the dough. That matters: a maida porotta is ~205 kcal and
@@ -523,25 +524,23 @@ lighter.
 
 ### Sunday is the roomiest day of the week
 
-**950 kcal left, 85.5 g of protein to find.** The egg roast dinner is light and
+**802 kcal left, 73 g of protein to find.** The egg roast dinner is light and
 carries real protein for what it costs.
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **Egg roast dinner + 4 scoops** | **2,080** | **155.5 g** | **~82 g** | **−589** |
-| Egg roast dinner + 3 scoops + 2 boiled eggs | 2,113 | 145.5 g | ~91 g | −556 |
-| Egg roast dinner + 3 scoops | 1,965 | 133 g | ~80 g | −704 |
+| **Egg roast dinner + 3 scoops** | **2,113** | **145.5 g** | **~90 g** | **−556** |
+| Egg roast dinner + 2 scoops | 1,998 | 123 g | ~88 g | −671 |
 
-**Four scoops.** Three lands the day at 1,965 — a 704 kcal deficit, which after
-yesterday's 671 at 89.5 g of protein is two large-deficit days back to back on a
-six-day split. That is the pattern that costs muscle rather than fat.
+**Three scoops.** The day lands within 7 kcal of the 2,120 target with protein
+45 g clear of the floor. Two scoops would drop protein under 130 for a 115 kcal
+saving — the same bad trade as yesterday, and yesterday already ran a 671 deficit
+at 89.5 g.
 
-The middle row is the better choice if the evening calls for food rather than
-another shake: two boiled eggs instead of the fourth scoop costs ~9 g more fat
-and 10 g less protein, which is a fair trade for actually chewing something.
-
-Either way the day lands near target with protein well clear of the floor and
-fat, for once, in the low 80s rather than near 100.
+Fat will land ~90 g. Six eggs' worth today (four boiled plus the roast) carry
+~31 g of it. That is the honest cost of using eggs rather than whey to reach the
+floor, and on a day with no coconut gravy it is still the best fat number in
+four days.
 
 ---
 
