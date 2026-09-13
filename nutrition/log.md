@@ -471,7 +471,7 @@ when the body starts looking at muscle. The extra 115 kcal buys 22.5 g of
 insurance.
 
 ---
-## Day 9 — 2026-09-12 (in progress)
+## Day 9 — 2026-09-12 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -479,48 +479,63 @@ insurance.
 | Lunch | Mess meals plate, rice halved, + 2 boiled eggs + 1 fried fish piece + sambar, curd, veg sides | 665–965 | 31.5–42.5 g | 29–50 g |
 | Snack | 2 boiled eggs | 140–156 | 12–13 g | 10–11 g |
 | Dinner | 2 chapati + chicken varutharachathu, gravy poured over | 460–650 | 23–32 g | 23–39 g |
-| **TOTAL (logged so far)** | | **1,675–2,321** | **76.5–102.5 g** | **73–124 g** |
+| **TOTAL** | | **1,675–2,321** | **76.5–102.5 g** | **73–124 g** |
 | **Midpoint** | | **1,998** | **89.5 g** | **98.5 g** |
 
-Fifth skip of the coconut chutney in nine days. It is now a habit rather than a
-decision, which is the point at which a small saving starts to matter: ~500 kcal
-and ~45 g of fat avoided over the nine days.
+The two closing scoops and the half grilled chicken were both discussed and
+neither was confirmed, so neither is logged. As it stands Day 9 is a **−671 kcal
+day, the second-largest deficit of the ten** — but at **89.5 g of protein**, the
+lowest protein day since Day 1.
 
-Lunch ran both levers — rice halved, two boiled eggs added — and the fried fish
-piece is the plate's densest protein per calorie after the eggs.
+That is the trade the evening scoops existed to prevent. A 671 deficit on a
+six-day split with 1.0 g/kg of protein is the shape where the scale keeps moving
+and some of what leaves is muscle. If the scoops did get taken, say so and the
+day closes at 2,228 and 134.5 g.
 
-The chicken portion at dinner was smaller than the menu assumes (~4 chunks), so
-the meal came in under the 500–710 estimate even with the whole container poured
-over the chapati. The gravy is where its calories sit: ~160–260 kcal and
-~13–23 g of fat for 3–5 g of protein.
+Fat still landed at ~98.5 g against a 55 g floor, and roughly 45 g of it came
+from the gravies — sambar, three veg sides, and the varutharachathu poured over
+the chapati rather than left in the container.
 
-### Closing the day
+---
 
-**122 kcal to target, 40.5 g of protein to the floor.**
+## Day 10 — 2026-09-13 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 wheat porotta + kadala curry | 520–750 | 16–22 g | 20–36 g |
+| **TOTAL (logged so far)** | | **520–750** | **16–22 g** | **20–36 g** |
+| **Midpoint** | | **635** | **19 g** | **28 g** |
+
+The porotta look like the wheat kind rather than white maida — browner, speckled,
+with flecks through the dough. That matters: a maida porotta is ~205 kcal and
+~11 g of fat, a wheat one closer to ~175 and ~8. If they were the white layered
+kind the breakfast is nearer 700.
+
+A second container appears in the photo and could not be identified. It is not
+counted. If it was eaten, add it.
+
+### Sunday is the roomiest day left in the week
+
+As served the Sunday menu is **1,875 kcal for 69 g of protein** — the lightest
+of the seven. Ghee rice at lunch is the only heavy item, and the egg roast dinner
+brings protein for very little.
+
+**1,485 kcal left, 111 g of protein to find.**
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **2 scoops** | **2,228** | **134.5 g** | **~102 g** | **−441** |
-| 1 scoop | 2,113 | 112 g | ~100 g | −556 |
+| **Ghee rice halved + egg roast dinner + 3 scoops** | **2,005** | **134.5 g** | **~85 g** | **−664** |
+| Ghee rice halved + egg roast dinner + 4 scoops | 2,120 | 157 g | ~87 g | −549 |
+| Ghee rice full + egg roast dinner + 3 scoops | 2,195 | 137.5 g | ~87 g | −474 |
 
-**Two scoops.** One lands exactly on the calorie target but leaves protein at
-112 g — 1.24 g/kg on a six-day split in a deficit, which is where the loss
-starts coming off muscle. The second scoop costs 115 kcal and buys 22.5 g. The
-day still runs a 441 kcal deficit, ~0.40 kg/week.
+**Halve the ghee rice and take three scoops.** Ghee rice is the single most
+expensive item on the week's menu per gram of protein — ~190 kcal saved for
+~3 g given up. Three scoops clears the protein floor at 134.5 g with a 664 kcal
+deficit, the best combination of the three.
 
-### Fat, nine days in
-
-Today lands at ~102 g against a 55 g floor — the highest since Day 7. The
-pattern is now unambiguous and it is not the rice, the chapati or the eggs:
-
-| Source today | Fat |
-|---|---|
-| Coconut/oil gravies (sambar, veg sides, varutharachathu) | ~45 g |
-| 4 eggs | ~21 g |
-| Fried fish, chapati, dosa, curd | ~36 g |
-
-Gravies are close to half of it and carry almost no protein. Leaving them in the
-container is the only lever that moves this line.
+Four scoops is the better call if hunger shows up in the evening — it lands
+exactly on the calorie target and buys another 22.5 g of protein. What is not
+worth doing is leaving the rice full to save a scoop.
 
 ---
 
