@@ -505,16 +505,16 @@ the chapati rather than left in the container.
 | Breakfast | 2 wheat porotta + kadala curry | 520–750 | 16–22 g | 20–36 g |
 | Lunch | Ghee rice (halved) + chicken curry + curd | 440–630 | 21.5–29.5 g | 18.5–31 g |
 | Snack | 2 boiled eggs | 140–156 | 12–13 g | 10–11 g |
-| **TOTAL (logged so far)** | | **1,100–1,536** | **49.5–64.5 g** | **48.5–78 g** |
-| **Midpoint** | | **1,318** | **57 g** | **63.25 g** |
+| Dinner | 2 chapati + egg roast (1 egg) + 2 boiled eggs | 540–696 | 26–31 g | 28–39 g |
+| **TOTAL (logged so far)** | | **1,640–2,232** | **75.5–95.5 g** | **76.5–117 g** |
+| **Midpoint** | | **1,936** | **85.5 g** | **96.75 g** |
 
 The porotta look like the wheat kind rather than white maida — browner, speckled,
 with flecks through the dough. That matters: a maida porotta is ~205 kcal and
 ~11 g of fat, a wheat one closer to ~175 and ~8. If they were the white layered
 kind the breakfast is nearer 700.
 
-Ghee rice halved again. It came in ~40 kcal under the morning's plan, so the
-lunch is running slightly better than budgeted.
+Ghee rice halved again. It came in ~40 kcal under the morning's plan.
 
 The curry container in the lunch photo is near-empty with mostly oil and gravy
 left, which is consistent either with the chicken having been lifted out or with
@@ -522,25 +522,39 @@ the whole thing having been poured. It is counted in full — the conservative
 reading. If the gravy was left behind, the lunch is nearer 480 and ~7 g of fat
 lighter.
 
-### Sunday is the roomiest day of the week
+Dinner ran ~170 kcal over the menu's 380–520 because of two extra boiled eggs on
+the side and a visibly oily roast masala.
 
-**802 kcal left, 73 g of protein to find.** The egg roast dinner is light and
-carries real protein for what it costs.
+### Closing the day
+
+**184 kcal to target, 44.5 g of protein to the floor.**
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **Egg roast dinner + 3 scoops** | **2,113** | **145.5 g** | **~90 g** | **−556** |
-| Egg roast dinner + 2 scoops | 1,998 | 123 g | ~88 g | −671 |
+| **2 scoops** | **2,166** | **130.5 g** | **~101 g** | **−503** |
+| 1 scoop | 2,051 | 108 g | ~99 g | −618 |
 
-**Three scoops.** The day lands within 7 kcal of the 2,120 target with protein
-45 g clear of the floor. Two scoops would drop protein under 130 for a 115 kcal
-saving — the same bad trade as yesterday, and yesterday already ran a 671 deficit
-at 89.5 g.
+**Two scoops.** It lands protein at 130.5 g — barely over the floor, but over it.
+One scoop saves 115 kcal and gives up 22.5 g of protein, leaving the day at
+108 g. That is the same trade declined twice already this week.
 
-Fat will land ~90 g. Six eggs' worth today (four boiled plus the roast) carry
-~31 g of it. That is the honest cost of using eggs rather than whey to reach the
-floor, and on a day with no coconut gravy it is still the best fat number in
-four days.
+### Five eggs, and the fat line again
+
+Today's fat lands ~101 g against a 55 g floor, not the ~90 the morning plan
+projected. The gap is dinner: two extra boiled eggs beyond the mess portion, and
+an egg roast masala with more oil in it than the menu costing assumed.
+
+| Source today | Fat |
+|---|---|
+| 5 eggs (2 snack, 1 in the roast, 2 at dinner) | ~26 g |
+| Cooking oil in the roast masala and the porotta | ~30 g |
+| Kadala curry, chicken curry, ghee rice, curd | ~45 g |
+
+So this was not a coconut-gravy day and it still landed at 101 g. That is the
+more useful finding: gravies are the biggest single lever, but they are not the
+only one. **Eggs at 7 g of fat per 100 kcal cannot be the whole protein
+strategy** — five of them is ~26 g of fat for 31 g of protein, where five scoops
+would be ~10 g of fat for 112 g.
 
 ---
 
