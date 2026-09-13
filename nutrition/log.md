@@ -503,39 +503,45 @@ the chapati rather than left in the container.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 wheat porotta + kadala curry | 520–750 | 16–22 g | 20–36 g |
-| **TOTAL (logged so far)** | | **520–750** | **16–22 g** | **20–36 g** |
-| **Midpoint** | | **635** | **19 g** | **28 g** |
+| Lunch | Ghee rice (halved) + chicken curry + curd | 440–630 | 21.5–29.5 g | 18.5–31 g |
+| **TOTAL (logged so far)** | | **960–1,380** | **37.5–51.5 g** | **38.5–67 g** |
+| **Midpoint** | | **1,170** | **44.5 g** | **52.75 g** |
 
 The porotta look like the wheat kind rather than white maida — browner, speckled,
 with flecks through the dough. That matters: a maida porotta is ~205 kcal and
 ~11 g of fat, a wheat one closer to ~175 and ~8. If they were the white layered
 kind the breakfast is nearer 700.
 
-A second container appears in the photo and could not be identified. It is not
-counted. If it was eaten, add it.
+Ghee rice halved again. It came in ~40 kcal under the morning's plan, so the
+lunch is running slightly better than budgeted.
 
-### Sunday is the roomiest day left in the week
+The curry container in the lunch photo is near-empty with mostly oil and gravy
+left, which is consistent either with the chicken having been lifted out or with
+the whole thing having been poured. It is counted in full — the conservative
+reading. If the gravy was left behind, the lunch is nearer 480 and ~7 g of fat
+lighter.
 
-As served the Sunday menu is **1,875 kcal for 69 g of protein** — the lightest
-of the seven. Ghee rice at lunch is the only heavy item, and the egg roast dinner
-brings protein for very little.
+### Sunday is the roomiest day of the week
 
-**1,485 kcal left, 111 g of protein to find.**
+**950 kcal left, 85.5 g of protein to find.** The egg roast dinner is light and
+carries real protein for what it costs.
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **Ghee rice halved + egg roast dinner + 3 scoops** | **2,005** | **134.5 g** | **~85 g** | **−664** |
-| Ghee rice halved + egg roast dinner + 4 scoops | 2,120 | 157 g | ~87 g | −549 |
-| Ghee rice full + egg roast dinner + 3 scoops | 2,195 | 137.5 g | ~87 g | −474 |
+| **Egg roast dinner + 4 scoops** | **2,080** | **155.5 g** | **~82 g** | **−589** |
+| Egg roast dinner + 3 scoops + 2 boiled eggs | 2,113 | 145.5 g | ~91 g | −556 |
+| Egg roast dinner + 3 scoops | 1,965 | 133 g | ~80 g | −704 |
 
-**Halve the ghee rice and take three scoops.** Ghee rice is the single most
-expensive item on the week's menu per gram of protein — ~190 kcal saved for
-~3 g given up. Three scoops clears the protein floor at 134.5 g with a 664 kcal
-deficit, the best combination of the three.
+**Four scoops.** Three lands the day at 1,965 — a 704 kcal deficit, which after
+yesterday's 671 at 89.5 g of protein is two large-deficit days back to back on a
+six-day split. That is the pattern that costs muscle rather than fat.
 
-Four scoops is the better call if hunger shows up in the evening — it lands
-exactly on the calorie target and buys another 22.5 g of protein. What is not
-worth doing is leaving the rice full to save a scoop.
+The middle row is the better choice if the evening calls for food rather than
+another shake: two boiled eggs instead of the fourth scoop costs ~9 g more fat
+and 10 g less protein, which is a fair trade for actually chewing something.
+
+Either way the day lands near target with protein well clear of the floor and
+fat, for once, in the low 80s rather than near 100.
 
 ---
 
