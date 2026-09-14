@@ -498,7 +498,7 @@ the chapati rather than left in the container.
 
 ---
 
-## Day 10 — 2026-09-13 (in progress)
+## Day 10 — 2026-09-13 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -506,55 +506,82 @@ the chapati rather than left in the container.
 | Lunch | Ghee rice (halved) + chicken curry + curd | 440–630 | 21.5–29.5 g | 18.5–31 g |
 | Snack | 2 boiled eggs | 140–156 | 12–13 g | 10–11 g |
 | Dinner | 2 chapati + egg roast (1 egg) + 2 boiled eggs | 540–696 | 26–31 g | 28–39 g |
-| **TOTAL (logged so far)** | | **1,640–2,232** | **75.5–95.5 g** | **76.5–117 g** |
+| **TOTAL** | | **1,640–2,232** | **75.5–95.5 g** | **76.5–117 g** |
 | **Midpoint** | | **1,936** | **85.5 g** | **96.75 g** |
 
-The porotta look like the wheat kind rather than white maida — browner, speckled,
-with flecks through the dough. That matters: a maida porotta is ~205 kcal and
-~11 g of fat, a wheat one closer to ~175 and ~8. If they were the white layered
-kind the breakfast is nearer 700.
+Ghee rice halved. Dinner ran ~170 kcal over the menu on two extra boiled eggs
+and a visibly oily roast masala. The closing scoops were not confirmed, so Day 10
+closes at 85.5 g of protein — the third day running that the evening whey has
+gone unlogged.
 
-Ghee rice halved again. It came in ~40 kcal under the morning's plan.
+---
 
-The curry container in the lunch photo is near-empty with mostly oil and gravy
-left, which is consistent either with the chicken having been lifted out or with
-the whole thing having been poured. It is counted in full — the conservative
-reading. If the gravy was left behind, the lunch is nearer 480 and ~7 g of fat
-lighter.
+## Day 11 — 2026-09-14 (in progress)
 
-Dinner ran ~170 kcal over the menu's 380–520 because of two extra boiled eggs on
-the side and a visibly oily roast masala.
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
+| **TOTAL (logged so far)** | | **380–590** | **10–16 g** | **14–29 g** |
+| **Midpoint** | | **485** | **13 g** | **21.5 g** |
 
-### Closing the day
+Eaten out rather than from the mess. A restaurant dosa is a bigger, oilier item
+than the mess version — roughly twice the griddle oil — so this ran ~120 kcal
+over Monday's poori-and-baji breakfast. Sixth skip of the white coconut chutney.
 
-**184 kcal to target, 44.5 g of protein to the floor.**
+### Monday
+
+**1,635 kcal left, 117 g of protein to find.**
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **2 scoops** | **2,166** | **130.5 g** | **~101 g** | **−503** |
-| 1 scoop | 2,051 | 108 g | ~99 g | −618 |
+| **Rice halved + chicken curry dinner + 3 scoops** | **2,170** | **142.5 g** | **~90 g** | **−499** |
+| Rice halved + chicken curry dinner + 2 scoops | 2,055 | 120 g | ~88 g | −614 |
 
-**Two scoops.** It lands protein at 130.5 g — barely over the floor, but over it.
-One scoop saves 115 kcal and gives up 22.5 g of protein, leaving the day at
-108 g. That is the same trade declined twice already this week.
+**Three scoops.** Same shape as most days: halving the rice at the meals plate is
+the cheap cut, and whey fills the rest.
 
-### Five eggs, and the fat line again
+---
 
-Today's fat lands ~101 g against a 55 g floor, not the ~90 the morning plan
-projected. The gap is dinner: two extra boiled eggs beyond the mess portion, and
-an egg roast masala with more oil in it than the menu costing assumed.
+## Eleven days in — what the numbers actually say
 
-| Source today | Fat |
-|---|---|
-| 5 eggs (2 snack, 1 in the roast, 2 at dinner) | ~26 g |
-| Cooking oil in the roast masala and the porotta | ~30 g |
-| Kadala curry, chicken curry, ghee rice, curd | ~45 g |
+Nine complete days (Day 8 is excluded; its dinner was never confirmed):
 
-So this was not a coconut-gravy day and it still landed at 101 g. That is the
-more useful finding: gravies are the biggest single lever, but they are not the
-only one. **Eggs at 7 g of fat per 100 kcal cannot be the whole protein
-strategy** — five of them is ~26 g of fat for 31 g of protein, where five scoops
-would be ~10 g of fat for 112 g.
+| | Average | Target | |
+|---|---|---|---|
+| Calories | **2,154** | 2,120 | +34 — on target |
+| Protein | **108.2 g** | 130–145 g | **−22 g — short every day** |
+| Fat | **90.8 g** | 55 g floor | +36 over the minimum |
+| Carbs (implied) | 226 g | ~248 g | −22 g |
+
+**Deficit 515 kcal/day, 0.47 kg/week.** The plan is working.
+
+### A correction to what I have been telling you
+
+I have called fat "the one line that is wrong" for about five days. That was the
+wrong emphasis and it is worth fixing, because it changes what is worth
+optimising.
+
+The 55 g figure is a **floor, not a ceiling** — a minimum for hormone function,
+not a limit. Within a fixed calorie target, eating 91 g of fat instead of 55 g
+does not add fat to your body; it displaces carbohydrate, which is exactly what
+the 226 g implied carb number shows. The real cost of that is **training
+performance on a six-day split**, not fat loss. Calories are on target and the
+scale is moving at the predicted rate.
+
+**The line that is genuinely wrong is protein: 108 g against a 130 g floor,
+every day for nine days.** At 90 kg that is 1.2 g/kg while running a 515 kcal
+deficit and training six times a week — the combination where some of what comes
+off the scale is muscle rather than fat.
+
+And the cause is specific and fixable: **the closing whey scoops have gone
+unlogged three days running.** Days 9, 10 and probably 12 were each planned to
+land at 130–145 g and each closed 20–45 g short because the evening scoops were
+discussed and never confirmed. If they were taken, tell me and the average moves
+to ~125 g on its own. If they were not, that single habit is the whole gap.
+
+Gravies still matter — they are calories, and calories are what drive the
+deficit. But the priority order was wrong: **protein first, calories second, fat
+a distant third.**
 
 ---
 
