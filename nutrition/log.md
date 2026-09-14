@@ -523,34 +523,45 @@ gone unlogged.
 | Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
 | Lunch | Mess meals plate, rice halved, + 1 fried fish piece + veg curry, sambar, thin curry, white side, green side | 565–950 | 22.5–34 g | 23–48 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
-| **TOTAL (logged so far)** | | **1,045–1,670** | **52.5–75 g** | **38–80 g** |
-| **Midpoint** | | **1,357.5** | **63.75 g** | **59 g** |
+| Dinner | Leftover half rice from lunch + chicken curry | 375–560 | 20–27 g | 12–19 g |
+| **TOTAL (logged so far)** | | **1,420–2,230** | **72.5–102 g** | **50–99 g** |
+| **Midpoint** | | **1,825** | **87.25 g** | **74.5 g** |
 
 Breakfast was eaten out — a restaurant dosa is bigger and about twice the griddle
 oil of the mess version, so it ran ~120 kcal over Monday's poori-and-baji. Sixth
 skip of the white coconut chutney.
 
-All four side containers were opened, adding ~300 kcal, ~10 g of protein and
-~19.5 g of fat to the plate. That puts lunch at 757 kcal — within 3 kcal of the
-760 originally budgeted for a halved meals plate. The light-lunch reading earlier
-in the day was wrong; the sides simply had not been opened yet.
+All four lunch side containers were opened, adding ~300 kcal, ~10 g of protein
+and ~19.5 g of fat. That put lunch at 757 kcal — within 3 kcal of the 760
+budgeted for a halved meals plate. The four containers are worth about 14% of a
+day, which is why an unopened container is never assumed eaten and never assumed
+skipped. It gets asked about.
 
-### Monday
+### The rice was the right call at dinner
 
-**762 kcal to target, 66 g of protein to the floor.** Scoop 1 of 3 is in.
+Swapping three chapati for the leftover half rice saved ~112 kcal for only ~6 g
+of protein, and that saving buys a whey scoop worth 22.5 g. Same calories,
+**+16.5 g of protein and −6.5 g of fat** against the chapati version — and it
+used rice already paid for.
+
+Dinner also came with three or four chicken pieces rather than the usual two,
+which is why protein landed at the top of the mess estimate.
+
+### Closing Monday
+
+**295 kcal to target, 42.75 g of protein to the floor.** One scoop taken so far.
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **Chicken curry dinner + 2 more scoops** | **2,168** | **139.75 g** | **~90 g** | **−501** |
-| Chicken curry dinner + 1 more scoop | 2,053 | 117.25 g | ~88 g | −616 |
+| **3 more scoops (4 today)** | **2,170** | **154.75 g** | **~80.5 g** | **−499** |
+| 2 more scoops (3 today) | 2,055 | 132.25 g | ~78.5 g | −614 |
 
-Two more scoops, spread across the evening. With the sides counted the day is on
-the standard Monday shape: 47 kcal over target, protein clear of the floor, a
-501 deficit at 0.46 kg/week.
+Either clears the floor. Three more lands on target; two more is fine if a fourth
+shake is unappealing.
 
-The four containers were worth ~300 kcal — about 14% of the day — which is why an
-unopened container is never assumed eaten and never assumed skipped. It gets
-asked about.
+A green 330 ml can appears in the dinner photo and was not identified. It is not
+counted. If it was a sugared soft drink rather than a zero-sugar one, add ~140
+kcal and ~35 g of sugar, which moves the day from −499 to −359.
 
 ---
 
