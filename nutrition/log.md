@@ -521,24 +521,44 @@ gone unlogged.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
-| **TOTAL (logged so far)** | | **380–590** | **10–16 g** | **14–29 g** |
-| **Midpoint** | | **485** | **13 g** | **21.5 g** |
+| Lunch | Mess meals plate, rice halved, + 1 fried fish piece + 1 veg curry | 365–550 | 15–21 g | 12–20 g |
+| **TOTAL (logged so far)** | | **745–1,140** | **25–37 g** | **26–49 g** |
+| **Midpoint** | | **942.5** | **31 g** | **37.5 g** |
 
-Eaten out rather than from the mess. A restaurant dosa is a bigger, oilier item
-than the mess version — roughly twice the griddle oil — so this ran ~120 kcal
-over Monday's poori-and-baji breakfast. Sixth skip of the white coconut chutney.
+Breakfast was eaten out — a restaurant dosa is bigger and about twice the griddle
+oil of the mess version, so it ran ~120 kcal over Monday's poori-and-baji. Sixth
+skip of the white coconut chutney.
 
-### Monday
+**Lunch is the lightest of the eleven days: 457 kcal against the ~760 budgeted.**
+Rice halved, one fish piece, one veg curry — and the four side containers in the
+photo are still sealed, so they are not counted. If any of them get opened, add
+~150–250 kcal.
 
-**1,635 kcal left, 117 g of protein to find.**
+### Monday, revised
+
+The light lunch leaves an unusually large evening. **1,177 kcal to target, 99 g
+of protein to the floor**, and the chicken-curry dinner only covers half of each.
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **Rice halved + chicken curry dinner + 3 scoops** | **2,170** | **142.5 g** | **~90 g** | **−499** |
-| Rice halved + chicken curry dinner + 2 scoops | 2,055 | 120 g | ~88 g | −614 |
+| **Dinner + 3 scoops + 3 boiled eggs** | **2,090** | **148 g** | **~86 g** | **−580** |
+| Dinner + 4 scoops + 2 boiled eggs | 2,131 | 164.5 g | ~83 g | −539 |
+| Dinner + 4 scoops | 1,983 | 152 g | ~72 g | −686 |
+| Dinner + 3 scoops | 1,868 | 129.5 g | ~70 g | −801 |
 
-**Three scoops.** Same shape as most days: halving the rice at the meals plate is
-the cheap cut, and whey fills the rest.
+**Three scoops and three eggs.** It lands within 30 kcal of target at 148 g of
+protein — the first day in four that would clear the floor comfortably rather
+than scrape it.
+
+The bottom row is the trap: three scoops looks like the normal Monday plan, but
+after a 457 kcal lunch it produces an 801 deficit at barely 130 g of protein.
+That is the shape the last three days have had, and it is the one the eleven-day
+numbers say to stop repeating.
+
+Note the fat column. Today is heading for the low 80s even with five eggs,
+because the lunch carried almost no gravy. That is what a normal fat day looks
+like — but per the correction below, it is the protein column that decides
+whether this day was good.
 
 ---
 
