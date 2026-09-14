@@ -522,8 +522,9 @@ gone unlogged.
 |---|---|---|---|---|
 | Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
 | Lunch | Mess meals plate, rice halved, + 1 fried fish piece + veg curry, sambar, thin curry, white side, green side | 565–950 | 22.5–34 g | 23–48 g |
-| **TOTAL (logged so far)** | | **945–1,540** | **32.5–50 g** | **37–77 g** |
-| **Midpoint** | | **1,242.5** | **41.25 g** | **57 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| **TOTAL (logged so far)** | | **1,045–1,670** | **52.5–75 g** | **38–80 g** |
+| **Midpoint** | | **1,357.5** | **63.75 g** | **59 g** |
 
 Breakfast was eaten out — a restaurant dosa is bigger and about twice the griddle
 oil of the mess version, so it ran ~120 kcal over Monday's poori-and-baji. Sixth
@@ -536,18 +537,18 @@ in the day was wrong; the sides simply had not been opened yet.
 
 ### Monday
 
-**877 kcal to target, 89 g of protein to the floor.**
+**762 kcal to target, 66 g of protein to the floor.** Scoop 1 of 3 is in.
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **Chicken curry dinner + 3 scoops** | **2,168** | **139.75 g** | **~90 g** | **−501** |
-| Chicken curry dinner + 2 scoops | 2,053 | 117.25 g | ~88 g | −616 |
+| **Chicken curry dinner + 2 more scoops** | **2,168** | **139.75 g** | **~90 g** | **−501** |
+| Chicken curry dinner + 1 more scoop | 2,053 | 117.25 g | ~88 g | −616 |
 
-**Three scoops, and no eggs needed.** With the sides counted, the day is back on
-the standard Monday shape: 47 kcal over target, protein comfortably clear of the
-floor, a 501 deficit at 0.46 kg/week.
+Two more scoops, spread across the evening. With the sides counted the day is on
+the standard Monday shape: 47 kcal over target, protein clear of the floor, a
+501 deficit at 0.46 kg/week.
 
-The four containers are worth ~300 kcal — about 14% of the day — which is why an
+The four containers were worth ~300 kcal — about 14% of the day — which is why an
 unopened container is never assumed eaten and never assumed skipped. It gets
 asked about.
 
