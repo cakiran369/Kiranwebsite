@@ -516,7 +516,7 @@ gone unlogged.
 
 ---
 
-## Day 11 — 2026-09-14 (in progress)
+## Day 11 — 2026-09-14 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -524,44 +524,58 @@ gone unlogged.
 | Lunch | Mess meals plate, rice halved, + 1 fried fish piece + veg curry, sambar, thin curry, white side, green side | 565–950 | 22.5–34 g | 23–48 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Dinner | Leftover half rice from lunch + chicken curry | 375–560 | 20–27 g | 12–19 g |
-| **TOTAL (logged so far)** | | **1,420–2,230** | **72.5–102 g** | **50–99 g** |
+| **TOTAL** | | **1,420–2,230** | **72.5–102 g** | **50–99 g** |
 | **Midpoint** | | **1,825** | **87.25 g** | **74.5 g** |
 
-Breakfast was eaten out — a restaurant dosa is bigger and about twice the griddle
-oil of the mess version, so it ran ~120 kcal over Monday's poori-and-baji. Sixth
-skip of the white coconut chutney.
+The rice swap at dinner was the right call: ~112 kcal cheaper than three chapati
+for only ~6 g less protein, and the saving pays for a scoop worth 22.5 g. Net
+**+16.5 g of protein and −6.5 g of fat** against the chapati version, using rice
+already bought.
 
-All four lunch side containers were opened, adding ~300 kcal, ~10 g of protein
-and ~19.5 g of fat. That put lunch at 757 kcal — within 3 kcal of the 760
-budgeted for a halved meals plate. The four containers are worth about 14% of a
-day, which is why an unopened container is never assumed eaten and never assumed
-skipped. It gets asked about.
+Scoops 2 and 3 were not confirmed, so Day 11 closes at 87.25 g — a **−844 kcal
+day**, the largest deficit of the twelve and the third-lowest protein. The
+unidentified green 330 ml can is not counted either.
 
-### The rice was the right call at dinner
+---
 
-Swapping three chapati for the leftover half rice saved ~112 kcal for only ~6 g
-of protein, and that saving buys a whey scoop worth 22.5 g. Same calories,
-**+16.5 g of protein and −6.5 g of fat** against the chapati version — and it
-used rice already paid for.
+## Day 12 — 2026-09-15 (in progress) — 33rd birthday
 
-Dinner also came with three or four chicken pieces rather than the usual two,
-which is why protein landed at the top of the mess estimate.
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
+| **TOTAL (logged so far)** | | **380–590** | **10–16 g** | **14–29 g** |
+| **Midpoint** | | **485** | **13 g** | **21.5 g** |
 
-### Closing Monday
+Seventh skip of the white chutney. The Targets sheet already carried age 33 in
+anticipation of today, so BMR and the calorie target are unchanged — the birthday
+costs 5 kcal a day and it was already paid.
 
-**295 kcal to target, 42.75 g of protein to the floor.** One scoop taken so far.
+### Tuesday is the protein desert
+
+**1,565 kcal and 54.5 g of protein as served — the lowest-protein day on the
+menu, and the only one with no meat at dinner.** Green peas and two chapati is
+17 g. It is also the roomiest day after Sunday, so there is space to fix it.
+
+**1,635 kcal left, 117 g of protein to find.**
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **3 more scoops (4 today)** | **2,170** | **154.75 g** | **~80.5 g** | **−499** |
-| 2 more scoops (3 today) | 2,055 | 132.25 g | ~78.5 g | −614 |
+| **Ghee rice halved + 4 scoops + 2 boiled eggs** | **2,118** | **159.5 g** | **~88 g** | **−551** |
+| Ghee rice halved + 5 scoops | 2,085 | 169.5 g | ~79 g | −584 |
+| Ghee rice halved + 3 scoops + 3 boiled eggs | 2,077 | 143 g | ~91 g | −592 |
+| Ghee rice halved + 4 scoops | 1,970 | 147 g | ~77 g | −699 |
 
-Either clears the floor. Three more lands on target; two more is fine if a fourth
-shake is unappealing.
+**Four scoops and two eggs.** It lands within 2 kcal of target with protein at
+159.5 g. Five scoops is the leaner version if four shakes and two eggs feels like
+too much chewing — it is 10 g more protein and 9 g less fat, just harder to get
+through.
 
-A green 330 ml can appears in the dinner photo and was not identified. It is not
-counted. If it was a sugared soft drink rather than a zero-sugar one, add ~140
-kcal and ~35 g of sugar, which moves the day from −499 to −359.
+The bottom row is the same trap as yesterday: a plausible-looking four scoops
+that quietly produces a 699 deficit. On a meatless dinner day that gap has to be
+filled deliberately.
+
+Halve the ghee rice — it is the worst value item on the week's menu, ~190 kcal
+for ~3 g of protein.
 
 ---
 
