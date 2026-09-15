@@ -543,39 +543,43 @@ unidentified green 330 ml can is not counted either.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
-| **TOTAL (logged so far)** | | **380–590** | **10–16 g** | **14–29 g** |
-| **Midpoint** | | **485** | **13 g** | **21.5 g** |
+| Lunch | 2 chapati + chicken curry with 4 chicken pieces | 420–600 | 26–36 g | 18–29 g |
+| Snack | 1 slice birthday cake | 250–400 | 3–5 g | 12–22 g |
+| **TOTAL (logged so far)** | | **1,050–1,590** | **39–57 g** | **44–80 g** |
+| **Midpoint** | | **1,320** | **48 g** | **62 g** |
 
 Seventh skip of the white chutney. The Targets sheet already carried age 33 in
-anticipation of today, so BMR and the calorie target are unchanged — the birthday
-costs 5 kcal a day and it was already paid.
+anticipation of today, so BMR and the calorie target are unchanged.
 
-### Tuesday is the protein desert
+**The chapati swap at lunch is what made the cake free.** Tuesday's menu lunch is
+ghee rice and chicken curry; two chapati with the same curry came in at 510 kcal
+against the ~575 a halved ghee rice plate would have cost, and carried more
+protein because the rice contributes almost none. Four chicken pieces rather than
+the usual two put protein at the top of the range.
 
-**1,565 kcal and 54.5 g of protein as served — the lowest-protein day on the
-menu, and the only one with no meat at dinner.** Green peas and two chapati is
-17 g. It is also the roomiest day after Sunday, so there is space to fix it.
+The cake estimate is wide because slice size varies enormously — 250–400 kcal
+covers a plain sponge slice through a cream-layered one. If it was a large slice
+with heavy cream frosting, add ~100.
 
-**1,635 kcal left, 117 g of protein to find.**
+### Closing the birthday
+
+**800 kcal to target, 82 g of protein to the floor.** Dinner is green peas and
+two chapati — the week's only meatless dinner, 17 g of protein.
 
 | | Calories | Protein | Fat | vs maintenance |
 |---|---|---|---|---|
-| **Ghee rice halved + 4 scoops + 2 boiled eggs** | **2,118** | **159.5 g** | **~88 g** | **−551** |
-| Ghee rice halved + 5 scoops | 2,085 | 169.5 g | ~79 g | −584 |
-| Ghee rice halved + 3 scoops + 3 boiled eggs | 2,077 | 143 g | ~91 g | −592 |
-| Ghee rice halved + 4 scoops | 1,970 | 147 g | ~77 g | −699 |
+| **Dinner + 3 scoops** | **2,115** | **132.5 g** | **~85 g** | **−554** |
+| Dinner + 4 scoops | 2,230 | 155 g | ~87 g | −439 |
 
-**Four scoops and two eggs.** It lands within 2 kcal of target with protein at
-159.5 g. Five scoops is the leaner version if four shakes and two eggs feels like
-too much chewing — it is 10 g more protein and 9 g less fat, just harder to get
-through.
+**Three scoops. The cake fits — nothing needs compensating for.** The day lands
+5 kcal under target, protein clear of the floor, a 554 deficit at 0.50 kg/week.
 
-The bottom row is the same trap as yesterday: a plausible-looking four scoops
-that quietly produces a 699 deficit. On a meatless dinner day that gap has to be
-filled deliberately.
+What the cake actually cost was **protein, not calories**: this morning's plan
+reached 159.5 g, today's reaches 132.5 g. The slice displaced a scoop and two
+eggs. Still over the floor, so it was affordable — but that is the trade, and it
+is the honest one to name rather than pretending a birthday slice is free.
 
-Halve the ghee rice — it is the worst value item on the week's menu, ~190 kcal
-for ~3 g of protein.
+No skipping dinner. That is what produced the Day 2 midnight episode.
 
 ---
 
