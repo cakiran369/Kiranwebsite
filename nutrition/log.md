@@ -538,7 +538,7 @@ unidentified green 330 ml can is not counted either.
 
 ---
 
-## Day 12 — 2026-09-15 (in progress) — 33rd birthday
+## Day 12 — 2026-09-15 (closed) — 33rd birthday
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -546,40 +546,60 @@ unidentified green 330 ml can is not counted either.
 | Lunch | 2 chapati + chicken curry with 4 chicken pieces | 420–600 | 26–36 g | 18–29 g |
 | Snack | 1 slice birthday cake | 250–400 | 3–5 g | 12–22 g |
 | Dinner | Half ghee rice + chicken curry + 2 pieces beef varattiyathu + raita | 690–1,030 | 44–62 g | 33–58 g |
-| **TOTAL (logged so far)** | | **1,740–2,620** | **83–119 g** | **77–138 g** |
+| **TOTAL** | | **1,740–2,620** | **83–119 g** | **77–138 g** |
 | **Midpoint** | | **2,180** | **101 g** | **107.5 g** |
 
-Seventh skip of the white chutney. The Targets sheet already carried age 33 in
-anticipation of today, so BMR and the calorie target are unchanged.
+**A good birthday.** Cake, a beef-and-chicken dinner and a restaurant breakfast,
+and it still closed within 60 kcal of target at a **−489 deficit**. Both levers
+were taken unprompted: chapati instead of ghee rice at lunch, ghee rice halved at
+dinner. Dinner alone carried 53 g of protein — the best single meal of the twelve
+days.
 
-**The chapati swap at lunch is what made the cake free.** Two chapati with the
-chicken curry came in at 510 kcal against the ~575 a halved ghee rice plate would
-have cost, and carried more protein because rice contributes almost none.
+The closing scoop was not confirmed, so protein stands at 101 g rather than the
+123.5 g it would have been.
 
-**Dinner was not the menu's green peas.** Chicken curry and two pieces of beef
-varattiyathu, with the ghee rice halved and raita on the side — **53 g of protein
-from one meal, the best dinner of the twelve days.** It also ran 410 kcal over
-the meatless dinner the morning plan assumed, which is where the day's headroom
-went.
+---
 
-### Closing the birthday
+## Day 13 — 2026-09-16 (in progress)
 
-**Already 60 kcal over target at 101 g of protein.**
-
-| | Calories | Protein | Fat | vs maintenance |
+| Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
-| **1 scoop** | **2,295** | **123.5 g** | **~109 g** | **−374** |
-| No scoop | 2,180 | 101 g | ~107.5 g | −489 |
-| 2 scoops | 2,410 | 146 g | ~111 g | −259 |
+| Breakfast | 1 puttu piece + kadala curry | 380–550 | 11–15 g | 12–22 g |
+| **TOTAL (logged so far)** | | **380–550** | **11–15 g** | **12–22 g** |
+| **Midpoint** | | **465** | **13 g** | **17 g** |
 
-**One scoop.** 115 kcal for 22.5 g is the cheapest protein available anywhere,
-and it moves the day from 1.12 to 1.37 g/kg while still leaving a 374 deficit.
-Two scoops is unnecessary — nothing needs rescuing here.
+### Pending — not counted until confirmed
 
-**This was a good day.** Cake, a beef-and-chicken dinner and a restaurant
-breakfast, and it still lands within 175 kcal of target with a 374 deficit. The
-levers that made that possible were both taken without prompting: chapati instead
-of ghee rice at lunch, ghee rice halved at dinner.
+| Item | Calories | Protein | Fat |
+|---|---|---|---|
+| 2nd puttu piece | 180–250 | 3–5 g | 4–8 g |
+
+### The second puttu piece
+
+Puttu itself is a good item — steamed rice flour and coconut, no frying oil at
+all. The question is portion on a tight day, not the food.
+
+**Wednesday is one of the two tight days on the menu: 2,160 kcal and 88.5 g of
+protein as served.** The second piece costs ~215 kcal for ~4 g of protein —
+about 1.9 g per 100 kcal, the worst exchange rate of anything logged in thirteen
+days. The mess average is 3.7, whey is 19.6.
+
+| | Day total | Protein | vs maintenance | Rate |
+|---|---|---|---|---|
+| **1 piece + rice halved + dinner + 3 scoops** | **2,150** | **142.5 g** | **−519** | **0.47 kg/wk** |
+| 2 pieces + rice halved + dinner + 3 scoops | 2,365 | 146.5 g | −304 | 0.28 kg/wk |
+| 2 pieces + rice halved + dinner + 2 scoops | 2,250 | 124 g | −419 | 0.38 kg/wk |
+
+**One piece.** With two, Wednesday cannot reach both the calorie target and the
+protein floor — it has to give up one or the other.
+
+The sharper reason is yesterday: the birthday closed at −374. A −304 today makes
+two soft days back to back, which is how a weekly average slips from 0.47 to
+0.38 kg without any single day looking bad.
+
+If hunger is the real driver, have both and take 3 scoops — 2,365 is not a
+disaster. But eat the second piece because you want it, not because it is on the
+tray.
 
 ---
 
