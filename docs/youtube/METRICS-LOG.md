@@ -10,6 +10,7 @@ counted from launch day = Day 1 (9 June 2026), so 8 September 2026 is Day 92.
 | 2026-09-08 | 92 | 50 | ~1,300 | 11,542 | 41.4 | ~11% |
 | 2026-09-10 | 94 | 50* | ~1,270 | 11,542 | 42.5 | ~11% |
 | 2026-09-11 | 95 | **57** | 656 (28d) | — | 18.5 (28d) | — |
+| 2026-09-16 | 100 | **62** | 744 (28d) | — | 18.5 (28d) | — |
 
 \* The 10 Sept subscriber count was carried forward from 8 Sept, not measured —
 that screenshot showed watch time only. The +7 delta is therefore 8 → 11 Sept,
@@ -110,6 +111,61 @@ good signal the channel has produced — but one signal.
 **It does not move the binding constraint.** Watch time is 0.66 hours/day,
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
+
+## 16 Sept 2026 (Day 100) — watch time stalled
+
+| Measure | 11 Sept | 16 Sept | Change |
+|---|---|---|---|
+| Views (28d) | 656 | 744 | **+13.4%** |
+| Watch hours (28d) | 18.5 | 18.5 | **0.0%** |
+| Blended avg view duration | 1:42 | **1:30** | **−12%** |
+| Subscribers | 57 | 62 | +5 |
+
+**This is the first period where watch time did not grow.** Views rose 13% and
+watch hours did not move at all, so the channel took on more viewers who each
+watched less. The ratio is a direct quotient of two reported numbers, so it
+holds regardless of how the rolling window moved.
+
+The window mechanics make it slightly worse than flat. For a 28-day total to
+hold at 18.5 while shedding mid-August days (~0.4 hrs/day), recent days must
+have contributed about the same ~0.4 hrs/day — below the 0.66 hrs/day measured
+on 11 Sept. Recent daily watch time has probably fallen, not merely stalled.
+Two readings of "18.5" to the same decimal is worth re-checking in a few days
+before treating the flatness as exact.
+
+Run rate 0.66 hrs/day annualises to 241 hours against a target of 8,000. With
+growth at zero, the timeline is undefined rather than long.
+
+### CIA, first three days
+
+23 views, ~1 watch hour, 2 likes, 1 comment. Cadence held — published Sunday
+13 Sept.
+
+| Video | Views/day | Watch hrs/day | Min per view |
+|---|---|---|---|
+| CFA (first 5d) | 8.6 | 0.60 | 4:11 |
+| CIA (first 3d) | 7.7 | 0.33 | 2:37 |
+
+Near-identical view rates, **roughly half the watch hours per day.** Working
+back from 41% retention puts CIA's runtime at about 6.4 minutes, so this is a
+standard-length video and the 15-minute test has not been run yet. CIA was
+almost certainly already scripted when that recommendation landed on 11 Sept.
+
+CIA still beats the 1:30 channel blend, so it is not itself the drag — the drag
+is the back catalogue of short videos now taking a larger share of a growing
+view count.
+
+### The two constraints have now visibly separated
+
+- **Subscribers: 50 → 57 → 62 over eight days = 1.5/day, 6.4x the historical
+  0.23/day.** Eight days is a more convincing run than the three-day reading,
+  and the acceleration looks real.
+- **Watch hours: flat.**
+
+Exactly the divergence the 11 Sept attribution predicted. Search intent is
+driving subscribers and is working. Runtime drives watch hours and has not been
+changed. Subscriber growth is now genuinely ahead of pace; the only gate that
+decides monetisation has stopped moving.
 
 ## 11 Sept 2026 — 7-day subscriber attribution
 
