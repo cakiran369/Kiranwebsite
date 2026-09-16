@@ -566,15 +566,45 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 2 puttu pieces + kadala curry | 560–800 | 14–20 g | 16–30 g |
 | Supplement | 1 omega-3 1000 mg + 1 vitamin D3 50,000 IU | 10–20 | 0 g | 1–2 g |
-| Lunch | Mess meals plate, rice halved, + 1 fried fish + sambar/veg curry on the plate | 385–580 | 16–23 g | 11–20 g |
-| **TOTAL (logged so far)** | | **955–1,400** | **30–43 g** | **28–52 g** |
-| **Midpoint** | | **1,177.5** | **36.5 g** | **40 g** |
+| Lunch | Mess meals plate, rice halved, + 1 fried fish + sambar/veg curry | 385–580 | 16–23 g | 11–20 g |
+| Lunch | Sides plated: cabbage-carrot thoran, battered fried pieces, coconut chammanthi | 270–470 | 9–18 g | 19–36 g |
+| **TOTAL (logged so far)** | | **1,225–1,870** | **39–61 g** | **47–88 g** |
+| **Midpoint** | | **1,547.5** | **50 g** | **67.5 g** |
 
-### Pending — not counted until confirmed
+### The sides came in above the estimate
 
-| Item | Calories | Protein | Fat |
-|---|---|---|---|
-| The 4 side containers | 200–400 | 7.5–13 g | 11–28 g |
+The plated photo settles it — the containers went onto the plate. They came to
+**~370 kcal rather than the ~300 measured yesterday**, because this set had a
+large coconut chammanthi dollop and a battered fried item rather than four thin
+gravies. Chammanthi alone is ~90–160 kcal for 2–4 g of protein.
+
+**The day is now ~285 kcal above where the morning plan put it** — the second
+puttu piece was ~215 of that and the heavier sides the rest. The chapati cut was
+already spent covering the puttu, so the easy room is gone.
+
+**572 kcal left, 80 g of protein to the floor.**
+
+| | Day total | Protein | vs maintenance | Rate |
+|---|---|---|---|---|
+| **Chicken curry, no chapati + 3 scoops** | **2,243** | **141.5 g** | **−426** | **0.39 kg/wk** |
+| Chicken curry + 1 chapati + 2 scoops | 2,243 | 122.5 g | −426 | 0.39 kg/wk |
+| Chicken curry + 1 chapati + 3 scoops | 2,358 | 145 g | −311 | 0.28 kg/wk |
+
+**Top row.** The first two rows cost exactly the same calories; the first carries
+19 g more protein. Dropping the bread entirely and eating the curry with the
+scoops is the better trade, if it is tolerable.
+
+If curry without bread is not realistic, the second row is fine — 122.5 g is
+7.5 g under the floor, which is a miss but a small one, and the deficit is
+identical.
+
+Avoid the third row: 237 kcal over target for 3.5 g of protein more than the top
+row.
+
+**This is still a good day at 0.39 kg/week.** It is just not the 0.51 that was
+available at noon. That difference is what spending two levers before lunch
+costs — visible here precisely because it was tracked, not because anything went
+wrong.
 
 ### On the two capsules
 
