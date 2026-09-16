@@ -564,42 +564,37 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
-| Breakfast | 1 puttu piece + kadala curry | 380–550 | 11–15 g | 12–22 g |
-| **TOTAL (logged so far)** | | **380–550** | **11–15 g** | **12–22 g** |
-| **Midpoint** | | **465** | **13 g** | **17 g** |
-
-### Pending — not counted until confirmed
-
-| Item | Calories | Protein | Fat |
-|---|---|---|---|
-| 2nd puttu piece | 180–250 | 3–5 g | 4–8 g |
-
-### The second puttu piece
+| Breakfast | 2 puttu pieces + kadala curry | 560–800 | 14–20 g | 16–30 g |
+| **TOTAL (logged so far)** | | **560–800** | **14–20 g** | **16–30 g** |
+| **Midpoint** | | **680** | **17 g** | **23 g** |
 
 Puttu itself is a good item — steamed rice flour and coconut, no frying oil at
-all. The question is portion on a tight day, not the food.
+all. The second piece cost ~215 kcal for ~4 g of protein, about 1.9 g per
+100 kcal, the worst exchange rate of anything logged in thirteen days. The mess
+average is 3.7 and whey is 19.6.
 
-**Wednesday is one of the two tight days on the menu: 2,160 kcal and 88.5 g of
-protein as served.** The second piece costs ~215 kcal for ~4 g of protein —
-about 1.9 g per 100 kcal, the worst exchange rate of anything logged in thirteen
-days. The mess average is 3.7, whey is 19.6.
+### Wednesday needs its second cut
+
+**Wednesday is one of the two tight days: 2,160 kcal and 88.5 g of protein as
+served.** The log has always said it needs a second cut beyond halving the rice —
+"drop a chapati, or take the lighter breakfast." The heavier breakfast was taken,
+so the chapati is the one that goes.
+
+**1,440 kcal left, 113 g of protein to find.**
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **1 piece + rice halved + dinner + 3 scoops** | **2,150** | **142.5 g** | **−519** | **0.47 kg/wk** |
-| 2 pieces + rice halved + dinner + 3 scoops | 2,365 | 146.5 g | −304 | 0.28 kg/wk |
-| 2 pieces + rice halved + dinner + 2 scoops | 2,250 | 124 g | −419 | 0.38 kg/wk |
+| **Rice halved + gravies left + 1 chapati at dinner + 3 scoops** | **2,150** | **141 g** | **−519** | **0.47 kg/wk** |
+| Rice halved + 1 chapati at dinner + 3 scoops | 2,250 | 143 g | −419 | 0.38 kg/wk |
+| Rice halved + 2 chapati + 3 scoops | 2,365 | 146.5 g | −304 | 0.28 kg/wk |
 
-**One piece.** With two, Wednesday cannot reach both the calorie target and the
-protein floor — it has to give up one or the other.
+**The extra puttu is fully recoverable.** Two small cuts — leave the lunch gravies
+in their containers, take one chapati instead of two at dinner — put the day back
+at 2,150 and 141 g of protein, exactly where one puttu piece would have landed it.
 
-The sharper reason is yesterday: the birthday closed at −374. A −304 today makes
-two soft days back to back, which is how a weekly average slips from 0.47 to
-0.38 kg without any single day looking bad.
-
-If hunger is the real driver, have both and take 3 scoops — 2,365 is not a
-disaster. But eat the second piece because you want it, not because it is on the
-tray.
+That is the more useful fact than anything said this morning: a 215 kcal overshoot
+at breakfast is not a lost day, it is a day that now has to spend its remaining
+levers rather than save them. Three scoops either way.
 
 ---
 
