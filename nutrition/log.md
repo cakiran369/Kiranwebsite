@@ -60,8 +60,32 @@ walking that was being miscounted as gym work.
 reading of it: the deficit was **480 kcal/day, not 357**, and the rate
 **0.44 kg/week, not 0.32**. The plan was working better than the model said.
 
-The multiplier is still an estimate. The trailing weight average around
-2026-09-20 remains the arbiter.
+### The multiplier is confirmed — 2026-09-16
+
+The trailing weight check was scheduled for around 2026-09-20. The data arrived
+early and it is unambiguous.
+
+| Weigh-in | Weight | Change |
+|---|---|---|
+| 2026-09-05 | 91.50 | — |
+| 2026-09-07 | 90.75 | −0.75 over 2 days |
+| 2026-09-09 | 90.30 | −0.45 over 2 days |
+| 2026-09-11 | 90.05 | −0.25 over 2 days |
+| 2026-09-16 | 90.15 | **+0.10 over 5 days** |
+
+Measured from 09-07, after the first-week glycogen flush had finished:
+**−0.467 kg/week over 9 days.**
+
+Predicted from twelve logged days averaging 2,146 kcal against a 2,669
+maintenance: **−0.476 kg/week.**
+
+**The two agree to within 2%.** The ×1.52 multiplier — revised on 09-11 from
+×1.45 using a month of Apple Watch step data — is correct. Maintenance is
+~2,669 kcal and the 2,120 target holds.
+
+That the first three intervals were −0.75, −0.45 and −0.25 and then the rate
+settled at ~0.47 is the textbook shape: glycogen and its bound water leaving
+first, fat loss underneath at a steady rate.
 
 ### Added activity — modelled, not credited
 
