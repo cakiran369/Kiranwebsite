@@ -565,13 +565,36 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 puttu pieces + kadala curry | 560–800 | 14–20 g | 16–30 g |
-| **TOTAL (logged so far)** | | **560–800** | **14–20 g** | **16–30 g** |
-| **Midpoint** | | **680** | **17 g** | **23 g** |
+| Supplement | 1 omega-3 1000 mg + 1 vitamin D3 50,000 IU | 10–20 | 0 g | 1–2 g |
+| **TOTAL (logged so far)** | | **570–820** | **14–20 g** | **17–32 g** |
+| **Midpoint** | | **695** | **17 g** | **24.5 g** |
 
 Puttu itself is a good item — steamed rice flour and coconut, no frying oil at
 all. The second piece cost ~215 kcal for ~4 g of protein, about 1.9 g per
 100 kcal, the worst exchange rate of anything logged in thirteen days. The mess
 average is 3.7 and whey is 19.6.
+
+### On the two capsules
+
+**The vitamin D3 is 50,000 IU — that is a weekly dose strength, not a daily one.**
+Twelve capsules in the bottle is the shape of a 12-week once-weekly course, which
+is the standard way deficiency is corrected. The adult daily upper limit is
+4,000 IU; 50,000 IU taken daily is over twelve times that and causes
+hypercalcaemia — nausea, excessive urination, kidney stones, and kidney damage
+over months. Check the box or the pharmacist for the schedule it was dispensed on,
+and follow that.
+
+Take it with a meal containing fat. It is fat-soluble and absorption is
+meaningfully worse on an empty stomach — the mess gravies are, for once, useful.
+
+**The fish oil is 1000 mg of fish oil, not 1000 mg of omega-3.** A typical
+1000 mg capsule carries ~180 mg EPA and ~120 mg DHA — about 300 mg of actual
+omega-3. Doses studied for general cardiovascular and joint benefit are
+500 mg–1 g of EPA+DHA per day, so one capsule is a modest dose. The side panel of
+the bottle gives the real numbers.
+
+Neither affects fat loss, and together they are ~15 kcal — below the resolution of
+every other estimate in this log.
 
 ### Wednesday needs its second cut
 
