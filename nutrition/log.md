@@ -566,13 +566,15 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 2 puttu pieces + kadala curry | 560–800 | 14–20 g | 16–30 g |
 | Supplement | 1 omega-3 1000 mg + 1 vitamin D3 50,000 IU | 10–20 | 0 g | 1–2 g |
-| **TOTAL (logged so far)** | | **570–820** | **14–20 g** | **17–32 g** |
-| **Midpoint** | | **695** | **17 g** | **24.5 g** |
+| Lunch | Mess meals plate, rice halved, + 1 fried fish + sambar/veg curry on the plate | 385–580 | 16–23 g | 11–20 g |
+| **TOTAL (logged so far)** | | **955–1,400** | **30–43 g** | **28–52 g** |
+| **Midpoint** | | **1,177.5** | **36.5 g** | **40 g** |
 
-Puttu itself is a good item — steamed rice flour and coconut, no frying oil at
-all. The second piece cost ~215 kcal for ~4 g of protein, about 1.9 g per
-100 kcal, the worst exchange rate of anything logged in thirteen days. The mess
-average is 3.7 and whey is 19.6.
+### Pending — not counted until confirmed
+
+| Item | Calories | Protein | Fat |
+|---|---|---|---|
+| The 4 side containers | 200–400 | 7.5–13 g | 11–28 g |
 
 ### On the two capsules
 
@@ -585,39 +587,35 @@ over months. Check the box or the pharmacist for the schedule it was dispensed o
 and follow that.
 
 Take it with a meal containing fat. It is fat-soluble and absorption is
-meaningfully worse on an empty stomach — the mess gravies are, for once, useful.
+meaningfully worse on an empty stomach.
 
 **The fish oil is 1000 mg of fish oil, not 1000 mg of omega-3.** A typical
 1000 mg capsule carries ~180 mg EPA and ~120 mg DHA — about 300 mg of actual
-omega-3. Doses studied for general cardiovascular and joint benefit are
-500 mg–1 g of EPA+DHA per day, so one capsule is a modest dose. The side panel of
-the bottle gives the real numbers.
+omega-3, against the 500 mg–1 g of EPA+DHA used in studies.
 
-Neither affects fat loss, and together they are ~15 kcal — below the resolution of
-every other estimate in this log.
+### The four containers are worth three times what I said this morning
 
-### Wednesday needs its second cut
+This morning's plan costed "leave the lunch gravies" at ~100 kcal. That figure
+came from a single gravy. **Yesterday's four containers measured ~300 kcal, ~10 g
+of protein and ~19.5 g of fat** — the correct number, and it changes the day
+materially in your favour.
 
-**Wednesday is one of the two tight days: 2,160 kcal and 88.5 g of protein as
-served.** The log has always said it needs a second cut beyond halving the rice —
-"drop a chapati, or take the lighter breakfast." The heavier breakfast was taken,
-so the chapati is the one that goes.
-
-**1,440 kcal left, 113 g of protein to find.**
+**Skipping them more than covers the second puttu piece.**
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **Rice halved + gravies left + 1 chapati at dinner + 3 scoops** | **2,150** | **141 g** | **−519** | **0.47 kg/wk** |
-| Rice halved + 1 chapati at dinner + 3 scoops | 2,250 | 143 g | −419 | 0.38 kg/wk |
-| Rice halved + 2 chapati + 3 scoops | 2,365 | 146.5 g | −304 | 0.28 kg/wk |
+| **Containers skipped + 1 chapati at dinner + 4 scoops** | **2,103** | **154 g** | **−566** | **0.51 kg/wk** |
+| Containers skipped + 1 chapati + 3 scoops | 1,988 | 131.5 g | −681 | 0.62 kg/wk |
+| Containers eaten + 1 chapati + 3 scoops | 2,288 | 141.75 g | −381 | 0.35 kg/wk |
+| Containers eaten + 1 chapati + 2 scoops | 2,173 | 119.25 g | −496 | 0.45 kg/wk |
 
-**The extra puttu is fully recoverable.** Two small cuts — leave the lunch gravies
-in their containers, take one chapati instead of two at dinner — put the day back
-at 2,150 and 141 g of protein, exactly where one puttu piece would have landed it.
+**Top row: leave the containers, one chapati at dinner, four scoops.** That lands
+17 kcal under target at 154 g of protein and a 566 deficit — a *better* day than
+the one planned before the extra puttu was eaten.
 
-That is the more useful fact than anything said this morning: a 215 kcal overshoot
-at breakfast is not a lost day, it is a day that now has to spend its remaining
-levers rather than save them. Three scoops either way.
+The second row over-corrects: a 681 deficit two days after a −374 birthday is not
+the shape to chase. The fourth row is the one to avoid, since it drops protein
+under the floor to save calories that skipping the containers already saved.
 
 ---
 
