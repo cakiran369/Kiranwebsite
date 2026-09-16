@@ -524,53 +524,9 @@ gone unlogged.
 | Lunch | Mess meals plate, rice halved, + 1 fried fish piece + veg curry, sambar, thin curry, white side, green side | 565–950 | 22.5–34 g | 23–48 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Dinner | Leftover half rice from lunch + chicken curry | 375–560 | 20–27 g | 12–19 g |
-| **TOTAL** | | **1,420–2,230** | **72.5–102 g** | **50–99 g** |
-| **Midpoint** | | **1,825** | **87.25 g** | **74.5 g** |
-
-The rice swap at dinner was the right call: ~112 kcal cheaper than three chapati
-for only ~6 g less protein, and the saving pays for a scoop worth 22.5 g. Net
-**+16.5 g of protein and −6.5 g of fat** against the chapati version, using rice
-already bought.
-
-Scoops 2 and 3 were not confirmed, so Day 11 closes at 87.25 g — a **−844 kcal
-day**, the largest deficit of the twelve and the third-lowest protein. The
-unidentified green 330 ml can is not counted either.
-
----
-
-## Day 12 — 2026-09-15 (closed) — 33rd birthday
-
-| Meal | Items | Calories | Protein | Fat |
-|---|---|---|---|---|
-| Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
-| Lunch | 2 chapati + chicken curry with 4 chicken pieces | 420–600 | 26–36 g | 18–29 g |
-| Snack | 1 slice birthday cake | 250–400 | 3–5 g | 12–22 g |
-| Dinner | Half ghee rice + chicken curry + 2 pieces beef varattiyathu + raita | 690–1,030 | 44–62 g | 33–58 g |
-| **TOTAL** | | **1,740–2,620** | **83–119 g** | **77–138 g** |
-| **Midpoint** | | **2,180** | **101 g** | **107.5 g** |
-
-**A good birthday.** Cake, a beef-and-chicken dinner and a restaurant breakfast,
-and it still closed within 60 kcal of target at a **−489 deficit**. Both levers
-were taken unprompted: chapati instead of ghee rice at lunch, ghee rice halved at
-dinner. Dinner alone carried 53 g of protein — the best single meal of the twelve
-days.
-
-The closing scoop was not confirmed, so protein stands at 101 g rather than the
-123.5 g it would have been.
-
----
-
-## Day 13 — 2026-09-16 (in progress)
-
-| Meal | Items | Calories | Protein | Fat |
-|---|---|---|---|---|
-| Breakfast | 2 puttu pieces + kadala curry | 560–800 | 14–20 g | 16–30 g |
-| Supplement | 1 omega-3 1000 mg + 1 vitamin D3 50,000 IU | 10–20 | 0 g | 1–2 g |
-| Lunch | Mess meals plate, rice halved, + 1 fried fish + sambar/veg curry | 385–580 | 16–23 g | 11–20 g |
-| Lunch | Sides plated: cabbage-carrot thoran, battered fried pieces, coconut chammanthi | 270–470 | 9–18 g | 19–36 g |
-| Dinner | Leftover half rice from lunch + chicken curry | 375–560 | 20–27 g | 12–19 g |
-| **TOTAL (logged so far)** | | **1,600–2,430** | **59–88 g** | **59–107 g** |
-| **Midpoint** | | **2,015** | **73.5 g** | **83 g** |
+| Snack | 3 whey scoops + water | 300–390 | 60–75 g | 3–9 g |
+| **TOTAL** | | **1,900–2,820** | **119–163 g** | **62–116 g** |
+| **Midpoint** | | **2,360** | **141 g** | **89 g** |
 
 ### The sides came in above the estimate
 
@@ -583,29 +539,24 @@ Dinner took the leftover half rice rather than a chapati — ~230 kcal against a
 chapati's ~115, so ~115 more than the evening plan assumed, though it carries the
 rice that was already paid for.
 
-### Closing Day 13
+### Day 13 closed — 141 g of protein, the highest of the thirteen days
 
-**105 kcal to target, 56.5 g of protein to the floor.**
+Three scoops taken in water rather than two with milk. The day lands at **2,360
+kcal, 141 g of protein, a 309 deficit — 0.28 kg/week.**
 
-| | Day total | Protein | vs maintenance | Rate |
-|---|---|---|---|---|
-| **2 scoops, last in 250 ml skimmed milk** | **2,330** | **127 g** | **−339** | **0.31 kg/wk** |
-| 2 scoops in water | 2,245 | 118.5 g | −424 | 0.39 kg/wk |
-| 3 scoops in water | 2,360 | 141 g | −309 | 0.28 kg/wk |
+Read alone that is the softest day of the twelve. Read in sequence it is a
+correction. The four days before it ran **−671, −733, −844 and −489** at 85–101 g
+of protein, every one of them a larger deficit than the 550 the target was built
+around and every one of them short on protein, because the evening scoops kept
+going untaken or unreported.
 
-**Two scoops, the last in 250 ml of skimmed milk.** 127 g is 3 g under the floor,
-which is inside the estimate's own error bars, and it costs 85 kcal for 8.5 g of
-protein plus the casein and the fullness before sleep.
+**Twelve complete days: 2,146 kcal, 108.5 g of protein, 90.7 g of fat — a 523
+deficit, 0.48 kg/week.** One −309 day moves that average by five calories. The
+141 g moves the protein average up by three.
 
-A −339 day reads soft against the 2,120 target, but not against what has actually
-been happening. The last four complete days ran **−671, −733, −844 and −489** —
-every one of them larger than the 550 the target was built around, and three of
-them at 85–90 g of protein. The eleven-day average is **2,126 kcal, 105.6 g of
-protein, a 543 deficit, 0.49 kg/week.**
-
-**Calories are not the problem and have never been the problem. Protein is.**
-Tonight is the first evening in five where the plan actually reaches the floor,
-and that is worth more than another 100 kcal of deficit.
+Calories were never the problem. This is the first evening in five where the
+closing scoops were actually taken and logged, and it produced the best protein
+day in the log.
 
 ### On the two capsules
 
