@@ -584,6 +584,40 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 14 — 2026-09-17 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
+| **TOTAL (logged so far)** | | **380–590** | **10–16 g** | **14–29 g** |
+| **Midpoint** | | **485** | **13 g** | **21.5 g** |
+
+Eighth skip of the white chutney in fourteen days — roughly 800 kcal and 72 g of
+fat avoided from one repeated decision.
+
+### Thursday is the worst protein day on the menu
+
+**1,830 kcal and 54 g of protein as served, and gobi chilli at dinner means no
+meat anywhere in the day.** It is also the day the grilled chicken was bought for.
+
+**1,635 kcal left, 117 g of protein to find.**
+
+| | Day total | Protein | Fat | vs maintenance | Rate |
+|---|---|---|---|---|---|
+| **250 g grilled chicken + 2 chapati at dinner, rice halved, 1 scoop** | **2,115** | **144.5 g** | **~86 g** | **−554** | **0.50 kg/wk** |
+| Mess gobi dinner, rice halved, 4 scoops | 2,185 | 147.5 g | ~88 g | −484 | 0.44 kg/wk |
+| Mess gobi dinner, rice halved, 3 scoops | 2,070 | 125 g | ~86 g | −599 | 0.55 kg/wk |
+
+**The chicken row is the best-shaped day in the log.** On target, 144.5 g of
+protein, a 554 deficit, and only one scoop needed — the protein comes from food
+rather than powder for the first time on a Thursday.
+
+Without the chicken the day still works on four scoops, but it needs four, and
+the third row is the trap again: a plausible three scoops that lands 125 g, under
+the floor, on the week's leanest protein day.
+
+---
+
 ## Day 13 — 2026-09-16 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
