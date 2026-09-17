@@ -594,32 +594,35 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | Large restaurant dosa + sambar + red chutney (white chutney skipped) | 380–590 | 10–16 g | 14–29 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
-| **TOTAL (logged so far)** | | **480–720** | **30–41 g** | **15–32 g** |
-| **Midpoint** | | **600** | **35.5 g** | **23.5 g** |
+| Lunch | Mess meals plate, rice halved, + 1 fried fish + sambar, cabbage thoran, 2 veg curries + moru curry | 645–1,030 | 24–37 g | 28–52 g |
+| **TOTAL (logged so far)** | | **1,125–1,750** | **54–78 g** | **43–84 g** |
+| **Midpoint** | | **1,437.5** | **66 g** | **63.5 g** |
 
 Eighth skip of the white chutney in fourteen days — roughly 800 kcal and 72 g of
 fat avoided from one repeated decision.
 
-### Thursday is the worst protein day on the menu
+**One container instead of four.** Moru is also the right one to pick: yogurt-based,
+~60–110 kcal, against the coconut chammanthi's 90–160 for the same 2–4 g of
+protein. Yesterday's four containers cost ~370 kcal; today's one costs ~85.
 
-**1,830 kcal and 54 g of protein as served, and gobi chilli at dinner means no
-meat anywhere in the day.** It is also the day the grilled chicken was bought for.
+### Closing Thursday
 
-**1,520 kcal left, 94.5 g of protein to find.** Scoop 1 is in.
+**682 kcal to target, 64 g of protein to the floor.** The grilled chicken did not
+appear at lunch, so it is the dinner lever.
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **250 g grilled chicken + 2 chapati, rice halved, no more scoops** | **2,115** | **144.5 g** | **~86 g** | **−554** | **0.50 kg/wk** |
-| Mess gobi dinner, rice halved, 3 more scoops | 2,185 | 147.5 g | ~88 g | −484 | 0.44 kg/wk |
-| Mess gobi dinner, rice halved, 2 more scoops | 2,070 | 125 g | ~86 g | −599 | 0.55 kg/wk |
+| **250 g grilled chicken + 2 chapati, no more scoops** | **2,192** | **144 g** | **~90 g** | **−476** | **0.43 kg/wk** |
+| 250 g grilled chicken alone + 1 more scoop | 2,078 | 159.5 g | ~84 g | −591 | 0.54 kg/wk |
+| Mess gobi dinner + 3 more scoops | 2,262 | 147 g | ~92 g | −406 | 0.37 kg/wk |
+| Mess gobi dinner + 2 more scoops | 2,147 | 124.5 g | ~90 g | −521 | 0.47 kg/wk |
 
-**The chicken row needs no further whey at all** — one scoop for the whole day,
-144.5 g of protein, dead on target. That is what a food-first protein day looks
-like, and it has not happened once in fourteen days.
+**Top row.** 72 kcal over target, 144 g of protein, a 476 deficit sitting almost
+exactly on the 550 the plan was built around — and **one scoop for the entire
+day**, the first food-first protein day in fourteen.
 
-Without the chicken the day still works, but it needs three more scoops, and the
-bottom row is the recurring trap: a sensible-looking two that lands 125 g, under
-the floor, on the week's leanest protein day.
+The second row is the leaner version if the chapati are not wanted. Without the
+chicken, three more scoops are needed; two lands under the floor again.
 
 ---
 
