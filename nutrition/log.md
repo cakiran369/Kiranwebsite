@@ -71,15 +71,19 @@ early and it is unambiguous.
 | 2026-09-07 | 90.75 | −0.75 over 2 days |
 | 2026-09-09 | 90.30 | −0.45 over 2 days |
 | 2026-09-11 | 90.05 | −0.25 over 2 days |
-| 2026-09-16 | 90.15 | **+0.10 over 5 days** |
+| 2026-09-16 | 90.15 | +0.10 over 5 days |
+| 2026-09-17 | 90.05 | −0.10 over 1 day |
+
+The 09-16 reading was noise — different clothing, and two higher-carb days behind
+it. It came straight back off the next morning without anything changing.
 
 Measured from 09-07, after the first-week glycogen flush had finished:
-**−0.467 kg/week over 9 days.**
+**−0.490 kg/week over 10 days.**
 
 Predicted from twelve logged days averaging 2,146 kcal against a 2,669
 maintenance: **−0.476 kg/week.**
 
-**The two agree to within 2%.** The ×1.52 multiplier — revised on 09-11 from
+**The two agree to within 3%.** The ×1.52 multiplier — revised on 09-11 from
 ×1.45 using a month of Apple Watch step data — is correct. Maintenance is
 ~2,669 kcal and the 2,120 target holds.
 
