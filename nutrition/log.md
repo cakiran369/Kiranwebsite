@@ -588,7 +588,7 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 14 — 2026-09-17 (in progress)
+## Day 14 — 2026-09-17 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -596,38 +596,45 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
 | Lunch | Mess meals plate, rice halved, + 1 fried fish + sambar, cabbage thoran, 2 veg curries + moru curry | 645–1,030 | 24–37 g | 28–52 g |
 | Snack | Black coffee + 2 whey scoops | 200–260 | 40–50 g | 2–6 g |
-| **TOTAL (logged so far)** | | **1,325–2,010** | **94–128 g** | **45–90 g** |
-| **Midpoint** | | **1,667.5** | **111 g** | **67.5 g** |
+| Dinner | Charcoal grilled chicken + Malabar porotta + hummus, garlic toum, tomato-onion mezze, pickles | 840–1,240 | 60.5–79 g | 46–79 g |
+| **TOTAL** | | **2,165–3,250** | **154.5–207 g** | **91–169 g** |
+| **Midpoint** | | **2,708** | **180.75 g** | **130 g** |
 
-Eighth skip of the white chutney in fourteen days — roughly 800 kcal and 72 g of
-fat avoided from one repeated decision.
+**The first day of the fourteen with no deficit — 38 kcal above maintenance.**
+Also by far the highest protein day: 180.75 g, 40 g clear of the previous best.
 
-**One container instead of four.** Moru is also the right one to pick: yogurt-based,
-~60–110 kcal, against the coconut chammanthi's 90–160 for the same 2–4 g of
-protein. Yesterday's four containers cost ~370 kcal; today's one costs ~85.
+Two good decisions and one expensive structure:
 
-### Closing Thursday
+- **One container at lunch instead of four.** Moru is also the right pick —
+  yogurt-based, ~85 kcal against the coconut chammanthi's ~125 for the same
+  protein. Yesterday's four cost ~370.
+- **The chicken itself was the right food.** ~490 kcal for ~59 g of protein,
+  12 g per 100 kcal — the best whole-food rate in the log.
+- **The accompaniments were the cost.** Porotta ~240, garlic toum ~120, hummus
+  ~90 — **~450 kcal for about 8 g of protein between them.** The toum is the
+  worst of the three: an oil-and-garlic emulsion at roughly 480 kcal per 100 g.
 
-**452 kcal to target, 19 g of protein to the floor.** Three scoops are in, so the
-protein is effectively solved before dinner — what is left is a calorie question.
+The deeper cause was earlier. Three scoops by mid-afternoon left the evening only
+452 kcal of room; dinner came in at 1,040. The whey had already solved the
+protein floor, so the 345 kcal it cost bought nothing once a grilled chicken
+dinner appeared — and it removed the headroom that would have absorbed the
+porotta.
 
-| | Day total | Protein | Fat | vs maintenance | Rate |
-|---|---|---|---|---|---|
-| **200 g grilled chicken, nothing else** | **2,088** | **168 g** | **~84 g** | **−582** | **0.53 kg/wk** |
-| 200 g grilled chicken + 1 chapati | 2,203 | 171.5 g | ~87 g | −467 | 0.43 kg/wk |
-| Mess gobi dinner + 2 chapati | 2,147 | 124.5 g | ~90 g | −521 | 0.47 kg/wk |
-| 250 g grilled chicken + 2 chapati | 2,423 | 189 g | ~94 g | −247 | 0.22 kg/wk |
+**The scoops and the food are one budget, not two.** On a day where a large
+protein meal is likely, the scoops should wait.
 
-**200 g of the chicken on its own.** It lands 32 kcal under target with 168 g of
-protein and a 582 deficit — the best-shaped day of the fourteen.
+### What it costs
 
-No more whey tonight: at 111 g banked before dinner, another scoop buys protein
-there is no use for.
+| | Before Day 14 | After |
+|---|---|---|
+| Average calories | 2,146 | 2,189 |
+| Average protein | 108.5 g | **114.1 g** |
+| Rate | 0.48 kg/wk | **0.44 kg/wk** |
 
-The bottom row is what the morning plan said, and three scoops have made it wrong
-— 250 g plus two chapati now overshoots by 300 kcal for protein already covered.
-Front-loading the whey solved the floor early but left the evening only 452 kcal
-to work with.
+One maintenance day in fourteen moves the rate by 0.04 kg/week — about three days
+added to the December timeline. It is not a setback; it is the cost of a large
+meal, correctly priced. The protein average moving up 5.6 g is worth more than
+the rate moving down 0.04.
 
 ---
 
