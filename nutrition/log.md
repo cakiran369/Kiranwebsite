@@ -598,7 +598,7 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Snack | Black coffee + 2 whey scoops | 200–260 | 40–50 g | 2–6 g |
 | Dinner | Charcoal grilled chicken + Malabar porotta + hummus, garlic toum, tomato-onion mezze, pickles | 840–1,240 | 60.5–79 g | 46–79 g |
 | **TOTAL** | | **2,165–3,250** | **154.5–207 g** | **91–169 g** |
-| **Midpoint** | | **2,708** | **180.75 g** | **130 g** |
+| **Midpoint** | | **2,707.5** | **180.75 g** | **130 g** |
 
 **The first day of the fourteen with no deficit — 38 kcal above maintenance.**
 Also by far the highest protein day: 180.75 g, 40 g clear of the previous best.
