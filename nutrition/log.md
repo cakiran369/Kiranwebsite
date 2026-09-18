@@ -60,6 +60,34 @@ walking that was being miscounted as gym work.
 reading of it: the deficit was **480 kcal/day, not 357**, and the rate
 **0.44 kg/week, not 0.32**. The plan was working better than the model said.
 
+### Independent cross-check — Apple Watch active energy, 2026-09-18
+
+Health reports **677 kcal/day of active energy averaged over 7–13 Sep**, with the
+trend reading "Higher for 5 weeks." Active energy is everything above resting, so
+it can be added to BMR directly:
+
+| | Kcal |
+|---|---|
+| BMR (Mifflin-St Jeor) | 1,756 |
+| Apple Watch active energy | +677 |
+| Thermic effect of food, ~10% of a 2,189 kcal intake | +215 |
+| **Implied maintenance** | **2,648** |
+| **Model maintenance (×1.52)** | **2,669** |
+
+**Within 21 kcal — under 1%.** Three independent routes now agree: the step-count
+decomposition, the scale trend, and the watch's own energy estimate.
+
+**This does not raise the target.** The 677 is already inside the ×1.52
+multiplier — adding it on top would count the same activity twice and put the day
+at maintenance. The standing rule holds: activity is measured, never credited in
+advance.
+
+One thing to watch. The chart shows recent weeks at 550–850 against 400–550 through
+June–August, and the fitted weight line (−0.489 kg/wk) is running slightly ahead of
+the food log's prediction (−0.436). That 0.05 kg/week gap is about 57 kcal/day —
+within noise, but the right size for genuinely rising activity. If the gap persists
+over the next two weeks, maintenance moves up rather than the model being wrong.
+
 ### The multiplier is confirmed — 2026-09-16
 
 The trailing weight check was scheduled for around 2026-09-20. The data arrived
