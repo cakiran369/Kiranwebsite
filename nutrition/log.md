@@ -632,6 +632,47 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 15 — 2026-09-18 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 puttu pieces + kadala curry | 560–800 | 14–20 g | 16–30 g |
+| **TOTAL (logged so far)** | | **560–800** | **14–20 g** | **16–30 g** |
+| **Midpoint** | | **680** | **17 g** | **23 g** |
+
+**The breakfast swap costs 355 kcal.** Friday's menu breakfast is the idly set —
+3 idli and sambar, ~325 kcal for **3–8 g of fat**, the lightest item on the entire
+week's menu. Puttu and kadala is ~680 with ~23 g of fat. Friday is normally the
+roomiest day (1,455 kcal as served); this removes most of that advantage before
+9 am.
+
+Puttu is still a good food — steamed, no frying oil. It is simply not the cheap
+breakfast, and Friday is the one day that starts with a genuinely cheap one.
+
+### Friday
+
+**1,440 kcal left, 113 g of protein to find.** Lunch is chicken biriyani — halve
+the rice, it is ~190 kcal for ~3 g of protein.
+
+| | Day total | Protein | Fat | vs maintenance | Rate |
+|---|---|---|---|---|---|
+| **Rice halved + kadala dinner + 4 scoops** | **2,080** | **153 g** | **~70 g** | **−589** | **0.54 kg/wk** |
+| Rice halved + kadala dinner + 200 g leftover grilled chicken + 1 scoop | 2,155 | 142.5 g | ~90 g | −514 | 0.47 kg/wk |
+| Rice halved + kadala dinner + 3 scoops | 1,965 | 130.5 g | ~68 g | −704 | 0.64 kg/wk |
+
+**Four scoops.** It lands 40 kcal under target with 153 g of protein and **~70 g
+of fat — the lowest fat day since Day 1**, because nothing on a Friday menu is
+coconut-based.
+
+If the kilo of grilled chicken is still in the fridge, the second row uses it
+instead of three of the scoops: less powder, more food, but ~20 g more fat. Either
+works; the chicken will not keep past the weekend.
+
+The third row is the usual trap — a 704 deficit the day after a maintenance day,
+which is how the average gets whipsawed rather than steadied.
+
+---
+
 ## Day 14 — 2026-09-17 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
