@@ -73,17 +73,33 @@ early and it is unambiguous.
 | 2026-09-11 | 90.05 | −0.25 over 2 days |
 | 2026-09-16 | 90.15 | +0.10 over 5 days |
 | 2026-09-17 | 90.05 | −0.10 over 1 day |
+| 2026-09-18 | **89.55** | **−0.50 over 1 day — first reading under 90** |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
 
-Measured from 09-07, after the first-week glycogen flush had finished:
-**−0.490 kg/week over 10 days.**
+**The 09-18 reading is noise in the other direction.** It follows Day 14, which
+finished 38 kcal *above* maintenance. A day with no deficit cannot produce half a
+kilo of fat loss; that is water, glycogen and gut contents moving, most likely
+releasing what the previous few higher-carb days had held.
 
-Predicted from twelve logged days averaging 2,146 kcal against a 2,669
-maintenance: **−0.476 kg/week.**
+Endpoint-to-endpoint rates are unstable for exactly this reason — 09-07 to 09-18
+reads −0.764 kg/week, which is a number the intake cannot support. A
+least-squares line through all six post-flush points is the honest measure:
 
-**The two agree to within 3%.** The ×1.52 multiplier — revised on 09-11 from
+| Measure | Rate |
+|---|---|
+| Endpoints 09-07 → 09-18 | −0.764 kg/wk |
+| **Least-squares fit, 6 points from 09-07** | **−0.489 kg/wk** |
+| Predicted from 13 logged days at 2,189 kcal | −0.436 kg/wk |
+
+**The fitted line and the food log agree to within 0.05 kg/week.** That is the
+number to trust.
+
+Predicted from thirteen logged days averaging 2,189 kcal against a 2,669
+maintenance: **−0.436 kg/week.**
+
+**The fitted line and the prediction agree to within 0.05 kg/week.** The ×1.52 multiplier — revised on 09-11 from
 ×1.45 using a month of Apple Watch step data — is correct. Maintenance is
 ~2,669 kcal and the 2,120 target holds.
 
