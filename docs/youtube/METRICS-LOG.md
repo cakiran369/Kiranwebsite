@@ -112,6 +112,40 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## 19 Sept 2026 (Day 103) — FRM retention re-read
+
+| Reading | Retention | Avg view duration |
+|---|---|---|
+| 8 Sept (90-day) | 43.3% | 2:21 |
+| 10 Sept (lifetime) | 41.9% | 2:16 |
+| **19 Sept (lifetime)** | **44.1%** | **2:23** |
+
+Like for like, lifetime retention rose **+2.2 points in nine days** on a video
+that has been live about two months, worth +7 seconds per view (+5.1% watch
+time per view). This is the drift already noted in the context file — YouTube
+refining who it shows the video to — and it is a real, free tailwind.
+
+The curve shape has not changed. Still a smooth slide from ~85% to the high
+30s across the first ~1:50, then a plateau to ~4:10, then the outro fade. The
+gain came from the **plateau sitting a few points higher**, not from the
+opening holding better. The first two minutes remain the loss, untouched.
+
+### Drift is a tailwind, not a substitute
+
+| Lever | Avg view duration on FRM |
+|---|---|
+| Nine days of retention drift (41.9% → 44.1% at 5:26) | 2:23 (+7 sec) |
+| Same 44.1% retention at 12 minutes | 5:17 (+2:55) |
+| Same 44.1% retention at 15 minutes | 6:36 (+4:14) |
+
+**Drift bought seven seconds. Runtime would buy four minutes.** Retention
+curves also plateau — EA ran 23.8% → ~38% and then settled — so extrapolating
+this drift forward is not safe. Treat it as a decaying bonus on top of whatever
+the format change delivers, never as the plan.
+
+Note also that this drift applies to the back catalogue automatically. It does
+nothing to explain the Day 100 watch-time stall, and cannot fix it.
+
 ## 16 Sept 2026 (Day 100) — watch time stalled
 
 | Measure | 11 Sept | 16 Sept | Change |
