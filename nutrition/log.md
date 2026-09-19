@@ -632,43 +632,29 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 15 — 2026-09-18 (in progress)
+## Day 15 — 2026-09-18 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 puttu pieces + kadala curry | 560–800 | 14–20 g | 16–30 g |
 | Lunch | Chicken biriyani, rice halved, + 2 chicken pieces + raita + garlic pickle | 480–730 | 29.5–43 g | 22–40 g |
-| **TOTAL (logged so far)** | | **1,040–1,530** | **43.5–63 g** | **38–70 g** |
-| **Midpoint** | | **1,285** | **53.25 g** | **54 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| Dinner | 2 chapati + kadala curry | 400–560 | 14–18 g | 11–18 g |
+| **TOTAL** | | **1,540–2,220** | **77.5–106 g** | **50–91 g** |
+| **Midpoint** | | **1,880** | **91.75 g** | **70.5 g** |
 
-**The breakfast swap costs 355 kcal.** Friday's menu breakfast is the idly set —
-3 idli and sambar, ~325 kcal for **3–8 g of fat**, the lightest item on the entire
-week's menu. Puttu and kadala is ~680 with ~23 g of fat, and Friday is normally the
-roomiest day of the week.
+**Lowest-fat day since Day 1 — 70.5 g.** Nothing on a Friday menu is
+coconut-based, and that single fact did more for the fat line than any deliberate
+cut of the past two weeks.
 
-Lunch ran ~145 kcal over the morning's estimate but delivered ~6 g more protein —
-two generous chicken pieces, and biriyani rice carries more oil than plain rice
-even when halved.
+The breakfast swap cost 355 kcal: Friday's menu breakfast is the idly set, ~325
+kcal for 3–8 g of fat, the lightest item on the whole week's menu.
 
-### Closing Friday
-
-**835 kcal to target, 76.75 g of protein to the floor.**
-
-| | Day total | Protein | Fat | vs maintenance | Rate |
-|---|---|---|---|---|---|
-| **Kadala dinner + 3 scoops** | **2,110** | **136.75 g** | **~74.5 g** | **−559** | **0.51 kg/wk** |
-| Kadala dinner + 4 scoops | 2,225 | 159 g | ~76.5 g | −444 | 0.40 kg/wk |
-| Kadala dinner + 200 g leftover chicken + 1 scoop | 2,300 | 148.75 g | ~90 g | −369 | 0.34 kg/wk |
-
-**Three scoops.** Ten kcal under target, protein clear of the floor, a 559 deficit
-sitting almost exactly on the 550 the plan was designed around — and **~74.5 g of
-fat, which would tie Day 11 as the second-lowest of the fifteen days.**
-
-Nothing on a Friday menu is coconut-based, and that single fact is worth more to
-the fat line than every deliberate cut of the past week.
-
-The leftover chicken is the wrong lever today — it costs ~15 g more fat and 190
-more calories than the scoops for less protein. Save it for tomorrow.
+**The two closing scoops were not confirmed, so the day closes at 91.75 g of
+protein — 38 under the floor — on a 789 kcal deficit.** Had they been taken it
+would have closed at 2,110 and 136.75 g, ten under target. That one habit is the
+difference between the best-shaped day of the fifteen and another oversized
+deficit at low protein.
 
 ---
 
