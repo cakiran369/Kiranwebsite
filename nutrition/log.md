@@ -653,42 +653,47 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 16 — 2026-09-19 (in progress)
+## Day 16 — 2026-09-19 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + vegetable sambar + red chutney (no white chutney) | 480–710 | 12.5–20 g | 17–34 g |
 | Lunch | Mess meals plate, rice halved, + 1-egg omelette + sambar, cabbage thoran, veg curry, curd | 615–960 | 23–33 g | 26–47 g |
 | Snack | Black coffee + 1.5 whey scoops | 150–195 | 30–37.5 g | 1.5–4.5 g |
-| **TOTAL (logged so far)** | | **1,245–1,865** | **65.5–90.5 g** | **44.5–85.5 g** |
-| **Midpoint** | | **1,555** | **78 g** | **65 g** |
+| Dinner | Grilled chicken piece + chicken curry + 2 chapati + 1 boiled egg | 650–938 | 52–72.5 g | 29–48.5 g |
+| **TOTAL** | | **1,895–2,803** | **117.5–163 g** | **73.5–134 g** |
+| **Midpoint** | | **2,349** | **140.25 g** | **103.75 g** |
 
-Ninth breakfast in a row without the white coconut chutney.
+Ninth breakfast in a row without the white coconut chutney. The flat item at lunch
+was a **thin one-egg omelette, not a pappadam** — corrected on the user's word,
+worth +45 kcal and +4.5 g of protein, and it retires the "first all-vegetarian
+plate" reading written before the correction.
 
-The flat item on the lunch plate was a **thin one-egg omelette, not a pappadam** —
-corrected on the user's word. That is +45 kcal, +4.5 g of protein and +4.5 g of
-fat, and it retires the "first all-vegetarian plate" reading written before the
-correction: at 787 kcal for 28 g the plate runs **3.6 g of protein per 100 kcal**,
-essentially the mess weekly average of 3.7 rather than below it.
+**Dinner ran ~145 kcal over plan** — a larger grilled chicken piece than the 200 g
+budgeted, plus a chicken-curry container and a boiled egg that were not in it. The
+Sprite can was not identified and is counted as zero-sugar; if it was the sugared
+version, add ~84 kcal and the day closes at 2,433 and −236.
 
-### Closing Saturday
+**140.25 g of protein on a 320 kcal deficit.** The calorie number runs 229 over
+target, which is the right direction this week: the fitted weight line
+(−0.560 kg/wk) has been running ahead of what the food log predicts (−0.456), so a
+softer day is corrective rather than lost.
 
-**565 kcal to target, 52 g of protein to the floor.** No further whey needed —
-the grilled chicken covers the rest on its own.
+### Sixteen days
 
-| | Day total | Protein | Fat | vs maintenance | Rate |
-|---|---|---|---|---|---|
-| **200 g grilled chicken + 2 chapati** | **2,205** | **142 g** | **~91 g** | **−464** | **0.42 kg/wk** |
-| 200 g grilled chicken + 1 chapati | 2,090 | 138.5 g | ~88 g | −579 | 0.53 kg/wk |
-| Varutharachathu, chicken lifted out, + 2 chapati | 2,060 | 109 g | ~86 g | −609 | 0.55 kg/wk |
+| | Average | Target |
+|---|---|---|
+| Calories | **2,179** | 2,120 |
+| Protein | **114.4 g** | 130–145 g |
+| Fat | 92.8 g | 55 g floor |
 
-**Two chapati with the chicken.** 85 kcal over target, 142 g of protein, and a
-464 deficit — the right shape while the fitted trend (−0.560 kg/wk) runs ahead of
-the food log's prediction (−0.456). The second row is tidier against the target
-but there is no reason to chase a larger deficit this week.
+**490 kcal/day deficit, 0.45 kg/week**, against a fitted scale trend of 0.56.
 
-The varutharachathu row is why the chicken matters today: same calories, 33 g less
-protein, and it would need another scoop to clear the floor.
+Protein is still the open line — **10 of 15 complete days under the floor** — but
+the last four read **141, 181, 92, 140**. Three of those four clear it. The one
+that did not is Day 15, where the closing scoops went unconfirmed. The pattern is
+no longer "protein is always short"; it is "protein is short exactly on the days
+the evening whey is skipped."
 
 ## Day 15 — 2026-09-18 (closed)
 
