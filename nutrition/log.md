@@ -658,38 +658,37 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + vegetable sambar + red chutney (no white chutney) | 480–710 | 12.5–20 g | 17–34 g |
-| Lunch | Mess meals plate, rice halved, + sambar, pappadam, cabbage thoran, veg curry, curd | 575–910 | 19–28 g | 22–42 g |
-| **TOTAL (logged so far)** | | **1,055–1,620** | **31.5–48 g** | **39–76 g** |
-| **Midpoint** | | **1,337.5** | **39.75 g** | **57.5 g** |
+| Lunch | Mess meals plate, rice halved, + 1-egg omelette + sambar, cabbage thoran, veg curry, curd | 615–960 | 23–33 g | 26–47 g |
+| **TOTAL (logged so far)** | | **1,095–1,670** | **35.5–53 g** | **43–81 g** |
+| **Midpoint** | | **1,382.5** | **44.25 g** | **62 g** |
 
 Ninth breakfast in a row without the white coconut chutney.
 
-**No fish or meat on the lunch plate — the first all-vegetarian mess lunch in
-sixteen days.** It came to 742 kcal for 23.5 g of protein: **3.2 g per 100 kcal**,
-below even the mess weekly average of 3.7. Every previous meals plate has carried
-a fried fish or a chicken piece doing most of the protein work.
-
-That single absence is why the evening now has to carry 90 g.
+The flat item on the lunch plate was a **thin one-egg omelette, not a pappadam** —
+corrected on the user's word. That is +45 kcal, +4.5 g of protein and +4.5 g of
+fat, and it retires the "first all-vegetarian plate" reading written before the
+correction: at 787 kcal for 28 g the plate runs **3.6 g of protein per 100 kcal**,
+essentially the mess weekly average of 3.7 rather than below it.
 
 ### Saturday is a tight day
 
-**782 kcal to target, 90.25 g of protein to the floor.** This is the day to use
-the leftover grilled chicken — day three of its 3–4 day refrigerated window.
+**737 kcal to target, 85.75 g of protein to the floor.** This is the day to use the
+leftover grilled chicken — day three of its 3–4 day refrigerated window.
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **200 g grilled chicken + 2 chapati + 2 scoops** | **2,218** | **148.75 g** | **~88 g** | **−451** | **0.41 kg/wk** |
-| 200 g grilled chicken + 2 chapati + 1 scoop | 2,103 | 126.25 g | ~86 g | −566 | 0.51 kg/wk |
-| Varutharachathu, chicken lifted out, + 3 scoops | 2,188 | 138.25 g | ~84 g | −481 | 0.44 kg/wk |
+| **200 g grilled chicken + 2 chapati + 1 scoop** | **2,148** | **130.75 g** | **~90 g** | **−521** | **0.47 kg/wk** |
+| 200 g grilled chicken + 2 chapati + 2 scoops | 2,263 | 153.25 g | ~92 g | −406 | 0.37 kg/wk |
+| Varutharachathu, chicken lifted out, + 3 scoops | 2,233 | 142.75 g | ~89 g | −436 | 0.40 kg/wk |
 
-**Top row.** It runs 97 kcal over target, which is the right call given where the
-trend sits: the fitted line is at −0.560 kg/week against −0.456 predicted, so the
-loss is already running ahead of plan. A −451 day is corrective rather than soft,
-and 148.75 g is the first properly clear protein day since Thursday.
+**The omelette changed the evening.** Before the correction this needed two scoops;
+now one lands the day 27 kcal over target at 130.75 g — over the floor, on plan,
+and consistent with taking a single scoop after dinner as a fixed habit rather
+than a calculation.
 
-The second row lands closer to target but at 126.25 g — 3.75 g under the floor,
-inside the estimate's error bars but on the wrong side of it for the eleventh time
-in sixteen days.
+Take the second only if hungry. At 153 g it is still a −406 day, which is
+acceptable while the fitted trend (−0.560 kg/wk) runs ahead of the food log's
+prediction (−0.456), but it is no longer needed to clear the floor.
 
 ## Day 15 — 2026-09-18 (closed)
 

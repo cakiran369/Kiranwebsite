@@ -77,4 +77,4 @@ date,meal,items,kcal_low,kcal_high,protein_low,protein_high,fat_low,fat_high,sta
 2026-09-18,Snack,Black coffee + 1 whey scoop,100,130,20,25,1,3,logged,Scoop 1
 2026-09-18,Dinner,2 chapati + kadala curry,400,560,14,18,11,18,logged,Mess Friday dinner
 2026-09-19,Breakfast,2 set dosa + vegetable sambar + red chutney (no white chutney),480,710,12.5,20,17,34,logged,Eaten out; generous sambar poured over both dosa
-2026-09-19,Lunch,"Mess meals plate (rice halved) + sambar, pappadam, cabbage thoran, veg curry, curd",575,910,19,28,22,42,logged,No fish or meat on the plate - first all-vegetarian mess lunch logged
+2026-09-19,Lunch,"Mess meals plate (rice halved) + 1-egg omelette + sambar, cabbage thoran, veg curry, curd",615,960,23,33,26,47,logged,Corrected - the flat item was a thin 1-egg omelette, not a pappadam
