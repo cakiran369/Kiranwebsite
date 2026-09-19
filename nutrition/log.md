@@ -659,8 +659,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + vegetable sambar + red chutney (no white chutney) | 480–710 | 12.5–20 g | 17–34 g |
 | Lunch | Mess meals plate, rice halved, + 1-egg omelette + sambar, cabbage thoran, veg curry, curd | 615–960 | 23–33 g | 26–47 g |
-| **TOTAL (logged so far)** | | **1,095–1,670** | **35.5–53 g** | **43–81 g** |
-| **Midpoint** | | **1,382.5** | **44.25 g** | **62 g** |
+| Snack | Black coffee + 1.5 whey scoops | 150–195 | 30–37.5 g | 1.5–4.5 g |
+| **TOTAL (logged so far)** | | **1,245–1,865** | **65.5–90.5 g** | **44.5–85.5 g** |
+| **Midpoint** | | **1,555** | **78 g** | **65 g** |
 
 Ninth breakfast in a row without the white coconut chutney.
 
@@ -670,25 +671,24 @@ fat, and it retires the "first all-vegetarian plate" reading written before the
 correction: at 787 kcal for 28 g the plate runs **3.6 g of protein per 100 kcal**,
 essentially the mess weekly average of 3.7 rather than below it.
 
-### Saturday is a tight day
+### Closing Saturday
 
-**737 kcal to target, 85.75 g of protein to the floor.** This is the day to use the
-leftover grilled chicken — day three of its 3–4 day refrigerated window.
+**565 kcal to target, 52 g of protein to the floor.** No further whey needed —
+the grilled chicken covers the rest on its own.
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **200 g grilled chicken + 2 chapati + 1 scoop** | **2,148** | **130.75 g** | **~90 g** | **−521** | **0.47 kg/wk** |
-| 200 g grilled chicken + 2 chapati + 2 scoops | 2,263 | 153.25 g | ~92 g | −406 | 0.37 kg/wk |
-| Varutharachathu, chicken lifted out, + 3 scoops | 2,233 | 142.75 g | ~89 g | −436 | 0.40 kg/wk |
+| **200 g grilled chicken + 2 chapati** | **2,205** | **142 g** | **~91 g** | **−464** | **0.42 kg/wk** |
+| 200 g grilled chicken + 1 chapati | 2,090 | 138.5 g | ~88 g | −579 | 0.53 kg/wk |
+| Varutharachathu, chicken lifted out, + 2 chapati | 2,060 | 109 g | ~86 g | −609 | 0.55 kg/wk |
 
-**The omelette changed the evening.** Before the correction this needed two scoops;
-now one lands the day 27 kcal over target at 130.75 g — over the floor, on plan,
-and consistent with taking a single scoop after dinner as a fixed habit rather
-than a calculation.
+**Two chapati with the chicken.** 85 kcal over target, 142 g of protein, and a
+464 deficit — the right shape while the fitted trend (−0.560 kg/wk) runs ahead of
+the food log's prediction (−0.456). The second row is tidier against the target
+but there is no reason to chase a larger deficit this week.
 
-Take the second only if hungry. At 153 g it is still a −406 day, which is
-acceptable while the fitted trend (−0.560 kg/wk) runs ahead of the food log's
-prediction (−0.456), but it is no longer needed to clear the floor.
+The varutharachathu row is why the chicken matters today: same calories, 33 g less
+protein, and it would need another scoop to clear the floor.
 
 ## Day 15 — 2026-09-18 (closed)
 
