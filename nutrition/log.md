@@ -658,37 +658,38 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + vegetable sambar + red chutney (no white chutney) | 480–710 | 12.5–20 g | 17–34 g |
-| **TOTAL (logged so far)** | | **480–710** | **12.5–20 g** | **17–34 g** |
-| **Midpoint** | | **595** | **16.25 g** | **25.5 g** |
+| Lunch | Mess meals plate, rice halved, + sambar, pappadam, cabbage thoran, veg curry, curd | 575–910 | 19–28 g | 22–42 g |
+| **TOTAL (logged so far)** | | **1,055–1,620** | **31.5–48 g** | **39–76 g** |
+| **Midpoint** | | **1,337.5** | **39.75 g** | **57.5 g** |
 
-Ninth breakfast in a row without the white coconut chutney. The sambar was poured
-generously over both dosa, which is where most of this meal's fat sits — ~5–10 g.
+Ninth breakfast in a row without the white coconut chutney.
+
+**No fish or meat on the lunch plate — the first all-vegetarian mess lunch in
+sixteen days.** It came to 742 kcal for 23.5 g of protein: **3.2 g per 100 kcal**,
+below even the mess weekly average of 3.7. Every previous meals plate has carried
+a fried fish or a chicken piece doing most of the protein work.
+
+That single absence is why the evening now has to carry 90 g.
 
 ### Saturday is a tight day
 
-**2,100 kcal and 77 g of protein as served.** The dosa-set breakfast loads the
-morning and the chicken varutharachathu is a roasted-coconut gravy.
+**782 kcal to target, 90.25 g of protein to the floor.** This is the day to use
+the leftover grilled chicken — day three of its 3–4 day refrigerated window.
 
-**1,525 kcal left, 113.75 g of protein to find.**
+| | Day total | Protein | Fat | vs maintenance | Rate |
+|---|---|---|---|---|---|
+| **200 g grilled chicken + 2 chapati + 2 scoops** | **2,218** | **148.75 g** | **~88 g** | **−451** | **0.41 kg/wk** |
+| 200 g grilled chicken + 2 chapati + 1 scoop | 2,103 | 126.25 g | ~86 g | −566 | 0.51 kg/wk |
+| Varutharachathu, chicken lifted out, + 3 scoops | 2,188 | 138.25 g | ~84 g | −481 | 0.44 kg/wk |
 
-| | Day total | Protein | vs maintenance | Rate |
-|---|---|---|---|---|
-| **200 g leftover grilled chicken + 2 chapati at dinner, rice halved, 1 scoop** | **2,120** | **133.75 g** | **−549** | **0.50 kg/wk** |
-| Varutharachathu with the chicken lifted out + 3 scoops | 2,205 | 145.75 g | −464 | 0.42 kg/wk |
-| Varutharachathu with the chicken lifted out + 2 scoops | 2,090 | 123.25 g | −579 | 0.53 kg/wk |
+**Top row.** It runs 97 kcal over target, which is the right call given where the
+trend sits: the fitted line is at −0.560 kg/week against −0.456 predicted, so the
+loss is already running ahead of plan. A −451 day is corrective rather than soft,
+and 148.75 g is the first properly clear protein day since Thursday.
 
-**Top row — and today is the day to use the grilled chicken.** It lands exactly on
-the 2,120 target with protein clear of the floor, and it needs only one scoop,
-taken after dinner as a fixed habit rather than as a calculation.
-
-**Cooked chicken keeps 3–4 days refrigerated and this is day three.** Use it today
-or discard it; do not eat it tomorrow.
-
-Without the chicken, the varutharachathu still works but needs three scoops and
-the gravy left in its container — the bottom row is the recurring trap, a
-plausible-looking two scoops that lands 7 g under the floor.
-
----
+The second row lands closer to target but at 126.25 g — 3.75 g under the floor,
+inside the estimate's error bars but on the wrong side of it for the eleventh time
+in sixteen days.
 
 ## Day 15 — 2026-09-18 (closed)
 
