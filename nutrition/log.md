@@ -102,6 +102,7 @@ early and it is unambiguous.
 | 2026-09-16 | 90.15 | +0.10 over 5 days |
 | 2026-09-17 | 90.05 | −0.10 over 1 day |
 | 2026-09-18 | **89.55** | **−0.50 over 1 day — first reading under 90** |
+| 2026-09-19 | 89.45 | −0.10 over 1 day |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -117,12 +118,32 @@ least-squares line through all six post-flush points is the honest measure:
 
 | Measure | Rate |
 |---|---|
-| Endpoints 09-07 → 09-18 | −0.764 kg/wk |
-| **Least-squares fit, 6 points from 09-07** | **−0.489 kg/wk** |
-| Predicted from 13 logged days at 2,189 kcal | −0.436 kg/wk |
+| Endpoints 09-07 → 09-19 | −0.700 kg/wk |
+| **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
+| Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
 
-**The fitted line and the food log agree to within 0.05 kg/week.** That is the
-number to trust.
+**The gap has widened from 0.05 to 0.10 kg/week** — about **114 kcal/day**. Two
+readings ago it was inside the noise; it is now consistent in direction across two
+checks, which is worth naming without yet acting on.
+
+Three candidate explanations, in order of likelihood:
+
+1. **Photo estimates running ~5% high.** A 114 kcal error on a 2,167 kcal average
+   is well inside what range-estimating from photographs can produce.
+2. **Maintenance is higher than 2,669.** The watch shows active energy "higher for
+   5 weeks"; a true multiplier of ~1.58 rather than 1.52 would close the gap
+   exactly.
+3. **Still water.** Seven points over twelve days is thin, and the last three
+   readings are all recent lows pulling the fit down.
+
+What it is **not**: unlogged whey. Scoops that were taken but not reported would
+mean actual intake was *higher* than logged, which would make weight fall more
+slowly, not faster.
+
+No change to the target until there is another week of data. The practical
+consequence is about protein, not calories: **losing at 0.56 kg/week on a 112 g
+average protein intake is more aggressive than the plan intended**, and makes the
+unconfirmed evening scoops matter more rather than less.
 
 Predicted from thirteen logged days averaging 2,189 kcal against a 2,669
 maintenance: **−0.436 kg/week.**
