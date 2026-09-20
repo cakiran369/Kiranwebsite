@@ -661,10 +661,10 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Lunch | Ghee rice (halved) + chicken curry + curd | 490–710 | 26–36 g | 21–36 g |
 | Snack | 1 parippu vada + milk coffee (no sugar) | 170–280 | 7–10.5 g | 9–16 g |
 | Snack | 1 small stuffed squid, pan-fried | 130–200 | 10–14 g | 8–15 g |
-| Snack | Clear soup (small bowl) | 60–130 | 2–6 g | 2–6 g |
+| Snack | Clear soup (one spoonful only) | 5–12 | 0–0.5 g | 0–0.5 g |
 | Drink | Mint juice (small cup) | 60–140 | 0–0.5 g | 0–0.5 g |
-| **TOTAL (logged so far)** | | **1,270–2,010** | **57–83 g** | **56–100.5 g** |
-| **Midpoint** | | **1,640** | **70 g** | **78.25 g** |
+| **TOTAL (logged so far)** | | **1,215–1,892** | **55–77.5 g** | **54–95 g** |
+| **Midpoint** | | **1,553.5** | **66.25 g** | **74.5 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
 
@@ -676,26 +676,27 @@ to be filled deliberately rather than by default.
 
 ### Closing Sunday — dinner is out, so this is a budget not a plan
 
-**480 kcal to target, 60 g of protein to the floor.**
+**566 kcal to target, 63.75 g of protein to the floor.**
 
 | Dinner choice | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| Grilled/tandoori main (~200 g), no bread | 2,060 | 127 g | −609 | 0.55 kg/wk |
-| **Grilled/tandoori main + 1 roti or kubboos** | **2,175** | **130.5 g** | **−494** | **0.45 kg/wk** |
-| Grilled main + 1 roti + a scoop at home | 2,290 | 153 g | −379 | 0.34 kg/wk |
-| Biriyani or fried rice plate | 2,400+ | ~110 g | −269 | 0.24 kg/wk |
+| **Grilled/tandoori main (~200 g) + 1 roti or kubboos + a scoop at home** | **2,203** | **149.25 g** | **−466** | **0.42 kg/wk** |
+| Grilled/tandoori main + 1 bread, no scoop | 2,088 | 126.75 g | −581 | 0.53 kg/wk |
+| Grilled main, no bread, no scoop | 1,974 | 123.25 g | −695 | 0.63 kg/wk |
+| Biriyani or fried rice plate | 2,320+ | ~106 g | −349 | 0.32 kg/wk |
 
-**Grilled or tandoori main plus one bread.** 55 kcal over target, protein just over
-the floor, a 494 deficit — and no scoop needed, because the mint juice took its
-place.
+Only a spoonful of the soup was taken, not the bowl — ~87 kcal back, which brings
+the closing scoop with it.
 
-**The mint juice is ~100 kcal of sugar for zero protein**, the same cost as the
-whey scoop it displaced. This is the Day 2 pineapple-juice lesson in miniature:
-liquid sugar registers as nothing and prices like food. If it was unsweetened it
-is nearer 15 kcal and the scoop comes back.
+**Grilled or tandoori main, one bread, one scoop at home.** 83 kcal over target,
+149 g of protein, a 466 deficit.
 
-The kubboos on the table is not counted. If it gets eaten on top of the main's
-bread, add ~150–250 kcal and the day lands near maintenance.
+**The mint juice is ~100 kcal of sugar for zero protein.** This is the Day 2
+pineapple-juice lesson in miniature: liquid sugar registers as nothing and prices
+like food. If it was unsweetened it is nearer 15 kcal.
+
+The kubboos on the table is not counted. One bread with the main, not two — a
+second adds ~150–250 kcal and the day lands near maintenance.
 
 ---
 
