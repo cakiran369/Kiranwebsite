@@ -658,32 +658,39 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 16–27 g |
-| **TOTAL (logged so far)** | | **360–550** | **12–16 g** | **16–27 g** |
-| **Midpoint** | | **455** | **14 g** | **21.5 g** |
+| Lunch | Ghee rice (halved) + chicken curry + curd | 490–710 | 26–36 g | 21–36 g |
+| **TOTAL (logged so far)** | | **850–1,260** | **38–52 g** | **37–63 g** |
+| **Midpoint** | | **1,055** | **45 g** | **50 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
-The cheapest cut available at a Sunday breakfast, and taken without prompting.
 
-### Sunday is the roomiest day, and today it is roomier still
+The ghee rice was halved anyway, against the morning's suggestion. **That turns out
+to be the better call, not a worse one.** Leaving the rice would have added ~190
+kcal for ~3 g of protein; spending the same 190 kcal on whey and eggs instead buys
+~35 g. Same calories, far more protein — the only cost is that the evening now has
+to be filled deliberately rather than by default.
 
-**1,665 kcal left, 116 g of protein to find.** The menu totals 1,875 kcal as
-served; the porotta cut takes it lower again.
+### Closing Sunday
+
+**1,065 kcal to target, 85 g of protein to the floor.** Dinner is egg roast and two
+chapati — 450 kcal and 21 g.
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **Ghee rice as served + 4 scoops** | **2,130** | **152 g** | **~83.5 g** | **−539** | **0.49 kg/wk** |
-| Ghee rice halved + 4 scoops + 2 boiled eggs | 2,088 | 164.5 g | ~92 g | −581 | 0.53 kg/wk |
-| Ghee rice halved + 4 scoops | 1,940 | 152 g | ~82 g | −729 | 0.66 kg/wk |
+| **Dinner + 4 scoops + 2 boiled eggs** | **2,113** | **168.5 g** | **~90 g** | **−556** | **0.51 kg/wk** |
+| Dinner + 5 scoops | 2,080 | 178.5 g | ~81 g | −589 | 0.54 kg/wk |
+| Dinner + 3 scoops + 3 boiled eggs | 2,072 | 152 g | ~93 g | −597 | 0.54 kg/wk |
+| Dinner + 3 scoops | 1,850 | 133.5 g | ~77 g | −819 | 0.74 kg/wk |
 
-**Today is the one day not to halve the ghee rice.** The top row lands 10 kcal
-over target with 152 g of protein and **~83.5 g of fat — the second-lowest of the
-seventeen days** — because the 190 kcal the rice adds is almost pure carbohydrate,
-where two boiled eggs would add 10.5 g of fat for the same calories.
+**Four scoops and two eggs** — 7 kcal under target with a 556 deficit, the number
+the plan was built around.
 
-The bottom row is the reflex answer and it is wrong today: halving the rice on an
-already-light day produces a 729 deficit, and the fitted weight line
-(−0.560 kg/wk) is already outrunning the food log's prediction (−0.456). The rule
-exists to create room. Today the room is already there.
+The second row is the leaner version if four shakes plus two eggs is too much
+chewing: 9 g less fat for one more scoop.
+
+The bottom row is the trap, and it is a large one today. Three scoops looks like a
+normal evening and produces an **819 kcal deficit** — the biggest of the
+seventeen days, on a week where the scale is already outrunning the food log.
 
 ---
 
