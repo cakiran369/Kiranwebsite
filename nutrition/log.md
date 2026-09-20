@@ -660,8 +660,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 16–27 g |
 | Lunch | Ghee rice (halved) + chicken curry + curd | 490–710 | 26–36 g | 21–36 g |
 | Snack | 1 parippu vada + milk coffee (no sugar) | 170–280 | 7–10.5 g | 9–16 g |
-| **TOTAL (logged so far)** | | **1,020–1,540** | **45–62.5 g** | **46–79 g** |
-| **Midpoint** | | **1,280** | **53.75 g** | **62.5 g** |
+| Snack | 1 small stuffed squid, pan-fried | 130–200 | 10–14 g | 8–15 g |
+| **TOTAL (logged so far)** | | **1,150–1,740** | **55–76.5 g** | **54–94 g** |
+| **Midpoint** | | **1,445** | **65.75 g** | **74 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
 
@@ -673,21 +674,24 @@ to be filled deliberately rather than by default.
 
 ### Closing Sunday
 
-**840 kcal to target, 76.25 g of protein to the floor.** Dinner is egg roast and
+**675 kcal to target, 64.25 g of protein to the floor.** Dinner is egg roast and
 two chapati — 450 kcal and 21 g.
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **Dinner + 3 scoops + 1 boiled egg** | **2,149** | **148.5 g** | **~95 g** | **−520** | **0.47 kg/wk** |
-| Dinner + 3 scoops | 2,075 | 142.25 g | ~89.5 g | −594 | 0.54 kg/wk |
-| Dinner + 4 scoops | 2,190 | 164.75 g | ~91.5 g | −479 | 0.44 kg/wk |
+| **Dinner + 2 scoops** | **2,125** | **131.75 g** | **~99 g** | **−544** | **0.49 kg/wk** |
+| Dinner + 3 scoops | 2,240 | 154.25 g | ~101 g | −429 | 0.39 kg/wk |
 
-The vada and milk coffee took the place of the two boiled eggs in the morning
-plan, so the evening drops from four scoops to three.
+**Two scoops.** Five kcal over target, protein over the floor, a 544 deficit.
 
-**Parippu vada is deep-fried chana dal: ~165 kcal for ~6 g of protein**, or
-3.6 g per 100 kcal — the mess average, neither good nor bad. The milk coffee is
-the first non-black one logged: ~60 kcal against black coffee's ~2.
+The two snacks between them replaced two scoops and two boiled eggs from the
+morning plan, and the squid is the reason it still works: **~165 kcal for ~12 g of
+protein, 7.3 g per 100 kcal** — double the mess average and close to a boiled
+egg's 8.5. Squid meat is one of the leanest proteins there is; essentially all the
+fat on that plate is the frying oil.
+
+The parippu vada, by contrast, is 3.6 g per 100 kcal — exactly the mess average.
+Same snack slot, half the protein value.
 
 ---
 
