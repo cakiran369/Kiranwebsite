@@ -662,8 +662,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Snack | 1 parippu vada + milk coffee (no sugar) | 170–280 | 7–10.5 g | 9–16 g |
 | Snack | 1 small stuffed squid, pan-fried | 130–200 | 10–14 g | 8–15 g |
 | Snack | Clear soup (small bowl) | 60–130 | 2–6 g | 2–6 g |
-| **TOTAL (logged so far)** | | **1,210–1,870** | **57–82.5 g** | **56–100 g** |
-| **Midpoint** | | **1,540** | **69.75 g** | **78 g** |
+| Drink | Mint juice (small cup) | 60–140 | 0–0.5 g | 0–0.5 g |
+| **TOTAL (logged so far)** | | **1,270–2,010** | **57–83 g** | **56–100.5 g** |
+| **Midpoint** | | **1,640** | **70 g** | **78.25 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
 
@@ -675,23 +676,26 @@ to be filled deliberately rather than by default.
 
 ### Closing Sunday — dinner is out, so this is a budget not a plan
 
-**580 kcal to target, 60.25 g of protein to the floor.** The soup is a good
-starter — ~95 kcal, filling, almost no fat. What follows it decides the day.
+**480 kcal to target, 60 g of protein to the floor.**
 
 | Dinner choice | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **Grilled/tandoori chicken or fish (~200 g), no bread** | **1,960** | **125 g** | **−709** | **0.64 kg/wk** |
-| Grilled chicken or fish + 1 chapati/roti | 2,075 | 128.5 g | −594 | 0.54 kg/wk |
-| **Grilled chicken or fish + 1 roti + 1 whey scoop** | **2,190** | **151 g** | **−479** | **0.44 kg/wk** |
-| Biriyani or fried rice plate | 2,340+ | ~110 g | −329 | 0.30 kg/wk |
+| Grilled/tandoori main (~200 g), no bread | 2,060 | 127 g | −609 | 0.55 kg/wk |
+| **Grilled/tandoori main + 1 roti or kubboos** | **2,175** | **130.5 g** | **−494** | **0.45 kg/wk** |
+| Grilled main + 1 roti + a scoop at home | 2,290 | 153 g | −379 | 0.34 kg/wk |
+| Biriyani or fried rice plate | 2,400+ | ~110 g | −269 | 0.24 kg/wk |
 
-**Order something grilled or tandoori, take one roti, and have a scoop when home.**
-That is the third row: 70 kcal over target, 151 g of protein, a 479 deficit.
+**Grilled or tandoori main plus one bread.** 55 kcal over target, protein just over
+the floor, a 494 deficit — and no scoop needed, because the mint juice took its
+place.
 
-The snacks have already spent the evening's flexibility — vada, squid and soup
-together are ~485 kcal — so a rice plate is the one thing that does not fit. Naan
-and butter-based gravies are the other two to avoid; a single butter-chicken style
-gravy can carry 30 g of fat on its own.
+**The mint juice is ~100 kcal of sugar for zero protein**, the same cost as the
+whey scoop it displaced. This is the Day 2 pineapple-juice lesson in miniature:
+liquid sugar registers as nothing and prices like food. If it was unsweetened it
+is nearer 15 kcal and the scoop comes back.
+
+The kubboos on the table is not counted. If it gets eaten on top of the main's
+bread, add ~150–250 kcal and the day lands near maintenance.
 
 ---
 
