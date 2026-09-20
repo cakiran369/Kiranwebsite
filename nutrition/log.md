@@ -659,8 +659,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 16–27 g |
 | Lunch | Ghee rice (halved) + chicken curry + curd | 490–710 | 26–36 g | 21–36 g |
-| **TOTAL (logged so far)** | | **850–1,260** | **38–52 g** | **37–63 g** |
-| **Midpoint** | | **1,055** | **45 g** | **50 g** |
+| Snack | 1 parippu vada + milk coffee (no sugar) | 170–280 | 7–10.5 g | 9–16 g |
+| **TOTAL (logged so far)** | | **1,020–1,540** | **45–62.5 g** | **46–79 g** |
+| **Midpoint** | | **1,280** | **53.75 g** | **62.5 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
 
@@ -672,25 +673,21 @@ to be filled deliberately rather than by default.
 
 ### Closing Sunday
 
-**1,065 kcal to target, 85 g of protein to the floor.** Dinner is egg roast and two
-chapati — 450 kcal and 21 g.
+**840 kcal to target, 76.25 g of protein to the floor.** Dinner is egg roast and
+two chapati — 450 kcal and 21 g.
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **Dinner + 4 scoops + 2 boiled eggs** | **2,113** | **168.5 g** | **~90 g** | **−556** | **0.51 kg/wk** |
-| Dinner + 5 scoops | 2,080 | 178.5 g | ~81 g | −589 | 0.54 kg/wk |
-| Dinner + 3 scoops + 3 boiled eggs | 2,072 | 152 g | ~93 g | −597 | 0.54 kg/wk |
-| Dinner + 3 scoops | 1,850 | 133.5 g | ~77 g | −819 | 0.74 kg/wk |
+| **Dinner + 3 scoops + 1 boiled egg** | **2,149** | **148.5 g** | **~95 g** | **−520** | **0.47 kg/wk** |
+| Dinner + 3 scoops | 2,075 | 142.25 g | ~89.5 g | −594 | 0.54 kg/wk |
+| Dinner + 4 scoops | 2,190 | 164.75 g | ~91.5 g | −479 | 0.44 kg/wk |
 
-**Four scoops and two eggs** — 7 kcal under target with a 556 deficit, the number
-the plan was built around.
+The vada and milk coffee took the place of the two boiled eggs in the morning
+plan, so the evening drops from four scoops to three.
 
-The second row is the leaner version if four shakes plus two eggs is too much
-chewing: 9 g less fat for one more scoop.
-
-The bottom row is the trap, and it is a large one today. Three scoops looks like a
-normal evening and produces an **819 kcal deficit** — the biggest of the
-seventeen days, on a week where the scale is already outrunning the food log.
+**Parippu vada is deep-fried chana dal: ~165 kcal for ~6 g of protein**, or
+3.6 g per 100 kcal — the mess average, neither good nor bad. The milk coffee is
+the first non-black one logged: ~60 kcal against black coffee's ~2.
 
 ---
 
