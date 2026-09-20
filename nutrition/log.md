@@ -653,6 +653,40 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 17 — 2026-09-20 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 16–27 g |
+| **TOTAL (logged so far)** | | **360–550** | **12–16 g** | **16–27 g** |
+| **Midpoint** | | **455** | **14 g** | **21.5 g** |
+
+**One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
+The cheapest cut available at a Sunday breakfast, and taken without prompting.
+
+### Sunday is the roomiest day, and today it is roomier still
+
+**1,665 kcal left, 116 g of protein to find.** The menu totals 1,875 kcal as
+served; the porotta cut takes it lower again.
+
+| | Day total | Protein | Fat | vs maintenance | Rate |
+|---|---|---|---|---|---|
+| **Ghee rice as served + 4 scoops** | **2,130** | **152 g** | **~83.5 g** | **−539** | **0.49 kg/wk** |
+| Ghee rice halved + 4 scoops + 2 boiled eggs | 2,088 | 164.5 g | ~92 g | −581 | 0.53 kg/wk |
+| Ghee rice halved + 4 scoops | 1,940 | 152 g | ~82 g | −729 | 0.66 kg/wk |
+
+**Today is the one day not to halve the ghee rice.** The top row lands 10 kcal
+over target with 152 g of protein and **~83.5 g of fat — the second-lowest of the
+seventeen days** — because the 190 kcal the rice adds is almost pure carbohydrate,
+where two boiled eggs would add 10.5 g of fat for the same calories.
+
+The bottom row is the reflex answer and it is wrong today: halving the rice on an
+already-light day produces a 729 deficit, and the fitted weight line
+(−0.560 kg/wk) is already outrunning the food log's prediction (−0.456). The rule
+exists to create room. Today the room is already there.
+
+---
+
 ## Day 16 — 2026-09-19 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
