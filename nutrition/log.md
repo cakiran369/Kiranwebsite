@@ -661,8 +661,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Lunch | Ghee rice (halved) + chicken curry + curd | 490–710 | 26–36 g | 21–36 g |
 | Snack | 1 parippu vada + milk coffee (no sugar) | 170–280 | 7–10.5 g | 9–16 g |
 | Snack | 1 small stuffed squid, pan-fried | 130–200 | 10–14 g | 8–15 g |
-| **TOTAL (logged so far)** | | **1,150–1,740** | **55–76.5 g** | **54–94 g** |
-| **Midpoint** | | **1,445** | **65.75 g** | **74 g** |
+| Snack | Clear soup (small bowl) | 60–130 | 2–6 g | 2–6 g |
+| **TOTAL (logged so far)** | | **1,210–1,870** | **57–82.5 g** | **56–100 g** |
+| **Midpoint** | | **1,540** | **69.75 g** | **78 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
 
@@ -672,26 +673,25 @@ kcal for ~3 g of protein; spending the same 190 kcal on whey and eggs instead bu
 ~35 g. Same calories, far more protein — the only cost is that the evening now has
 to be filled deliberately rather than by default.
 
-### Closing Sunday
+### Closing Sunday — dinner is out, so this is a budget not a plan
 
-**675 kcal to target, 64.25 g of protein to the floor.** Dinner is egg roast and
-two chapati — 450 kcal and 21 g.
+**580 kcal to target, 60.25 g of protein to the floor.** The soup is a good
+starter — ~95 kcal, filling, almost no fat. What follows it decides the day.
 
-| | Day total | Protein | Fat | vs maintenance | Rate |
-|---|---|---|---|---|---|
-| **Dinner + 2 scoops** | **2,125** | **131.75 g** | **~99 g** | **−544** | **0.49 kg/wk** |
-| Dinner + 3 scoops | 2,240 | 154.25 g | ~101 g | −429 | 0.39 kg/wk |
+| Dinner choice | Day total | Protein | vs maintenance | Rate |
+|---|---|---|---|---|
+| **Grilled/tandoori chicken or fish (~200 g), no bread** | **1,960** | **125 g** | **−709** | **0.64 kg/wk** |
+| Grilled chicken or fish + 1 chapati/roti | 2,075 | 128.5 g | −594 | 0.54 kg/wk |
+| **Grilled chicken or fish + 1 roti + 1 whey scoop** | **2,190** | **151 g** | **−479** | **0.44 kg/wk** |
+| Biriyani or fried rice plate | 2,340+ | ~110 g | −329 | 0.30 kg/wk |
 
-**Two scoops.** Five kcal over target, protein over the floor, a 544 deficit.
+**Order something grilled or tandoori, take one roti, and have a scoop when home.**
+That is the third row: 70 kcal over target, 151 g of protein, a 479 deficit.
 
-The two snacks between them replaced two scoops and two boiled eggs from the
-morning plan, and the squid is the reason it still works: **~165 kcal for ~12 g of
-protein, 7.3 g per 100 kcal** — double the mess average and close to a boiled
-egg's 8.5. Squid meat is one of the leanest proteins there is; essentially all the
-fat on that plate is the frying oil.
-
-The parippu vada, by contrast, is 3.6 g per 100 kcal — exactly the mess average.
-Same snack slot, half the protein value.
+The snacks have already spent the evening's flexibility — vada, squid and soup
+together are ~485 kcal — so a rice plate is the one thing that does not fit. Naan
+and butter-based gravies are the other two to avoid; a single butter-chicken style
+gravy can carry 30 g of fat on its own.
 
 ---
 
