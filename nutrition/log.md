@@ -663,8 +663,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Snack | 1 small stuffed squid, pan-fried | 130–200 | 10–14 g | 8–15 g |
 | Snack | Clear soup (one spoonful only) | 5–12 | 0–0.5 g | 0–0.5 g |
 | Drink | Mint juice (small cup) | 60–140 | 0–0.5 g | 0–0.5 g |
-| **TOTAL (logged so far)** | | **1,215–1,892** | **55–77.5 g** | **54–95 g** |
-| **Midpoint** | | **1,553.5** | **66.25 g** | **74.5 g** |
+| Snack | Low-calorie gelato, coconut crème (1 serving) | 80–95 | 1–3 g | 2.5–4.5 g |
+| **TOTAL (logged so far)** | | **1,295–1,987** | **56–80.5 g** | **56.5–99.5 g** |
+| **Midpoint** | | **1,641** | **68.25 g** | **78 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
 

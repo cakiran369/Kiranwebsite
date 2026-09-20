@@ -86,3 +86,4 @@ date,meal,items,kcal_low,kcal_high,protein_low,protein_high,fat_low,fat_high,sta
 2026-09-20,Snack,1 small stuffed squid (pan-fried),130,200,10,14,8,15,logged,7.3 g protein per 100 kcal - double the mess average
 2026-09-20,Snack,Clear soup (one spoonful only),5,12,0,0.5,0,0.5,logged,Corrected - only a spoonful was taken, not the bowl
 2026-09-20,Drink,Mint juice (small cup),60,140,0,0.5,0,0.5,logged,Assumed sweetened - if unsweetened it is nearer 15 kcal
+2026-09-20,Snack,Brooklyn Creamery guilt-free gelato - coconut creme (1 serving),80,95,1,3,2.5,4.5,logged,86 kcal is per serving; a 500 ml tub is about 4 servings
