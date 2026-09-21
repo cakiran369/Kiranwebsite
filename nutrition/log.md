@@ -653,7 +653,35 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 17 — 2026-09-20 (in progress)
+## Day 18 — 2026-09-21 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 poori + potato bhaji | 290–420 | 7–10 g | 14–24 g |
+| **TOTAL (logged so far)** | | **290–420** | **7–10 g** | **14–24 g** |
+| **Midpoint** | | **355** | **8.5 g** | **19 g** |
+
+Monday's breakfast as served. **Poori is the fattiest item per calorie on the
+week's menu** — deep-fried, ~19 g of fat for 355 kcal, against the idly set's 3–8 g
+for 325. Nothing to do about it; it is what Monday serves.
+
+### Monday
+
+**1,765 kcal left, 121.5 g of protein to find.**
+
+| | Day total | Protein | Fat | vs maintenance | Rate |
+|---|---|---|---|---|---|
+| **Rice halved + chicken curry dinner + 3 scoops + 1 boiled egg** | **2,114** | **144.25 g** | **~93 g** | **−555** | **0.50 kg/wk** |
+| Rice halved + chicken curry dinner + 4 scoops | 2,155 | 160.5 g | ~90 g | −514 | 0.47 kg/wk |
+| Rice halved + chicken curry dinner + 3 scoops | 2,040 | 138 g | ~88 g | −629 | 0.57 kg/wk |
+
+**Three scoops and an egg** — 6 kcal under target with a 555 deficit, the number
+the plan was designed around.
+
+---
+
+## Day 17 — 2026-09-20 (incomplete — dinner not reported)
+
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
