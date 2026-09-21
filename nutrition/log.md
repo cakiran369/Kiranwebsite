@@ -680,7 +680,7 @@ the plan was designed around.
 
 ---
 
-## Day 17 — 2026-09-20 (incomplete — dinner not reported)
+## Day 17 — 2026-09-20 (closed)
 
 
 | Meal | Items | Calories | Protein | Fat |
@@ -692,8 +692,9 @@ the plan was designed around.
 | Snack | Clear soup (one spoonful only) | 5–12 | 0–0.5 g | 0–0.5 g |
 | Drink | Mint juice (small cup) | 60–140 | 0–0.5 g | 0–0.5 g |
 | Snack | Low-calorie gelato, coconut crème (1 serving) | 80–95 | 1–3 g | 2.5–4.5 g |
-| **TOTAL (logged so far)** | | **1,295–1,987** | **56–80.5 g** | **56.5–99.5 g** |
-| **Midpoint** | | **1,641** | **68.25 g** | **78 g** |
+| Dinner | Quarter grilled chicken + mixed grill | 650–1,050 | 75–105 g | 33–63 g |
+| **TOTAL** | | **1,945–3,037** | **131–185.5 g** | **89.5–162.5 g** |
+| **Midpoint** | | **2,491** | **158.25 g** | **126 g** |
 
 **One porotta rather than the menu's two — ~205 kcal saved** for ~4 g of protein.
 
@@ -703,29 +704,40 @@ kcal for ~3 g of protein; spending the same 190 kcal on whey and eggs instead bu
 ~35 g. Same calories, far more protein — the only cost is that the evening now has
 to be filled deliberately rather than by default.
 
-### Closing Sunday — dinner is out, so this is a budget not a plan
+### Day 17 closed — 2,491 kcal, 158.25 g of protein, −178
 
-**566 kcal to target, 63.75 g of protein to the floor.**
+A restaurant evening: soup (one spoonful), mint juice, a gelato serving, then a
+quarter grilled chicken and a mixed grill. **158.25 g of protein, the second-highest
+of the eighteen days**, on a deficit of only 178.
 
-| Dinner choice | Day total | Protein | vs maintenance | Rate |
-|---|---|---|---|---|
-| **Grilled/tandoori main (~200 g) + 1 roti or kubboos + a scoop at home** | **2,203** | **149.25 g** | **−466** | **0.42 kg/wk** |
-| Grilled/tandoori main + 1 bread, no scoop | 2,088 | 126.75 g | −581 | 0.53 kg/wk |
-| Grilled main, no bread, no scoop | 1,974 | 123.25 g | −695 | 0.63 kg/wk |
-| Biriyani or fried rice plate | 2,320+ | ~106 g | −349 | 0.32 kg/wk |
+The grill platter is why both numbers are high at once — grilled meat is the best
+protein-per-calorie food available, but two portions of it is still ~850 kcal.
 
-Only a spoonful of the soup was taken, not the bowl — ~87 kcal back, which brings
-the closing scoop with it.
+Worth separating what cost what:
 
-**Grilled or tandoori main, one bread, one scoop at home.** 83 kcal over target,
-149 g of protein, a 466 deficit.
+| | Kcal | Protein |
+|---|---|---|
+| Quarter chicken + mixed grill | ~850 | ~90 g |
+| Vada, squid, soup spoonful, gelato | ~485 | ~25 g |
+| Mint juice | ~100 | 0 g |
 
-**The mint juice is ~100 kcal of sugar for zero protein.** This is the Day 2
-pineapple-juice lesson in miniature: liquid sugar registers as nothing and prices
-like food. If it was unsweetened it is nearer 15 kcal.
+**The dinner was not the problem — the ~585 kcal of snacks and juice before it
+were.** They delivered 25 g of protein between them, and they are the difference
+between a −178 day and a −760 one.
 
-The kubboos on the table is not counted. One bread with the main, not two — a
-second adds ~150–250 kcal and the day lands near maintenance.
+### Eighteen days
+
+| | Average | Target |
+|---|---|---|
+| Calories | **2,198** | 2,120 |
+| Protein | **117.1 g** | 130–145 g |
+| Fat | 94.9 g | 55 g floor |
+
+**470 kcal/day deficit, 0.43 kg/week** across 16 complete days.
+
+The last five protein days read **141, 181, 92, 140, 158** — four of five clear the
+floor, and the protein average has climbed from 105.6 to 117.1 over the past week.
+That line is finally moving.
 
 ---
 
