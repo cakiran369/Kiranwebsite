@@ -658,25 +658,36 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 poori + potato bhaji | 290–420 | 7–10 g | 14–24 g |
-| **TOTAL (logged so far)** | | **290–420** | **7–10 g** | **14–24 g** |
-| **Midpoint** | | **355** | **8.5 g** | **19 g** |
+| Lunch | Mess meals plate + 1-egg omelette roll, 2 pappadam, sambar, kadala, chammanthi, veg curry | 750–1,160 | 25–37 g | 31.5–55 g |
+| **TOTAL (logged so far)** | | **1,040–1,580** | **32–47 g** | **45.5–79 g** |
+| **Midpoint** | | **1,310** | **39.5 g** | **62.25 g** |
 
-Monday's breakfast as served. **Poori is the fattiest item per calorie on the
-week's menu** — deep-fried, ~19 g of fat for 355 kcal, against the idly set's 3–8 g
-for 325. Nothing to do about it; it is what Monday serves.
+**Poori is the fattiest item per calorie on the week's menu** — deep-fried, ~19 g of
+fat for 355 kcal, against the idly set's 3–8 g for 325.
+
+**The rice was not stated as halved and does not look halved**, so it is costed as
+a near-full portion. If it was halved, take ~120 kcal off and the evening gets a
+chapati back. The plate also carried two pappadam (~130 kcal, fried) and every
+side container — it is the fullest meals plate logged since Day 13.
+
+The omelette roll is the one thing doing protein work on it.
 
 ### Monday
 
-**1,765 kcal left, 121.5 g of protein to find.**
+**810 kcal to target, 90.5 g of protein to the floor.**
 
-| | Day total | Protein | Fat | vs maintenance | Rate |
-|---|---|---|---|---|---|
-| **Rice halved + chicken curry dinner + 3 scoops + 1 boiled egg** | **2,114** | **144.25 g** | **~93 g** | **−555** | **0.50 kg/wk** |
-| Rice halved + chicken curry dinner + 4 scoops | 2,155 | 160.5 g | ~90 g | −514 | 0.47 kg/wk |
-| Rice halved + chicken curry dinner + 3 scoops | 2,040 | 138 g | ~88 g | −629 | 0.57 kg/wk |
+| | Day total | Protein | vs maintenance | Rate |
+|---|---|---|---|---|
+| **Chicken curry + 1 chapati at dinner + 3 scoops** | **2,120** | **134.5 g** | **−549** | **0.50 kg/wk** |
+| Chicken curry + 2 chapati + 3 scoops | 2,235 | 138 g | −434 | 0.39 kg/wk |
+| Chicken curry + 2 chapati + 2 scoops | 2,120 | 115.5 g | −549 | 0.50 kg/wk |
 
-**Three scoops and an egg** — 6 kcal under target with a 555 deficit, the number
-the plan was designed around.
+**One chapati at dinner, three scoops.** It lands exactly on the 2,120 target with
+protein 4.5 g clear of the floor.
+
+Rows one and three cost identical calories; the first carries **19 g more protein**
+because a chapati is 3.1 g per 100 kcal and a whey scoop is 19.6. When a day needs
+to give something up, the bread goes before the powder.
 
 ---
 
