@@ -659,8 +659,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 2 poori + potato bhaji | 290–420 | 7–10 g | 14–24 g |
 | Lunch | Mess meals plate + 1-egg omelette roll, 2 pappadam, sambar, kadala, chammanthi, veg curry | 750–1,160 | 25–37 g | 31.5–55 g |
-| **TOTAL (logged so far)** | | **1,040–1,580** | **32–47 g** | **45.5–79 g** |
-| **Midpoint** | | **1,310** | **39.5 g** | **62.25 g** |
+| Lunch | Rasam (small container) | 25–50 | 1–2 g | 1–3 g |
+| **TOTAL (logged so far)** | | **1,065–1,630** | **33–49 g** | **46.5–82 g** |
+| **Midpoint** | | **1,347.5** | **41 g** | **64.25 g** |
 
 **Poori is the fattiest item per calorie on the week's menu** — deep-fried, ~19 g of
 fat for 355 kcal, against the idly set's 3–8 g for 325.
@@ -678,12 +679,15 @@ The omelette roll is the one thing doing protein work on it.
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **Chicken curry + 1 chapati at dinner + 3 scoops** | **2,120** | **134.5 g** | **−549** | **0.50 kg/wk** |
-| Chicken curry + 2 chapati + 3 scoops | 2,235 | 138 g | −434 | 0.39 kg/wk |
-| Chicken curry + 2 chapati + 2 scoops | 2,120 | 115.5 g | −549 | 0.50 kg/wk |
+| **Chicken curry + 1 chapati at dinner + 3 scoops** | **2,157.5** | **136 g** | **−511** | **0.46 kg/wk** |
+| Chicken curry + 2 chapati + 3 scoops | 2,272.5 | 139.5 g | −396 | 0.36 kg/wk |
+| Chicken curry + 2 chapati + 2 scoops | 2,157.5 | 117 g | −511 | 0.46 kg/wk |
 
-**One chapati at dinner, three scoops.** It lands exactly on the 2,120 target with
-protein 4.5 g clear of the floor.
+**Rasam is the best-value item in the whole container set** — ~37 kcal of thin
+tamarind broth against the coconut chammanthi's ~125 for barely more protein.
+
+**One chapati at dinner, three scoops.** 37 kcal over target with protein 6 g
+clear of the floor.
 
 Rows one and three cost identical calories; the first carries **19 g more protein**
 because a chapati is 3.1 g per 100 kcal and a whey scoop is 19.6. When a day needs
