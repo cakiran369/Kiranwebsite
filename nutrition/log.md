@@ -660,8 +660,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Breakfast | 2 poori + potato bhaji | 290–420 | 7–10 g | 14–24 g |
 | Lunch | Mess meals plate + 1-egg omelette roll, 2 pappadam, sambar, kadala, chammanthi, veg curry | 750–1,160 | 25–37 g | 31.5–55 g |
 | Lunch | Rasam (small container) | 25–50 | 1–2 g | 1–3 g |
-| **TOTAL (logged so far)** | | **1,065–1,630** | **33–49 g** | **46.5–82 g** |
-| **Midpoint** | | **1,347.5** | **41 g** | **64.25 g** |
+| Dinner | Half grilled chicken + 2 chapati + chicken curry + salad + creamy garlic sauce | 865–1,310 | 67–92 g | 46–78.5 g |
+| **TOTAL (logged so far)** | | **1,930–2,940** | **100–141 g** | **92.5–160.5 g** |
+| **Midpoint** | | **2,435** | **120.5 g** | **126.5 g** |
 
 **Poori is the fattiest item per calorie on the week's menu** — deep-fried, ~19 g of
 fat for 355 kcal, against the idly set's 3–8 g for 325.
@@ -673,25 +674,31 @@ side container — it is the fullest meals plate logged since Day 13.
 
 The omelette roll is the one thing doing protein work on it.
 
-### Monday
+### Closing Monday
 
-**810 kcal to target, 90.5 g of protein to the floor.**
+**Skipping the fries and the kubboos is the best decision of the day — ~400–600
+kcal avoided**, and both were sitting on the plate. That is worth more than every
+deliberate cut made at lunch.
+
+The day currently stands at **2,435 kcal, 120.5 g of protein, −234**.
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **Chicken curry + 1 chapati at dinner + 3 scoops** | **2,157.5** | **136 g** | **−511** | **0.46 kg/wk** |
-| Chicken curry + 2 chapati + 3 scoops | 2,272.5 | 139.5 g | −396 | 0.36 kg/wk |
-| Chicken curry + 2 chapati + 2 scoops | 2,157.5 | 117 g | −511 | 0.46 kg/wk |
+| **Leave the creamy sauce + 1 chapati instead of 2 + 1 scoop** | **2,245** | **138.25 g** | **−424** | **0.39 kg/wk** |
+| Leave the creamy sauce + 1 scoop | 2,360 | 141.75 g | −309 | 0.28 kg/wk |
+| As plated, + 1 scoop | 2,550 | 143 g | −119 | 0.11 kg/wk |
+| As plated, no scoop | 2,435 | 120.5 g | −234 | 0.21 kg/wk |
 
-**Rasam is the best-value item in the whole container set** — ~37 kcal of thin
-tamarind broth against the coconut chammanthi's ~125 for barely more protein.
+**The creamy sauce is ~190 kcal for ~1 g of protein** — 0.5 g per 100 kcal, the
+worst rate of anything logged in eighteen days. It is the same garlic-toum
+emulsion that cost ~120 kcal on Day 14, and a bigger portion here.
 
-**One chapati at dinner, three scoops.** 37 kcal over target with protein 6 g
-clear of the floor.
+Leaving it and taking one chapati recovers a 424 deficit with protein 8 g clear of
+the floor. As plated with a scoop, the day runs at 0.11 kg/week — technically a
+deficit, effectively a maintenance day.
 
-Rows one and three cost identical calories; the first carries **19 g more protein**
-because a chapati is 3.1 g per 100 kcal and a whey scoop is 19.6. When a day needs
-to give something up, the bread goes before the powder.
+The half grilled chicken itself is not the problem: ~485 kcal for ~57 g of protein
+is 11.8 g per 100 kcal, the best whole-food rate available.
 
 ---
 
