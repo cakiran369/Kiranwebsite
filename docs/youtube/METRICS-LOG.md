@@ -112,6 +112,68 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## 21 Sept 2026 (Day 105) — the intro is fine; the bleed is 0:30–1:50
+
+FRM lifetime: **2:21 (43.4%)**, down from 2:23 (44.1%) two days earlier.
+
+### Correction: the opening was misdiagnosed
+
+YouTube's own Key Moments panel reports **73% of viewers still watching at
+0:30, "which is above typical"** — benchmarked against comparable videos.
+
+Every prior entry in this log treated the opening as the problem: the context
+file called it a 0:30–1:30 drop, and the 10 Sept entry widened that to "the
+whole first two minutes has to earn its place". **Both were wrong.** The first
+thirty seconds are a strength, not a weakness. The thumbnail, title and opening
+shot are doing their job.
+
+Re-reading the curve against the 73% benchmark:
+
+| Segment | Retention | Verdict |
+|---------|-----------|---------|
+| 0:00 → 0:30 | 100% → 73% | **Above typical.** Leave it alone. |
+| 0:30 → 1:50 | 73% → ~35% | **−38 points in 80 seconds. This is the bleed.** |
+| 1:50 → 3:50 | flat ~37% | Content holds |
+| 3:50 → 5:26 | 37% → ~20% | Normal outro fade |
+
+A four-segment model of this shape reproduces the reported 2:21 / 43.4%, so the
+segment boundaries are sound.
+
+The damage is concentrated in the stretch **after** the hook lands and before
+the content settles — the transition out of the opening and into the structured
+explanation, which is where the slide cutaway happens. That is a specific,
+findable eighty seconds of tape, not a vague "fix the intro".
+
+### Drift is noisy
+
+| Date | Retention | Avg view |
+|---|---|---|
+| 10 Sept | 41.9% | 2:16 |
+| 19 Sept | 44.1% | 2:23 |
+| 21 Sept | 43.4% | 2:21 |
+
+Down 0.7 points in two days. The "+2.2 points in nine days" recorded on 19 Sept
+was partly noise. Net since 10 Sept is +1.5 points. Day-to-day movement of
+±0.7pp means **no reading of this metric is meaningful to a fraction of a
+point**, and short-window comparisons should not be treated as trend.
+
+### What each fix is worth on this video
+
+| Change | Avg view duration | vs today |
+|---|---|---|
+| Today | 2:21 | — |
+| Halve the 0:30–1:50 bleed | ~3:02 | +30% |
+| Same 43.4% retention at 15 minutes | 6:30 | **+179%** |
+
+Runtime still dominates, but the bleed fix is now a **specific edit to a known
+eighty seconds** rather than a general instruction to be more engaging.
+
+### Not yet read
+
+The Key Moments panel also offers **Top moment** and **2 Spikes** tabs. Those
+name the exact timestamps where this video held or regained attention — the
+most directly actionable data on the channel, and not yet captured.
+
 ## 19 Sept 2026 (Day 103) — FRM retention re-read
 
 | Reading | Retention | Avg view duration |
