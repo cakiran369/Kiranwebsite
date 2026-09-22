@@ -653,7 +653,33 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 18 — 2026-09-21 (in progress)
+## Day 19 — 2026-09-22 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large masala dosa + sambar | 410–600 | 10–15 g | 17–31 g |
+| **TOTAL (logged so far)** | | **410–600** | **10–15 g** | **17–31 g** |
+| **Midpoint** | | **505** | **12.5 g** | **24 g** |
+
+### Tuesday is the protein desert
+
+**1,565 kcal and 54.5 g of protein as served** — the lowest-protein day on the
+menu, with green peas and two chapati at dinner and no meat in the evening at all.
+
+**1,615 kcal left, 117.5 g of protein to find.** Halve the ghee rice at lunch.
+
+| | Day total | Protein | Fat | vs maintenance | Rate |
+|---|---|---|---|---|---|
+| **Rice halved + 4 scoops + 2 boiled eggs** | **2,138** | **159 g** | **~90 g** | **−531** | **0.48 kg/wk** |
+| Rice halved + 5 scoops | 2,105 | 169 g | ~80 g | −564 | 0.51 kg/wk |
+| Rice halved + 4 scoops | 1,990 | 146.5 g | ~80 g | −679 | 0.62 kg/wk |
+
+**Four scoops and two eggs**, or five scoops if the leaner fat number is worth
+another shake. Tuesday always needs the most supplementation of the week.
+
+---
+
+## Day 18 — 2026-09-21 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -661,7 +687,7 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Lunch | Mess meals plate + 1-egg omelette roll, 2 pappadam, sambar, kadala, chammanthi, veg curry | 750–1,160 | 25–37 g | 31.5–55 g |
 | Lunch | Rasam (small container) | 25–50 | 1–2 g | 1–3 g |
 | Dinner | Half grilled chicken + 2 chapati + chicken curry + salad + creamy garlic sauce | 865–1,310 | 67–92 g | 46–78.5 g |
-| **TOTAL (logged so far)** | | **1,930–2,940** | **100–141 g** | **92.5–160.5 g** |
+| **TOTAL** | | **1,930–2,940** | **100–141 g** | **92.5–160.5 g** |
 | **Midpoint** | | **2,435** | **120.5 g** | **126.5 g** |
 
 **Poori is the fattiest item per calorie on the week's menu** — deep-fried, ~19 g of
@@ -680,7 +706,8 @@ The omelette roll is the one thing doing protein work on it.
 kcal avoided**, and both were sitting on the plate. That is worth more than every
 deliberate cut made at lunch.
 
-The day currently stands at **2,435 kcal, 120.5 g of protein, −234**.
+**Day 18 closed at 2,435 kcal, 120.5 g of protein, 126.5 g of fat — a 234 deficit.**
+No closing scoop was reported and the creamy sauce was taken as plated.
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
