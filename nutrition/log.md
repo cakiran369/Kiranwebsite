@@ -659,8 +659,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | Large masala dosa + sambar | 410–600 | 10–15 g | 17–31 g |
 | Lunch | Ghee rice (halved) + chicken curry + raita | 490–710 | 26–36 g | 21–36 g |
-| **TOTAL (logged so far)** | | **900–1,310** | **36–51 g** | **38–67 g** |
-| **Midpoint** | | **1,105** | **43.5 g** | **52.5 g** |
+| Dinner | Quarter grilled chicken + green peas curry + 1 chapati + salad | 545–810 | 44.5–59 g | 23.5–40 g |
+| **TOTAL (logged so far)** | | **1,445–2,120** | **80.5–110 g** | **61.5–107 g** |
+| **Midpoint** | | **1,782.5** | **95.25 g** | **84.25 g** |
 
 ### Tuesday is the protein desert
 
@@ -670,20 +671,28 @@ menu, with green peas and two chapati at dinner and no meat in the evening at al
 Ghee rice halved again — ~190 kcal for ~3 g of protein, the cheapest cut on the
 week's menu.
 
-**1,015 kcal left, 86.5 g of protein to find.**
+**Tuesday stopped being the protein desert.** The menu serves 54.5 g; adding a
+quarter grilled chicken to the green peas dinner and taking one chapati instead of
+two puts the day at **95.25 g before any whey at all**. That is the single biggest
+structural fix made to a mess day in nineteen days.
+
+### Closing Tuesday
+
+**337 kcal to target, 34.75 g of protein to the floor.**
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **Green peas dinner + 4 scoops + 1 boiled egg** | **2,089** | **156.75 g** | **~83 g** | **−580** | **0.53 kg/wk** |
-| Green peas dinner + 5 scoops | 2,130 | 173 g | ~79.5 g | −539 | 0.49 kg/wk |
-| Green peas dinner + 4 scoops | 2,015 | 150.5 g | ~77.5 g | −654 | 0.59 kg/wk |
+| **3 scoops, creamy sauce left** | **2,127.5** | **162.75 g** | **~88 g** | **−541** | **0.49 kg/wk** |
+| 2 scoops, creamy sauce left | 2,012.5 | 140.25 g | ~88 g | −656 | 0.60 kg/wk |
+| 2 scoops + the creamy sauce | 2,202.5 | 141.25 g | ~105 g | −466 | 0.42 kg/wk |
+| 3 scoops + the creamy sauce | 2,317.5 | 163.75 g | ~105 g | −351 | 0.32 kg/wk |
 
-**Four scoops and one egg** — 31 kcal under target with a 580 deficit, which is
-the right direction after a week that has run above target five days out of
-seven.
+**Three scoops, and leave the creamy sauce in its container.** 7 kcal over target,
+162.75 g of protein, a 541 deficit.
 
-Tuesday always needs the most supplementation: the menu supplies 54.5 g of
-protein and the floor is 130.
+The sauce is the same garlic-toum emulsion as yesterday: **~190 kcal for ~1 g of
+protein and ~17 g of fat.** It is the only item on the table that costs real
+calories for nothing, and it is the difference between a 541 and a 351 deficit.
 
 ---
 
