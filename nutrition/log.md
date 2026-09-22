@@ -658,24 +658,32 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large masala dosa + sambar | 410–600 | 10–15 g | 17–31 g |
-| **TOTAL (logged so far)** | | **410–600** | **10–15 g** | **17–31 g** |
-| **Midpoint** | | **505** | **12.5 g** | **24 g** |
+| Lunch | Ghee rice (halved) + chicken curry + raita | 490–710 | 26–36 g | 21–36 g |
+| **TOTAL (logged so far)** | | **900–1,310** | **36–51 g** | **38–67 g** |
+| **Midpoint** | | **1,105** | **43.5 g** | **52.5 g** |
 
 ### Tuesday is the protein desert
 
 **1,565 kcal and 54.5 g of protein as served** — the lowest-protein day on the
 menu, with green peas and two chapati at dinner and no meat in the evening at all.
 
-**1,615 kcal left, 117.5 g of protein to find.** Halve the ghee rice at lunch.
+Ghee rice halved again — ~190 kcal for ~3 g of protein, the cheapest cut on the
+week's menu.
+
+**1,015 kcal left, 86.5 g of protein to find.**
 
 | | Day total | Protein | Fat | vs maintenance | Rate |
 |---|---|---|---|---|---|
-| **Rice halved + 4 scoops + 2 boiled eggs** | **2,138** | **159 g** | **~90 g** | **−531** | **0.48 kg/wk** |
-| Rice halved + 5 scoops | 2,105 | 169 g | ~80 g | −564 | 0.51 kg/wk |
-| Rice halved + 4 scoops | 1,990 | 146.5 g | ~80 g | −679 | 0.62 kg/wk |
+| **Green peas dinner + 4 scoops + 1 boiled egg** | **2,089** | **156.75 g** | **~83 g** | **−580** | **0.53 kg/wk** |
+| Green peas dinner + 5 scoops | 2,130 | 173 g | ~79.5 g | −539 | 0.49 kg/wk |
+| Green peas dinner + 4 scoops | 2,015 | 150.5 g | ~77.5 g | −654 | 0.59 kg/wk |
 
-**Four scoops and two eggs**, or five scoops if the leaner fat number is worth
-another shake. Tuesday always needs the most supplementation of the week.
+**Four scoops and one egg** — 31 kcal under target with a 580 deficit, which is
+the right direction after a week that has run above target five days out of
+seven.
+
+Tuesday always needs the most supplementation: the menu supplies 54.5 g of
+protein and the floor is 130.
 
 ---
 
