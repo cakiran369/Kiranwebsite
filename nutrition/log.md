@@ -732,8 +732,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
-| **TOTAL (logged so far)** | | **400–620** | **10–16 g** | **17–33 g** |
-| **Midpoint** | | **510** | **13 g** | **25 g** |
+| Lunch | Mess meals plate + 2-egg omelette, pappadam, veg curry, chammanthi, pickle | 630–940 | 23–31 g | 27.5–45 g |
+| **TOTAL (logged so far)** | | **1,030–1,560** | **33–47 g** | **44.5–78 g** |
+| **Midpoint** | | **1,295** | **40 g** | **61.25 g** |
 
 Plain rather than masala — no potato filling, ~70 kcal cheaper than yesterday's.
 **Tenth consecutive breakfast without the white chutney.**
@@ -743,20 +744,29 @@ Plain rather than masala — no potato filling, ~70 kcal cheaper than yesterday'
 **2,160 kcal as served.** Eating breakfast out came in ~120 under the menu's
 poratta-and-egg-roast, which helps.
 
-**1,610 kcal left, 117 g of protein to find.**
+The **2-egg omelette is the best item on the lunch plate** — ~210 kcal for ~13 g of
+protein, 6.2 g per 100 kcal against the mess average of 3.7.
+
+**Two things are not confirmed and both are large.** The rice was not stated as
+halved and does not obviously look halved (~120 kcal). The three side containers
+are not counted (~200–300 kcal between them). If both went in, the day is ~370
+kcal heavier than the numbers below.
+
+### Closing Wednesday
+
+**825 kcal to target, 90 g of protein to the floor.**
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **Rice halved + 1 chapati at dinner + 3 scoops** | **2,080** | **139 g** | **−589** | **0.54 kg/wk** |
-| Rice halved + 2 chapati + 3 scoops | 2,195 | 142.5 g | −474 | 0.43 kg/wk |
-| Rice halved + 2 chapati + 2 scoops | 2,080 | 120 g | −589 | 0.54 kg/wk |
+| **Chicken curry + 1 chapati at dinner + 3 scoops** | **2,105** | **135 g** | **−564** | **0.51 kg/wk** |
+| Chicken curry + 2 chapati + 3 scoops | 2,220 | 138.5 g | −449 | 0.41 kg/wk |
+| As above but the three containers also eaten | 2,355 | ~143 g | −314 | 0.29 kg/wk |
 
-**Rice halved, one chapati at dinner, three scoops.** 40 kcal under target,
-139 g of protein, a 589 deficit — the shape that restarts the scale after five
-flat days.
+**One chapati at dinner, three scoops.** 15 kcal under target, 135 g of protein, a
+564 deficit — the shape that restarts the scale after five flat days.
 
-No garlic sauce, no snack layer. Those two alone are the 223 kcal/day that flattened
-the last week.
+**Leave the three containers.** They are the same ~250 kcal that has been quietly
+halving the deficit for a week, and today they would take it from 564 to 314.
 
 ---
 
