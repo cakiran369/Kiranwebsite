@@ -733,8 +733,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
 | Lunch | Mess meals plate + 2-egg omelette, pappadam, veg curry, chammanthi, pickle | 630–940 | 23–31 g | 27.5–45 g |
-| **TOTAL (logged so far)** | | **1,030–1,560** | **33–47 g** | **44.5–78 g** |
-| **Midpoint** | | **1,295** | **40 g** | **61.25 g** |
+| Snack | 1-egg omelette | 90–140 | 6–8 g | 7–11 g |
+| **TOTAL (logged so far)** | | **1,120–1,700** | **39–55 g** | **51.5–89 g** |
+| **Midpoint** | | **1,410** | **47 g** | **70.25 g** |
 
 Plain rather than masala — no potato filling, ~70 kcal cheaper than yesterday's.
 **Tenth consecutive breakfast without the white chutney.**
@@ -754,19 +755,21 @@ kcal heavier than the numbers below.
 
 ### Closing Wednesday
 
-**825 kcal to target, 90 g of protein to the floor.**
+**710 kcal to target, 83 g of protein to the floor.** Three eggs' worth of
+omelette so far today, which is what has kept protein moving on a plate that
+carried no meat or fish.
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **Chicken curry + 1 chapati at dinner + 3 scoops** | **2,105** | **135 g** | **−564** | **0.51 kg/wk** |
-| Chicken curry + 2 chapati + 3 scoops | 2,220 | 138.5 g | −449 | 0.41 kg/wk |
-| As above but the three containers also eaten | 2,355 | ~143 g | −314 | 0.29 kg/wk |
+| **Chicken curry, no chapati + 3 scoops** | **2,105** | **138.5 g** | **−564** | **0.51 kg/wk** |
+| Chicken curry + 1 chapati + 3 scoops | 2,220 | 142 g | −449 | 0.41 kg/wk |
+| Chicken curry + 1 chapati + 2 scoops | 2,105 | 119.5 g | −564 | 0.51 kg/wk |
 
-**One chapati at dinner, three scoops.** 15 kcal under target, 135 g of protein, a
-564 deficit — the shape that restarts the scale after five flat days.
+Rows one and three cost **identical calories and differ by 19 g of protein** — the
+same trade as Monday. The chapati goes before the scoop.
 
-**Leave the three containers.** They are the same ~250 kcal that has been quietly
-halving the deficit for a week, and today they would take it from 564 to 314.
+**Leave the three lunch containers.** They are the ~250 kcal that has been quietly
+halving the deficit all week, and today they would take it from 564 to about 314.
 
 ---
 
