@@ -734,8 +734,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
 | Lunch | Mess meals plate + 2-egg omelette, pappadam, veg curry, chammanthi, pickle | 630–940 | 23–31 g | 27.5–45 g |
 | Snack | 1-egg omelette | 90–140 | 6–8 g | 7–11 g |
-| **TOTAL (logged so far)** | | **1,120–1,700** | **39–55 g** | **51.5–89 g** |
-| **Midpoint** | | **1,410** | **47 g** | **70.25 g** |
+| Dinner | 2 chapati + chicken curry (2 small pieces) | 380–540 | 20–28 g | 16–26 g |
+| **TOTAL (logged so far)** | | **1,500–2,240** | **59–83 g** | **67.5–115 g** |
+| **Midpoint** | | **1,870** | **71 g** | **91.25 g** |
 
 Plain rather than masala — no potato filling, ~70 kcal cheaper than yesterday's.
 **Tenth consecutive breakfast without the white chutney.**
@@ -755,21 +756,26 @@ kcal heavier than the numbers below.
 
 ### Closing Wednesday
 
-**710 kcal to target, 83 g of protein to the floor.** Three eggs' worth of
-omelette so far today, which is what has kept protein moving on a plate that
-carried no meat or fish.
+Dinner came in ~120 kcal under the menu because the chicken portion was small —
+two pieces rather than the usual three or four.
+
+**250 kcal to target, 59 g of protein to the floor.**
 
 | | Day total | Protein | vs maintenance | Rate |
 |---|---|---|---|---|
-| **Chicken curry, no chapati + 3 scoops** | **2,105** | **138.5 g** | **−564** | **0.51 kg/wk** |
-| Chicken curry + 1 chapati + 3 scoops | 2,220 | 142 g | −449 | 0.41 kg/wk |
-| Chicken curry + 1 chapati + 2 scoops | 2,105 | 119.5 g | −564 | 0.51 kg/wk |
+| **3 scoops** | **2,215** | **138.5 g** | **−454** | **0.41 kg/wk** |
+| 2 scoops | 2,100 | 116 g | −569 | 0.52 kg/wk |
 
-Rows one and three cost **identical calories and differ by 19 g of protein** — the
-same trade as Monday. The chapati goes before the scoop.
+This is the tension of the week in one line. Two scoops lands on target and
+restarts the scale; three clears the protein floor but runs 95 over.
 
-**Leave the three lunch containers.** They are the ~250 kcal that has been quietly
-halving the deficit all week, and today they would take it from 564 to about 314.
+**Take three.** 2,215 is still below the last seven days' average of 2,286, so it
+improves the trend rather than continuing it — and 116 g would be the twelfth day
+under the floor in twenty-one. The floor has been missed far more often than the
+target has.
+
+Four eggs' worth of omelette and three scoops is what today needed, because the
+lunch plate carried no meat or fish at all.
 
 ---
 
