@@ -727,14 +727,47 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 19 — 2026-09-22 (in progress)
+## Day 20 — 2026-09-23 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
+| **TOTAL (logged so far)** | | **400–620** | **10–16 g** | **17–33 g** |
+| **Midpoint** | | **510** | **13 g** | **25 g** |
+
+Plain rather than masala — no potato filling, ~70 kcal cheaper than yesterday's.
+**Tenth consecutive breakfast without the white chutney.**
+
+### Wednesday is one of the two tight days
+
+**2,160 kcal as served.** Eating breakfast out came in ~120 under the menu's
+poratta-and-egg-roast, which helps.
+
+**1,610 kcal left, 117 g of protein to find.**
+
+| | Day total | Protein | vs maintenance | Rate |
+|---|---|---|---|---|
+| **Rice halved + 1 chapati at dinner + 3 scoops** | **2,080** | **139 g** | **−589** | **0.54 kg/wk** |
+| Rice halved + 2 chapati + 3 scoops | 2,195 | 142.5 g | −474 | 0.43 kg/wk |
+| Rice halved + 2 chapati + 2 scoops | 2,080 | 120 g | −589 | 0.54 kg/wk |
+
+**Rice halved, one chapati at dinner, three scoops.** 40 kcal under target,
+139 g of protein, a 589 deficit — the shape that restarts the scale after five
+flat days.
+
+No garlic sauce, no snack layer. Those two alone are the 223 kcal/day that flattened
+the last week.
+
+---
+
+## Day 19 — 2026-09-22 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large masala dosa + sambar | 410–600 | 10–15 g | 17–31 g |
 | Lunch | Ghee rice (halved) + chicken curry + raita | 490–710 | 26–36 g | 21–36 g |
 | Dinner | Quarter grilled chicken + green peas curry + 1 chapati + salad | 545–810 | 44.5–59 g | 23.5–40 g |
-| **TOTAL (logged so far)** | | **1,445–2,120** | **80.5–110 g** | **61.5–107 g** |
+| **TOTAL** | | **1,445–2,120** | **80.5–110 g** | **61.5–107 g** |
 | **Midpoint** | | **1,782.5** | **95.25 g** | **84.25 g** |
 
 ### Tuesday is the protein desert
