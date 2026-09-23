@@ -103,6 +103,80 @@ early and it is unambiguous.
 | 2026-09-17 | 90.05 | −0.10 over 1 day |
 | 2026-09-18 | **89.55** | **−0.50 over 1 day — first reading under 90** |
 | 2026-09-19 | 89.45 | −0.10 over 1 day |
+| 2026-09-22 | 89.50 | +0.05 over 3 days |
+| 2026-09-23 | 89.60 | +0.10 over 1 day |
+
+The 09-16 reading was noise — different clothing, and two higher-carb days behind
+it. It came straight back off the next morning without anything changing.
+
+**The 09-18 reading is noise in the other direction.** It follows Day 14, which
+finished 38 kcal *above* maintenance. A day with no deficit cannot produce half a
+kilo of fat loss; that is water, glycogen and gut contents moving, most likely
+releasing what the previous few higher-carb days had held.
+
+Endpoint-to-endpoint rates are unstable for exactly this reason — 09-07 to 09-18
+reads −0.764 kg/week, which is a number the intake cannot support. A
+least-squares line through all six post-flush points is the honest measure:
+
+| Measure | Rate |
+|---|---|
+| Endpoints 09-07 → 09-19 | −0.700 kg/wk |
+| **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
+| Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### The gap has closed and reversed — 2026-09-23
+
+Four days ago the fitted line was running *ahead* of the food log and I read
+above-target days as corrective. **With four more weigh-ins that reading is
+wrong, and the correction matters because it changed the advice.**
+
+| Measure | Rate |
+|---|---|
+| Least-squares fit, 9 points from 09-07 | −0.484 kg/wk |
+| **Least-squares fit, last 6 points (09-16 on)** | **−0.526 kg/wk** |
+| Predicted from all 17 logged days at 2,212 kcal | −0.415 kg/wk |
+| **Predicted from the last 7 logged days at 2,343 kcal** | **−0.296 kg/wk** |
+
+**The scale has been flat for five days: 89.55, 89.45, 89.50, 89.60.** Slightly up,
+in fact. And the food log explains it exactly — **the last seven days average
+2,343 kcal against a 2,120 target, 223 over.**
+
+This is not a metabolic stall and nothing is broken. Intake rose and the scale
+followed, with the usual few days of lag. The two datasets agree.
+
+Where the 223 came from, all of it in the evening or between meals:
+
+| | Kcal |
+|---|---|
+| Sunday's snack layer (vada, squid, gelato, mint juice) | ~585 |
+| Two creamy garlic sauces, Monday and Tuesday | ~380 |
+| Three restaurant dinners against their mess equivalents | ~600 each |
+
+**Every mess-based day in that week landed on target.** The meals are not the
+problem and have not been for a fortnight.
+
+**Revised guidance: stop treating above-target days as corrective.** That framing
+was right on 09-19 and is wrong now. Back to 2,120, and the first 200 kcal are
+free — leave the garlic sauce and the snack layer alone and the rate returns to
+~0.45 kg/week without touching a single meal.
+
+### The multiplier is confirmed — 2026-09-16
+
+The trailing weight check was scheduled for around 2026-09-20. The data arrived
+early and it is unambiguous.
+
+| Weigh-in | Weight | Change |
+|---|---|---|
+| 2026-09-05 | 91.50 | — |
+| 2026-09-07 | 90.75 | −0.75 over 2 days |
+| 2026-09-09 | 90.30 | −0.45 over 2 days |
+| 2026-09-11 | 90.05 | −0.25 over 2 days |
+| 2026-09-16 | 90.15 | +0.10 over 5 days |
+| 2026-09-17 | 90.05 | −0.10 over 1 day |
+| 2026-09-18 | **89.55** | **−0.50 over 1 day — first reading under 90** |
+| 2026-09-19 | 89.45 | −0.10 over 1 day |
+| 2026-09-22 | 89.50 | +0.05 over 3 days |
+| 2026-09-23 | 89.60 | +0.10 over 1 day |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
