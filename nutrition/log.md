@@ -762,6 +762,43 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 21 — 2026-09-24 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large ghee roast dosa + sambar + red chutney (white chutney skipped) | 440–680 | 10–16 g | 20–38 g |
+| **TOTAL (logged so far)** | | **440–680** | **10–16 g** | **20–38 g** |
+| **Midpoint** | | **560** | **13 g** | **29 g** |
+
+**Eleventh consecutive breakfast without the white chutney.**
+
+The ghee roast is ~50 kcal dearer than yesterday's plain dosa — it is fried in
+ghee rather than oil, and the restaurant's is larger than the mess version the
+menu prices at 350–450. Almost all of the difference is fat, which is the line
+that matters least.
+
+### Thursday is the second protein desert
+
+**1,830 kcal and 54 g of protein as served** — the menu's weakest protein day
+after Tuesday. Gobbi chilly at dinner is cauliflower; there is no meat, fish or
+egg anywhere on the Thursday menu.
+
+This matters more than usual today because **Day 20 closed at 71 g**, the lowest
+of the log. Two low-protein days back to back is the pattern to avoid.
+
+The fix is the same one that worked on Tuesday:
+
+| | Effect |
+|---|---|
+| **Egg omelette with the lunch plate** | +115 kcal, +7 g |
+| **1 chapati at dinner instead of 2** | −120 kcal, −3 g |
+| **Quarter grilled chicken at dinner** | +205 kcal, +32 g |
+
+Run all three and Thursday clears 100 g before any whey, at roughly the same
+calories as the menu.
+
+---
+
 ## Day 20 — 2026-09-23 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
