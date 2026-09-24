@@ -105,6 +105,7 @@ early and it is unambiguous.
 | 2026-09-19 | 89.45 | −0.10 over 1 day |
 | 2026-09-22 | 89.50 | +0.05 over 3 days |
 | 2026-09-23 | 89.60 | +0.10 over 1 day |
+| 2026-09-24 | **89.15** | **−0.45 over 1 day — largest single-day drop logged** |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -123,6 +124,40 @@ least-squares line through all six post-flush points is the honest measure:
 | Endpoints 09-07 → 09-19 | −0.700 kg/wk |
 | **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
 | Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### One reading does not reverse a call — 2026-09-24
+
+**89.15 this morning, down 0.45 kg from yesterday.** That is the largest
+single-day move in the log, and it breaks the five-day flat patch.
+
+It also has enormous leverage on the fit, which is the reason to be careful:
+
+| Measure | Rate |
+|---|---|
+| Fit, 09-16 on — **as of yesterday** | −0.526 kg/wk |
+| Fit, 09-16 on — **with today** | **−0.626 kg/wk** |
+| Fit, 09-16 on — *if today had read 89.60* | −0.404 kg/wk |
+| Fit, all 11 points from 09-05 | −0.652 kg/wk |
+| **Predicted from the last 7 logged days at 2,216 kcal** | **−0.412 kg/wk** |
+
+One morning's reading swings the fitted rate by 0.22 kg/week in either direction.
+**That is larger than the entire question being argued about.** Yesterday's call —
+back to 2,120, the first 200 kcal are free — was made on two datasets agreeing
+over a week; it does not get reversed by a single point, in either direction.
+
+What the reading is **not** is 0.45 kg of fat. That would take 3,465 kcal of
+deficit in one day. Day 20 ran ~800 under maintenance, so at most ~0.10 kg of it
+is real; the rest is water, and most likely yesterday's 89.60 was the high
+outlier rather than today being a new low.
+
+What *is* real and worth keeping: **intake has genuinely come down.** The
+seven-day average fell from 2,343 to 2,216 as 09-16's 2,360 rolled off and
+Day 20's 1,870 rolled on. The scale is doing what the food log says it should.
+
+**Guidance unchanged: 2,120, and the first 200 kcal are free.** The thing to
+watch is whether a second sub-89.3 reading arrives this week. If it does, the
+trend is genuinely at ~0.6 kg/wk and the target is if anything slightly
+conservative. If tomorrow reads 89.5 again, today was water and nothing changed.
 
 ### The gap has closed and reversed — 2026-09-23
 
@@ -727,7 +762,7 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 20 — 2026-09-23 (in progress)
+## Day 20 — 2026-09-23 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -776,6 +811,10 @@ target has.
 
 Four eggs' worth of omelette and three scoops is what today needed, because the
 lunch plate carried no meat or fish at all.
+
+**Closed at 1,870 kcal and 71 g of protein — no scoops were confirmed.** That is
+the lowest protein day of the twenty logged, and the sixth day in ten where a
+closing scoop was planned and never reported.
 
 ---
 
