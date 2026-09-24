@@ -768,14 +768,48 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
 | Lunch | Mess plate — rice halved, pappadam, cabbage thoran, dal, curry gravy, 1 small chicken fry, small curd | 570–850 | 27–40 g | 22.5–41 g |
-| **TOTAL (logged so far)** | | **970–1,470** | **37–56 g** | **39.5–74 g** |
-| **Midpoint** | | **1,220** | **46.5 g** | **56.75 g** |
+| Snack | 2 small pieces of beef from curry + 1 pazham pori | 220–330 | 10–15 g | 12–20 g |
+| Dinner | Gobi chilly + 2 chapati | 400–560 | 11–16 g | 16–28 g |
+| **TOTAL (logged so far)** | | **1,590–2,360** | **58–87 g** | **67.5–122 g** |
+| **Midpoint** | | **1,975** | **72.5 g** | **94.75 g** |
 
 **Eleventh consecutive breakfast without the white chutney.**
 
 Plain rather than the menu's ghee roast, which saves ~50 kcal of ghee — and
 identical to yesterday's breakfast in every respect. **Two consecutive days
 opening at 510 kcal is the cheapest breakfast pattern in the log.**
+
+### Closing Thursday — the snack is the whole gap
+
+**1,975 kcal and 72.5 g of protein before any whey. 145 kcal to target, 57.5 g to
+the floor.** Those two numbers cannot both be met.
+
+The snack is exactly why:
+
+| | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| 2 small beef pieces | ~90 | ~12.5 g | 13.9 |
+| **1 pazham pori** | **~185** | **~2.5 g** | **1.4** |
+
+**The pazham pori is the lowest protein density in the entire reference table** —
+below garlic toum, below plain rice. It is deep-fried banana in sweetened batter,
+and on its own it is the 145 kcal that now stands between the day and its target.
+
+The beef was a good call and the fritter undid it.
+
+| | Day total | Protein | vs maintenance | Rate |
+|---|---|---|---|---|
+| **3 scoops** | **2,320** | **140 g** | −349 | 0.32 kg/wk |
+| 2 scoops | 2,205 | 117.5 g | −464 | 0.42 kg/wk |
+
+**Take three.** The calories are already spent either way — the choice left is
+whether they buy protein or nothing. Two scoops would be the thirteenth day under
+the floor in twenty-one, and would follow yesterday's 71 g.
+
+**Without the snack this day lands at 2,045 with 140 g on three scoops** — target
+met, floor cleared, nothing given up at any meal. Breakfast, lunch and dinner were
+all managed well today. The snack layer is the entire difference, for the fourth
+time in a week.
 
 ### Lunch beat the menu on both lines — 2026-09-24
 
