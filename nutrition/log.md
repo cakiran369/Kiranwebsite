@@ -767,14 +767,38 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
-| **TOTAL (logged so far)** | | **400–620** | **10–16 g** | **17–33 g** |
-| **Midpoint** | | **510** | **13 g** | **25 g** |
+| Lunch | Mess plate — rice halved, pappadam, cabbage thoran, dal, curry gravy, 1 small chicken fry, small curd | 570–850 | 27–40 g | 22.5–41 g |
+| **TOTAL (logged so far)** | | **970–1,470** | **37–56 g** | **39.5–74 g** |
+| **Midpoint** | | **1,220** | **46.5 g** | **56.75 g** |
 
 **Eleventh consecutive breakfast without the white chutney.**
 
 Plain rather than the menu's ghee roast, which saves ~50 kcal of ghee — and
 identical to yesterday's breakfast in every respect. **Two consecutive days
 opening at 510 kcal is the cheapest breakfast pattern in the log.**
+
+### Lunch beat the menu on both lines — 2026-09-24
+
+**710 kcal against the menu's 950, and ~33 g of protein against ~33 g** — the
+halved rice took ~230 kcal off and the chicken fry put protein back that the
+Thursday menu does not contain.
+
+| Item | Kcal | Protein |
+|---|---|---|
+| Rice, halved | ~230 | ~4.5 g |
+| 1 small chicken fry piece | ~90 | ~9.5 g |
+| Curry gravy | ~95 | ~7 g |
+| Dal | ~80 | ~4 g |
+| Cabbage thoran | ~80 | ~2.5 g |
+| Pappadam | ~75 | ~2.5 g |
+| Small curd | ~60 | ~3.5 g |
+| **Total** | **~710** | **~33 g** |
+
+**The chicken fry is the whole plate's protein density.** At ~10.5 g per 100 kcal
+it is three times the mess average of 3.7, and it arrived on the one menu day
+that lists no meat at all.
+
+**Running: 1,220 kcal, 46.5 g protein. 900 kcal to target, 83.5 g to the floor.**
 
 ### Thursday is the second protein desert
 
