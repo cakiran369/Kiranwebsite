@@ -766,16 +766,15 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
-| Breakfast | Large ghee roast dosa + sambar + red chutney (white chutney skipped) | 440–680 | 10–16 g | 20–38 g |
-| **TOTAL (logged so far)** | | **440–680** | **10–16 g** | **20–38 g** |
-| **Midpoint** | | **560** | **13 g** | **29 g** |
+| Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
+| **TOTAL (logged so far)** | | **400–620** | **10–16 g** | **17–33 g** |
+| **Midpoint** | | **510** | **13 g** | **25 g** |
 
 **Eleventh consecutive breakfast without the white chutney.**
 
-The ghee roast is ~50 kcal dearer than yesterday's plain dosa — it is fried in
-ghee rather than oil, and the restaurant's is larger than the mess version the
-menu prices at 350–450. Almost all of the difference is fat, which is the line
-that matters least.
+Plain rather than the menu's ghee roast, which saves ~50 kcal of ghee — and
+identical to yesterday's breakfast in every respect. **Two consecutive days
+opening at 510 kcal is the cheapest breakfast pattern in the log.**
 
 ### Thursday is the second protein desert
 
