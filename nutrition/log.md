@@ -106,6 +106,7 @@ early and it is unambiguous.
 | 2026-09-22 | 89.50 | +0.05 over 3 days |
 | 2026-09-23 | 89.60 | +0.10 over 1 day |
 | 2026-09-24 | **89.15** | **−0.45 over 1 day — largest single-day drop logged** |
+| 2026-09-25 | **88.75** | **−0.40 over 1 day — first reading under 89** |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -124,6 +125,51 @@ least-squares line through all six post-flush points is the honest measure:
 | Endpoints 09-07 → 09-19 | −0.700 kg/wk |
 | **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
 | Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### The test passed, and the calorie target is being met — 2026-09-25
+
+**88.75 — the second sub-89.3 reading, which is exactly the test named yesterday.**
+Two consecutive drops, 0.85 kg in two days, and the first reading under 89.
+
+| Measure | Rate |
+|---|---|
+| Fit, 09-16 on — as of yesterday | −0.626 kg/wk |
+| **Fit, 09-16 on — with today** | **−0.790 kg/wk** |
+| **Fit, all 12 points from 09-05** | **−0.696 kg/wk** |
+| Endpoints 09-11 → 09-25 (post-flush, 14 days) | −0.650 kg/wk |
+| **Predicted from all 21 logged days at 2,125 kcal** | **−0.494 kg/wk** |
+
+**Do not read the weekly fit.** It has now swung −0.53 → −0.63 → −0.79 on three
+consecutive mornings without the food changing. Over twenty days it oscillates
+between −0.4 and −0.8 depending entirely on which reading landed last, which is
+why the 09-19 call and the 09-23 reversal both looked compelling and both
+overstated what a week of data can support.
+
+**The stable signal is the long window.** Post-flush, 09-11 to today: −0.65 kg/wk
+observed against −0.49 predicted. A gap of ~0.16 kg/wk, about **176 kcal/day**, and
+it has been roughly that size and direction for two weeks. That is consistent with
+photo estimates running ~8% high, or maintenance being nearer 2,845 than 2,669. It
+is not consistent with anything being wrong.
+
+### The headline: the target is actually being hit
+
+**The last seven days average 2,112 kcal against a 2,120 target.** That is the
+first rolling week in the log to land on target, and it came down from 2,343 a
+fortnight ago without a single meal being cut — only the snack layer thinning out.
+
+| Window | Avg kcal | vs 2,120 |
+|---|---|---|
+| Seven days to 09-22 | 2,343 | +223 |
+| **Seven days to 09-24** | **2,112** | **−8** |
+
+**Guidance unchanged, because it is working.** 2,120, first 200 kcal free.
+
+**Protein is now the only unsolved line.** The last seven days average **107 g
+against a 130 g floor** — and Days 20 and 21 closed at 71 g and 72.5 g, the two
+lowest of the log, both because the closing scoops were planned and never taken.
+Seven of the last eleven days have ended that way. The calorie side of this has
+been solved by habit; the protein side is still being solved by calculation every
+night, and that is why it keeps failing.
 
 ### One reading does not reverse a call — 2026-09-24
 
@@ -762,7 +808,7 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 21 — 2026-09-24 (in progress)
+## Day 21 — 2026-09-24 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -810,6 +856,10 @@ the floor in twenty-one, and would follow yesterday's 71 g.
 met, floor cleared, nothing given up at any meal. Breakfast, lunch and dinner were
 all managed well today. The snack layer is the entire difference, for the fourth
 time in a week.
+
+**Closed at 1,975 kcal and 72.5 g — no scoops were confirmed.** Second-lowest
+protein day of the log, immediately after the lowest. Seventh unconfirmed closing
+in eleven days.
 
 ### Lunch beat the menu on both lines — 2026-09-24
 
