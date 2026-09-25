@@ -27,15 +27,24 @@ From 162.5 cm / 33 y / male and the latest weigh-in. The workbook's Targets
 sheet reads the most recent weight off the Weights sheet and re-derives
 everything below it, so a new weigh-in updates the target automatically.
 
-| | Value (at 90.05 kg) |
-|---|---|
-| BMR (Mifflin-St Jeor) | 1,756 kcal |
-| Maintenance (TDEE), ×1.52 | ~2,669 kcal |
-| **Calorie target** | **~2,120 kcal/day** |
-| Protein | 130–145 g/day |
-| Fat floor | 55 g/day |
-| Carbs (remainder) | ~248 g/day |
-| Projected loss | 0.5 kg/week |
+| | Value (at 88.75 kg) | Was (at 90.05 kg) |
+|---|---|---|
+| BMR (Mifflin-St Jeor) | **1,743 kcal** | 1,756 |
+| Maintenance (TDEE), ×1.52 | **~2,650 kcal** | ~2,669 |
+| **Calorie target** | **~2,100 kcal/day** | ~2,120 |
+| Protein | 130–145 g/day | unchanged |
+| Fat floor | 55 g/day | unchanged |
+| Carbs (remainder) | ~243 g/day | ~248 |
+| Projected loss | 0.5 kg/week | unchanged |
+
+**The targets fall as the weight does** — a smaller body costs less to run. Every
+1 kg lost takes ~15 kcal off maintenance, so the target drifts down ~15 kcal per
+kilogram. At 88.75 kg that is 2,100, not the 2,120 quoted through the middle of
+September.
+
+`build_tracker.py`'s seed weight was left at the 91.5 kg starting value while the
+chat numbers were being quoted from 90.05 — corrected on 2026-09-25 to 88.75 so
+the workbook and the running commentary agree.
 
 ### Where maintenance comes from
 

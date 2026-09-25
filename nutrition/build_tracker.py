@@ -46,7 +46,7 @@ SIGNED_FMT = "+#,##0;-#,##0;0"
 # cells - so as the weight comes down, update the cell and the whole workbook
 # re-derives itself. Change it here only when regenerating from scratch.
 PROFILE = {
-    "weight_kg": 91.5,
+    "weight_kg": 88.75,
     "height_cm": 162.5,
     "age_years": 33,
     "sex_constant": 5,          # Mifflin-St Jeor: +5 male, -161 female
