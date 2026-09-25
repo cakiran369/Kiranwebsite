@@ -825,9 +825,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Lunch | Chicken biriyani — rice halved, 2 chicken pieces, pappadam, salad | 550–790 | 34–50 g | 23–42 g |
 | Snack | Black coffee + 1 whey scoop (1 h before lunch) | 100–130 | 20–25 g | 1–3 g |
 | Snack | Black coffee + 1 whey scoop + a fist of walnuts (~30 g) | 265–360 | 24–30.5 g | 17–26 g |
-| Dinner | Half grilled chicken (skin on) + small kubbus + kadala curry + veggies + hummus | 1,160–1,610 | 80.5–98.5 g | 60–86 g |
-| **TOTAL** | | **2,355–3,300** | **168.5–217 g** | **107–171 g** |
-| **Midpoint** | | **2,827.5** | **192.75 g** | **139 g** |
+| Dinner | Half grilled chicken (skin removed) + small kubbus + kadala curry + veggies + hummus | 830–1,360 | 78–97 g | 27–61 g |
+| **TOTAL** | | **2,025–3,050** | **166–215.5 g** | **74–146 g** |
+| **Midpoint** | | **2,537.5** | **190.75 g** | **110 g** |
 
 **Twelfth consecutive breakfast without the white chutney.**
 
@@ -856,7 +856,31 @@ Biriyani rice is cooked in ghee and stock, so it is denser than the plain rice a
 a meals plate — halving it saved ~330 kcal rather than the ~230 a plain plate
 saves. The chicken cost ~220 kcal and returned 29 g.
 
-### Closing Friday — 2,827.5 kcal, 192.75 g protein
+### Closing Friday — 2,537.5 kcal, 190.75 g protein
+
+**The skin came off, and it pulled the day back under maintenance.**
+
+| | Day total | vs maintenance |
+|---|---|---|
+| Skin on | 2,827.5 | **+177.5** |
+| **Skin removed** | **2,537.5** | **−112.5** |
+
+| Item | Kcal | Protein |
+|---|---|---|
+| **Half grilled chicken, skin removed** | ~410 | ~64 g |
+| Hummus | ~220 | ~6.5 g |
+| Kadala curry | ~250 | ~10 g |
+| Small kubbus | ~190 | ~6 g |
+| Veggies | ~22 | ~1 g |
+| **Dinner** | **~1,095** | **~87.5 g** |
+
+**~290 kcal and ~29 g of fat removed for the loss of about 2 g of protein.** It is
+the single highest-leverage decision available on any plate in this log, and it
+was taken after the food had already arrived — which is the part worth keeping.
+
+**190.75 g of protein is still the highest day recorded**, 46 g past the top of the
+band. Twenty-two days now average 2,144 kcal and 113.3 g; the last seven average
+2,206 against a 2,100 target.
 
 **The day finishes ~178 kcal above maintenance.** Only the second such day in
 twenty-two; 09-17 was the other, at +39.
