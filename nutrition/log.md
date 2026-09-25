@@ -823,8 +823,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 3 idli + sambar + red chutney (white chutney skipped) | 280–410 | 10–13 g | 6–14 g |
 | Lunch | Chicken biriyani — rice halved, 2 chicken pieces, pappadam, salad | 550–790 | 34–50 g | 23–42 g |
-| **TOTAL (logged so far)** | | **830–1,200** | **44–63 g** | **29–56 g** |
-| **Midpoint** | | **1,015** | **53.5 g** | **42.5 g** |
+| Snack | Black coffee + 1 whey scoop (1 h before lunch) | 100–130 | 20–25 g | 1–3 g |
+| **TOTAL (logged so far)** | | **930–1,330** | **64–88 g** | **30–59 g** |
+| **Midpoint** | | **1,130** | **76 g** | **44.5 g** |
 
 **Twelfth consecutive breakfast without the white chutney.**
 
@@ -853,7 +854,20 @@ Biriyani rice is cooked in ghee and stock, so it is denser than the plain rice a
 a meals plate — halving it saved ~330 kcal rather than the ~230 a plain plate
 saves. The chicken cost ~220 kcal and returned 29 g.
 
-**Running: 1,015 kcal, 53.5 g protein. 1,085 kcal to target, 76.5 g to the floor.**
+**Running: 1,130 kcal, 76 g protein. 970 kcal to target, 54 g to the floor.**
+
+### The scoop moved, and it worked — 2026-09-25
+
+**The first scoop of the day went in an hour before lunch rather than after
+dinner** — the change discussed this morning, made the same day.
+
+It matters because of where it sits in the day. A scoop at 9pm is the last item on
+a list that has already been negotiated three times over; a scoop before lunch is
+taken before the day has formed an opinion about it. **Seven of the last eleven
+closing scoops never happened. This one did.**
+
+**Protein stands at 76 g before the afternoon.** Day 20 and Day 21 each finished
+the entire day below that — 71 g and 72.5 g.
 
 ### Friday is the roomiest day of the week
 
