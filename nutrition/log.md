@@ -817,7 +817,7 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 22 — 2026-09-25 (in progress)
+## Day 22 — 2026-09-25 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -825,8 +825,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Lunch | Chicken biriyani — rice halved, 2 chicken pieces, pappadam, salad | 550–790 | 34–50 g | 23–42 g |
 | Snack | Black coffee + 1 whey scoop (1 h before lunch) | 100–130 | 20–25 g | 1–3 g |
 | Snack | Black coffee + 1 whey scoop + a fist of walnuts (~30 g) | 265–360 | 24–30.5 g | 17–26 g |
-| **TOTAL (logged so far)** | | **1,195–1,690** | **88–118.5 g** | **47–85 g** |
-| **Midpoint** | | **1,442.5** | **103.25 g** | **66 g** |
+| Dinner | Half grilled chicken (skin on) + small kubbus + kadala curry + veggies + hummus | 1,160–1,610 | 80.5–98.5 g | 60–86 g |
+| **TOTAL** | | **2,355–3,300** | **168.5–217 g** | **107–171 g** |
+| **Midpoint** | | **2,827.5** | **192.75 g** | **139 g** |
 
 **Twelfth consecutive breakfast without the white chutney.**
 
@@ -855,7 +856,41 @@ Biriyani rice is cooked in ghee and stock, so it is denser than the plain rice a
 a meals plate — halving it saved ~330 kcal rather than the ~230 a plain plate
 saves. The chicken cost ~220 kcal and returned 29 g.
 
-**Running: 1,442.5 kcal, 103.25 g protein. 657 kcal to target, 26.75 g to the floor.**
+### Closing Friday — 2,827.5 kcal, 192.75 g protein
+
+**The day finishes ~178 kcal above maintenance.** Only the second such day in
+twenty-two; 09-17 was the other, at +39.
+
+| Item | Kcal | Protein |
+|---|---|---|
+| **Half grilled chicken, skin on** | ~700 | ~66 g |
+| Hummus | ~220 | ~6.5 g |
+| Kadala curry | ~250 | ~10 g |
+| Small kubbus | ~190 | ~6 g |
+| Veggies | ~22 | ~1 g |
+| **Dinner** | **~1,385** | **~89.5 g** |
+
+**192.75 g of protein is the highest of the log** by a wide margin, and 47 g past
+the top of the band. Protein beyond ~145 g on a cut is not harmful, it is simply
+calories in an efficient wrapper — so the half rather than the quarter bought
+nothing the day did not already have at 103 g by mid-afternoon.
+
+**The skin is where the day turned.** ~290 kcal and ~29 g of fat for ~2 g of
+protein. Without it this finishes at ~2,538 — still over target, but comfortably
+under maintenance.
+
+**What it actually costs: nothing much.** A 178 kcal surplus is ~23 g of theoretical
+fat mass, and at 193 g of protein alongside a training day, very little of it goes
+anywhere. The week still averages 2,247 against a 2,100 target.
+
+**No closing scoop.** The floor was cleared three times over.
+
+### The day in one line
+
+Breakfast, lunch and both scoops were excellent — the halved biriyani rice with
+both chicken pieces kept was the best single decision in the log. **Dinner spent
+all of it and 178 kcal more.** The pattern named on 09-23 holds exactly: the meals
+are managed; it is the restaurant evenings that decide the week.
 
 ### Two scoops before evening — 2026-09-25
 
