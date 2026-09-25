@@ -824,8 +824,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Breakfast | 3 idli + sambar + red chutney (white chutney skipped) | 280–410 | 10–13 g | 6–14 g |
 | Lunch | Chicken biriyani — rice halved, 2 chicken pieces, pappadam, salad | 550–790 | 34–50 g | 23–42 g |
 | Snack | Black coffee + 1 whey scoop (1 h before lunch) | 100–130 | 20–25 g | 1–3 g |
-| **TOTAL (logged so far)** | | **930–1,330** | **64–88 g** | **30–59 g** |
-| **Midpoint** | | **1,130** | **76 g** | **44.5 g** |
+| Snack | Black coffee + 1 whey scoop + a fist of walnuts (~30 g) | 265–360 | 24–30.5 g | 17–26 g |
+| **TOTAL (logged so far)** | | **1,195–1,690** | **88–118.5 g** | **47–85 g** |
+| **Midpoint** | | **1,442.5** | **103.25 g** | **66 g** |
 
 **Twelfth consecutive breakfast without the white chutney.**
 
@@ -854,7 +855,22 @@ Biriyani rice is cooked in ghee and stock, so it is denser than the plain rice a
 a meals plate — halving it saved ~330 kcal rather than the ~230 a plain plate
 saves. The chicken cost ~220 kcal and returned 29 g.
 
-**Running: 1,130 kcal, 76 g protein. 970 kcal to target, 54 g to the floor.**
+**Running: 1,442.5 kcal, 103.25 g protein. 657 kcal to target, 26.75 g to the floor.**
+
+### Two scoops before evening — 2026-09-25
+
+**103 g of protein with dinner still to come.** That has not happened once in
+twenty-two days; the previous best at this hour was ~76 g.
+
+The walnuts are worth naming honestly. **At ~195 kcal for 30 g they are the most
+calorie-dense food in the reference table** — denser per gram than the pazham pori
+that cost yesterday its target. The difference is what comes back: ~5 g protein,
+2 g fibre, and ALA omega-3, against the fritter's 2.5 g of protein and nothing
+else. Dense is not the same as empty.
+
+Fat now stands at 66 g, above the 55 g floor. That is fine — the floor is a floor,
+and within a fixed calorie target fat displaces carbohydrate rather than adding to
+the total.
 
 ### The scoop moved, and it worked — 2026-09-25
 
