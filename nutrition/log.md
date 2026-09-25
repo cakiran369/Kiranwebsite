@@ -822,8 +822,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 3 idli + sambar + red chutney (white chutney skipped) | 280–410 | 10–13 g | 6–14 g |
-| **TOTAL (logged so far)** | | **280–410** | **10–13 g** | **6–14 g** |
-| **Midpoint** | | **345** | **11.5 g** | **10 g** |
+| Lunch | Chicken biriyani — rice halved, 2 chicken pieces, pappadam, salad | 550–790 | 34–50 g | 23–42 g |
+| **TOTAL (logged so far)** | | **830–1,200** | **44–63 g** | **29–56 g** |
+| **Midpoint** | | **1,015** | **53.5 g** | **42.5 g** |
 
 **Twelfth consecutive breakfast without the white chutney.**
 
@@ -831,6 +832,28 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 dosa's 510 and the poori-baji's ~600 — because idli is steamed and everything else
 on the breakfast rotation is fried. Protein density is ordinary at 3.3 g per
 100 kcal, but the 165 kcal saved against yesterday buys a scoop and a half.
+
+### The best lunch in the log — 2026-09-25
+
+**670 kcal and ~42 g of protein. 6.3 g per 100 kcal** — nearly double the mess
+average of 3.7, and the highest-protein lunch of the twenty-two days.
+
+The reason is the portion decision, not the dish: **the rice was halved and both
+chicken pieces were kept.** That is the correct way round.
+
+| Item | Kcal | Protein |
+|---|---|---|
+| Biriyani rice, halved | ~330 | ~7.5 g |
+| **2 chicken pieces** | **~220** | **~29 g** |
+| Pappadam | ~65 | ~2.5 g |
+| Salad / raita | ~55 | ~3 g |
+| **Total** | **~670** | **~42 g** |
+
+Biriyani rice is cooked in ghee and stock, so it is denser than the plain rice at
+a meals plate — halving it saved ~330 kcal rather than the ~230 a plain plate
+saves. The chicken cost ~220 kcal and returned 29 g.
+
+**Running: 1,015 kcal, 53.5 g protein. 1,085 kcal to target, 76.5 g to the floor.**
 
 ### Friday is the roomiest day of the week
 
