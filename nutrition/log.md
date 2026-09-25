@@ -817,6 +817,40 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 22 — 2026-09-25 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 3 idli + sambar + red chutney (white chutney skipped) | 280–410 | 10–13 g | 6–14 g |
+| **TOTAL (logged so far)** | | **280–410** | **10–13 g** | **6–14 g** |
+| **Midpoint** | | **345** | **11.5 g** | **10 g** |
+
+**Twelfth consecutive breakfast without the white chutney.**
+
+**The cheapest breakfast on the weekly menu, by a distance.** 345 kcal against the
+dosa's 510 and the poori-baji's ~600 — because idli is steamed and everything else
+on the breakfast rotation is fried. Protein density is ordinary at 3.3 g per
+100 kcal, but the 165 kcal saved against yesterday buys a scoop and a half.
+
+### Friday is the roomiest day of the week
+
+**1,455 kcal as served** — the lightest of the seven, and ~645 kcal under target.
+Lunch is chicken biriyani, the only menu lunch with meat built into it.
+
+| | Kcal | Protein |
+|---|---|---|
+| Breakfast (logged) | 345 | 11.5 g |
+| Chicken biriyani | ~650 | ~33 g |
+| Kadala + 2 chapati | ~480 | ~16 g |
+| **Menu day** | **~1,475** | **~60.5 g** |
+| **+ 3 scoops** | **~1,820** | **~128 g** |
+
+**Three scoops fit inside target with 280 kcal still spare**, which is the first
+day this week where the floor and the target are not in competition. If one of
+them goes in pre-workout it is already half solved.
+
+---
+
 ## Day 21 — 2026-09-24 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
