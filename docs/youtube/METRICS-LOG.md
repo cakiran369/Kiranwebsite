@@ -112,6 +112,76 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## 26 Sept 2026 (Day 110) — CFA retention: a correction and a better finding
+
+CFA lifetime: **3:45 (33.9%)** on an 11:04 runtime.
+
+### Correction: retention is not length-independent
+
+The 40.4% recorded for CFA in the context file was a **90-day** figure. Lifetime
+is 33.9%.
+
+| Video | Runtime | Lifetime retention | Avg view |
+|---|---|---|---|
+| FRM | 5:26 | 43.4% | 2:21 |
+| CFA | 11:04 | **33.9%** | 3:45 |
+
+Retention falls **9.5 points as runtime doubles.** The 19 Sept entry's claim
+that "runtime is close to a linear multiplier on watch time per view" was built
+on mismatched measurement windows and is wrong.
+
+Fitting retention = a − b·ln(seconds) through these two points (two points
+only, so indicative):
+
+| Runtime | Projected retention | Projected avg view |
+|---|---|---|
+| 12 min | 32.8% | 3:56 |
+| 15 min | 29.8% | **4:28** |
+
+**Earlier projections of 6:09 and 6:36 for a 15-minute video were too
+optimistic by roughly half.** Use ~4:28.
+
+### The conclusion survives, at reduced magnitude
+
+CFA delivers **1.60x** FRM's watch time per view despite 9.5 points worse
+retention — runtime more than compensates. A 15-minute video at 4:28 is still
+**3x the 1:30 channel blend**. Longer is still right; it is worth less than
+previously stated.
+
+### The better finding: CFA's curve is the mirror image of FRM's
+
+| | FRM | CFA |
+|---|---|---|
+| At 0:30 | **73%** (YouTube: above typical) | ~55% — a cliff in the first seconds |
+| Middle | bleeds 0:30 → 1:50 | settles by ~3:30 |
+| Tail | fades from 3:50 | **flat ~30–32% from 3:30 to 11:04** |
+
+CFA's tail alone — the 7½ minutes after 3:30, holding ~30% — produces about
+**2:16 per view, more than the whole of FRM (2:21).** Long-format Malayalam
+explainer content demonstrably holds an audience on this channel. CFA simply
+loses nearly half its viewers before the content starts.
+
+Scaling CFA's curve by an FRM-grade intro (73% vs ~55% at 0:30, ~1.33x) gives
+~45% retention and an avg view of **~4:58** on the existing 11:04 runtime — no
+extra length required.
+
+**Neither video has both halves.** FRM has the intro; CFA has the tail. The
+target format is FRM's opening on CFA's runtime.
+
+### Revised 30-video projection
+
+Replaces the figures given on 26 Sept for "30 more videos":
+
+| Format for the next 30 uploads | Watch hrs/day at 41 videos | Per year |
+|---|---|---|
+| Current ~6 min | 2.46 | 898 |
+| 15 min at fitted 29.8% | 7.33 | **2,674** |
+| 15 min + FRM-grade intro | 8.99 | **3,282** |
+
+The 3,600 quoted in conversation for the 15-minute case was based on the
+superseded 4x multiplier. Corrected to ~2,700, or ~3,300 if the intro is fixed
+as well.
+
 ## 26 Sept 2026 (Day 110) — impressions, all-time
 
 **14,840 thumbnail impressions** over 365 days. The channel is 110 days old, so
@@ -412,13 +482,10 @@ the same model can price a fix:
 | US CPA | 7:28 | 41.1% | 3:04 |
 | CFA | 11:04 | 40.4% | 4:28 |
 
-Retention percentage barely moves across a 2x runtime range. Longer videos are
-not being punished, so **runtime is close to a linear multiplier on watch time
-per view**. A 15-minute video at the same 41% would average 6:09 — nearly 3x
-FRM. Fix the opening as well and 15 minutes at 55% averages 8:15.
-
-This is the highest-leverage finding in the data so far, and it costs nothing
-but a longer script.
+> **SUPERSEDED 26 Sept.** CFA's 40.4% was a 90-day figure. Its lifetime
+> retention is **33.9%**, so retention does fall with length and runtime is
+> *not* a linear multiplier. See the 26 Sept entry. The direction of the
+> conclusion survives; the magnitude was overstated here.
 
 ## Monetisation working (as at Day 94, 10 Sept 2026)
 
