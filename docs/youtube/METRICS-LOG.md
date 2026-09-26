@@ -112,6 +112,45 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## 26 Sept 2026 — retention is not the constraint (ceiling test)
+
+Four videos now read around 40% retention. Two caveats, then the reason it does
+not change the plan.
+
+**Check the window.** CFA read 40.4% at 90 days and 33.9% lifetime — a 6.5
+point gap. A "~40%" on a 90-day view is likely ~34–36% lifetime. Always compare
+lifetime to lifetime.
+
+**The blended number is the one that matters, and it is 22%.** Ten videos,
+average runtime 6.69 min, blended average view 1:30 — that is 22.4% across all
+views, not 40%. The four good videos are not where most views land.
+
+### Ceiling test
+
+| Scenario | Avg view | Watch hrs/yr |
+|---|---|---|
+| Today | 1:30 | 241 |
+| **Every video at FRM's 43.4%** | 2:54 | **467** |
+
+Perfect retention across the entire library — an unreachable best case — reaches
+**6% of the 8,000-hour gate.** Retention is not the lever. It is already fine.
+
+### The three levers, priced
+
+| Format | Min/view | At 10 videos | At 40 videos |
+|---|---|---|---|
+| Today | 1:30 | 241 | 965 |
+| Fix retention everywhere | 2:54 | 467 | 1,867 |
+| 15 min at fitted 29.8% | 4:28 | 719 | 2,875 |
+| **15 min + FRM-grade intro (45%)** | **6:45** | 1,085 | **4,341** |
+
+Only the bottom row approaches the gate, and it needs **both** the runtime and
+the volume. No single lever gets there: retention alone tops out at 1,867 even
+at 40 videos, and volume alone at the current format reaches 965.
+
+Retention is a rate; the gate is measured in hours. A good rate on six minutes
+is still six minutes.
+
 ## 26 Sept 2026 (Day 110) — CFA retention: a correction and a better finding
 
 CFA lifetime: **3:45 (33.9%)** on an 11:04 runtime.
