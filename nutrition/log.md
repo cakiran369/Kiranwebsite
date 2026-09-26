@@ -817,15 +817,16 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 23 — 2026-09-26 (in progress)
+## Day 23 — 2026-09-26 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney (white chutney skipped) | 390–530 | 10–14 g | 11–23 g |
 | Lunch | Mess plate — rice halved, fish fry, pappadam, sambar, okra curry, cowpea thoran, beetroot pachadi, raita | 710–1,050 | 35–50 g | 25–46 g |
 | Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
-| **TOTAL (logged so far)** | | **1,200–1,710** | **65–89 g** | **37–72 g** |
-| **Midpoint** | | **1,455** | **77 g** | **54.5 g** |
+| Dinner | Half grilled chicken (skin removed) + chicken curry pieces only + chicken soup + rocket salad + hummus + 1 kubbus | 925–1,420 | 91–114 g | 33–59.5 g |
+| **TOTAL** | | **2,125–3,130** | **156–203 g** | **70–131.5 g** |
+| **Midpoint** | | **2,627.5** | **179.5 g** | **100.75 g** |
 
 **Thirteenth consecutive breakfast without the white chutney.** Across thirteen
 days that one repeated decision is ~1,300 kcal and ~115 g of fat not eaten — more
@@ -856,7 +857,47 @@ actually fish rather than batter.
 The cowpea thoran is the quiet second contributor: ~6 g of protein for ~100 kcal,
 which is well above anything else vegetarian on the plate.
 
-**Running: 1,455 kcal, 77 g protein. 645 kcal to target, 53 g to the floor.**
+### Closing Saturday — 2,627.5 kcal, 179.5 g protein
+
+**The day lands 22 kcal under maintenance.** Two decisions made before the food
+was touched — **the skin came off and the curry gravy was left** — are worth
+~380 kcal between them. Without either, this finishes ~360 above maintenance.
+
+| Item | Kcal | Protein |
+|---|---|---|
+| **Half grilled chicken, skin removed** | ~410 | ~64 g |
+| 1 kubbus (with zaatar oil) | ~290 | ~8.5 g |
+| Hummus | ~220 | ~6.5 g |
+| Chicken curry, pieces only | ~120 | ~15 g |
+| Chicken soup | ~110 | ~7 g |
+| Rocket salad | ~22 | ~1.5 g |
+| **Dinner** | **~1,172** | **~102.5 g** |
+
+**Taking the curry pieces without the gravy is the new move**, and it is the same
+idea as the skin: ~15 g of protein for ~120 kcal instead of ~220. It is the first
+time the log records gravy left deliberately.
+
+### The pattern is visible two nights running
+
+| Day | Kcal | Where |
+|---|---|---|
+| 09-22 | 1,782 | mess |
+| 09-23 | 1,870 | mess |
+| 09-24 | 1,975 | mess |
+| **09-25** | **2,538** | **restaurant grill** |
+| **09-26** | **2,628** | **restaurant grill** |
+
+**Every mess day this week landed under 2,000. Both restaurant nights landed above
+2,500.** The seven-day average is back to 2,246 against a 2,100 target, having
+been 2,112 two days ago.
+
+This is not a discipline failure — the portion decisions at both dinners were the
+right ones and the protein is the best it has been all month. A grill dinner
+simply costs ~600 kcal more than the mess equivalent, and two in a row moves the
+week by ~170 kcal/day on its own.
+
+**179.5 g of protein is the second-highest day of the log**, 35 g past the top of
+the band. No closing scoop.
 
 **Second day running that a scoop went in before evening.** 77 g by mid-afternoon
 on the tighter of the two menu days, with only the dinner and one more scoop left
