@@ -112,6 +112,67 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## 26 Sept 2026 (Day 110) — impressions, all-time
+
+**14,840 thumbnail impressions** over 365 days. The channel is 110 days old, so
+this is the all-time figure; the flat zero stretch before June is pre-launch.
+
+### Reach is accelerating
+
+| Period | Impressions/day |
+|---|---|
+| Launch → 8 Sept (lifetime avg) | 127 |
+| 8 → 26 Sept | **183** (+44%) |
+
+Derived from 11,542 at 8 Sept (a 90-day window that covered essentially the
+whole channel life) against 14,840 now — 3,298 impressions in 18 days. The
+daily chart agrees: recent days run 120–280 with spikes near 340.
+
+### The concentration is at the reach level
+
+| Video | Impressions | Share |
+|---|---|---|
+| EA Course | 5.1K | 34% |
+| US CPA | 2.6K | 18% |
+| **Together** | **7.7K** | **52%** |
+
+Two videos out of eleven take more than half of all reach YouTube has ever
+given the channel. This matches the 61% watch-time concentration recorded on
+10 Sept, and locates its cause: those videos aren't converting better, they are
+being **shown** far more.
+
+### US CPA is the most efficient video on the channel
+
+Watch hours per 1,000 impressions (90-day watch hours against all-time
+impressions — mismatched windows, so directional only):
+
+| Video | Hrs per 1K impressions |
+|---|---|
+| US CPA | **4.23** |
+| EA Course | 2.90 |
+| All others | 2.34 |
+
+EA gets nearly twice CPA's reach but only 1.35x its watch hours. Per unit of
+reach, **US CPA is ~45% better than EA and ~80% better than the rest.** An
+argument for the CPA cluster specifically, not just for long videos generally.
+
+### The bottleneck, restated as a funnel
+
+183 impressions/day → 26.6 views/day (CTR ~15%) → **0.66 watch hours/day**.
+
+8,000 hours/year needs 21.9 hours/day — **33x** current output. Two routes:
+
+| Route | Reach required |
+|---|---|
+| Impressions alone, everything else unchanged | 6,078/day (33x) |
+| Lift avg view duration 1:30 → 6:00 first | 1,520/day (8.3x) |
+
+**YouTube is already handing over the reach growth — 44% in under three weeks.
+The channel is losing it at the duration step.** Every additional impression is
+currently worth 1:30 of watch time instead of the 6:00 a long video at existing
+retention would deliver. Growing reach without fixing duration means working
+four times harder for the same gate.
+
 ## 21 Sept 2026 (Day 105) — the intro is fine; the bleed is 0:30–1:50
 
 FRM lifetime: **2:21 (43.4%)**, down from 2:23 (44.1%) two days earlier.
