@@ -823,8 +823,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney (white chutney skipped) | 390–530 | 10–14 g | 11–23 g |
 | Lunch | Mess plate — rice halved, fish fry, pappadam, sambar, okra curry, cowpea thoran, beetroot pachadi, raita | 710–1,050 | 35–50 g | 25–46 g |
-| **TOTAL (logged so far)** | | **1,100–1,580** | **45–64 g** | **36–69 g** |
-| **Midpoint** | | **1,340** | **54.5 g** | **52.5 g** |
+| Snack | Black coffee + 1 whey scoop | 100–130 | 20–25 g | 1–3 g |
+| **TOTAL (logged so far)** | | **1,200–1,710** | **65–89 g** | **37–72 g** |
+| **Midpoint** | | **1,455** | **77 g** | **54.5 g** |
 
 **Thirteenth consecutive breakfast without the white chutney.** Across thirteen
 days that one repeated decision is ~1,300 kcal and ~115 g of fat not eaten — more
@@ -855,7 +856,11 @@ actually fish rather than batter.
 The cowpea thoran is the quiet second contributor: ~6 g of protein for ~100 kcal,
 which is well above anything else vegetarian on the plate.
 
-**Running: 1,340 kcal, 54.5 g protein. 760 kcal to target, 75.5 g to the floor.**
+**Running: 1,455 kcal, 77 g protein. 645 kcal to target, 53 g to the floor.**
+
+**Second day running that a scoop went in before evening.** 77 g by mid-afternoon
+on the tighter of the two menu days, with only the dinner and one more scoop left
+to place.
 
 
 ### Saturday is one of the two tight days
