@@ -822,12 +822,41 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney (white chutney skipped) | 390–530 | 10–14 g | 11–23 g |
-| **TOTAL (logged so far)** | | **390–530** | **10–14 g** | **11–23 g** |
-| **Midpoint** | | **460** | **12 g** | **17 g** |
+| Lunch | Mess plate — rice halved, fish fry, pappadam, sambar, okra curry, cowpea thoran, beetroot pachadi, raita | 710–1,050 | 35–50 g | 25–46 g |
+| **TOTAL (logged so far)** | | **1,100–1,580** | **45–64 g** | **36–69 g** |
+| **Midpoint** | | **1,340** | **54.5 g** | **52.5 g** |
 
 **Thirteenth consecutive breakfast without the white chutney.** Across thirteen
 days that one repeated decision is ~1,300 kcal and ~115 g of fat not eaten — more
 than half a kilogram of the 2.75 kg lost, from a single habit that costs nothing.
+
+### The fish fry does the work — 2026-09-26
+
+**880 kcal against the menu's 950, and ~42 g of protein.** At **4.8 g per 100 kcal**
+this is the second-best mess plate in the log, behind only yesterday's biriyani.
+
+| Item | Kcal | Protein |
+|---|---|---|
+| Rice, halved | ~230 | ~4.5 g |
+| **Fish fry (1 whole small fish)** | **~150** | **~17 g** |
+| Cowpea thoran | ~100 | ~6 g |
+| Pappadam | ~90 | ~3 g |
+| Sambar | ~90 | ~4 g |
+| Okra curry | ~90 | ~2.5 g |
+| Beetroot pachadi | ~55 | ~2 g |
+| Raita | ~55 | ~2.75 g |
+| **Total** | **~860** | **~42 g** |
+
+**The fish fry is the best protein-per-calorie item the mess serves** — ~11 g per
+100 kcal, three times the plate average, better than the chicken fry two days ago.
+Fried whole fish keeps its skin and bones, so almost all of the 150 kcal is
+actually fish rather than batter.
+
+The cowpea thoran is the quiet second contributor: ~6 g of protein for ~100 kcal,
+which is well above anything else vegetarian on the plate.
+
+**Running: 1,340 kcal, 54.5 g protein. 760 kcal to target, 75.5 g to the floor.**
+
 
 ### Saturday is one of the two tight days
 
