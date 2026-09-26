@@ -112,6 +112,65 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## CIA lifetime retention — the length model confirmed, and a flat trend line
+
+CIA: **2:20 (39.6%)**, implying a **5:53** runtime. Cumulative watch time ~1.2
+hours over 13 days (0.09 hrs/day). The "first 3 days 2 hours" figure from the
+glitched dashboard was wrong — do not use it.
+
+### The newest video matches the older one exactly
+
+| Video | # | Runtime | Retention | Avg view |
+|---|---|---|---|---|
+| FRM | 8 | 5:26 | 43.4% | **2:21** |
+| CIA | 10 | 5:53 | 39.6% | **2:20** |
+
+Twenty-eight seconds longer, 3.8 points worse retention, identical watch time
+per view. Two videos apart and output per view has not moved.
+
+This is the direct test of the "I will improve as I make more videos"
+hypothesis, run on the channel's own newest data point. **Repetition of the
+same format is not producing improvement in the metric that gates
+monetisation.** Craft may well be improving; watch time per view is not.
+
+### Three-point refit of the length–retention curve
+
+| Video | Runtime | Actual | Fitted |
+|---|---|---|---|
+| FRM | 326s | 43.4% | 42.1% |
+| CIA | 354s | 39.6% | 41.1% |
+| CFA | 664s | 33.9% | 33.7% |
+
+| Runtime | Projected retention | Projected avg view |
+|---|---|---|
+| 12 min | 32.8% | 3:55 |
+| 15 min | 30.2% | **4:31** |
+
+The two-point fit projected 4:28 for 15 minutes; with a third point it gives
+4:32. **The model held when new data arrived** — treat ~4:30 as the working
+estimate for a 15-minute video at the current intro quality.
+
+### FRM's intro is the outlier, now against two comparisons
+
+| Video | Retention at 0:30 |
+|---|---|
+| FRM | **73%** — YouTube: above typical |
+| CIA | ~58% — cliff in the first seconds |
+| CFA | ~55% — cliff in the first seconds |
+
+Three videos, one good opening. FRM is not the norm on this channel; it is the
+exception, and it is the only one YouTube flags as above typical.
+
+| Scenario | Retention | Avg view |
+|---|---|---|
+| CIA as published | 39.6% | 2:20 |
+| CIA with FRM's intro | ~49.8% | **2:56** |
+| 15 min with FRM's intro | ~38.0% | **5:41** |
+
+Whatever FRM does in its first thirty seconds is worth ~26% more watch time on
+every video that copies it, and it compounds with runtime rather than competing
+with it.
+
 ## 26 Sept 2026 — retention is not the constraint (ceiling test)
 
 Four videos now read around 40% retention. Two caveats, then the reason it does
