@@ -817,6 +817,45 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 23 — 2026-09-26 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 set dosa + sambar + red chutney (white chutney skipped) | 390–530 | 10–14 g | 11–23 g |
+| **TOTAL (logged so far)** | | **390–530** | **10–14 g** | **11–23 g** |
+| **Midpoint** | | **460** | **12 g** | **17 g** |
+
+**Thirteenth consecutive breakfast without the white chutney.** Across thirteen
+days that one repeated decision is ~1,300 kcal and ~115 g of fat not eaten — more
+than half a kilogram of the 2.75 kg lost, from a single habit that costs nothing.
+
+### Saturday is one of the two tight days
+
+**2,100 kcal as served**, against a 2,100 target — the menu uses the entire day
+before a scoop is taken.
+
+| | Kcal | Protein |
+|---|---|---|
+| Breakfast (logged) | 460 | 12 g |
+| Meals plate | ~950 | ~33 g |
+| Chicken varutharachathu + 2 chapati | ~605 | ~33 g |
+| **Menu day** | **~2,015** | **~78 g** |
+
+Saturday is **not** a protein desert — varutharachathu is a proper chicken curry,
+so the menu already carries 78 g. The problem is purely the calorie ceiling.
+
+The lever is the one that worked yesterday and on Thursday: **halve the rice at
+lunch (~230 kcal) and the day drops to ~1,785**, which leaves room for three
+scoops and a finish at ~2,130 with ~143 g — target met and the floor cleared,
+with nothing sacrificed at any meal.
+
+Varutharachathu is a roasted-coconut gravy — the richest of the mess curries and
+the reason Saturday is priced where it is. Taking the gravy sparingly rather than
+pouring it over both chapati is worth ~80 kcal on its own.
+
+---
+
+
 ## Day 22 — 2026-09-25 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
