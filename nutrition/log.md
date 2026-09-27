@@ -817,6 +817,42 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 24 — 2026-09-27 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 19–33 g |
+| **TOTAL (logged so far)** | | **360–550** | **12–16 g** | **19–33 g** |
+| **Midpoint** | | **455** | **14 g** | **26 g** |
+
+**One porotta rather than the menu's two — ~205 kcal and ~12 g of fat left on the
+table.** Porotta is the most expensive bread on the weekly rotation: refined flour
+laminated with oil, ~205 kcal each against a chapati's ~115 for the same size.
+
+The kadala is doing the protein here — ~9 g against the porotta's ~5.
+
+### Sunday is comfortable, and it follows two heavy nights
+
+**~1,670 kcal as served** with one porotta, against a 2,100 target. Three scoops
+fit with ~85 kcal spare.
+
+| | Kcal | Protein |
+|---|---|---|
+| Breakfast (logged) | 455 | 14 g |
+| Ghee rice + chicken curry | ~765 | ~30 g |
+| Egg roast + 2 chapati | ~450 | ~21 g |
+| **Menu day** | **~1,670** | **~65 g** |
+| **+ 3 scoops** | **~2,015** | **~132 g** |
+
+Halving the ghee rice takes another ~230 off and lands the day near 1,785 — worth
+doing after two consecutive 2,500+ nights, though not required.
+
+**No weigh-in for two mornings.** The last reading was 88.75 on 09-25, before both
+grill dinners. A reading tomorrow would be the first to reflect them.
+
+---
+
+
 ## Day 23 — 2026-09-26 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
