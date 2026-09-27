@@ -823,8 +823,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 19–33 g |
 | Lunch | Ghee rice (halved) + chicken curry | 440–660 | 24–34 g | 19–33 g |
-| **TOTAL (logged so far)** | | **800–1,210** | **36–50 g** | **38–66 g** |
-| **Midpoint** | | **1,005** | **43 g** | **52 g** |
+| Dinner | Half grilled chicken (skin removed) + hummus + 1 small kubbus + veggies | 670–1,020 | 70.5–84.5 g | 25–43 g |
+| **TOTAL (logged so far)** | | **1,470–2,230** | **106.5–134.5 g** | **63–109 g** |
+| **Midpoint** | | **1,850** | **120.5 g** | **86 g** |
 
 **One porotta rather than the menu's two — ~205 kcal and ~12 g of fat left on the
 table.** Porotta is the most expensive bread on the weekly rotation: refined flour
@@ -859,7 +860,32 @@ two portion decisions, with nothing skipped.**
 | Breakfast | 2 porotta + kadala, ~660 | 1 porotta + kadala, ~455 | **~205** |
 | Lunch | Full ghee rice + curry, ~765 | Halved + curry, ~550 | **~215** |
 
-**Running: 1,005 kcal, 43 g protein. 1,095 kcal to target, 87 g to the floor.**
+**Running: 1,850 kcal, 120.5 g protein. 250 kcal under target, 9.5 g to the floor.**
+
+### The third grill dinner is the one that worked
+
+**~845 kcal against ~1,172 last night and ~1,095 the night before**, for almost
+the same protein. The difference is not the chicken — it is what came with it.
+
+| | 09-25 | 09-26 | **09-27** |
+|---|---|---|---|
+| Chicken | ~410 | ~410 | **~410** |
+| Bread | ~190 | ~290 | **~190** |
+| Hummus | ~220 | ~220 | **~220** |
+| Kadala / curry pieces | ~250 | ~120 | **—** |
+| Soup | — | ~110 | **—** |
+| Veggies | ~22 | ~22 | **~22** |
+| **Dinner** | **~1,095** | **~1,172** | **~845** |
+
+**Three nights, the same restaurant, the same half chicken — and a 327 kcal
+spread**, entirely from the accompaniments. The skin has now come off three nights
+running.
+
+**The day lands 250 under target and 800 under maintenance** — the lightest since
+Tuesday, and it drops the seven-day average from 2,246 to 2,154.
+
+**One scoop closes it at 1,965 kcal and 143 g.** That is the whole remaining
+decision: without it the floor is missed by 9.5 g for no reason.
 
 Egg roast and two chapati closes the menu at ~1,455 and ~64 g. **Three scoops from
 there lands 1,800 with ~131.5 g** — target met by 300, floor cleared, and the
