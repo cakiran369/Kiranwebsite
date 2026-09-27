@@ -103,6 +103,11 @@ Last reviewed: 8 September 2026.
 - US CPA for Indian CAs
 - CA Foundation series (30+ potential videos)
 - UAE accounting jobs guidance
+- **CFA Practical Skills Modules (PSM) + Feb 2027 exam updates** — from a viewer
+  comment (@manums2932, 26 Sept). PSMs are mandatory, barely covered in
+  Malayalam, and carry a consequence most candidates miss: skip the module and
+  the exam result is voided outright. Extends the CFA cluster, which has the
+  channel's best retention tail.
 
 ## Working preferences
 
