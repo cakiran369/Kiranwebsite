@@ -822,8 +822,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 19–33 g |
-| **TOTAL (logged so far)** | | **360–550** | **12–16 g** | **19–33 g** |
-| **Midpoint** | | **455** | **14 g** | **26 g** |
+| Lunch | Ghee rice (halved) + chicken curry | 440–660 | 24–34 g | 19–33 g |
+| **TOTAL (logged so far)** | | **800–1,210** | **36–50 g** | **38–66 g** |
+| **Midpoint** | | **1,005** | **43 g** | **52 g** |
 
 **One porotta rather than the menu's two — ~205 kcal and ~12 g of fat left on the
 table.** Porotta is the most expensive bread on the weekly rotation: refined flour
@@ -847,7 +848,25 @@ fit with ~85 kcal spare.
 Halving the ghee rice takes another ~230 off and lands the day near 1,785 — worth
 doing after two consecutive 2,500+ nights, though not required.
 
-**No weigh-in for two mornings.** The last reading was 88.75 on 09-25, before both
+### Three portion cuts before the day is half done — 2026-09-27
+
+**1,005 kcal and 43 g of protein at lunch.** The halved ghee rice saves ~230 kcal
+on top of the ~205 saved at breakfast: **~435 kcal removed from the menu day by
+two portion decisions, with nothing skipped.**
+
+| | Menu | Taken | Saved |
+|---|---|---|---|
+| Breakfast | 2 porotta + kadala, ~660 | 1 porotta + kadala, ~455 | **~205** |
+| Lunch | Full ghee rice + curry, ~765 | Halved + curry, ~550 | **~215** |
+
+**Running: 1,005 kcal, 43 g protein. 1,095 kcal to target, 87 g to the floor.**
+
+Egg roast and two chapati closes the menu at ~1,455 and ~64 g. **Three scoops from
+there lands 1,800 with ~131.5 g** — target met by 300, floor cleared, and the
+lightest day since Tuesday.
+
+**No weigh-in for two mornings.** The last reading was 88.75 on 09-25, taken before
+both grill dinners. Tomorrow's would be the first to reflect them.
 grill dinners. A reading tomorrow would be the first to reflect them.
 
 ---
