@@ -823,8 +823,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
 | Lunch | Mess plate — rice halved, fish fry, pappadam, sambar, fried item, green fritter, green gram thoran, eggplant, rasam | 740–1,070 | 35–50 g | 30–54 g |
-| **TOTAL (logged so far)** | | **1,140–1,690** | **45–66 g** | **47–87 g** |
-| **Midpoint** | | **1,415** | **55.5 g** | **67 g** |
+| Snack | 1 laddoo | 190–280 | 3–5 g | 9–16 g |
+| **TOTAL (logged so far)** | | **1,330–1,970** | **48–71 g** | **56–103 g** |
+| **Midpoint** | | **1,650** | **59.5 g** | **79.5 g** |
 
 **Fourteenth consecutive breakfast without the white chutney.**
 
@@ -868,7 +869,25 @@ of this as a meatless plate was wrong; the fish was there.
 for ~17 g, roughly 11 g per 100 kcal. Nothing else the mess serves comes close at
 that price.
 
-**Running: 1,415 kcal, 55.5 g protein. 685 kcal to target, 74.5 g to the floor.**
+**Running: 1,650 kcal, 59.5 g protein. 450 kcal to target, 70.5 g to the floor.**
+
+### The laddoo is Thursday's fritter again — 2026-09-28
+
+**~235 kcal for ~4 g of protein. 1.7 g per 100 kcal** — second-lowest density in
+the reference table, behind only the pazham pori at 1.4.
+
+| | Kcal | g/100 kcal |
+|---|---|---|
+| Pazham pori (09-24) | ~185 | 1.4 |
+| **Laddoo (09-28)** | **~235** | **1.7** |
+| Walnuts (09-25) | ~195 | 2.6 |
+
+Before it, the day was sitting on ~2,105 with ~128 g — exactly on both lines. It
+is now a choice between them, which is the same shape Thursday took.
+
+Worth keeping in proportion: **one laddoo does not undo a week**, and the week is
+averaging 2,154 against a 2,100 target with protein at its highest of the month.
+It simply costs the precision the day had until now.
 no amount of restraint fixes without whey.
 
 | | Day total | Protein |
