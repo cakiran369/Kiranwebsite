@@ -822,8 +822,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
-| **TOTAL (logged so far)** | | **400–620** | **10–16 g** | **17–33 g** |
-| **Midpoint** | | **510** | **13 g** | **25 g** |
+| Lunch | Mess plate — rice halved, pappadam, sambar, fried item, green fritter, green gram thoran, eggplant, rasam | 620–890 | 21–30 g | 24–44 g |
+| **TOTAL (logged so far)** | | **1,020–1,510** | **31–46 g** | **41–77 g** |
+| **Midpoint** | | **1,265** | **38.5 g** | **59 g** |
 
 **Fourteenth consecutive breakfast without the white chutney.**
 
@@ -842,6 +843,33 @@ the saving.
 | **Menu day** | **~2,040** | **~77 g** |
 
 **60 kcal to target with the menu untouched** — and 53 g still to the floor, which
+no amount of restraint fixes without whey.
+
+### The halved plate carries no meat — 2026-09-28
+
+**~755 kcal and ~25.5 g of protein.** The rice was halved, which saved ~230, but
+**at 3.4 g per 100 kcal this is below the mess average of 3.7** — the only plate
+this week without meat, fish or egg on it.
+
+| Item | Kcal | Protein |
+|---|---|---|
+| Rice, halved | ~230 | ~4.5 g |
+| Sambar / veg curry | ~110 | ~4.5 g |
+| **Green gram thoran** | ~90 | **~5.5 g** |
+| Fried item | ~90 | ~3 g |
+| Pappadam | ~80 | ~2.5 g |
+| Green fritter | ~80 | ~2.5 g |
+| Rasam | ~40 | ~2 g |
+| Eggplant | ~35 | ~1 g |
+| **Total** | **~755** | **~25.5 g** |
+
+*I cannot identify meat, fish or egg on this plate — if one of the fried pieces is
+chicken, say so and I will revise the row upward.*
+
+The green gram thoran is the best item on it at ~6 g per 100 kcal, the same role
+the cowpeas played on Saturday.
+
+**Running: 1,265 kcal, 38.5 g protein. 835 kcal to target, 91.5 g to the floor.**
 no amount of restraint fixes without whey.
 
 | | Day total | Protein |
