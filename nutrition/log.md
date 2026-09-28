@@ -817,14 +817,56 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 24 — 2026-09-27 (in progress)
+## Day 25 — 2026-09-28 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
+| **TOTAL (logged so far)** | | **400–620** | **10–16 g** | **17–33 g** |
+| **Midpoint** | | **510** | **13 g** | **25 g** |
+
+**Fourteenth consecutive breakfast without the white chutney.**
+
+Unusually, eating out cost more this morning rather than less: **Monday's
+poori-baji is the cheapest breakfast on the menu at ~355 kcal**, so the dosa is
+~155 kcal dearer. Every other day of the week the restaurant breakfast has been
+the saving.
+
+### Monday leaves almost nothing spare
+
+| | Kcal | Protein |
+|---|---|---|
+| Breakfast (logged) | 510 | 13 g |
+| Meals plate | ~950 | ~33 g |
+| Chicken curry + 2 chapati | ~580 | ~31 g |
+| **Menu day** | **~2,040** | **~77 g** |
+
+**60 kcal to target with the menu untouched** — and 53 g still to the floor, which
+no amount of restraint fixes without whey.
+
+| | Day total | Protein |
+|---|---|---|
+| **Rice halved, 1 chapati at dinner, 3 scoops** | **~2,035** | **~139.5 g** |
+| Rice halved, 3 scoops | ~2,155 | ~142.5 g |
+| Rice halved, 2 scoops | ~2,040 | ~120 g |
+
+**Halve the rice and take one chapati instead of two.** That is ~350 kcal and it
+is the only combination today where target and floor are both met.
+
+**Three mornings without a weigh-in.** The last was 88.75 on 09-25, before all
+three grill dinners.
+
+---
+
+
+## Day 24 — 2026-09-27 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 1 porotta + kadala curry | 360–550 | 12–16 g | 19–33 g |
 | Lunch | Ghee rice (halved) + chicken curry | 440–660 | 24–34 g | 19–33 g |
 | Dinner | Half grilled chicken (skin removed) + hummus + 1 small kubbus + veggies | 670–1,020 | 70.5–84.5 g | 25–43 g |
-| **TOTAL (logged so far)** | | **1,470–2,230** | **106.5–134.5 g** | **63–109 g** |
+| **TOTAL** | | **1,470–2,230** | **106.5–134.5 g** | **63–109 g** |
 | **Midpoint** | | **1,850** | **120.5 g** | **86 g** |
 
 **One porotta rather than the menu's two — ~205 kcal and ~12 g of fat left on the
@@ -884,7 +926,10 @@ running.
 **The day lands 250 under target and 800 under maintenance** — the lightest since
 Tuesday, and it drops the seven-day average from 2,246 to 2,154.
 
-**One scoop closes it at 1,965 kcal and 143 g.** That is the whole remaining
+**Closed at 1,850 kcal and 120.5 g — the scoop was not confirmed.** 250 under
+target, 9.5 g under the floor. Eighth unconfirmed closing in fourteen days, but
+the cheapest one: this is a good day that stopped just short rather than a bad
+one.
 decision: without it the floor is missed by 9.5 g for no reason.
 
 Egg roast and two chapati closes the menu at ~1,455 and ~64 g. **Three scoops from
