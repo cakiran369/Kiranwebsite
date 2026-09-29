@@ -817,15 +817,16 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 25 — 2026-09-28 (in progress)
+## Day 25 — 2026-09-28 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large plain dosa + sambar + red chutney (white chutney skipped) | 400–620 | 10–16 g | 17–33 g |
 | Lunch | Mess plate — rice halved, fish fry, pappadam, sambar, fried item, green fritter, green gram thoran, eggplant, rasam | 740–1,070 | 35–50 g | 30–54 g |
 | Snack | 1 laddoo | 190–280 | 3–5 g | 9–16 g |
-| **TOTAL (logged so far)** | | **1,330–1,970** | **48–71 g** | **56–103 g** |
-| **Midpoint** | | **1,650** | **59.5 g** | **79.5 g** |
+| Dinner | 2 chapati + chicken curry (2 pieces) | 400–570 | 21–30 g | 17–28 g |
+| **TOTAL** | | **1,730–2,540** | **69–101 g** | **73–131 g** |
+| **Midpoint** | | **2,135** | **85 g** | **102 g** |
 
 **Fourteenth consecutive breakfast without the white chutney.**
 
@@ -885,7 +886,38 @@ the reference table, behind only the pazham pori at 1.4.
 Before it, the day was sitting on ~2,105 with ~128 g — exactly on both lines. It
 is now a choice between them, which is the same shape Thursday took.
 
-Worth keeping in proportion: **one laddoo does not undo a week**, and the week is
+Worth keeping in proportion: **one laddoo does not undo a week.** It simply cost
+the precision the day had until then.
+
+### Closed at 2,135 kcal and 85 g — 35 over target, 45 g under the floor
+
+**The scoops were not confirmed.** Ninth unconfirmed closing in fifteen days, and
+this one was expensive: the calories were spent and the protein was not bought.
+
+| | Day |
+|---|---|
+| Calories | 2,135 vs 2,100 target |
+| **Protein** | **85 g vs 130 g floor** |
+
+The dinner as served was fine — two chapati and two pieces at ~485 kcal is the
+menu. The gap is entirely the two scoops that would have cost 230 kcal and
+returned 45 g.
+
+### The protein floor is the one number that has not moved
+
+**Seventeen of twenty-five days have finished under 130 g.** The seven-day average
+is 116.4 g. On the two days it cleared the floor decisively — 09-25 at 191 g and
+09-26 at 180 g — it did so by a wide margin, which means the average is being held
+up by outliers rather than by a habit.
+
+| Line | Status |
+|---|---|
+| Calories | **Solved.** 7-day average 2,111 against a 2,100 target |
+| Portion control | **Solved.** Rice halved, skin off, gravy left, chutney skipped 14 days running |
+| **Protein** | **Unsolved.** 116 g against 130, and 17 misses in 25 days |
+
+The pre-lunch scoop worked on 09-25 and 09-26 and produced the two best protein
+days of the log. It has not been repeated since.
 averaging 2,154 against a 2,100 target with protein at its highest of the month.
 It simply costs the precision the day had until now.
 no amount of restraint fixes without whey.
