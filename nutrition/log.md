@@ -817,6 +817,48 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 26 — 2026-09-29 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | Large masala dosa + sambar + red chutney | 450–660 | 11–17 g | 18–33 g |
+| **TOTAL (logged so far)** | | **450–660** | **11–17 g** | **18–33 g** |
+| **Midpoint** | | **555** | **14 g** | **25.5 g** |
+
+The restaurant masala dosa runs ~205 kcal above the mess version the menu prices
+at ~350 — a bigger dosa with more potato filling and more oil on the griddle.
+
+### Tuesday is the protein desert, and today is the day to fix it in advance
+
+**~1,760 kcal and ~57 g as served.** Tuesday has the least protein of the seven
+days: green peas at dinner is the only main, and there is no meat, fish or egg
+anywhere except the lunch curry.
+
+| | Kcal | Protein |
+|---|---|---|
+| Breakfast (logged) | 555 | 14 g |
+| Ghee rice + chicken curry | ~765 | ~30 g |
+| Green peas + 2 chapati | ~450 | ~17 g |
+| **Menu day** | **~1,770** | **~61 g** |
+
+**330 kcal to target and 69 g to the floor** — the widest protein gap of any day
+this week, and one that cannot be closed at the end.
+
+| | Day total | Protein |
+|---|---|---|
+| **Rice halved, egg omelette at lunch, 4 scoops** | **~2,015** | **~151 g** |
+| Rice halved, egg omelette, 3 scoops | ~1,900 | ~129 g |
+| Menu as served, 3 scoops | ~2,115 | ~128.5 g |
+
+**Halve the ghee rice, add an egg omelette at lunch, and take the first scoop
+before lunch rather than after dinner.** The pre-lunch scoop is the only version
+of this that has ever worked — 09-25 and 09-26 are the two highest-protein days of
+the log and both started that way. Every scoop since has been left to the evening
+and nine of fifteen have not happened.
+
+---
+
+
 ## Day 25 — 2026-09-28 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
