@@ -822,10 +822,38 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney | 390–530 | 10–14 g | 11–23 g |
-| **TOTAL (logged so far)** | | **390–530** | **10–14 g** | **11–23 g** |
-| **Midpoint** | | **460** | **12 g** | **17 g** |
+| Lunch | One third of a Lebanese mixed grill spread — chicken, kofta, fries, saj bread, grilled veg, toum, tomato dish | 700–1,150 | 38–62 g | 35–65 g |
+| **TOTAL (logged so far)** | | **1,090–1,680** | **48–76 g** | **46–88 g** |
+| **Midpoint** | | **1,385** | **62 g** | **67 g** |
 
 Red chutney only. **Fifteenth consecutive breakfast without the white chutney.**
+
+### Which third is worth ~470 kcal — 2026-09-30
+
+**"A third" is not one number.** Taking a third of every item and taking a third
+by weight entirely from the grilled meat are ~470 kcal apart for the sake of 9 g
+of protein.
+
+| Item | g/100 kcal | A third of it |
+|---|---|---|
+| **Shish tawook / grilled chicken** | **15.0** | ~200 kcal, ~30 g |
+| Kofta | 8.0 | ~95 kcal, ~7 g |
+| Saj bread | 3.3 | ~165 kcal, ~5 g |
+| **Fries** | **1.1** | ~235 kcal, ~2.5 g |
+| **Toum** | **0.3** | ~65 kcal, ~0 g |
+
+| | Kcal | Protein |
+|---|---|---|
+| Even third across everything | ~925 | ~50 g |
+| **Third taken as meat and veg only** | **~455** | **~41 g** |
+
+**The fries and the toum are ~300 kcal of the even third and return ~2.5 g between
+them.** Fries at 1.1 g per 100 kcal are now the lowest-density item in the whole
+reference table — below the pazham pori, below the laddoo.
+
+*Logged at the even-third estimate. If the third was taken mostly as meat, the row
+comes down by ~450 kcal.*
+
 
 ### Wednesday is the other tight day
 
