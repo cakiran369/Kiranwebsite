@@ -823,8 +823,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney | 390–530 | 10–14 g | 11–23 g |
 | Lunch | Lebanese mixed grill — 1 saj bread + grilled chicken, kofta and vegetables; no fries, no toum | 520–720 | 40–55 g | 20–36 g |
-| **TOTAL (logged so far)** | | **910–1,250** | **50–69 g** | **31–59 g** |
-| **Midpoint** | | **1,080** | **59.5 g** | **45 g** |
+| Dinner | Mutton soup + boiled mutton pieces | 700–870 | 55–65 g | 55–65 g |
+| **TOTAL** | | **1,610–2,120** | **105–134 g** | **86–124 g** |
+| **Midpoint** | | **1,865** | **119.5 g** | **105 g** |
 
 Red chutney only. **Fifteenth consecutive breakfast without the white chutney.**
 
@@ -868,6 +869,33 @@ better than any grill dinner, better than the biriyani. A mixed grill without th
 fries and the garlic sauce is simply a plate of lean meat.
 
 **Running: 1,080 kcal, 59.5 g protein. 1,020 kcal to target, 70.5 g to the
+floor.**
+
+### Two high-density meals in one day — 2026-09-30
+
+Dinner logged from supplied macros rather than a photo estimate: **~785 kcal,
+~60 g protein, ~60 g fat.**
+
+| Meal | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| Lebanese grill, no fries or toum | ~620 | ~47.5 g | **7.7** |
+| Mutton soup + boiled pieces | ~785 | ~60 g | **7.6** |
+| Set dosa breakfast | ~460 | ~12 g | 2.6 |
+
+**Two consecutive meals above 7.5 g per 100 kcal** — the first time that has
+happened. Both are the same mechanism the boiled chicken showed yesterday: meat
+cooked in liquid or over fire, with nothing fried alongside it.
+
+One note on the figures: the macros as given imply **~795–870 kcal** rather than
+700–850, since 60 g protein, 60 g fat and 22 g carbohydrate come to ~868. The row
+uses 700–870 to span both readings.
+
+**Mutton carries far more fat than chicken** — ~60 g in this serving against ~35 g
+for the whole Lebanese plate. That puts the day at 105 g of fat, which is fine:
+the 55 g figure is a floor, not a ceiling, and within a fixed calorie total fat
+displaces carbohydrate rather than adding to it.
+
+**Day at 1,865 kcal and 119.5 g. 235 kcal to target, 10.5 g to the floor.**
 floor.**
 comes down by ~450 kcal.*
 
