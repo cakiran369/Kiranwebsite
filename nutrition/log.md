@@ -817,44 +817,84 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 26 — 2026-09-29 (in progress)
+## Day 27 — 2026-09-30 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 set dosa + sambar + red chutney | 390–530 | 10–14 g | 11–23 g |
+| **TOTAL (logged so far)** | | **390–530** | **10–14 g** | **11–23 g** |
+| **Midpoint** | | **460** | **12 g** | **17 g** |
+
+Red chutney only. **Fifteenth consecutive breakfast without the white chutney.**
+
+### Wednesday is the other tight day
+
+**~2,160 kcal as served**, the heaviest of the seven: poratta with egg roast at
+breakfast and chicken traditional curry at dinner. Eating out this morning saved
+~140 against the menu's poratta plate.
+
+| | Kcal | Protein |
+|---|---|---|
+| Breakfast (logged) | 460 | 12 g |
+| Meals plate | ~950 | ~33 g |
+| Chicken traditional curry + 2 chapati | ~610 | ~32 g |
+| **Menu day** | **~2,020** | **~77 g** |
+
+**80 kcal to target, 53 g to the floor.**
+
+**If the boiled chicken is available again, take it at lunch instead of solving
+this at 9pm.** 300 g with the rice halved lands the day near 2,050 with ~150 g;
+nothing else on the mess rotation can do that. Failing that, halve the rice, take
+one chapati at dinner, and put the first scoop in before lunch.
+
+---
+
+
+## Day 26 — 2026-09-29 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | Large masala dosa + sambar + red chutney | 450–660 | 11–17 g | 18–33 g |
-| **TOTAL (logged so far)** | | **450–660** | **11–17 g** | **18–33 g** |
-| **Midpoint** | | **555** | **14 g** | **25.5 g** |
+| Lunch | Half ghee rice + green peas curry + 400 g boiled chicken (no oil) + chicken broth | 990–1,390 | 114–146 g | 22–48 g |
+| **TOTAL** | | **1,440–2,050** | **125–163 g** | **40–81 g** |
+| **Midpoint** | | **1,745** | **144 g** | **60.5 g** |
 
 The restaurant masala dosa runs ~205 kcal above the mess version the menu prices
 at ~350 — a bigger dosa with more potato filling and more oil on the griddle.
 
-### Tuesday is the protein desert, and today is the day to fix it in advance
+### The protein desert, solved before dinner — 2026-09-29
 
-**~1,760 kcal and ~57 g as served.** Tuesday has the least protein of the seven
-days: green peas at dinner is the only main, and there is no meat, fish or egg
-anywhere except the lunch curry.
+**144 g of protein at lunch.** The floor has never been cleared before evening in
+twenty-six days; the previous best at this hour was 103 g on 09-25.
 
-| | Kcal | Protein |
-|---|---|---|
-| Breakfast (logged) | 555 | 14 g |
-| Ghee rice + chicken curry | ~765 | ~30 g |
-| Green peas + 2 chapati | ~450 | ~17 g |
-| **Menu day** | **~1,770** | **~61 g** |
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| **400 g boiled chicken, no oil** | **~700** | **~112 g** | **16.0** |
+| Half ghee rice | ~275 | ~6 g | 2.2 |
+| Green peas curry | ~165 | ~7.5 g | 4.5 |
+| Chicken broth | ~50 | ~4.5 g | 9.0 |
+| **Total** | **~1,190** | **~130 g** | **10.9** |
 
-**330 kcal to target and 69 g to the floor** — the widest protein gap of any day
-this week, and one that cannot be closed at the end.
+**Boiled chicken with no oil is the highest-density whole food in this log** —
+~17.5 g of protein per 100 kcal at the reference level, against grilled chicken's
+13 and a mess plate's 3.7. Whey itself runs 19.6.
 
-| | Day total | Protein |
-|---|---|---|
-| **Rice halved, egg omelette at lunch, 4 scoops** | **~2,015** | **~151 g** |
-| Rice halved, egg omelette, 3 scoops | ~1,900 | ~129 g |
-| Menu as served, 3 scoops | ~2,115 | ~128.5 g |
+The reason is that nothing was added. Grilling puts oil on the surface and keeps
+the skin; boiling adds nothing and renders the fat out into the broth. That one
+difference is worth ~4.5 g of protein per 100 kcal.
 
-**Halve the ghee rice, add an egg omelette at lunch, and take the first scoop
-before lunch rather than after dinner.** The pre-lunch scoop is the only version
-of this that has ever worked — 09-25 and 09-26 are the two highest-protein days of
-the log and both started that way. Every scoop since has been left to the evening
-and nine of fifteen have not happened.
+**This is the answer to the problem the log has circled for three weeks.** The
+closing scoop keeps failing because it is a small correction applied late. One
+400 g portion of boiled chicken at midday removes the need for it.
+
+### Closed at 1,745 kcal and 144 g — no dinner reported
+
+**355 kcal under target and 14 g past the top of the protein band, on the menu's
+weakest protein day.** The best protein-per-calorie day of the twenty-six.
+
+Dinner was not reported. If nothing further was eaten, this is the cleanest day in
+the log; if there was a dinner, send it and the row will be added.
+
 
 ---
 
