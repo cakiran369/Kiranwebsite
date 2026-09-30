@@ -822,9 +822,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 set dosa + sambar + red chutney | 390–530 | 10–14 g | 11–23 g |
-| Lunch | One third of a Lebanese mixed grill spread — chicken, kofta, fries, saj bread, grilled veg, toum, tomato dish | 700–1,150 | 38–62 g | 35–65 g |
-| **TOTAL (logged so far)** | | **1,090–1,680** | **48–76 g** | **46–88 g** |
-| **Midpoint** | | **1,385** | **62 g** | **67 g** |
+| Lunch | Lebanese mixed grill — 1 saj bread + grilled chicken, kofta and vegetables; no fries, no toum | 520–720 | 40–55 g | 20–36 g |
+| **TOTAL (logged so far)** | | **910–1,250** | **50–69 g** | **31–59 g** |
+| **Midpoint** | | **1,080** | **59.5 g** | **45 g** |
 
 Red chutney only. **Fifteenth consecutive breakfast without the white chutney.**
 
@@ -851,7 +851,24 @@ of protein.
 them.** Fries at 1.1 g per 100 kcal are now the lowest-density item in the whole
 reference table — below the pazham pori, below the laddoo.
 
-*Logged at the even-third estimate. If the third was taken mostly as meat, the row
+### The right third was taken — 2026-09-30
+
+**One bread, and the rest grilled. The fries and the toum were both left.**
+
+| | Kcal | Protein |
+|---|---|---|
+| An even third across the spread | ~925 | ~50 g |
+| **What was actually taken** | **~620** | **~47.5 g** |
+
+**~305 kcal saved for ~2.5 g of protein**, exactly as the arithmetic above
+predicted.
+
+**At 7.7 g of protein per 100 kcal this is the best restaurant meal in the log** —
+better than any grill dinner, better than the biriyani. A mixed grill without the
+fries and the garlic sauce is simply a plate of lean meat.
+
+**Running: 1,080 kcal, 59.5 g protein. 1,020 kcal to target, 70.5 g to the
+floor.**
 comes down by ~450 kcal.*
 
 
