@@ -822,8 +822,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 400 ml milk + 2 fists corn flakes + 1 whey scoop + 2 slices brown multigrain bread with peanut butter | 860–1,090 | 50–61 g | 24.5–41 g |
-| **TOTAL (logged so far)** | | **860–1,090** | **50–61 g** | **24.5–41 g** |
-| **Midpoint** | | **975** | **55.5 g** | **32.75 g** |
+| Lunch | Home-boiled mutton soup with carrot, beans, onion and spices (no added oil) + 2 slices brown multigrain bread | 470–700 | 45–63 g | 15–32 g |
+| **TOTAL (logged so far)** | | **1,330–1,790** | **95–124 g** | **39.5–73 g** |
+| **Midpoint** | | **1,560** | **109.5 g** | **56.25 g** |
 
 ### The first breakfast built rather than ordered — 2026-10-02
 
@@ -846,7 +847,40 @@ the one that has not.
 laddoo and the pazham pori. Dropping them takes 255 kcal off for 4.5 g, and the
 breakfast still carries 51 g.
 
-**Running: 975 kcal, 55.5 g protein. 1,125 kcal to target, 74.5 g to the floor.**
+### Two meals cooked, not ordered — 2026-10-02
+
+**~585 kcal and ~54 g of protein. 9.2 g per 100 kcal** — better than the restaurant
+mutton soup two days ago at 7.6, and the difference is the cooking oil that was not
+added.
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| **Boiled mutton + broth** | **~390** | **~47 g** | **12.1** |
+| 2 slices multigrain bread | ~175 | ~7.5 g | 4.3 |
+| Carrot, beans, onion | ~55 | ~2 g | 3.6 |
+
+| Version | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| Restaurant mutton soup (09-30) | ~785 | ~60 g | 7.6 |
+| **Home-boiled, no oil (today)** | **~585** | **~54 g** | **9.2** |
+
+**Salt, pepper, turmeric and ginger-garlic paste cost essentially nothing.** The
+only fat in the bowl is what rendered out of the meat.
+
+### The shift this day represents
+
+Both meals today were assembled rather than ordered, and both beat anything on the
+mess or restaurant rotation on protein density:
+
+| Meal | g/100 kcal |
+|---|---|
+| Built breakfast | 5.7 |
+| **Home-boiled mutton soup** | **9.2** |
+| Best mess plate ever logged | 4.9 |
+| Usual dosa breakfast | 2.6 |
+
+**Running: 1,560 kcal, 109.5 g protein. 540 kcal to target, 20.5 g to the
+floor.**
 
 **The scoop went in at breakfast.** That is the third time it has been placed
 early rather than left to the evening, and the two previous occasions produced the
