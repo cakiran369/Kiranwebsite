@@ -817,7 +817,49 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 27 — 2026-09-30 (in progress)
+## Day 29 — 2026-10-02 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 400 ml milk + 2 fists corn flakes + 1 whey scoop + 2 slices brown multigrain bread with peanut butter | 860–1,090 | 50–61 g | 24.5–41 g |
+| **TOTAL (logged so far)** | | **860–1,090** | **50–61 g** | **24.5–41 g** |
+| **Midpoint** | | **975** | **55.5 g** | **32.75 g** |
+
+### The first breakfast built rather than ordered — 2026-10-02
+
+**975 kcal and 55.5 g of protein. 5.7 g per 100 kcal**, against ~2.6 for the dosa
+plates that have opened every other day in the log.
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| **Whey scoop** | ~115 | ~22.5 g | **19.6** |
+| 400 ml milk | ~240 | ~13.5 g | 5.6 |
+| 2 slices multigrain bread | ~175 | ~7.5 g | 4.3 |
+| Peanut butter (~30 g) | ~190 | ~7.5 g | 3.9 |
+| Corn flakes (~65 g) | ~255 | ~4.5 g | **1.8** |
+
+**Against the usual dosa breakfast this is +465 kcal for +43 g of protein** — a
+trade worth making, since protein is the line that has been missed and calories
+the one that has not.
+
+**The corn flakes are the weak item**, at 1.8 g per 100 kcal — the same band as the
+laddoo and the pazham pori. Dropping them takes 255 kcal off for 4.5 g, and the
+breakfast still carries 51 g.
+
+**Running: 975 kcal, 55.5 g protein. 1,125 kcal to target, 74.5 g to the floor.**
+
+**The scoop went in at breakfast.** That is the third time it has been placed
+early rather than left to the evening, and the two previous occasions produced the
+highest-protein days of the log.
+
+**A week without a weigh-in** — the last was 88.75 on 09-25, now seven days stale.
+At this distance the next reading is a real measurement rather than noise, and
+there is no useful read on the past week without it.
+
+---
+
+
+## Day 27 — 2026-09-30 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -895,7 +937,12 @@ for the whole Lebanese plate. That puts the day at 105 g of fat, which is fine:
 the 55 g figure is a floor, not a ceiling, and within a fixed calorie total fat
 displaces carbohydrate rather than adding to it.
 
-**Day at 1,865 kcal and 119.5 g. 235 kcal to target, 10.5 g to the floor.**
+**Closed at 1,865 kcal and 119.5 g — the scoop was not confirmed.** 235 under
+target, 10.5 g under the floor. The pattern holds: the food did the work and the
+last 10 g went unclaimed.
+
+**2026-10-01 has no entries.** Nothing was reported for that day, so it is absent
+from the log rather than recorded as zero; the averages skip it.
 floor.**
 comes down by ~450 kcal.*
 
