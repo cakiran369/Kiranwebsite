@@ -817,14 +817,15 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 29 — 2026-10-02 (in progress)
+## Day 29 — 2026-10-02 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 400 ml milk + 2 fists corn flakes + 1 whey scoop + 2 slices brown multigrain bread with peanut butter | 860–1,090 | 50–61 g | 24.5–41 g |
 | Lunch | Home-boiled mutton soup with carrot, beans, onion and spices (no added oil) + 2 slices brown multigrain bread | 470–700 | 45–63 g | 15–32 g |
-| **TOTAL (logged so far)** | | **1,330–1,790** | **95–124 g** | **39.5–73 g** |
-| **Midpoint** | | **1,560** | **109.5 g** | **56.25 g** |
+| Dinner | 2 fists corn flakes + 400 ml milk + 1 banana + 2 slices brown multigrain bread + 2 spoons peanut butter | 870–1,140 | 31–38 g | 25–42 g |
+| **TOTAL** | | **2,200–2,930** | **126–162 g** | **64.5–115 g** |
+| **Midpoint** | | **2,565** | **144 g** | **89.75 g** |
 
 ### The first breakfast built rather than ordered — 2026-10-02
 
@@ -879,7 +880,43 @@ mess or restaurant rotation on protein density:
 | Best mess plate ever logged | 4.9 |
 | Usual dosa breakfast | 2.6 |
 
-**Running: 1,560 kcal, 109.5 g protein. 540 kcal to target, 20.5 g to the
+### The breakfast repeated at dinner — 2026-10-02
+
+**~1,005 kcal and ~34.5 g of protein.** Nearly the same assembly as the morning,
+with the banana added and **the whey scoop left out** — and that one omission is
+most of the difference.
+
+| | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| Breakfast version (with scoop) | ~975 | ~55.5 g | **5.7** |
+| **Dinner version (no scoop)** | **~1,005** | **~34.5 g** | **3.4** |
+
+**3.4 g per 100 kcal is the mess-plate average.** The scoop is ~115 kcal and
+~22.5 g; without it this bowl costs the same and returns 21 g less.
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| 400 ml milk | ~240 | ~13.5 g | 5.6 |
+| Corn flakes (~65 g) | ~255 | ~4.5 g | 1.8 |
+| 2 slices multigrain bread | ~175 | ~7.5 g | 4.3 |
+| Peanut butter (~30 g) | ~190 | ~7.5 g | 3.9 |
+| **Banana (nendran-type)** | **~145** | **~1.5 g** | **1.0** |
+
+### Closed at 2,565 kcal and 144 g
+
+**465 over target, 85 under maintenance.** Protein is excellent — 144 g, the
+fourth-highest day logged — but the day had 540 kcal of room at lunch and this
+meal used 1,005.
+
+| | Kcal |
+|---|---|
+| Room available after lunch | 540 |
+| This meal | ~1,005 |
+| **Over target** | **465** |
+
+The cereal-and-peanut-butter assembly is a good breakfast and an expensive second
+appearance. **Had the same bowl been built once with the scoop rather than twice
+without, the day lands near 2,100 with the same protein.**
 floor.**
 
 **The scoop went in at breakfast.** That is the third time it has been placed
