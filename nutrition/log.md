@@ -817,6 +817,36 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 30 — 2026-10-03 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 slices brown multigrain bread + 2 spoons peanut butter + 2 fists corn flakes + 400 ml milk + 1 whey scoop + 1 banana | 970–1,270 | 51–63 g | 26–45 g |
+| **TOTAL (logged so far)** | | **970–1,270** | **51–63 g** | **26–45 g** |
+| **Midpoint** | | **1,120** | **57 g** | **35.5 g** |
+
+**The scoop is in.** Fourth early placement, and the second morning running that
+the day opens past 50 g of protein.
+
+| Version | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| 10-02 breakfast (scoop, no banana) | ~975 | ~55.5 g | 5.7 |
+| **10-03 breakfast (scoop + banana)** | **~1,120** | **~57 g** | **5.1** |
+| 10-02 dinner (banana, no scoop) | ~1,005 | ~34.5 g | 3.4 |
+
+The banana is ~145 kcal for ~1.5 g. It is the one item that could come out without
+touching the structure, and it would put this breakfast back at 5.7.
+
+**Running: 1,120 kcal, 57 g protein. 980 kcal to target, 73 g to the floor.**
+
+**Eight mornings without a weigh-in.** The last reading was 88.75 on 09-25. The
+food log now covers a full week with no scale data against it, which means the
+trend fit has nothing new to work with and the maintenance estimate cannot be
+checked.
+
+---
+
+
 ## Day 29 — 2026-10-02 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
