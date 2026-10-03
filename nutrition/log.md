@@ -862,7 +862,7 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Lunch | Teriyaki shrimp rice bowl with stir-fried vegetables | 520–715 | 28–37 g | 10–20 g |
 | *Pending* | *Soft drink, type not confirmed* | *190–210 if regular, 0–5 if zero-sugar* | *0 g* | *0 g* |
 | **TOTAL (logged so far)** | | **1,490–1,985** | **79–100 g** | **36–65 g** |
-| **Midpoint** | | **1,737** | **89.5 g** | **50.5 g** |
+| **Midpoint** | | **1,737.5** | **89.5 g** | **50.5 g** |
 
 **The scoop is in.** Fourth early placement, and the second morning running that
 the day opens past 50 g of protein.
@@ -894,7 +894,7 @@ pulled down by the rice, which is half its calories.
 **The drink is not counted until its type is confirmed.** A regular cola is
 ~200 kcal of pure sugar; a zero-sugar one is ~0.
 
-**Running: 1,737 kcal, 89.5 g protein. 353 kcal to target, 40.5 g to the
+**Running: 1,737.5 kcal, 89.5 g protein. 353 kcal to target, 40.5 g to the
 floor** — before the drink.
 
 **Eight mornings without a weigh-in.** The last reading was 88.75 on 09-25. The
