@@ -27,14 +27,14 @@ From 162.5 cm / 33 y / male and the latest weigh-in. The workbook's Targets
 sheet reads the most recent weight off the Weights sheet and re-derives
 everything below it, so a new weigh-in updates the target automatically.
 
-| | Value (at 88.75 kg) | Was (at 90.05 kg) |
+| | Value (at 88.35 kg) | Was (at 90.05 kg) |
 |---|---|---|
-| BMR (Mifflin-St Jeor) | **1,743 kcal** | 1,756 |
-| Maintenance (TDEE), ×1.52 | **~2,650 kcal** | ~2,669 |
-| **Calorie target** | **~2,100 kcal/day** | ~2,120 |
+| BMR (Mifflin-St Jeor) | **1,739 kcal** | 1,756 |
+| Maintenance (TDEE), ×1.52 | **~2,643 kcal** | ~2,669 |
+| **Calorie target** | **~2,090 kcal/day** | ~2,120 |
 | Protein | 130–145 g/day | unchanged |
 | Fat floor | 55 g/day | unchanged |
-| Carbs (remainder) | ~243 g/day | ~248 |
+| Carbs (remainder) | ~242 g/day | ~248 |
 | Projected loss | 0.5 kg/week | unchanged |
 
 **The targets fall as the weight does** — a smaller body costs less to run. Every
@@ -116,6 +116,8 @@ early and it is unambiguous.
 | 2026-09-23 | 89.60 | +0.10 over 1 day |
 | 2026-09-24 | **89.15** | **−0.45 over 1 day — largest single-day drop logged** |
 | 2026-09-25 | **88.75** | **−0.40 over 1 day — first reading under 89** |
+| 2026-10-02 | **88.05** | **−0.70 over 7 days — no readings between** |
+| 2026-10-03 | 88.35 | +0.30 over 1 day, after a 2,565 kcal day |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -134,6 +136,41 @@ least-squares line through all six post-flush points is the honest measure:
 | Endpoints 09-07 → 09-19 | −0.700 kg/wk |
 | **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
 | Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### Four weeks, and the gap is now a settled fact — 2026-10-03
+
+**88.35 today, 88.05 yesterday. 3.15 kg down in 28 days.**
+
+| Measure | Rate |
+|---|---|
+| Fit, all 14 points | −0.713 kg/wk |
+| **Fit, 11 points since the 09-11 post-flush baseline** | **−0.683 kg/wk** |
+| Endpoints 09-25 → 10-02 (the seven-day gap) | −0.700 kg/wk |
+| **Predicted from 28 logged days at 2,141 kcal** | **−0.463 kg/wk** |
+
+**The scale has run ahead of the food log for three weeks and the size of the gap
+has stopped moving: ~0.22 kg/wk, about 242 kcal/day.** On 09-25 it measured ~176
+kcal/day on a shorter window. Three independent windows now agree on direction and
+roughly on size, which is no longer noise.
+
+Two readings remain, and they point opposite ways:
+
+1. **Photo estimates run ~10% high.** Actual intake is nearer 1,900 than 2,141.
+2. **Maintenance is nearer 2,885 than 2,643** — a multiplier of ~1.66 rather than
+   1.52.
+
+**Nothing changes either way, and that is the point.** If (1) is true, raising the
+target would slow the loss for no reason. If (2) is true, the current target is
+simply producing 0.68 kg/wk instead of 0.5 — which at 88.35 kg is 0.77% of
+bodyweight per week, inside the standard cut range and not aggressive.
+
+**Guidance unchanged: ~2,090, protein 130–145 g.** The only reason to raise the
+target would be a wish to slow down, and the rate does not warrant it.
+
+**On today's +0.30:** it follows a 2,565 kcal day. 0.30 kg of fat would take
+2,310 kcal of surplus and the day was 85 *under* maintenance. That is water and
+gut contents. The seven-day gap reading of 88.05 and today's 88.35 are both real
+points; neither is the trend on its own.
 
 ### The test passed, and the calorie target is being met — 2026-09-25
 
