@@ -859,8 +859,10 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 slices brown multigrain bread + 2 spoons peanut butter + 2 fists corn flakes + 400 ml milk + 1 whey scoop + 1 banana | 970–1,270 | 51–63 g | 26–45 g |
-| **TOTAL (logged so far)** | | **970–1,270** | **51–63 g** | **26–45 g** |
-| **Midpoint** | | **1,120** | **57 g** | **35.5 g** |
+| Lunch | Teriyaki shrimp rice bowl with stir-fried vegetables | 520–715 | 28–37 g | 10–20 g |
+| *Pending* | *Soft drink, type not confirmed* | *190–210 if regular, 0–5 if zero-sugar* | *0 g* | *0 g* |
+| **TOTAL (logged so far)** | | **1,490–1,985** | **79–100 g** | **36–65 g** |
+| **Midpoint** | | **1,737** | **89.5 g** | **50.5 g** |
 
 **The scoop is in.** Fourth early placement, and the second morning running that
 the day opens past 50 g of protein.
@@ -874,7 +876,26 @@ the day opens past 50 g of protein.
 The banana is ~145 kcal for ~1.5 g. It is the one item that could come out without
 touching the structure, and it would put this breakfast back at 5.7.
 
-**Running: 1,120 kcal, 57 g protein. 980 kcal to target, 73 g to the floor.**
+### The shrimp bowl — 2026-10-03
+
+**~617 kcal and ~32.5 g of protein. 5.3 g per 100 kcal.**
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| **Shrimp (~120 g)** | ~130 | ~23 g | **17.7** |
+| White rice | ~290 | ~5.5 g | 1.9 |
+| Stir-fried vegetables | ~105 | ~2.5 g | 2.4 |
+| Teriyaki glaze | ~90 | ~1.5 g | 1.7 |
+
+**Shrimp is the leanest protein in the reference table** — ~17.7 g per 100 kcal,
+level with boiled chicken and ahead of everything grilled. The bowl's figure is
+pulled down by the rice, which is half its calories.
+
+**The drink is not counted until its type is confirmed.** A regular cola is
+~200 kcal of pure sugar; a zero-sugar one is ~0.
+
+**Running: 1,737 kcal, 89.5 g protein. 353 kcal to target, 40.5 g to the
+floor** — before the drink.
 
 **Eight mornings without a weigh-in.** The last reading was 88.75 on 09-25. The
 food log now covers a full week with no scale data against it, which means the
