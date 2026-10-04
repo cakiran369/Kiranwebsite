@@ -859,45 +859,52 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 slices brown multigrain bread + peanut butter + 2 fists corn flakes + 400 ml milk + 1 whey scoop + 1 banana | 970–1,270 | 51–63 g | 26–45 g |
-| Lunch | 400 g boiled chicken (no oil) with broth and vegetables + 1 boiled sweet potato | 770–1,050 | 104–131.5 g | 15–36 g |
-| **TOTAL (logged so far)** | | **1,740–2,320** | **155–194.5 g** | **41–81 g** |
-| **Midpoint** | | **2,030** | **174.75 g** | **61 g** |
+| Lunch | 400 g boiled chicken breast (no oil) with broth and vegetables + 1 boiled sweet potato | 790–970 | 122–135.5 g | 5.5–13 g |
+| **TOTAL (logged so far)** | | **1,760–2,240** | **173–198.5 g** | **31.5–58 g** |
+| **Midpoint** | | **2,000** | **185.75 g** | **44.75 g** |
 
 **Third morning running on the same assembly, and the fifth early scoop
 placement.** The breakfast has become a fixed routine rather than a decision,
 which is what the closing scoop never managed in fifteen attempts.
 
-### The highest-density meal in the log — 2026-10-04
+### Breast, not mixed cuts — the numbers move — 2026-10-04
 
-**~910 kcal and ~118 g of protein. 12.9 g per 100 kcal.**
+**~880 kcal and ~129 g of protein. 14.6 g per 100 kcal.**
 
 | Item | Kcal | Protein | g/100 kcal |
 |---|---|---|---|
-| **400 g boiled chicken + broth** | **~755** | **~114 g** | **15.1** |
+| **400 g boiled chicken breast** | **~670** | **~123 g** | **18.4** |
 | Boiled sweet potato | ~155 | ~2.75 g | 1.8 |
+| Broth and vegetables | ~55 | ~3 g | 5.5 |
 
-Nothing else logged in 31 days comes near it as a complete meal. The sweet potato
-is there as fuel, not protein, and it is the cheapest carbohydrate on the list at
-~155 kcal with fibre attached.
+**Breast puts boiled chicken at ~18.5 g of protein per 100 kcal — level with whey
+itself at 19.6.** There is roughly 7 g of fat in the entire 400 g, against ~35 g
+for the same weight of mixed cuts.
 
-### The day is already finished
+### The day is finished on calories and protein — but fat is now short
 
-**2,030 kcal and 174.75 g of protein, before dinner.** The target is ~2,090 and
-the protein band tops out at 145.
+**2,000 kcal and 185.75 g of protein before dinner**, against a ~2,090 target and
+a band that tops out at 145.
 
-| | Value |
-|---|---|
-| Calories | 2,030 of 2,090 — **60 left** |
-| **Protein** | **174.75 g, 30 g past the top of the band** |
-| vs maintenance | **−613** |
+| | Value | Status |
+|---|---|---|
+| Calories | 2,000 of 2,090 | **90 left** |
+| Protein | **185.75 g** | 40 g past the top of the band |
+| **Fat** | **44.75 g of a 55 g floor** | **10 g short** |
 
-**No scoop, and no protein needed from here.** If dinner happens, it is a free
-choice rather than a requirement: ~400 kcal would put the day at ~2,430, still
-~220 under maintenance and a deficit day.
+**This is the first day in the log where the fat floor is the binding
+constraint**, and it is a direct consequence of how lean the lunch was. Fat below
+~0.6 g/kg over time affects hormone production; one day under does nothing, but
+it is worth not repeating.
 
-**This is the inverse of every day in the first three weeks**, when the protein
-floor was chased at 9pm and missed. Two home-cooked meals have put it 30 g clear
-by mid-afternoon.
+**~15 g of nuts or a spoon of peanut butter closes it for ~100 kcal** and lands
+the day near target. No whey, no further protein.
+
+**This is the inverse of every day in the first three weeks**, when the floor was
+chased at 9pm and missed. Two home-cooked meals have put protein 40 g clear by
+mid-afternoon — and moved the binding constraint to a line that has not mattered
+once in 31 days.
+
 
 ---
 
