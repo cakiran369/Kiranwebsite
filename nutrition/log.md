@@ -854,7 +854,24 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 30 — 2026-10-03 (in progress)
+## Day 31 — 2026-10-04 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 slices brown multigrain bread + peanut butter + 2 fists corn flakes + 400 ml milk + 1 whey scoop + 1 banana | 970–1,270 | 51–63 g | 26–45 g |
+| **TOTAL (logged so far)** | | **970–1,270** | **51–63 g** | **26–45 g** |
+| **Midpoint** | | **1,120** | **57 g** | **35.5 g** |
+
+**Third morning running on the same assembly, and the fifth early scoop
+placement.** The breakfast has become a fixed routine rather than a decision,
+which is what the closing scoop never managed in fifteen attempts.
+
+**Running: 1,120 kcal, 57 g protein. 970 kcal to target, 73 g to the floor.**
+
+---
+
+
+## Day 30 — 2026-10-03 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
@@ -894,7 +911,9 @@ pulled down by the rice, which is half its calories.
 **The drink is not counted until its type is confirmed.** A regular cola is
 ~200 kcal of pure sugar; a zero-sugar one is ~0.
 
-**Running: 1,737.5 kcal, 89.5 g protein. 353 kcal to target, 40.5 g to the
+**Closed at 1,737.5 kcal and 89.5 g.** No dinner was reported and the drink is
+still unresolved, so the day stands at what was confirmed: 352.5 under target,
+40.5 g under the floor.
 floor** — before the drink.
 
 **Eight mornings without a weigh-in.** The last reading was 88.75 on 09-25. The
