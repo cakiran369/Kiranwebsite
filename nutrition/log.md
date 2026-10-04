@@ -859,14 +859,45 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 slices brown multigrain bread + peanut butter + 2 fists corn flakes + 400 ml milk + 1 whey scoop + 1 banana | 970–1,270 | 51–63 g | 26–45 g |
-| **TOTAL (logged so far)** | | **970–1,270** | **51–63 g** | **26–45 g** |
-| **Midpoint** | | **1,120** | **57 g** | **35.5 g** |
+| Lunch | 400 g boiled chicken (no oil) with broth and vegetables + 1 boiled sweet potato | 770–1,050 | 104–131.5 g | 15–36 g |
+| **TOTAL (logged so far)** | | **1,740–2,320** | **155–194.5 g** | **41–81 g** |
+| **Midpoint** | | **2,030** | **174.75 g** | **61 g** |
 
 **Third morning running on the same assembly, and the fifth early scoop
 placement.** The breakfast has become a fixed routine rather than a decision,
 which is what the closing scoop never managed in fifteen attempts.
 
-**Running: 1,120 kcal, 57 g protein. 970 kcal to target, 73 g to the floor.**
+### The highest-density meal in the log — 2026-10-04
+
+**~910 kcal and ~118 g of protein. 12.9 g per 100 kcal.**
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| **400 g boiled chicken + broth** | **~755** | **~114 g** | **15.1** |
+| Boiled sweet potato | ~155 | ~2.75 g | 1.8 |
+
+Nothing else logged in 31 days comes near it as a complete meal. The sweet potato
+is there as fuel, not protein, and it is the cheapest carbohydrate on the list at
+~155 kcal with fibre attached.
+
+### The day is already finished
+
+**2,030 kcal and 174.75 g of protein, before dinner.** The target is ~2,090 and
+the protein band tops out at 145.
+
+| | Value |
+|---|---|
+| Calories | 2,030 of 2,090 — **60 left** |
+| **Protein** | **174.75 g, 30 g past the top of the band** |
+| vs maintenance | **−613** |
+
+**No scoop, and no protein needed from here.** If dinner happens, it is a free
+choice rather than a requirement: ~400 kcal would put the day at ~2,430, still
+~220 under maintenance and a deficit day.
+
+**This is the inverse of every day in the first three weeks**, when the protein
+floor was chased at 9pm and missed. Two home-cooked meals have put it 30 g clear
+by mid-afternoon.
 
 ---
 
