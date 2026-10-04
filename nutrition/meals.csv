@@ -132,3 +132,4 @@ date,meal,items,kcal_low,kcal_high,protein_low,protein_high,fat_low,fat_high,sta
 2026-10-03,Lunch,Soft drink (medium cup) - type not confirmed,190,210,0,0,0,0,pending,Regular cola assumed; zero-sugar would be 0-5 kcal. Not counted until confirmed
 2026-10-04,Breakfast,"2 slices brown multigrain bread + peanut butter + 2 fists corn flakes + 400 ml milk + 1 whey scoop + 1 banana",970,1270,51,63,26,45,logged,Same assembly as 10-03; fifth early scoop placement
 2026-10-04,Lunch,"400 g boiled chicken breast (no oil) with broth and vegetables + 1 boiled sweet potato",790,970,122,135.5,5.5,13,logged,Breast rather than mixed cuts - 14.6 g protein per 100 kcal, the highest-density full meal logged
+2026-10-04,Dinner,2 fists corn flakes + 400 ml milk,430,560,17,19,7,17,logged,No scoop; the milk fat takes the day over the 55 g fat floor

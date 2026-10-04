@@ -854,14 +854,15 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 31 — 2026-10-04 (in progress)
+## Day 31 — 2026-10-04 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 slices brown multigrain bread + peanut butter + 2 fists corn flakes + 400 ml milk + 1 whey scoop + 1 banana | 970–1,270 | 51–63 g | 26–45 g |
 | Lunch | 400 g boiled chicken breast (no oil) with broth and vegetables + 1 boiled sweet potato | 790–970 | 122–135.5 g | 5.5–13 g |
-| **TOTAL (logged so far)** | | **1,760–2,240** | **173–198.5 g** | **31.5–58 g** |
-| **Midpoint** | | **2,000** | **185.75 g** | **44.75 g** |
+| Dinner | 2 fists corn flakes + 400 ml milk | 430–560 | 17–19 g | 7–17 g |
+| **TOTAL** | | **2,190–2,800** | **190–217.5 g** | **38.5–75 g** |
+| **Midpoint** | | **2,495** | **203.75 g** | **56.75 g** |
 
 **Third morning running on the same assembly, and the fifth early scoop
 placement.** The breakfast has become a fixed routine rather than a decision,
@@ -897,7 +898,27 @@ constraint**, and it is a direct consequence of how lean the lunch was. Fat belo
 ~0.6 g/kg over time affects hormone production; one day under does nothing, but
 it is worth not repeating.
 
-**~15 g of nuts or a spoon of peanut butter closes it for ~100 kcal** and lands
+**The milk fat closed the fat gap.** 56.75 g against the 55 g floor — met, and by
+the one route that also added 405 kcal.
+
+### Closed at 2,495 kcal and 203.75 g
+
+| | Value |
+|---|---|
+| Calories | **2,495 vs 2,090 target** — +405 |
+| Protein | **203.75 g** — highest of the 31 days, 59 g past the band |
+| Fat | 56.75 g — floor met |
+| vs maintenance | **−148** |
+
+Still a deficit day, but a thin one: it was −613 before dinner.
+
+**The cereal bowl has now been the item that pushed past target on three of the
+last three days it appeared** — 1,005 kcal on 10-02, 495 tonight. Tonight's was
+half the size, which is the right direction.
+
+**59 g of protein past the top of the band is ~240 kcal that cannot be used as
+protein.** The lunch alone had already cleared the floor by 40 g; nothing after it
+needed to carry any.
 the day near target. No whey, no further protein.
 
 **This is the inverse of every day in the first three weeks**, when the floor was
