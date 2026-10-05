@@ -854,6 +854,34 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
+## Day 32 — 2026-10-05 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 400 ml milk + 2 fists corn flakes + 1 banana + 2 slices brown multigrain bread + 4 spoons peanut butter | 1,040–1,340 | 38–46 g | 38–54 g |
+| **TOTAL (logged so far)** | | **1,040–1,340** | **38–46 g** | **38–54 g** |
+| **Midpoint** | | **1,190** | **42 g** | **46 g** |
+
+**Two changes from the last three mornings: the peanut butter doubled to four
+spoons, and the whey scoop is absent.**
+
+| | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| 10-03 / 10-04 version (2 spoons PB, scoop) | ~1,120 | ~57 g | **5.1** |
+| **Today (4 spoons PB, no scoop)** | **~1,190** | **~42 g** | **3.5** |
+
+**+70 kcal and −15 g of protein.** Doubling the peanut butter added ~180 kcal and
+~7 g; dropping the scoop removed ~115 kcal and ~22.5 g. The scoop is the better
+trade in both directions.
+
+**Fat is already at 46 g from breakfast alone** — the peanut butter has all but
+settled the 55 g floor that bound yesterday.
+
+**Running: 1,190 kcal, 42 g protein. 900 kcal to target, 88 g to the floor.**
+
+---
+
+
 ## Day 31 — 2026-10-04 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
