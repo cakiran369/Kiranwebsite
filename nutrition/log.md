@@ -858,26 +858,24 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
-| Breakfast | 400 ml milk + 2 fists corn flakes + 1 banana + 2 slices brown multigrain bread + 4 spoons peanut butter | 1,040–1,340 | 38–46 g | 38–54 g |
-| **TOTAL (logged so far)** | | **1,040–1,340** | **38–46 g** | **38–54 g** |
-| **Midpoint** | | **1,190** | **42 g** | **46 g** |
+| Breakfast | 400 ml milk + 1 whey scoop + 2 fists corn flakes + 1 banana + 2 slices brown multigrain bread + 4 spoons peanut butter | 1,140–1,470 | 58–71 g | 39–57 g |
+| **TOTAL (logged so far)** | | **1,140–1,470** | **58–71 g** | **39–57 g** |
+| **Midpoint** | | **1,305** | **64.5 g** | **48 g** |
 
-**Two changes from the last three mornings: the peanut butter doubled to four
-spoons, and the whey scoop is absent.**
+**One change from the last three mornings: the peanut butter doubled to four
+spoons.** The scoop is in — sixth consecutive early placement.
 
 | | Kcal | Protein | g/100 kcal |
 |---|---|---|---|
-| 10-03 / 10-04 version (2 spoons PB, scoop) | ~1,120 | ~57 g | **5.1** |
-| **Today (4 spoons PB, no scoop)** | **~1,190** | **~42 g** | **3.5** |
+| 10-03 / 10-04 version (2 spoons PB) | ~1,120 | ~57 g | 5.1 |
+| **Today (4 spoons PB)** | **~1,305** | **~64.5 g** | **4.9** |
 
-**+70 kcal and −15 g of protein.** Doubling the peanut butter added ~180 kcal and
-~7 g; dropping the scoop removed ~115 kcal and ~22.5 g. The scoop is the better
-trade in both directions.
+The extra two spoons are ~185 kcal for ~7 g — a fair trade on a day where fat
+matters, and the reason **fat already stands at 48 g of the 55 g floor** before
+lunch. Yesterday that floor was the binding constraint; today it is nearly settled
+by breakfast.
 
-**Fat is already at 46 g from breakfast alone** — the peanut butter has all but
-settled the 55 g floor that bound yesterday.
-
-**Running: 1,190 kcal, 42 g protein. 900 kcal to target, 88 g to the floor.**
+**Running: 1,305 kcal, 64.5 g protein. 785 kcal to target, 65.5 g to the floor.**
 
 ---
 
