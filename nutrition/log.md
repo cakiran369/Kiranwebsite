@@ -859,8 +859,9 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 400 ml milk + 1 whey scoop + 2 fists corn flakes + 1 banana + 2 slices brown multigrain bread + 4 spoons peanut butter | 1,140–1,470 | 58–71 g | 39–57 g |
-| **TOTAL (logged so far)** | | **1,140–1,470** | **58–71 g** | **39–57 g** |
-| **Midpoint** | | **1,305** | **64.5 g** | **48 g** |
+| Lunch | Boiled chicken breast (no oil) with broth, peas, onion and potato | 540–850 | 93–133 g | 5–15 g |
+| **TOTAL (logged so far)** | | **1,680–2,320** | **151–204 g** | **44–72 g** |
+| **Midpoint** | | **2,000** | **177.5 g** | **58 g** |
 
 **One change from the last three mornings: the peanut butter doubled to four
 spoons.** The scoop is in — sixth consecutive early placement.
@@ -875,7 +876,21 @@ matters, and the reason **fat already stands at 48 g of the 55 g floor** before
 lunch. Yesterday that floor was the binding constraint; today it is nearly settled
 by breakfast.
 
-**Running: 1,305 kcal, 64.5 g protein. 785 kcal to target, 65.5 g to the floor.**
+### Second day finished at lunch — 2026-10-05
+
+**~695 kcal and ~113 g of protein**, on a range spanning 300–400 g of breast; the
+portion was not stated, so the row is wider than yesterday's.
+
+| | Calories | Protein | Fat |
+|---|---|---|---|
+| **Day so far** | **2,000 of 2,090** | **177.5 g** | **58 g** |
+| Status | 90 left | 32.5 g past the band | floor met |
+
+**All three lines are settled before dinner, for the second day running.** Fat
+cleared today without needing a late fix because the peanut butter doubled at
+breakfast — yesterday's binding constraint solved a meal earlier.
+
+vs maintenance: **−643.**
 
 ---
 
