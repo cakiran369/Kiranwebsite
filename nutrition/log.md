@@ -118,6 +118,7 @@ early and it is unambiguous.
 | 2026-09-25 | **88.75** | **−0.40 over 1 day — first reading under 89** |
 | 2026-10-02 | **88.05** | **−0.70 over 7 days — no readings between** |
 | 2026-10-03 | 88.35 | +0.30 over 1 day, after a 2,565 kcal day |
+| 2026-10-06 | 88.45 | +0.10 over 3 days — during the loose-motion episode |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -136,6 +137,34 @@ least-squares line through all six post-flush points is the honest measure:
 | Endpoints 09-07 → 09-19 | −0.700 kg/wk |
 | **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
 | Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### The fit is flattening, and the reading cannot be trusted — 2026-10-06
+
+**88.45. 3.05 kg down in 31 days.**
+
+| Measure | Rate |
+|---|---|
+| Fit, all 15 points | −0.662 kg/wk |
+| **Fit, 12 points since the 09-11 post-flush baseline** | **−0.610 kg/wk** |
+| Three days ago, same measure | −0.683 kg/wk |
+
+The last three readings — 88.05, 88.35, 88.45 — are flat to slightly rising, and
+the fitted rate has eased from −0.68 to −0.61.
+
+**This is the period the log already flagged as unreliable.** Loose stools move
+water and gut contents in both directions and the swing is larger than three days
+of fat change. Nothing here should be read as a stall, and nothing should be read
+as progress either.
+
+**The intake side also has gaps**: 10-01 has no entries at all, 10-06 has only
+lunch so far, and two of the last four complete days finished above target
+(2,825 on 10-05, 2,495 on 10-04). The food log is as incomplete as the scale is
+noisy, so neither can check the other this week.
+
+**Do not act on this.** The rate to trust is the long one: **−0.61 to −0.66 kg/wk
+over 31 days**, which is 0.69–0.75% of bodyweight per week and squarely inside
+the cut range. When the gut settles and a week of clean readings exists, the fit
+will say something again.
 
 ### Four weeks, and the gap is now a settled fact — 2026-10-03
 
