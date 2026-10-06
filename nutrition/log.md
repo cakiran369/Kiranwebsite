@@ -854,14 +854,41 @@ The closing scoop was not confirmed, so protein stands at 101 g rather than the
 
 ---
 
-## Day 32 — 2026-10-05 (in progress)
+### Loose motion since the diet changed — 2026-10-05
+
+Reported 2026-10-05, dating from the switch to milk-and-cornflakes twice a day
+with boiled meat at lunch.
+
+| | Before | Now |
+|---|---|---|
+| Milk | ~50 ml in coffee | **800 ml (400 breakfast, 400 dinner)** |
+| Lactose | ~2.5 g/day | **~38 g/day, in two ~19 g doses** |
+
+Symptoms typically begin above ~12–15 g of lactose in a single sitting for adults
+without lactase persistence, which is the majority pattern in South India. Each
+bowl exceeds that on its own.
+
+**Test: drop the milk for three days, change nothing else.** Whey with water. If
+it settles in 48–72 hours it is the lactose, and lactose-free milk substitutes
+with identical macros.
+
+Secondary candidates: four spoons of peanut butter daily (check the label for
+maltitol or sorbitol), and storage of 400 g batches of boiled meat.
+
+**This matters for the log:** loose stools shift water and gut contents, so
+weigh-ins taken during this period will read lighter than the fat change warrants
+and should be treated as unreliable.
+
+
+## Day 32 — 2026-10-05 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 400 ml milk + 1 whey scoop + 2 fists corn flakes + 1 banana + 2 slices brown multigrain bread + 4 spoons peanut butter | 1,140–1,470 | 58–71 g | 39–57 g |
 | Lunch | Boiled chicken breast (no oil) with broth, peas, onion and potato | 540–850 | 93–133 g | 5–15 g |
-| **TOTAL (logged so far)** | | **1,680–2,320** | **151–204 g** | **44–72 g** |
-| **Midpoint** | | **2,000** | **177.5 g** | **58 g** |
+| Dinner | Dynamite Chicken Wrap + Protein Oasis Mini Salad (Healthy Fix) | 750–900 | 54–66 g | 36–46 g |
+| **TOTAL** | | **2,430–3,220** | **205–270 g** | **80–118 g** |
+| **Midpoint** | | **2,825** | **237.5 g** | **99 g** |
 
 **One change from the last three mornings: the peanut butter doubled to four
 spoons.** The scoop is in — sixth consecutive early placement.
@@ -890,7 +917,34 @@ portion was not stated, so the row is wider than yesterday's.
 cleared today without needing a late fix because the peanut butter doubled at
 breakfast — yesterday's binding constraint solved a meal earlier.
 
-vs maintenance: **−643.**
+vs maintenance: **−643** at that point.
+
+### Closed at 2,825 kcal and 237.5 g — 2026-10-05
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| Protein Oasis Mini Salad | 275 | 25 g | **9.1** |
+| Dynamite Chicken Wrap | 550 | 35 g | 6.4 |
+| **Dinner** | **825** | **60 g** | **7.3** |
+
+Both well-made items — 7.3 g per 100 kcal between them beats every restaurant meal
+in the log bar the Lebanese grill. Macros from the vendor's listing, with a band
+for menu variance.
+
+| | Value |
+|---|---|
+| Calories | **2,825 vs 2,090 target** — +735 |
+| **vs maintenance** | **+182 — a surplus day** |
+| Protein | **237.5 g** — 92.5 g past the band |
+| Fat | 99 g |
+
+**Third surplus day of the 32**, after 09-17 and 09-25. The day was complete at
+lunch: 2,000 kcal, 177.5 g, fat floor met. Dinner added 825 kcal against no
+remaining requirement on any line, and ~370 kcal of it is protein past the point
+where protein does anything.
+
+**No milk in it** — the evening cereal bowl is the larger of the two lactose
+doses, so skipping it starts the three-day test.
 
 ---
 
