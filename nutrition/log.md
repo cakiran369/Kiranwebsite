@@ -909,13 +909,14 @@ weigh-ins taken during this period will read lighter than the fat change warrant
 and should be treated as unreliable.
 
 
-## Day 33 — 2026-10-06 (in progress)
+## Day 33 — 2026-10-06 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Lunch | Boiled chicken breast (no oil) with broth + 2 slices brown multigrain bread | 670–1,010 | 98–141 g | 7–18 g |
-| **TOTAL (logged so far)** | | **670–1,010** | **98–141 g** | **7–18 g** |
-| **Midpoint** | | **840** | **119.5 g** | **12.5 g** |
+| Dinner | 2 fists corn flakes + ~300 ml milk | 330–430 | 13–15 g | 5–13 g |
+| **TOTAL** | | **1,000–1,440** | **111–156 g** | **12–31 g** |
+| **Midpoint** | | **1,220** | **133.5 g** | **21.5 g** |
 
 No breakfast reported. The portion was not stated, so the row spans 300–400 g of
 breast as yesterday's did.
@@ -928,7 +929,27 @@ breast as yesterday's did.
 | Protein | 119.5 g | 10.5 g to the floor |
 | **Fat** | **12.5 g of 55 g** | **42.5 g short** |
 
-**Fat is the open line again, as it was on 10-04**, and for the same reason: boiled
+### Closed at 1,220 kcal, 133.5 g protein, 21.5 g fat
+
+No breakfast was reported, so the day is two meals.
+
+| | Value | Status |
+|---|---|---|
+| Calories | 1,220 of 2,090 | **870 under target** |
+| **vs maintenance** | **−1,423** | roughly 2.6× the planned deficit |
+| Protein | 133.5 g | floor cleared |
+| **Fat** | **21.5 g of 55 g** | **33.5 g short** |
+
+**Fat finished under 25 g for the second time in three days** (12.5 g on 10-04 was
+rescued late; today was not). ~40 g of nuts would have closed most of it for
+~250 kcal, inside a day that had 870 to spare.
+
+**The milk is back after two days without it**, which ends the lactose test before
+it could answer anything. Two clear days is not enough to conclude either way —
+symptoms from a 19 g lactose dose typically settle within 48–72 hours, so the test
+needed the third day.
+
+
 breast carries almost none. With the evening milk bowl withdrawn for the test, the
 fat it used to supply has to come from somewhere else — nuts or peanut butter are
 the cheapest route at ~9 kcal per gram of fat.
