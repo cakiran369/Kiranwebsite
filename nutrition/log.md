@@ -880,6 +880,33 @@ weigh-ins taken during this period will read lighter than the fat change warrant
 and should be treated as unreliable.
 
 
+## Day 33 — 2026-10-06 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Lunch | Boiled chicken breast (no oil) with broth + 2 slices brown multigrain bread | 670–1,010 | 98–141 g | 7–18 g |
+| **TOTAL (logged so far)** | | **670–1,010** | **98–141 g** | **7–18 g** |
+| **Midpoint** | | **840** | **119.5 g** | **12.5 g** |
+
+No breakfast reported. The portion was not stated, so the row spans 300–400 g of
+breast as yesterday's did.
+
+**Second consecutive day without milk** — the lactose test is running.
+
+| | Value | Status |
+|---|---|---|
+| Calories | 840 of 2,090 | **1,250 left** |
+| Protein | 119.5 g | 10.5 g to the floor |
+| **Fat** | **12.5 g of 55 g** | **42.5 g short** |
+
+**Fat is the open line again, as it was on 10-04**, and for the same reason: boiled
+breast carries almost none. With the evening milk bowl withdrawn for the test, the
+fat it used to supply has to come from somewhere else — nuts or peanut butter are
+the cheapest route at ~9 kcal per gram of fat.
+
+---
+
+
 ## Day 32 — 2026-10-05 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
