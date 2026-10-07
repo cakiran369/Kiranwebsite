@@ -954,19 +954,42 @@ and should be treated as unreliable.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 1 whey scoop + 2 fists corn flakes + 400 ml milk + 2 slices brown multigrain bread + 2 spoons peanut butter | 860–1,090 | 50–61 g | 22–37 g |
-| **TOTAL (logged so far)** | | **860–1,090** | **50–61 g** | **22–37 g** |
-| **Midpoint** | | **975** | **55.5 g** | **29.5 g** |
+| Lunch | 200 g boiled chicken cooked with 1 fist basmati rice + 2 big spoons curd | 570–770 | 58–72 g | 9–28 g |
+| **TOTAL (logged so far)** | | **1,430–1,860** | **108–133 g** | **31–65 g** |
+| **Midpoint** | | **1,645** | **120.5 g** | **48 g** |
 
 The 10-02 assembly exactly — scoop in, two spoons of peanut butter, no banana.
 **Seventh early scoop placement.** 5.7 g of protein per 100 kcal, the best version
 of this bowl logged.
 
-**Running: 975 kcal, 55.5 g protein, 29.5 g fat. 1,115 kcal to target, 74.5 g to
-the protein floor, 25.5 g to the fat floor.**
+### The tidiest position of the log — 2026-10-07
 
-A repeat of yesterday's lunch would close all three: boiled chicken breast with
-bread ran ~840 kcal and ~119.5 g, which lands the day at ~1,815 and ~175 g with
-room for an evening meal.
+**~670 kcal and ~65 g of protein. 9.7 g per 100 kcal.**
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| **200 g boiled chicken** | **~340** | **~57 g** | **16.8** |
+| 1 fist basmati rice (cooked in the stock) | ~280 | ~5 g | 1.8 |
+| 2 big spoons curd | ~48 | ~3 g | 6.3 |
+
+**The chicken weight was stated**, which is the first time a portion has been given
+rather than estimated — the row is correspondingly narrower than the 300–400 g
+ranges of the last three days.
+
+Cooking the rice in the stock rather than serving it plain adds ~60 kcal of
+absorbed fat, which is cheap by comparison with ghee rice or biriyani and is
+counted here.
+
+| | Running | To go |
+|---|---|---|
+| Calories | 1,645 of 2,090 | **445** |
+| Protein | 120.5 g | **9.5 g** |
+| Fat | 48 g | **7 g** |
+
+**All three lines are within 445 kcal of each other for the first time.** A small
+handful of nuts and one scoop closes every one of them: ~1,860 kcal, ~145 g
+protein, ~57 g fat — 230 under target with both floors met and nothing in excess.
+
 
 ---
 
