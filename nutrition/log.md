@@ -949,14 +949,15 @@ weigh-ins taken during this period will read lighter than the fat change warrant
 and should be treated as unreliable.
 
 
-## Day 34 — 2026-10-07 (in progress)
+## Day 34 — 2026-10-07 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 1 whey scoop + 2 fists corn flakes + 400 ml milk + 2 slices brown multigrain bread + 2 spoons peanut butter | 860–1,090 | 50–61 g | 22–37 g |
 | Lunch | 200 g boiled chicken cooked with 1 fist basmati rice + 2 big spoons curd | 570–770 | 58–72 g | 9–28 g |
-| **TOTAL (logged so far)** | | **1,430–1,860** | **108–133 g** | **31–65 g** |
-| **Midpoint** | | **1,645** | **120.5 g** | **48 g** |
+| Dinner | 2 fried eggs in a little ghee + 2 slices brown multigrain bread + curd + rice boiled with 200 g chicken | 920–1,240 | 77–97 g | 26–52 g |
+| **TOTAL** | | **2,350–3,100** | **185–230 g** | **57–117 g** |
+| **Midpoint** | | **2,725** | **207.5 g** | **87 g** |
 
 The 10-02 assembly exactly — scoop in, two spoons of peanut butter, no banana.
 **Seventh early scoop placement.** 5.7 g of protein per 100 kcal, the best version
@@ -986,7 +987,48 @@ counted here.
 | Protein | 120.5 g | **9.5 g** |
 | Fat | 48 g | **7 g** |
 
-**All three lines are within 445 kcal of each other for the first time.** A small
+**All three lines were within 445 kcal of each other** — the tidiest position the
+log has recorded.
+
+### Closed at 2,725 kcal, 207.5 g protein, 87 g fat
+
+| Item | Kcal | Protein |
+|---|---|---|
+| Rice boiled with 200 g chicken | ~620 | ~62 g |
+| 2 fried eggs in ghee | ~205 | ~13 g |
+| 2 slices multigrain bread | ~175 | ~7.5 g |
+| Curd | ~80 | ~4.5 g |
+| **Dinner** | **~1,080** | **~87 g** |
+
+| | Value |
+|---|---|
+| Calories | **2,725 vs 2,090 target** — +635 |
+| **vs maintenance** | **+82 — a surplus day** |
+| Protein | **207.5 g** — 62.5 g past the band |
+| Fat | 87 g — floor cleared |
+
+**Fourth surplus day of the 34.** The eggs in ghee were a sound choice — they
+close the fat floor cheaply. The duplication is the second 200 g chicken-and-rice
+portion: **400 g of chicken in one day**, where the first 200 g had already taken
+protein to within 9.5 g of the floor.
+
+### The shape of the last five days
+
+| Day | At lunch | Added after | Finished |
+|---|---|---|---|
+| 09-30 | complete | mutton soup | 1,865 |
+| 10-04 | 2,000, all lines met | cereal 495 | 2,495 |
+| 10-05 | 2,000, all lines met | wrap + salad 825 | **2,825** |
+| 10-06 | — | — | 2,150 |
+| **10-07** | **1,645, 445 to spend** | **1,080** | **2,725** |
+
+**Three of the last four days reached every target by mid-afternoon and then added
+a full meal on top.** The food quality is not the issue — every one of those
+additions was high-density. The seven-day average is now **2,338 kcal against a
+2,090 target**, 248 over, with protein at 167 g against a 145 g ceiling.
+
+The lever is not what is eaten but whether the evening meal happens at all on days
+the afternoon has already closed.
 handful of nuts and one scoop closes every one of them: ~1,860 kcal, ~145 g
 protein, ~57 g fat — 230 under target with both floors met and nothing in excess.
 
