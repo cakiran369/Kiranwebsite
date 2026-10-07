@@ -119,6 +119,7 @@ early and it is unambiguous.
 | 2026-10-02 | **88.05** | **−0.70 over 7 days — no readings between** |
 | 2026-10-03 | 88.35 | +0.30 over 1 day, after a 2,565 kcal day |
 | 2026-10-06 | 88.45 | +0.10 over 3 days — during the loose-motion episode |
+| 2026-10-07 | **88.20** | −0.25 over 1 day, after a 1,220 kcal day |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -137,6 +138,47 @@ least-squares line through all six post-flush points is the honest measure:
 | Endpoints 09-07 → 09-19 | −0.700 kg/wk |
 | **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
 | Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### 88.20 — 3.3 kg in 32 days — 2026-10-07
+
+| Measure | Rate |
+|---|---|
+| Fit, all 16 points | −0.644 kg/wk |
+| **Fit, 13 points since 09-11** | **−0.592 kg/wk** |
+| Yesterday, same measure | −0.610 kg/wk |
+
+The fit keeps easing — −0.68, −0.61, −0.59 across three days — but every one of
+those days sits inside the disrupted window, so the drift is not evidence of
+anything slowing down.
+
+**Today's −0.25 follows a 1,220 kcal day**, which at −1,423 against maintenance
+would account for roughly 0.18 kg of true tissue if it were all fat. It is not;
+most of a single day's move is water either way.
+
+### The week's intake is not what it looks like
+
+**Seven logged days average 2,065 kcal, 153.1 g protein, 69.0 g fat** — on paper,
+a week that hits target, clears the protein floor by 23 g and clears the fat floor
+by 14 g.
+
+| Day | Kcal |
+|---|---|
+| 09-29 | 1,745 |
+| 09-30 | 1,865 |
+| **10-02** | **2,565** |
+| 10-03 | 1,738 |
+| **10-04** | **2,495** |
+| **10-05** | **2,825** |
+| **10-06** | **1,220** |
+
+**The average is flattering a very wide spread**: three days above 2,495 and one
+at 1,220, a range of 1,605 kcal. 10-01 has no entries at all. A mean of 2,065 from
+that distribution is arithmetic rather than a description of how the week was
+eaten.
+
+**Nothing here warrants a change to the target.** The 32-day rate of −0.59 to
+−0.64 kg/wk is 0.67–0.73% of bodyweight per week and remains inside the cut range.
+The useful work is narrowing the spread, not moving the number.
 
 ### The fit is flattening, and the reading cannot be trusted — 2026-10-06
 
