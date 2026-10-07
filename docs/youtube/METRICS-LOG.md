@@ -112,6 +112,58 @@ good signal the channel has produced — but one signal.
 which annualises to 241 hours against a target of 8,000. That figure has not
 changed since 10 Sept. Subscribers were never the gate.
 
+## 7 Oct 2026 — traffic sources: 51% search
+
+From a YouTube recap card. **The card does not label its time period** — treat
+the split as directional, not as a dated measurement.
+
+| Source | Share | Views/day (at 26.6/day) |
+|---|---|---|
+| YouTube search | **51%** | 13.6 |
+| YouTube Home | 15% | 4.0 |
+| Up next | 11% | 2.9 |
+| Everything else (external, channel page, notifications) | 23% | 6.1 |
+
+### Search dependence has gone up, not down
+
+The context file records per-video search shares of 43.8% (EA) and 41% (US CPA).
+Channel-wide is now **51%**. The channel has become *more* search-reliant as it
+has grown.
+
+This is the niche thesis working — the channel ranks in an underserved search
+space and that ranking is permanent. It is also the structural reason growth
+has been linear rather than compounding.
+
+### Why the 26% matters more than the 51%
+
+**Search is demand-limited.** It is capped by how many people type "CFA
+Malayalam" into YouTube each month, which tracks real-world interest in these
+certifications among Malayalam speakers — a slow-moving quantity. Ranking first
+for every term in the niche still only captures the searches that exist.
+
+**Home and Up next are not demand-limited.** They are the algorithmic surfaces,
+and YouTube allocates them on watch time and session quality. That is the same
+bottleneck as the monetisation gate, which means one fix serves both:
+
+> longer videos → more watch time → more browse/suggested impressions → more
+> reach → more watch time
+
+Search has no such loop. It pays out once per ranking and does not compound.
+
+Arithmetic: to grow total views 10x while search grows only 2x, browse and
+suggested must grow roughly **34x**. Nearly all future growth has to come from
+the 26%, not the 51%.
+
+### Two things this implies
+
+1. **Do not change titles, thumbnails or SEO.** A 51% search share and ~15% CTR
+   say that machinery works. It is not where the problem is.
+2. **The 11% Up next is partly self-supplied.** End screens, cards and
+   playlists linking the channel's own videos — CPA → CPA FAQ, CFA → CFA PSM —
+   capture suggested traffic directly. Cheap, and currently unused.
+
+The recap card is one of ten; the rest have not been read.
+
 ## CIA lifetime retention — the length model confirmed, and a flat trend line
 
 CIA: **2:20 (39.6%)**, implying a **5:53** runtime. Cumulative watch time ~1.2
