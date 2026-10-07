@@ -151,15 +151,14 @@ The fit keeps easing — −0.68, −0.61, −0.59 across three days — but eve
 those days sits inside the disrupted window, so the drift is not evidence of
 anything slowing down.
 
-**Today's −0.25 follows a 1,220 kcal day**, which at −1,423 against maintenance
-would account for roughly 0.18 kg of true tissue if it were all fat. It is not;
-most of a single day's move is water either way.
+**Today's −0.25 follows a 2,150 kcal day** — a −493 deficit, which accounts for
+about 0.06 kg of tissue. The rest of the move is water, as a single day's always
+mostly is.
 
 ### The week's intake is not what it looks like
 
-**Seven logged days average 2,065 kcal, 153.1 g protein, 69.0 g fat** — on paper,
-a week that hits target, clears the protein floor by 23 g and clears the fat floor
-by 14 g.
+**Seven logged days average 2,198 kcal, 158.2 g protein, 73.8 g fat** — revised
+upward after 10-06's breakfast was reported a day late.
 
 | Day | Kcal |
 |---|---|
@@ -169,12 +168,11 @@ by 14 g.
 | 10-03 | 1,738 |
 | **10-04** | **2,495** |
 | **10-05** | **2,825** |
-| **10-06** | **1,220** |
+| 10-06 | 2,150 |
 
-**The average is flattering a very wide spread**: three days above 2,495 and one
-at 1,220, a range of 1,605 kcal. 10-01 has no entries at all. A mean of 2,065 from
-that distribution is arithmetic rather than a description of how the week was
-eaten.
+**The spread is narrower than it first appeared** — 1,738 to 2,825, a range of
+1,087 kcal rather than 1,605 — but the week still runs 108 over target, with three
+days above 2,495. 10-01 has no entries at all.
 
 **Nothing here warrants a change to the target.** The 32-day rate of −0.59 to
 −0.64 kg/wk is 0.67–0.73% of bodyweight per week and remains inside the cut range.
@@ -955,10 +953,11 @@ and should be treated as unreliable.
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
+| Breakfast | 2 slices brown multigrain bread + 3 small spoons peanut butter + 400 ml milk + 2 fists corn flakes | 810–1,050 | 32–39 g | 26–41 g |
 | Lunch | Boiled chicken breast (no oil) with broth + 2 slices brown multigrain bread | 670–1,010 | 98–141 g | 7–18 g |
 | Dinner | 2 fists corn flakes + ~300 ml milk | 330–430 | 13–15 g | 5–13 g |
-| **TOTAL** | | **1,000–1,440** | **111–156 g** | **12–31 g** |
-| **Midpoint** | | **1,220** | **133.5 g** | **21.5 g** |
+| **TOTAL** | | **1,810–2,490** | **143–195 g** | **38–72 g** |
+| **Midpoint** | | **2,150** | **169 g** | **55 g** |
 
 No breakfast reported. The portion was not stated, so the row spans 300–400 g of
 breast as yesterday's did.
@@ -971,25 +970,28 @@ breast as yesterday's did.
 | Protein | 119.5 g | 10.5 g to the floor |
 | **Fat** | **12.5 g of 55 g** | **42.5 g short** |
 
-### Closed at 1,220 kcal, 133.5 g protein, 21.5 g fat
+### Closed at 2,150 kcal, 169 g protein, 55 g fat
 
-No breakfast was reported, so the day is two meals.
+Breakfast was reported the following day, which changes the reading of this day
+completely.
 
-| | Value | Status |
+| | As first recorded | **Corrected** |
 |---|---|---|
-| Calories | 1,220 of 2,090 | **870 under target** |
-| **vs maintenance** | **−1,423** | roughly 2.6× the planned deficit |
-| Protein | 133.5 g | floor cleared |
-| **Fat** | **21.5 g of 55 g** | **33.5 g short** |
+| Calories | 1,220 | **2,150 — 60 over target** |
+| vs maintenance | −1,423 | **−493** |
+| Protein | 133.5 g | **169 g** |
+| **Fat** | 21.5 g — badly short | **55.0 g — exactly on the floor** |
 
-**Fat finished under 25 g for the second time in three days** (12.5 g on 10-04 was
-rescued late; today was not). ~40 g of nuts would have closed most of it for
-~250 kcal, inside a day that had 870 to spare.
+**This is the most balanced day of the week**, not the near-fast it looked like
+with one meal missing. Target met within 60 kcal, protein 24 g past the floor, fat
+landing precisely on 55 g.
 
-**The milk is back after two days without it**, which ends the lactose test before
-it could answer anything. Two clear days is not enough to conclude either way —
-symptoms from a 19 g lactose dose typically settle within 48–72 hours, so the test
-needed the third day.
+**The lactose picture also needs correcting.** With breakfast counted, 10-06
+carried ~700 ml of milk, and 10-05 carried 400 ml at breakfast. **Milk was never
+withdrawn** — the test recorded on 10-05 did not actually run, and no conclusion
+about lactose can be drawn from these days.
+
+
 
 
 breast carries almost none. With the evening milk bowl withdrawn for the test, the
