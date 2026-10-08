@@ -120,6 +120,7 @@ early and it is unambiguous.
 | 2026-10-03 | 88.35 | +0.30 over 1 day, after a 2,565 kcal day |
 | 2026-10-06 | 88.45 | +0.10 over 3 days — during the loose-motion episode |
 | 2026-10-07 | **88.20** | −0.25 over 1 day, after a 1,220 kcal day |
+| 2026-10-08 | 88.20 | unchanged, after a 2,725 kcal day |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -138,6 +139,45 @@ least-squares line through all six post-flush points is the honest measure:
 | Endpoints 09-07 → 09-19 | −0.700 kg/wk |
 | **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
 | Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### The two datasets agree again, and they agree on a slowdown — 2026-10-08
+
+**88.20, unchanged. This is the check I said to wait for, and it has come back.**
+
+| Measure | Rate |
+|---|---|
+| Fit, all 17 points | −0.626 kg/wk |
+| Fit since 09-11 | −0.573 kg/wk |
+| **Fit, last 6 points (09-25 on, 13 days)** | **−0.241 kg/wk** |
+| Endpoints 09-25 → 10-08 | −0.296 kg/wk |
+| **Predicted from the last 7 logged days at 2,338 kcal** | **−0.278 kg/wk** |
+
+**−0.241 observed against −0.278 predicted.** Two independent measurements, within
+0.04 kg/wk of each other. On 10-06 and 10-07 the fit was easing but the intake log
+had a missing day and a late-reported meal, so the easing could not be trusted.
+With 10-06 corrected and 10-07 complete, it can.
+
+**The rate has more than halved** — from ~0.6 kg/wk over the month to ~0.25 kg/wk
+over the last fortnight — and the food log accounts for all of it.
+
+| | Value |
+|---|---|
+| Seven-day average | **2,338 kcal** |
+| Target | 2,090 |
+| **Over** | **248 kcal/day** |
+| Cost in rate | **0.225 kg/wk** |
+
+**248 kcal/day is 0.225 kg/wk.** The observed slowdown is 0.33 kg/wk. The
+arithmetic closes almost exactly; nothing metabolic needs invoking and the gut
+episode is no longer the explanation.
+
+**Nothing about the plan has failed.** The target is unchanged at ~2,090, the
+protein problem is solved (167 g average, 22 g past the ceiling), portion control
+at individual meals is better than it has ever been. **What changed is that three
+of the last four days added a full evening meal to a day that was already
+complete by mid-afternoon.**
+
+That is the entire gap, and it is a single decision repeated.
 
 ### 88.20 — 3.3 kg in 32 days — 2026-10-07
 
