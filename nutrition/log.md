@@ -989,15 +989,16 @@ weigh-ins taken during this period will read lighter than the fat change warrant
 and should be treated as unreliable.
 
 
-## Day 35 — 2026-10-08 (in progress)
+## Day 35 — 2026-10-08 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 400 ml milk + 1 scoop Body Armor whey + 2 slices brown multigrain bread + 2 lettuce leaves + 2 fried eggs in a little ghee | 655–860 | 55–64 g | 23.5–41 g |
 | Snack | Body Armor whey scoop with water (11:45) | 120–140 | 24–26 g | 1.5–3 g |
 | Lunch | Beef fry with onion + fish fry + single omelette + 1 slice bread + curd + curd curry | 720–1,070 | 55.5–80.5 g | 37–63 g |
-| **TOTAL (logged so far)** | | **1,495–2,070** | **134.5–170.5 g** | **62–107 g** |
-| **Midpoint** | | **1,782.5** | **152.5 g** | **84.5 g** |
+| Dinner | 1 scoop Body Armor whey + 400 ml milk | 320–420 | 37–40 g | 7–19 g |
+| **TOTAL** | | **1,815–2,490** | **171.5–210.5 g** | **69–126 g** |
+| **Midpoint** | | **2,152.5** | **191 g** | **97.5 g** |
 
 ### The corn flakes came out, and the bowl changed class — 2026-10-08
 
@@ -1069,6 +1070,33 @@ the log. The fish fry is again the best thing on it.
 | Fat | **84.5 g** | floor cleared |
 
 **On the lactose question**: the curd and curd curry are fermented, which consumes
+much of the lactose and supplies live cultures that help digest the rest.
+
+### Closed at 2,152.5 kcal, 191 g protein, 97.5 g fat
+
+| | Value |
+|---|---|
+| Calories | **2,152.5 vs 2,090 target** — +62.5 |
+| **vs maintenance** | **−490**, against a planned −550 |
+| Protein | 191 g — 46 g past the band |
+| Fat | 97.5 g — floor cleared |
+
+**The best-executed day of the last week, and the reason is what dinner was.**
+
+| Day | At lunch | Evening | Finished |
+|---|---|---|---|
+| 10-04 | all lines met | cereal 495 | 2,495 |
+| 10-05 | all lines met | wrap + salad 825 | 2,825 |
+| 10-07 | 445 to spend | full meal 1,080 | 2,725 |
+| **10-08** | **307 to spend** | **shake 370** | **2,152.5** |
+
+Three of the four preceding days answered a complete afternoon with a full meal.
+Today answered it with a shake. **That is the entire 248 kcal/day the last week
+ran over, resolved by one substitution.**
+
+**The low-lactose day did not survive**, though — the evening milk takes the day
+back to ~800 ml and ~38 g of lactose in two doses. The clean comparison lasted
+until dinner.
 much of the lactose and supplies live cultures that help digest the rest. Today's
 dairy is ~400 ml of milk plus fermented curd — still roughly half the usual load,
 so the comparison holds.
