@@ -989,6 +989,41 @@ weigh-ins taken during this period will read lighter than the fat change warrant
 and should be treated as unreliable.
 
 
+## Day 35 — 2026-10-08 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 400 ml milk + 1 scoop Body Armor whey + 2 slices brown multigrain bread + 2 lettuce leaves + 2 fried eggs in a little ghee | 655–860 | 55–64 g | 23.5–41 g |
+| **TOTAL (logged so far)** | | **655–860** | **55–64 g** | **23.5–41 g** |
+| **Midpoint** | | **757.5** | **59.5 g** | **32.25 g** |
+
+### The corn flakes came out, and the bowl changed class — 2026-10-08
+
+**7.9 g of protein per 100 kcal**, against 5.1–5.7 for every previous version.
+
+| Version | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| 10-05 (4 spoons PB, flakes, scoop) | ~1,305 | ~64.5 g | 4.9 |
+| 10-07 (2 spoons PB, flakes, scoop) | ~975 | ~55.5 g | 5.7 |
+| **10-08 (eggs instead of flakes)** | **~757.5** | **~59.5 g** | **7.9** |
+
+**Same protein for 220 fewer calories than yesterday.** The corn flakes were the
+weakest item in the assembly at 1.8 g per 100 kcal — ~255 kcal for ~4.5 g — and
+two fried eggs return ~13 g for ~205. Swapping one for the other is the single
+best change made to this meal since it was built.
+
+**Whey switched to Body Armor**, logged at ~130 kcal for 25 g: 32 g scoops at 78%
+protein, AED 250 for 71 servings, AED 3.52 per serving.
+
+| | Running | To go |
+|---|---|---|
+| Calories | 757.5 of 2,090 | **1,332** |
+| Protein | 59.5 g | 70.5 g to the floor |
+| Fat | 32.25 g | 22.75 g to the floor |
+
+---
+
+
 ## Day 34 — 2026-10-07 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
