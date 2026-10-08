@@ -994,8 +994,9 @@ and should be treated as unreliable.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 400 ml milk + 1 scoop Body Armor whey + 2 slices brown multigrain bread + 2 lettuce leaves + 2 fried eggs in a little ghee | 655–860 | 55–64 g | 23.5–41 g |
-| **TOTAL (logged so far)** | | **655–860** | **55–64 g** | **23.5–41 g** |
-| **Midpoint** | | **757.5** | **59.5 g** | **32.25 g** |
+| Snack | Body Armor whey scoop with water (11:45) | 120–140 | 24–26 g | 1.5–3 g |
+| **TOTAL (logged so far)** | | **775–1,000** | **79–90 g** | **25–44 g** |
+| **Midpoint** | | **887.5** | **84.5 g** | **34.5 g** |
 
 ### The corn flakes came out, and the bowl changed class — 2026-10-08
 
@@ -1017,9 +1018,31 @@ protein, AED 250 for 71 servings, AED 3.52 per serving.
 
 | | Running | To go |
 |---|---|---|
-| Calories | 757.5 of 2,090 | **1,332** |
-| Protein | 59.5 g | 70.5 g to the floor |
-| Fat | 32.25 g | 22.75 g to the floor |
+| Calories | 887.5 of 2,090 | **1,202.5** |
+| Protein | 84.5 g | 45.5 g to the floor |
+| Fat | 34.5 g | 20.5 g to the floor |
+
+### The first low-lactose day — 2026-10-08
+
+**The 11:45 scoop was taken with water.** With no corn-flake bowl and no second
+milk, today carries **400 ml of milk and ~19 g of lactose** against the ~38 g that
+has been standard since the diet changed.
+
+| | Milk | Lactose |
+|---|---|---|
+| Typical day since 10-02 | ~800 ml | ~38 g in two doses |
+| **Today** | **400 ml** | **~19 g in one dose** |
+
+This is the closest thing to a clean comparison the log has had. Two attempts at a
+lactose test both failed because breakfast still carried 400 ml; today halves the
+load and puts it all in one sitting rather than two.
+
+**Whether the loose motion changes over the next 24–48 hours is the signal** — a
+single day will not settle it, but it is the first day that can contribute
+anything.
+
+**84.5 g of protein before noon**, with the scoop placed early for the eighth day
+running.
 
 ---
 
