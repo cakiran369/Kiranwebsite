@@ -995,8 +995,9 @@ and should be treated as unreliable.
 |---|---|---|---|---|
 | Breakfast | 400 ml milk + 1 scoop Body Armor whey + 2 slices brown multigrain bread + 2 lettuce leaves + 2 fried eggs in a little ghee | 655–860 | 55–64 g | 23.5–41 g |
 | Snack | Body Armor whey scoop with water (11:45) | 120–140 | 24–26 g | 1.5–3 g |
-| **TOTAL (logged so far)** | | **775–1,000** | **79–90 g** | **25–44 g** |
-| **Midpoint** | | **887.5** | **84.5 g** | **34.5 g** |
+| Lunch | Beef fry with onion + fish fry + single omelette + 1 slice bread + curd + curd curry | 720–1,070 | 55.5–80.5 g | 37–63 g |
+| **TOTAL (logged so far)** | | **1,495–2,070** | **134.5–170.5 g** | **62–107 g** |
+| **Midpoint** | | **1,782.5** | **152.5 g** | **84.5 g** |
 
 ### The corn flakes came out, and the bowl changed class — 2026-10-08
 
@@ -1042,6 +1043,35 @@ single day will not settle it, but it is the first day that can contribute
 anything.
 
 **84.5 g of protein before noon**, with the scoop placed early for the eighth day
+running.
+
+### Every line met with 307 kcal spare — 2026-10-08
+
+**~895 kcal and ~68 g of protein. 7.6 g per 100 kcal.**
+
+| Item | Kcal | Protein | g/100 kcal |
+|---|---|---|---|
+| Beef fry with onion | ~310 | ~26 g | 8.4 |
+| **Fish fry** | ~150 | **~17 g** | **11.3** |
+| Curd | ~115 | ~6.5 g | 5.7 |
+| Curd curry | ~95 | ~7 g | 7.4 |
+| Single omelette | ~115 | ~7 g | 6.1 |
+| 1 slice bread | ~88 | ~3.75 g | 4.3 |
+| Onion slices | ~22 | ~0.75 g | 3.4 |
+
+**Seven items, none below 3.4 g per 100 kcal** — the most evenly dense plate in
+the log. The fish fry is again the best thing on it.
+
+| | Value | Status |
+|---|---|---|
+| Calories | **1,782.5 of 2,090** | 307.5 spare |
+| Protein | **152.5 g** | 22.5 g past the floor |
+| Fat | **84.5 g** | floor cleared |
+
+**On the lactose question**: the curd and curd curry are fermented, which consumes
+much of the lactose and supplies live cultures that help digest the rest. Today's
+dairy is ~400 ml of milk plus fermented curd — still roughly half the usual load,
+so the comparison holds.
 running.
 
 ---
