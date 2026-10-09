@@ -27,14 +27,14 @@ From 162.5 cm / 33 y / male and the latest weigh-in. The workbook's Targets
 sheet reads the most recent weight off the Weights sheet and re-derives
 everything below it, so a new weigh-in updates the target automatically.
 
-| | Value (at 88.35 kg) | Was (at 90.05 kg) |
+| | Value (at 88.00 kg) | Was (at 90.05 kg) |
 |---|---|---|
-| BMR (Mifflin-St Jeor) | **1,739 kcal** | 1,756 |
-| Maintenance (TDEE), ×1.52 | **~2,643 kcal** | ~2,669 |
-| **Calorie target** | **~2,090 kcal/day** | ~2,120 |
+| BMR (Mifflin-St Jeor) | **1,736 kcal** | 1,756 |
+| Maintenance (TDEE), ×1.52 | **~2,638 kcal** | ~2,669 |
+| **Calorie target** | **~2,088 kcal/day** | ~2,120 |
 | Protein | 130–145 g/day | unchanged |
 | Fat floor | 55 g/day | unchanged |
-| Carbs (remainder) | ~242 g/day | ~248 |
+| Carbs (remainder) | ~241 g/day | ~248 |
 | Projected loss | 0.5 kg/week | unchanged |
 
 **The targets fall as the weight does** — a smaller body costs less to run. Every
@@ -121,6 +121,7 @@ early and it is unambiguous.
 | 2026-10-06 | 88.45 | +0.10 over 3 days — during the loose-motion episode |
 | 2026-10-07 | **88.20** | −0.25 over 1 day, after a 1,220 kcal day |
 | 2026-10-08 | 88.20 | unchanged, after a 2,725 kcal day |
+| 2026-10-09 | **88.00** | **−0.20 — first reading at 88, 3.5 kg down** |
 
 The 09-16 reading was noise — different clothing, and two higher-carb days behind
 it. It came straight back off the next morning without anything changing.
@@ -139,6 +140,39 @@ least-squares line through all six post-flush points is the honest measure:
 | Endpoints 09-07 → 09-19 | −0.700 kg/wk |
 | **Least-squares fit, 7 points from 09-07** | **−0.560 kg/wk** |
 | Predicted from 14 logged days at 2,167 kcal | −0.456 kg/wk |
+
+### 88.00 — 3.5 kg in 34 days — 2026-10-09
+
+**The first reading at 88.** Started 91.5 on 09-05.
+
+| Measure | Rate |
+|---|---|
+| Fit, all 18 points | −0.619 kg/wk |
+| Fit since 09-11 | −0.571 kg/wk |
+| **Fit, last 7 points (09-25 on)** | **−0.275 kg/wk** |
+| Predicted from the last 7 logged days at 2,379 kcal | −0.240 kg/wk |
+
+**−0.275 observed against −0.240 predicted — the two datasets still agree**, and
+still on the slower figure. The fortnight rate is less than half the month rate,
+and the food log accounts for it: 2,379 kcal against a 2,088 target, 291 over.
+
+**Yesterday is not in that average yet in any meaningful way.** 10-08 finished at
+2,152.5 — one day on target against three above 2,490. The seven-day window needs
+several more days like it before the number moves.
+
+| Milestone | Date | Days |
+|---|---|---|
+| 91.5 → 90.0 | 09-05 → 09-11 | 6 |
+| 90.0 → 89.0 | 09-11 → 09-18 | 7 |
+| **89.0 → 88.0** | **09-18 → 10-09** | **21** |
+
+**The third kilogram took three times as long as the second.** Part of that is
+expected — early loss carries water and glycogen that does not repeat — but the
+intake record shows the rest: the last fortnight averaged ~290 kcal/day over
+target where the first fortnight did not.
+
+**Targets re-derived at 88.00 kg: maintenance ~2,638, target ~2,088.** Unchanged
+in substance; they fall ~15 kcal per kilogram lost.
 
 ### The two datasets agree again, and they agree on a slowdown — 2026-10-08
 
