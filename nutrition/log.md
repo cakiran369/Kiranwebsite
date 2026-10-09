@@ -1023,25 +1023,29 @@ weigh-ins taken during this period will read lighter than the fat change warrant
 and should be treated as unreliable.
 
 
-## Day 36 — 2026-10-09 (in progress)
+## Day 36 — 2026-10-09 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 slices brown multigrain bread + 2 fried eggs in 1 small spoon ghee + 2 lettuce leaves + 1 scoop whey with 400 ml milk | 655–860 | 55–64 g | 23.5–41 g |
 | Lunch | 400 g grilled chicken breast + 2 slices brown multigrain bread + 2 lettuce leaves | 790–925 | 126–137 g | 20–32 g |
-| **TOTAL (logged so far)** | | **1,445–1,785** | **181–201 g** | **43.5–73 g** |
-| **Midpoint** | | **1,615** | **191 g** | **58.25 g** |
+| Dinner | 1 scoop Body Armor whey + 400 ml milk | 320–420 | 37–40 g | 7–19 g |
+| **TOTAL** | | **1,765–2,205** | **218–241 g** | **50.5–92 g** |
+| **Midpoint** | | **1,985** | **229.5 g** | **71.25 g** |
 
-**Every line already met at lunch.** The 400 g grilled breast on its own
-carries ~131 g of protein at ~15.3 g per 100 kcal — grilled rather than boiled,
-so the marinade and grill oil account for the whole fat difference against the
-boiled version (620–720 kcal for the same 400 g).
+**Best-executed day of the project.** 1,985 against a 2,088 target — 103 kcal
+*under*, with 229.5 g of protein, the highest figure on record, and the fat
+floor cleared. The second consecutive shake dinner is what did it: a full
+evening meal here would have landed at 2,440–2,695, the shape that produced
+10-04, 10-05 and 10-07.
 
-| | Running | To go |
+| | Result | Target |
 |---|---|---|
-| Calories | 1,615 of 2,088 | **473** |
-| Protein | 191 g | floor and ceiling both cleared |
-| Fat | 58.25 g | floor cleared |
+| Calories | 1,985 | 2,088 — **103 under** |
+| Protein | 229.5 g | floor 130, ceiling 145 — both cleared |
+| Fat | 71.25 g | floor 55 — cleared |
+
+Protein density for the day: 11.6 g per 100 kcal, a project high.
 
 ---
 

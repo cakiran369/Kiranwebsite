@@ -148,3 +148,4 @@ date,meal,items,kcal_low,kcal_high,protein_low,protein_high,fat_low,fat_high,sta
 2026-10-08,Dinner,1 scoop Body Armor whey + 400 ml milk,320,420,37,40,7,19,logged,Dinner was a shake rather than a meal
 2026-10-09,Breakfast,"2 slices brown multigrain bread + 2 fried eggs in 1 small spoon ghee + 2 lettuce leaves + 1 scoop whey with 400 ml milk",655,860,55,64,23.5,41,logged,Identical to the 10-08 version; second day without corn flakes
 2026-10-09,Lunch,"400 g grilled chicken breast + 2 slices brown multigrain bread + 2 lettuce leaves",790,925,126,137,20,32,logged,"~15.3 g protein per 100 kcal. Grilled rather than boiled so carries marinade/grill oil - that is the whole fat difference"
+2026-10-09,Dinner,1 scoop Body Armor whey + 400 ml milk,320,420,37,40,7,19,logged,"Second consecutive shake dinner; same row as 10-08"
