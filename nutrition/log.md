@@ -1023,6 +1023,26 @@ weigh-ins taken during this period will read lighter than the fat change warrant
 and should be treated as unreliable.
 
 
+## Day 36 — 2026-10-09 (in progress)
+
+| Meal | Items | Calories | Protein | Fat |
+|---|---|---|---|---|
+| Breakfast | 2 slices brown multigrain bread + 2 fried eggs in 1 small spoon ghee + 2 lettuce leaves + 1 scoop whey with 400 ml milk | 655–860 | 55–64 g | 23.5–41 g |
+| **TOTAL (logged so far)** | | **655–860** | **55–64 g** | **23.5–41 g** |
+| **Midpoint** | | **757.5** | **59.5 g** | **32.25 g** |
+
+**Identical to yesterday's — second consecutive day without the corn flakes.**
+7.9 g of protein per 100 kcal, and the scoop early for the ninth day running.
+
+| | Running | To go |
+|---|---|---|
+| Calories | 757.5 of 2,088 | **1,330.5** |
+| Protein | 59.5 g | 70.5 g to the floor |
+| Fat | 32.25 g | 22.75 g to the floor |
+
+---
+
+
 ## Day 35 — 2026-10-08 (closed)
 
 | Meal | Items | Calories | Protein | Fat |
