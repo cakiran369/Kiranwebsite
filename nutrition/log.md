@@ -1028,17 +1028,20 @@ and should be treated as unreliable.
 | Meal | Items | Calories | Protein | Fat |
 |---|---|---|---|---|
 | Breakfast | 2 slices brown multigrain bread + 2 fried eggs in 1 small spoon ghee + 2 lettuce leaves + 1 scoop whey with 400 ml milk | 655–860 | 55–64 g | 23.5–41 g |
-| **TOTAL (logged so far)** | | **655–860** | **55–64 g** | **23.5–41 g** |
-| **Midpoint** | | **757.5** | **59.5 g** | **32.25 g** |
+| Lunch | 400 g grilled chicken breast + 2 slices brown multigrain bread + 2 lettuce leaves | 790–925 | 126–137 g | 20–32 g |
+| **TOTAL (logged so far)** | | **1,445–1,785** | **181–201 g** | **43.5–73 g** |
+| **Midpoint** | | **1,615** | **191 g** | **58.25 g** |
 
-**Identical to yesterday's — second consecutive day without the corn flakes.**
-7.9 g of protein per 100 kcal, and the scoop early for the ninth day running.
+**Every line already met at lunch.** The 400 g grilled breast on its own
+carries ~131 g of protein at ~15.3 g per 100 kcal — grilled rather than boiled,
+so the marinade and grill oil account for the whole fat difference against the
+boiled version (620–720 kcal for the same 400 g).
 
 | | Running | To go |
 |---|---|---|
-| Calories | 757.5 of 2,088 | **1,330.5** |
-| Protein | 59.5 g | 70.5 g to the floor |
-| Fat | 32.25 g | 22.75 g to the floor |
+| Calories | 1,615 of 2,088 | **473** |
+| Protein | 191 g | floor and ceiling both cleared |
+| Fat | 58.25 g | floor cleared |
 
 ---
 
