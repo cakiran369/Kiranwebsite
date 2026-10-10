@@ -27,14 +27,14 @@ From 162.5 cm / 33 y / male and the latest weigh-in. The workbook's Targets
 sheet reads the most recent weight off the Weights sheet and re-derives
 everything below it, so a new weigh-in updates the target automatically.
 
-| | Value (at 88.00 kg) | Was (at 90.05 kg) |
+| | Value (at 87.20 kg) | Was (at 88.00 kg) |
 |---|---|---|
-| BMR (Mifflin-St Jeor) | **1,736 kcal** | 1,756 |
-| Maintenance (TDEE), ×1.52 | **~2,638 kcal** | ~2,669 |
-| **Calorie target** | **~2,088 kcal/day** | ~2,120 |
+| BMR (Mifflin-St Jeor) | **1,728 kcal** | 1,736 |
+| Maintenance (TDEE), ×1.52 | **~2,626 kcal** | ~2,638 |
+| **Calorie target** | **~2,076 kcal/day** | ~2,088 |
 | Protein | 130–145 g/day | unchanged |
 | Fat floor | 55 g/day | unchanged |
-| Carbs (remainder) | ~241 g/day | ~248 |
+| Carbs (remainder) | ~238 g/day | ~241 |
 | Projected loss | 0.5 kg/week | unchanged |
 
 **The targets fall as the weight does** — a smaller body costs less to run. Every
